@@ -1,0 +1,549 @@
+YESTERDAY AND IT'S KIND OF TODAY TALKING TO YOU GUYS
+where we put everything that we think will fit into
+in the spring.
+[SPEAKER_02]: And so we had two weeks actually developing the spring
+[SPEAKER_02]: and then we'll have one week afterwards where
+[SPEAKER_02]: you know, testing is going to be hammering it and we'll be going back and forth with them to make sure everything's right.
+[SPEAKER_02]: and then once that one week hard experience over we'll release it um and so
+[SPEAKER_02]: The way it works is, I think, which
+[SPEAKER_02]: I think there will be some overlap between the hardening and the next sprint.
+[SPEAKER_02]: Like we might go ahead and start working on the next sprint.
+[SPEAKER_02]: The vial testing is running through everything.
+[SPEAKER_02]: But this is like the timelines that he has for the ones that we're currently
+[SPEAKER_02]: working on or, you know, getting ready.
+[SPEAKER_02]: So starting Monday is when this next spring
+[SPEAKER_02]: We'll start, we got the two weeks, and then they'll end on October 3rd.
+[SPEAKER_02]: So I guess then hardening starts and then that will be done.
+[SPEAKER_02]: October 10th and then release and then we'll start the next sprint.
+[SPEAKER_02]: And so then this is everything that we had deemed
+[SPEAKER_02]: would fit into this sprint.
+[SPEAKER_02]: I see you have a question on here.
+[SPEAKER_02]: I just wanted to check with you guys, like is this list
+[SPEAKER_02]: Does this work for you guys?
+[SPEAKER_02]: Is this like the priority?
+[SPEAKER_02]: So what you would like to see go into this and if not,
+[SPEAKER_02]: We can kind of look at it again I guess and see if we need to make any changes or not.
+[SPEAKER_02]: I think we got that ready if you want to jump into that now
+[SPEAKER_02]: wait till after the slide.
+[SPEAKER_02]: You know, I think that this is pretty much it.
+[SPEAKER_02]: Like this is the reason I had some.
+[SPEAKER_02]: Okay, so the number one thing that we had down was just...
+[SPEAKER_02]: I'm 100% sure we're good on all of the fidelity stuff.
+[SPEAKER_02]: okay we're going to send the census this week
+[SPEAKER_02]: I think we're working on the money file, should have all that ready.
+[SPEAKER_02]: We just wanna make sure we have everything prepared
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: And so we- 9 of 26, right, is the-
+[SPEAKER_02]: is the last transmission.
+[SPEAKER_02]: It's going to be this week today or tomorrow.
+[SPEAKER_02]: Yeah, and we're kind of allotting for time for that during all this.
+[SPEAKER_02]: So we made sure we left some hours available for if there's any
+[SPEAKER_02]: high priority issues that come up.
+[SPEAKER_02]: and stuff like that, generating these census files if there's any changes needed.
+[SPEAKER_02]: we have like kind of some time buffer within this to do all that stuff okay so that was number one
+[SPEAKER_02]: Number two, it says DevTicket 1103.
+[SPEAKER_02]: I need that deployed to make 926.
+[SPEAKER_02]: Which one was that?
+[SPEAKER_02]: Second from the bottom.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yeah, so that actually,
+[SPEAKER_02]: That's probably a five-minute deal.
+[SPEAKER_02]: That's probably a... Yeah, that one...
+[SPEAKER_02]: Yeah, that one.
+[SPEAKER_02]: shouldn't be to trigger a problem.
+[SPEAKER_02]: David, can you say you needed that virus?
+[SPEAKER_02]: because that Monday is like,
+[SPEAKER_02]: that Monday would be a payroll cycle that's applicable to this.
+[SPEAKER_02]: You know, I'm just going to try to look back and I needed to look forward.
+[SPEAKER_02]: You need to buy 926.
+[SPEAKER_02]: Yeah, 926.
+[SPEAKER_02]: Which I guess, so that's before the food plan release of everything.
+[SPEAKER_02]: I don't know, we can take a look, maybe see if we can just like throw that in with the payroll release that's
+[SPEAKER_02]: And that's the only payroll issue out there, right?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: When do we have to switch over payroll to the 401k separate?
+[SPEAKER_02]: When's the first date you're going to generate a money file for that?
+[SPEAKER_02]: The first money file is October 2nd.
+[SPEAKER_02]: Okay, I'm trying to think of a way that we could...
+[SPEAKER_02]: We'll have those together.
+[SPEAKER_02]: But we need
+[SPEAKER_02]: So that means the 29th, whenever I run payroll, I need the fidelity file on there.
+[SPEAKER_02]: You know, whenever I create that money file, it's got to read fidelity.
+[SPEAKER_02]: So what is it, September 29th?
+[SPEAKER_02]: Okay, so what day would you be running payroll?
+[SPEAKER_02]: September 29th?
+[SPEAKER_02]: And then we're uploading the contributions
+[SPEAKER_02]: on the second with that Michael Koshner.
+[SPEAKER_02]: Okay, so 29.
+[SPEAKER_02]: But the 29th, whenever I run payroll, I need that to refill 20 months.
+[SPEAKER_02]: The 22nd is the last one that we are uploading to you.
+[SPEAKER_02]: You came from here.
+[SPEAKER_02]: I guess I'm a little confused.
+[SPEAKER_02]: So in the 9th, 26th then,
+[SPEAKER_02]: The 926, so that's on Friday.
+[SPEAKER_02]: So that will be actually the 926.
+[SPEAKER_02]: payroll that you're going to be running for the night?
+[SPEAKER_02]: We're talking about two separate things.
+[SPEAKER_02]: Two separate things.
+[SPEAKER_02]: I'm trying to get the data straight on those.
+[SPEAKER_02]: I'm just trying to see if there's a way that we can do those in the same release.
+[SPEAKER_02]: So like the...
+[SPEAKER_02]: the 11-03 pay-to-date thing for the health care checks.
+[SPEAKER_02]: He said that's up by 926.
+[SPEAKER_02]: So would that mean that you're going to be running the payroll on 929?
+[SPEAKER_02]: Yeah, you can throw both of them.
+[SPEAKER_02]: So the money file change?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: can go in at 946.
+[SPEAKER_02]: Great, okay, yeah, let me get it in.
+[SPEAKER_02]: Because I'm going to run the payroll at 29.
+[SPEAKER_02]: And then that money file is for you fidelity.
+[SPEAKER_02]: because I have a meeting scheduled with Michael on the 2nd.
+[SPEAKER_02]: to upload those contributions.
+[SPEAKER_02]: That's our first upload of fidelity.
+Okay.
+[SPEAKER_02]: Okay, good.
+[SPEAKER_02]: There's going to be some things in there, Ethan, that you're not going to do.
+[SPEAKER_02]: We're not going to be able to...
+[SPEAKER_02]: Love them with Christmas playing here.
+[SPEAKER_02]: You know, it's got to change.
+[SPEAKER_02]: You know what I mean?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I know we're trying to make all the business plans, but like that little thing there,
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: So I got the five-inch job for you to switch that date on those.
+[SPEAKER_02]: I don't feel like that.
+[SPEAKER_02]: Well, the thing is that we also have to run through testing
+[SPEAKER_02]: and other stuff, but yeah, I guess we're trying to get it to,
+[SPEAKER_02]: I guess a process where we can kind of like
+[SPEAKER_02]: plan out two weeks of work and just you know we've got to disappear for those two weeks unless like something super urgent comes up
+[SPEAKER_02]: just hammer that all out and then release it all.
+[SPEAKER_02]: Yeah, I know that's a good, I like the structure, I think we should do that better.
+[SPEAKER_02]: I still think there's going to be
+[SPEAKER_02]: There's still big things in there like this.
+[SPEAKER_02]: It's no different.
+[SPEAKER_02]: We're just going to be on that one.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: And they kind of get to the point where we can kind of
+[SPEAKER_02]: figure these out way in advance and then we can kind of
+[SPEAKER_02]: get to it in a manner of like, you know, a time where, you know, we have plenty of time to get to it and it's not urgent.
+[SPEAKER_02]: But yeah, I understand that every step like that comes out.
+[SPEAKER_02]: We do.
+[SPEAKER_02]: keep that in mind whenever we're scheduling or not scheduling whenever we're
+[SPEAKER_02]: planning out all these spreads to like we're leaving time in there to do these.
+[SPEAKER_02]: And so we're square on that.
+[SPEAKER_02]: I'd like to have on 926,
+[SPEAKER_02]: with pay date changes and then also we're flipping from
+[SPEAKER_02]: Transamerica to a Fidelity Contribution Fund.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Number three, I had dev ticket 1106.
+[SPEAKER_02]: That 1095 discrepancy?
+[SPEAKER_02]: Yep.
+[SPEAKER_02]: I want to send that file on 10.1.
+[SPEAKER_02]: because I have a 1015.
+[SPEAKER_02]: I've got to give them time to review that file.
+[SPEAKER_02]: AND I THINK IT'S NOT
+[SPEAKER_02]: review any changes or if there's any discrepancies.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: And we're going to have a meeting scheduled 10-15.
+[SPEAKER_02]: Which one was that?
+[SPEAKER_02]: It's 1106 and 95 discrepancy.
+Go.
+[SPEAKER_02]: which their file, it's been right, so I don't know what changed.
+[SPEAKER_02]: It'd be kind of nice when you look at that to see what did change.
+[SPEAKER_02]: I mean, we ran that thing for months.
+[SPEAKER_02]: A couple, maybe a year and a half a year.
+[SPEAKER_02]: Yeah, something doesn't change.
+[SPEAKER_02]: Yeah, that one's still kind of an enigma, so I was probably not really sure what's happened there either.
+[SPEAKER_02]: So next thing I had,
+[SPEAKER_02]: I don't know that they're big 1095, the break,
+[SPEAKER_02]: Kind of over my head.
+[SPEAKER_02]: Is that the inventory management one?
+[SPEAKER_02]: Yeah, I'm not sure what that is.
+[SPEAKER_02]: Yes, he said that, and we realized afterwards that that's kind of out of our court.
+[SPEAKER_02]: Greg actually already sorted that out.
+[SPEAKER_02]: The number...
+[SPEAKER_02]: So I had 1031, starting to get into that GCHP.
+[SPEAKER_02]: Welcome.
+[SPEAKER_02]: And then the only thing I had after that was
+[SPEAKER_02]: All the check fits together.
+[SPEAKER_02]: Dev ticket 741, we closed.
+[SPEAKER_02]: Diff Ticket 553, we can close.
+[SPEAKER_02]: 741, we can close.
+[SPEAKER_02]: 741, 553.
+[SPEAKER_02]: We can close 695.
+[SPEAKER_02]: And I made a comment on 801.
+[SPEAKER_02]: That the first part of that is done.
+[SPEAKER_02]: I read my...
+[SPEAKER_02]: I'm running my balance sheet with the earnings piece on 801.
+[SPEAKER_02]: I can't recall any of that.
+[SPEAKER_02]: I can't remember our issue.
+[SPEAKER_02]: We're getting one mountain from one place and one in the other, but I can't recreate it.
+[SPEAKER_02]: So if we want to go ahead until I can find a dream to see.
+[SPEAKER_02]: I'm okay at the moment.
+[SPEAKER_02]: With that one, I think the plan was we talked about
+[SPEAKER_02]: having balance sheet actually call the same bit of code that retained earnings report does.
+[SPEAKER_02]: because I think balance sheet is kind of recalculating everything itself, and that's what it is.
+[SPEAKER_02]: discrepancies, so I think it would still be a worthwhile improvement.
+[SPEAKER_02]: Okay, but the first part of that thing, that's the only thing I'm missing.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Yeah, and we noted that we kind of cleared that like in our estimate on the time on that.
+[SPEAKER_02]: I saw that you commented on there.
+[SPEAKER_02]: Going back to the Dev 553 though, that one I didn't think had ever been worked on.
+[SPEAKER_02]: I just got off the phone with Kevin and
+[SPEAKER_02]: I said, is it relevant?
+[SPEAKER_02]: Have you had any other issues?
+[SPEAKER_02]: And he said no.
+[SPEAKER_02]: And so he's unable, he can't think of any examples since.
+[SPEAKER_02]: because they put in that ticket in like January and so
+[SPEAKER_02]: I don't know, it's one of those things where for Pops to begin,
+[SPEAKER_02]: Prioritize the ticket.
+[SPEAKER_02]: I may take a look
+[SPEAKER_02]: at it because I remember I had the exact steps to reproduce that
+[SPEAKER_02]: It was something that didn't come up very often, but it was basically
+[SPEAKER_02]: If you went to go edit a sale where
+[SPEAKER_02]: because I think it's where they can like change the ship to the customer or
+[SPEAKER_02]: Basically, the Shift 2 on the sale isn't one that can be found anymore.
+[SPEAKER_02]: It would just default.
+[SPEAKER_02]: to whatever their current ship to is, and then it would recalculate all the tax and mess everything up.
+[SPEAKER_02]: It was cold on Kevin.
+[SPEAKER_02]: because we were trying to to recall what that was and
+[SPEAKER_02]: But okay, it sounds like you've got a lead on that.
+[SPEAKER_02]: Yeah, it was one that came up twice maybe, and then it was like,
+[SPEAKER_02]: It's hard to track down, kind of screwed everything up with the sales tax.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: We haven't had any flags on it.
+[SPEAKER_02]: I would throw that ahead of probably the ACH and the Jack Smith piece then.
+[SPEAKER_02]: Because that's kind of
+[SPEAKER_02]: Well, I'm happy they hurt Cindy.
+[SPEAKER_02]: They would call out on Cindy, like she would get the flag.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: They don't match.
+[SPEAKER_02]: The one example that Kevin had, we were able to get a resale certificate on.
+[SPEAKER_02]: So it kind of became a non-issue.
+[SPEAKER_02]: I don't think it is an issue either.
+[SPEAKER_02]: So looking at this list that we have here, I think that pretty much everything that you've mentioned is in here.
+[SPEAKER_02]: the only thing that out of the list that we did send you I think there's really only one thing that we
+[SPEAKER_02]: didn't think would fit in the sprint, and that was like all the missing checksmith reports.
+[SPEAKER_02]: we were kind of thinking that that would be unless we have you know
+[SPEAKER_02]: we might end up being into the 401k stuff but for the next sprint but if not then like the Chex Smith report
+[SPEAKER_02]: would be good to work on there but we still were gonna like fix all the bugs and
+[SPEAKER_02]: Like all the feedback and stuff, you guys had them checked in on this upcoming room.
+[SPEAKER_02]: uh,
+[SPEAKER_02]: So everything we have mentioned here, we should be...
+[SPEAKER_02]: I think that 11, 12,
+[SPEAKER_02]: I think that's done.
+[SPEAKER_02]: I asked Marley yesterday.
+[SPEAKER_02]: 11, 12.
+[SPEAKER_02]: There's no number or order.
+[SPEAKER_02]: I think that's done.
+[SPEAKER_02]: What you guys did was reset all the PNC customers.
+[SPEAKER_02]: He wiped out their information, so they had to re-verify the accounts.
+[SPEAKER_02]: Yeah, that was the one that Matt did.
+[SPEAKER_02]: But they didn't get that sorted out.
+[SPEAKER_02]: I don't know if DNC did or strike, but I think as far as we're concerned.
+[SPEAKER_02]: We are done with that.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: I'm just in the order that
+[SPEAKER_02]: I don't know if you're on that or not.
+[SPEAKER_02]: That email with Krishna.
+[SPEAKER_02]: I just printed it out and kind of wrote on it.
+[SPEAKER_02]: I'll put in that finance team.
+[SPEAKER_02]: I mean like looking at this compared to like what we have on the plan here I think
+[SPEAKER_02]: everything lines up.
+[SPEAKER_02]: I mean, building through here, we got the
+[SPEAKER_02]: That first one, 741, you said we could close.
+[SPEAKER_02]: The 1031 is the
+[SPEAKER_02]: which that's the biggest chunk of this.
+[SPEAKER_02]: We're thinking that's gonna take up
+[SPEAKER_02]: the majority of this sprint and then
+[SPEAKER_02]: You know, we got that 553 at SafeSail being changed.
+[SPEAKER_02]: That shouldn't be too bad.
+[SPEAKER_02]: The 1095 thing,
+[SPEAKER_02]: and then the retained earnings report change.
+[SPEAKER_02]: That should also be a pretty quick, easy thing.
+[SPEAKER_02]: Really the only other bigger part of it would be like the checksmith bones and stuff.
+[SPEAKER_02]: But does that all sound good to you guys?
+[SPEAKER_02]: Yeah, it's not for idiots.
+[SPEAKER_02]: like the jack smith thing or the ach that's just kind of like i would push it to the end
+[SPEAKER_02]: Make sure we get everything else done, and then if we have time, work goes in.
+[SPEAKER_02]: Yeah, I think the list, like the order here is kind of the priority we were planning on going.
+[SPEAKER_02]: So from the top down,
+[SPEAKER_02]: So the ACA is going to be the first thing.
+[SPEAKER_02]: I will move it down.
+[SPEAKER_02]: because I need the I'd like to have like you need the payroll
+[SPEAKER_02]: I need that payroll thing, and then I need that 1095, so that needs to be above.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: I've got them ordered actually in the sprint now.
+[SPEAKER_02]: Ethan.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Because I know it's just kind of like,
+[SPEAKER_02]: Just trying to check down the list.
+[SPEAKER_02]: but that's the list that i need just because i have dates on those yeah yeah okay
+[SPEAKER_02]: Yeah, so I just went and reordered them as we were going.
+[SPEAKER_02]: and his friends, so it should be one night.
+[SPEAKER_00]: So it's going to change the priority to highest.
+[SPEAKER_02]: I wonder if they looked at it.
+[SPEAKER_02]: Based on this, Ethan, so
+[SPEAKER_02]: If that's the two weeks, Brent, you're looking for something for the next.
+[SPEAKER_02]: I wish.
+[SPEAKER_02]: I guess that'll be something we can kind of talk about later.
+[SPEAKER_02]: But yeah, the next one.
+[SPEAKER_02]: I don't know if it's going to be like the next phase of the 401k or if that would be the checksmith reports.
+[SPEAKER_02]: Or if there's anything else.
+[SPEAKER_02]: That's kind of what I was thinking is like, we would have a two week dedicated spread
+[SPEAKER_02]: Jake Smith, it's his own baby.
+[SPEAKER_02]: And you know, like we can knock that.
+[SPEAKER_02]: Yeah, I'm trying to knock a big chunk of that out.
+[SPEAKER_02]: which i know it's hard to dedicate two weeks to a project
+[SPEAKER_02]: See what we can get on.
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: And I've got another.
+[SPEAKER_02]: I've got this.
+[SPEAKER_02]: sales manager IBM.
+[SPEAKER_02]: I'm trying to work out a little bit.
+[SPEAKER_02]: Maybe I can have that ready in the next two weeks.
+[SPEAKER_02]: Following that.
+[SPEAKER_02]: After this, I'll push mine like...
+[SPEAKER_02]: into October, because it doesn't need to be anything.
+[SPEAKER_02]: It's just like a new project.
+[SPEAKER_02]: That would button up everything for us.
+[SPEAKER_02]: I think so too.
+[SPEAKER_02]: Yeah, you can scope that out with Krishna in the meantime.
+[SPEAKER_02]: Yeah, I'm sure they'll be reaching out to kind of
+[SPEAKER_02]: gather what's coming up and figure out, plan everything out.
+[SPEAKER_02]: But this this sprint was kind of mainly to address all the high priority stuff that we had and
+[SPEAKER_02]: And then anything else that we can kind of squeeze in there with it is what we kind of did.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I would just make sure we have everything else completed before we jump into any ACH or checklist.
+[SPEAKER_02]: And we're going to test that file area there as well.
+[SPEAKER_02]: As soon as he gives us a new, or they put those in and they hold them out.
+[SPEAKER_02]: We're going to try that in that sense as well.
+[SPEAKER_02]: I have permission to run that now.
+[SPEAKER_02]: So whenever you guys are ready for it, just send me a message and I can...
+[SPEAKER_02]: Pop on production.
+[SPEAKER_02]: Probably sometime this afternoon.
+[SPEAKER_02]: What time are you leaving?
+[SPEAKER_02]: I'll shoot for like 3 o'clock or so if you don't care, just send me that.
+[SPEAKER_02]: I'll have everything buttoned down here.
+[SPEAKER_02]: Okay, and towards the end of the day, and because we have the fidelity meeting at 2.30,
+[SPEAKER_02]: And so I should be done by three and I can just hop off and sit in.
+[SPEAKER_02]: And you probably have to,
+[SPEAKER_02]: i might have been with us all we did that well if you wouldn't send that to him now because that's not really going to change
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: We'll holler at this afternoon anytime.
+[SPEAKER_02]: Okay, sounds good.
+[SPEAKER_02]: I'll be going to talk to you and pick up my daughter from school.
+[SPEAKER_02]: three, but I'll be back right after that.
+[SPEAKER_02]: The fourth three is fine.
+[SPEAKER_02]: I'll be buttoned up after lunch, so they send it to me sometime after lunch.
+[SPEAKER_02]: Okay, sounds good.
+[SPEAKER_02]: I'm already there.
+[SPEAKER_02]: I'm putting in now.
+[SPEAKER_02]: So that's why if you give me until after lunch, after 12, I'll be done.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: And then you should be good.
+[SPEAKER_02]: And then I'll get that followed by Rand, and then we'll get with you.
+[SPEAKER_02]: Yeah, okay.
+[SPEAKER_02]: Anything else or is that Ed?
+[SPEAKER_02]: I think that's it.
+[SPEAKER_02]: I have an extra slide on here.
+[SPEAKER_02]: I don't know if you guys have any other questions or anything.
+[SPEAKER_00]: Do you think that's the best idea to ask about
+[SPEAKER_00]: Air and stuff, just to plan, I heard.
+[SPEAKER_00]: Like after this couple of sprints, like sprint three and four.
+[SPEAKER_00]: just to focus on that figure and stuff.
+[SPEAKER_02]: We'll knock this one out and have him follow back up on the board.
+[SPEAKER_00]: Right now put a thought into the head.
+[SPEAKER_02]: It's either going to be one of the two.
+[SPEAKER_02]: It sounds like, well, I guess the sales manager thing, if we can come up with that.
+[SPEAKER_02]: It'll either be the checks minutes or
+[SPEAKER_02]: Yeah, just because it'll take two weeks for sure to knock all that out.
+[SPEAKER_02]: Right, that's what we were kind of planning to do.
+[SPEAKER_02]: And so that's why I'm saying like if this is a pretty solid,
+[SPEAKER_02]: I don't know if you have to correct me, but I feel like a pretty solid two weeks.
+[SPEAKER_02]: yesterday we all got together and we kind of looked through all these items that
+[SPEAKER_02]: that Krishna sent you and we kind of put estimates on each thing and then
+[SPEAKER_02]: and then kind of figured out what we could fit into two weeks.
+[SPEAKER_02]: It should work out pretty smooth.
+[SPEAKER_02]: following two weeks then we gotta check for the ACH thing if that kind of bleeds over so I mean I feel like
+[SPEAKER_02]: We got a good four weeks here of work.
+[SPEAKER_02]: We're going to need some in this transition.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: While I got you this curiosity,
+[SPEAKER_02]: I know you and Matt were working on something.
+[SPEAKER_02]: Is that closed or no?
+[SPEAKER_02]: I think Matt's been hitting a lot of snags with it.
+[SPEAKER_02]: So I'm still not really sure how much longer that's going to be.
+[SPEAKER_02]: We've kind of got like the prototype, but it's just getting the numbers to line up right.
+[SPEAKER_02]: It's kind of having trouble with.
+[SPEAKER_02]: But it was some kind of like where I
+[SPEAKER_02]: Basically, I need access to a database, right?
+[SPEAKER_02]: I'm able to pull all the supports myself.
+[SPEAKER_02]: Yeah, everyone's going to spoil it too much.
+[SPEAKER_02]: kind of cool to see.
+[SPEAKER_02]: But yeah, essentially we're wanting to give you
+[SPEAKER_02]: go into the reports and see the data that gives the number on the reports.
+[SPEAKER_02]: just for our visibility.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: It'd be nice.
+[SPEAKER_02]: Yeah, I'm not sure when we can expect
+[SPEAKER_02]: that yet.
+[SPEAKER_02]: But I mean, it's
+[SPEAKER_02]: It's close, but it's also been close for like a week just because we're going to get the numbers.
+[SPEAKER_02]: Tell me Christmas is around the corner.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Okay, sounds good.
+[SPEAKER_02]: All right.
+[SPEAKER_02]: Thanks, guys.
+[SPEAKER_02]: Mm hmm.
+[SPEAKER_02]: I think I went well.
+[SPEAKER_02]: Other than they
+[SPEAKER_02]: The only part that I wish Christian was here for was...
+[SPEAKER_02]: So you have to push back, putting that
+[SPEAKER_02]: date that he needs, which I get.
+[SPEAKER_02]: If he's got stuff that he's got to get out for a certain day, then
+[SPEAKER_02]: We have to do as much as we can to do that.
+[SPEAKER_02]: yeah i wasn't sure how to handle that because you just tell them no because they do need it especially the payroll what they need by
+[SPEAKER_02]: Right.
+[SPEAKER_02]: Although,
+[SPEAKER_02]: I thought about it afterwards.
+[SPEAKER_02]: I mean, they do have a workaround.
+[SPEAKER_02]: It's not like we can't just run a SQL script and fix it after the fact.
+[SPEAKER_02]: It would be almost just the same amount of work to just
+[SPEAKER_02]: do that into payroll and push it out on time.
+[SPEAKER_02]: We can talk with Christian about that on how we...
+[SPEAKER_02]: deal with things like that.
+[SPEAKER_00]: Yeah, for the future you can just come on.
+[SPEAKER_00]: If they tell us what we have to come up with.
+[SPEAKER_02]: I feel like the further in we get with this,
+[SPEAKER_02]: the more they're gonna think ahead of time.
+[SPEAKER_00]: Yeah, that's what I was asking.
+[SPEAKER_00]: Can we just put an idea for them, like think about here and stuff?
+[SPEAKER_02]: I feel like we've got two or three sprints.
+[SPEAKER_02]: kind of in the waiting.
+[SPEAKER_02]: We didn't know about this sales manager thing, but
+[SPEAKER_02]: Yeah, that was an action to like this kind of kind of like
+[SPEAKER_02]: iterating through this, like building up to what we eventually want.
+[SPEAKER_02]: And I imagine like once we get to like quarter one of, you know,
+[SPEAKER_02]: 2026 that's kind of what we'll do like the full thing because you just want this, you know, right.
+[SPEAKER_02]: to plan out a whole quarter's worth of work from the beginning.
+[SPEAKER_02]: Right.
+[SPEAKER_02]: And so I just don't see I don't know how
+[SPEAKER_02]: Jeff and Jordan can think that far ahead.
+[SPEAKER_02]: I feel like there's a lot of stuff that they need right now.
+[SPEAKER_02]: And it might even just be kind of like, well, here's the thing.
+[SPEAKER_02]: I think the way I kind of see it is like,
+[SPEAKER_02]: the first sprint is like here's all the stuff that we for sure know that we you know need to do now but then
+[SPEAKER_02]: maybe the second sprint, we're wanting to do this, and the third sprint, we're going to do this.
+[SPEAKER_02]: But that's, you know, it can be changed if needed.
+[SPEAKER_02]: Yeah, maybe something that we just build out...
+[SPEAKER_02]: sprints based off of ideas they have or what they
+[SPEAKER_02]: know they're going to need at some point, but then depending on where the
+[SPEAKER_02]: Priorities lie, those friends can shift around too.
+[SPEAKER_02]: Yeah.
+[SPEAKER_00]: And also we need to come up with new stuff like
+[SPEAKER_00]: Maintainability of old apps is getting decreased.
+[SPEAKER_02]: We'll probably have to come up with that.
+[SPEAKER_02]: Because that's not something they're going to think about.
+[SPEAKER_02]: It sounds like, too, that'd be something from, like, you know,
+[SPEAKER_02]: get through a sprint and we underestimated you know we
+[SPEAKER_02]: or overestimated, I mean like we have extra time and we can work on some of that
+[SPEAKER_02]: But I guess for the bigger things, like the logging idea, that would probably be like its own sprint.
+[SPEAKER_02]: yeah or the rewrite of so
+[SPEAKER_02]: That's going to be like a whole year sprint.
+[SPEAKER_02]: Sorry, Jeff.
+[SPEAKER_02]: We won't be here in 2026.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Yeah, it's pretty smooth.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: This process will make it easier to do things like that if we decide we want to rewrite when it's in.
+[SPEAKER_02]: like to actually break it up into small chunks where we can
+[SPEAKER_02]: Yeah, in my...
+[SPEAKER_02]: Like he was kind of saying with that checks and this stuff,
+[SPEAKER_02]: If we have time to fit that one in after this sprint, then we fit that one in for the next sprint.
+[SPEAKER_02]: If not, we'll push it off another string or whatever.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Do you guys have access to the sprints now?
+[SPEAKER_02]: I think so, yeah.
+[SPEAKER_02]: You got it now, right?
+[SPEAKER_02]: Yeah, I think so.
+[SPEAKER_02]: Well, why have you guys?
+[SPEAKER_02]: We were kind of talking about it a little bit yesterday and I wanted to see what your guys' thoughts were.
+[SPEAKER_02]: but I was kind of thinking about reworking the release pipelines a little bit.
+[SPEAKER_02]: to where, like the way we're gonna be working on each of these items is we'll each
+[SPEAKER_02]: Like on the code side, we're each going to take
+[SPEAKER_02]: one of these items and we're going to like make a branch for it and
+[SPEAKER_02]: do all the work on that and then we'll do a pull request to merge it into like the main branch
+[SPEAKER_02]: And so what I was thinking about setting it up to do is that
+[SPEAKER_02]: Every time we do a floor request and that gets completed.
+[SPEAKER_02]: it'll automatically kick off the build and release straight to DevQC.
+[SPEAKER_02]: instead of waiting until the end of this two-week period
+[SPEAKER_02]: and grouping everything for each app together and then doing one release and then you guys testing it and then coming back
+[SPEAKER_02]: This way you guys can kind of test each thing as it comes out.
+[SPEAKER_02]: I don't know how you guys feel about that.
+[SPEAKER_01]: I'm fine with it.
+[SPEAKER_01]: I'm fine with that.
+[SPEAKER_01]: We would have to add.
+[SPEAKER_02]: Maybe that would be more just like for the manual testing side of things and they could do like one day.
+[SPEAKER_02]: run through like the regression test at the end.
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: Or a lot of people want to run regression.
+[SPEAKER_02]: Anytimes or whatever.
+[SPEAKER_02]: Can we just do one run through the regression test at the end of this?
+[SPEAKER_02]: I don't know what would be best, but...
+[SPEAKER_01]: I mean, either way would be fine just because I would set up.
+[SPEAKER_01]: The only downside is right now they're set up to where, like,
+[SPEAKER_01]: you have one run going it's waiting on approval and if you did another release it wouldn't start that
+[SPEAKER_01]: until this one got approval.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: I was thinking I kind of have to rework it a little bit.
+[SPEAKER_02]: I might have to split up the pipelines to where DevQC is its own.
+[SPEAKER_02]: but then we can trigger the production release from there.
+[SPEAKER_02]: I'm not sure.
+[SPEAKER_02]: I was going to look at that a little bit, see if there's a better way to do it.
+[SPEAKER_02]: Because I feel like with this,
+[SPEAKER_02]: Like new process
+[SPEAKER_02]: we would be we want to be testing while we're developing so every time we push something
+[SPEAKER_02]: and then you guys can start going through it.
+[SPEAKER_02]: instead of just everything all at once at the end.
+[SPEAKER_02]: I think that would be fine.
+[SPEAKER_02]: Yeah, that way it's fresher in your mind too if I find something
+[SPEAKER_02]: Yeah, yeah, true.
+[SPEAKER_02]: And then we don't just have that bottleneck at the end where
+[SPEAKER_02]: We're done with everything, but then you guys have to go through it.
+[SPEAKER_02]: everything, you know, this way it'll be kind of more, once we get to the end, like you just have to test whatever the last thing is, then we're going to go.
+[SPEAKER_00]: activities.
+[SPEAKER_00]: If I
+[SPEAKER_00]: may ask how the architecture for this pipeline is set right now.
+[SPEAKER_00]: What is that?
+[SPEAKER_00]: How is this pipeline set?
+[SPEAKER_02]: The way that it works right now is, so development system,
+[SPEAKER_02]: pipeline.
+[SPEAKER_02]: So once the builds happen, development is set to automatically just release those builds
+[SPEAKER_02]: for pretty much any branch development, but then for
+[SPEAKER_02]: testing, we have to go manually trigger or release.
+[SPEAKER_02]: And so as a WQC environment, it deploys to
+[SPEAKER_02]: And then Matt and
+[SPEAKER_02]: Chris get notified of that.
+[SPEAKER_02]: They can go through and kick off all the tests for that.
+[SPEAKER_02]: And once they're done,
+[SPEAKER_02]: then we go through and we manually deploy it to QC and approve it to go to production after that.
+[SPEAKER_02]: But I think it's best to just have DevQC kind of an automatic thing every time
+[SPEAKER_02]: you know, a pull request is completed into like, I don't know if it would be the development branch or how we decide to start
+[SPEAKER_02]: on the code side of things, but...
+[SPEAKER_02]: But I'll kind of look at that and I want you guys to know what I come up with.
+[SPEAKER_00]: I'll also try to do some research if Roy can come up with an efficient rate.
+[SPEAKER_00]: What was that?
+[SPEAKER_00]: I will also try to do some research about this.
+[SPEAKER_00]: A little bit.
+[SPEAKER_00]: I haven't looked into our Azure pipelines apart of now.
+[SPEAKER_00]: But yeah, I will do some research as well.
+[SPEAKER_02]: They're voting in their paintings.
+[SPEAKER_00]: Oh, yeah.
+[SPEAKER_00]: I never dealt with Azure, I dealt with AWS and yeah.
+[SPEAKER_00]: Pretty much they should be the same.
+[SPEAKER_00]: Let's see.
+[SPEAKER_02]: Thank you.
+[SPEAKER_02]: See you later.

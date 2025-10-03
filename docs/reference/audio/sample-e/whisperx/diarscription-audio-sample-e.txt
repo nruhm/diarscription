@@ -1,0 +1,398 @@
+[SPEAKER_02]: No Jacob, no Chris.
+[SPEAKER_02]: As far as...
+[SPEAKER_02]: Tickets go.
+[SPEAKER_02]: It's been fairly quiet.
+[SPEAKER_02]: You've been talking to Jordan on some stuff.
+[SPEAKER_02]: And then...
+[SPEAKER_02]: Blake, he's been working on a few issues with the cabinet order side of things.
+[SPEAKER_02]: And then I guess, Andrea, I don't know if they filled you in or not, but we had a
+[SPEAKER_02]: Issue with the customer portal emails.
+[SPEAKER_02]: Yeah.
+[SPEAKER_03]: Yeah, I've been following that.
+[SPEAKER_02]: Molly's been keeping me posted.
+[SPEAKER_02]: Okay, cool.
+[SPEAKER_02]: Yeah, it sounded like it was just something that Cody did, but I think he's got it fixed now.
+[SPEAKER_02]: He noticed this morning that they weren't going through again.
+[SPEAKER_02]: pushed him out and then I guess made another change on the security side to
+[SPEAKER_02]: allowed those to go through.
+[SPEAKER_02]: It was quarantining.
+[SPEAKER_02]: every email that was coming in to...
+[SPEAKER_02]: Or is it orders at www.inc.com?
+[SPEAKER_02]: I don't know if it was all emails or not.
+[SPEAKER_02]: So there's like 90...
+[SPEAKER_02]: They were just kind of sitting out there waiting to get picked up.
+[SPEAKER_00]: I heard you mention spoofing, is that?
+[SPEAKER_02]: Yeah, that's what it was.
+[SPEAKER_02]: It was labeling them as, it was spoof.
+[SPEAKER_00]: I mean are we like changing the to or the from address?
+[SPEAKER_01]: Well, you can spoof emails and you can fake what your address is.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: I guess that's what it thinks they are.
+[SPEAKER_00]: I don't know if we're doing that or not.
+[SPEAKER_01]: I think it probably thinks that they're spoofing.
+[SPEAKER_00]: Oh, them coming into us.
+[SPEAKER_01]: That's what I would think.
+[SPEAKER_02]: Cause he was, he was,
+[SPEAKER_02]: supposed to, I guess, whitelist a
+[SPEAKER_02]: schism email address that it was using
+[SPEAKER_02]: And he ended up whitelisting anything that was at www.com.
+[SPEAKER_02]: So that's what threw it off originally.
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: It doesn't really...
+[SPEAKER_00]: Why would it throw it off if you're whitelisting it?
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: it doesn't make any sense so is it the orders at wwe yeah email that's the one that was marked as
+[SPEAKER_01]: being spooked?
+[SPEAKER_01]: I don't think so.
+[SPEAKER_01]: I think it was just this.
+[SPEAKER_02]: Yeah, the customer emails that were coming in.
+[SPEAKER_02]: But they're coming in from
+[SPEAKER_02]: Customer portal.
+[SPEAKER_02]: So that would be coming in from, I guess, one of our internal emails.
+[SPEAKER_02]: Right, Andrew?
+[SPEAKER_02]: Like when they create an order?
+[SPEAKER_03]: That does make sense because basically
+[SPEAKER_03]: The way the ticketing API works, it basically is scooping the emails
+[SPEAKER_03]: I believe because it's getting
+[SPEAKER_03]: Basically, it knows who they are,
+[SPEAKER_03]: and what their email address is, but they're not actually sending them email.
+[SPEAKER_03]: Right, that's the program that's sending it.
+[SPEAKER_03]: So we're basically seeing who it's from.
+[SPEAKER_03]: If we send an email, we're putting their address
+[SPEAKER_03]: So it is spoofing, but it's a legitimate spoofing.
+[SPEAKER_03]: That's why they call it spoofing.
+[SPEAKER_02]: I had to look it up.
+[SPEAKER_02]: It's like a hoax.
+[SPEAKER_00]: It is, that's exactly what it is.
+[SPEAKER_00]: I used to do it all the time.
+[SPEAKER_00]: for work and for play.
+[SPEAKER_00]: send my brother or my sister emails from
+[SPEAKER_00]: Ed McMahon, you want a million dollars?
+[SPEAKER_00]: You see that all the time on emails and seeing your spam folder all the time.
+[SPEAKER_00]: And you go and you hover over the address that it says it's from and it's something else.
+[SPEAKER_02]: It's kind of looking for it again because after you pushed out the
+[SPEAKER_02]: There was like 20 or so sitting in quarantine this morning.
+[SPEAKER_02]: and then he made another change and it wasn't performable.
+[SPEAKER_02]: So I think it's fixed.
+[SPEAKER_02]: Thank you.
+[SPEAKER_02]: Yeah, we've been working on a few issues with
+[SPEAKER_02]: Cameron Norder trying to diagnose some oddball.
+[SPEAKER_02]: issues that they've been having.
+[SPEAKER_02]: And then the one thing I really have to get
+[SPEAKER_02]: I will be out tomorrow.
+[SPEAKER_02]: I'm not having my procedure tomorrow, but
+[SPEAKER_02]: Since I'm not having my procedure, I'm gonna do what I was originally planning,
+[SPEAKER_02]: I'm not going.
+[SPEAKER_02]: place I was going.
+[SPEAKER_02]: I'm gonna take the day and just spend it with the littles.
+Thank you.
+[SPEAKER_02]: But I do want to try and get that email out if you can.
+[SPEAKER_02]: And I think all we need to really do on that one
+[SPEAKER_02]: We need to look into the rehire.
+[SPEAKER_02]: just to make sure that it's putting in the right date there.
+[SPEAKER_02]: If they're a rehire, make sure that it's putting the rehire date in.
+[SPEAKER_02]: as the start date or whatever.
+[SPEAKER_02]: And then everything else, I think we just need to make sure that it's
+[SPEAKER_02]: that last export date is being set.
+[SPEAKER_01]: Which that works differently for just not like how it is with the medical where we just set that date and
+[SPEAKER_01]: We'll have to create a bunch of dummy records as if they've been exported.
+[SPEAKER_02]: because they have been exporting periodically, but like the
+[SPEAKER_02]: The last day that I sent one of those change files,
+[SPEAKER_02]: is I assume what we want that day to be set through.
+[SPEAKER_01]: I can't remember if we deleted the export from that or if we just marked it.
+[SPEAKER_01]: has not finalized it.
+[SPEAKER_01]: If the record's still there, all we gotta do is just set that as the most recent one, and then we'll be good.
+[SPEAKER_01]: But that one was an actual export.
+[SPEAKER_01]: Oh, yeah, that's right.
+[SPEAKER_01]: Yeah, that was the script.
+[SPEAKER_01]: Yeah, so we'll probably have to still insert the records.
+[SPEAKER_02]: We can look back and see what the records show.
+[SPEAKER_02]: because I know what date that was.
+[SPEAKER_02]: It was like July 8th or something.
+[SPEAKER_02]: So we can look back and see what the closest line is if we want to do that.
+[SPEAKER_02]: Because I think that'll...
+[SPEAKER_02]: that'll clean up their discrepancies.
+[SPEAKER_02]: In my mind, they weren't using this to compare to production at all.
+[SPEAKER_02]: they were just comparing it to the format like is are we getting everything we need
+[SPEAKER_02]: and then we say, okay, it's good, then we start in production.
+[SPEAKER_02]: they were actually comparing it to production.
+[SPEAKER_02]: isn't going to line up because we're going
+[SPEAKER_02]: have some that are that have been terminated that they're not going to have in their system
+[SPEAKER_02]: They're just going to drop off of our test file.
+[SPEAKER_02]: So we'll just try and get it.
+[SPEAKER_02]: We'll send this next one as it
+[SPEAKER_02]: could be the production file, the first one.
+[SPEAKER_02]: Um...
+[SPEAKER_02]: How's everything going on your end?
+[SPEAKER_02]: I've seen a few...
+[SPEAKER_02]: Yeah, I think I've got a lot of those label issues fixed.
+[SPEAKER_02]: Yeah, it's just kind of random things down.
+[SPEAKER_02]: How's the
+[SPEAKER_02]: I forgot the name.
+[SPEAKER_02]: The phone thing or the emergency thing.
+[SPEAKER_02]: Oh, I think we're going to add the new building.
+[SPEAKER_02]: Friday, I think that's what their plan is.
+[SPEAKER_02]: Okay, cool.
+[SPEAKER_02]: So yeah, that's all over there.
+[SPEAKER_02]: Did they get fans yet?
+[SPEAKER_02]: Oh, yeah, I think they've got a couple.
+[SPEAKER_02]: One at least, I know, in that area.
+[SPEAKER_00]: Let me talk about those big old fans.
+[SPEAKER_02]: It makes a difference for sure.
+[SPEAKER_02]: I guess they're calling the building eclipse.
+[SPEAKER_02]: Really?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Is the other one Shiloh?
+[SPEAKER_02]: I don't know I guess so.
+[SPEAKER_02]: That's what Jenny said and that's what they called it in the
+[SPEAKER_02]: InformaCast and Label and Eclipse.
+[SPEAKER_00]: But Charlotte's going to be moving over there, right?
+[SPEAKER_02]: I don't know.
+[SPEAKER_02]: Yeah, I guess so.
+[SPEAKER_02]: That's the plan.
+[SPEAKER_02]: I was talking to Corey about it and he didn't, he was kind of weirded out about it too because
+[SPEAKER_02]: It's eventually going to be Shiloh, but... Right.
+[SPEAKER_02]: Because eventually an aspect of it, right?
+[SPEAKER_02]: Yeah, I think so.
+[SPEAKER_02]: We may have some name changes later, I don't know.
+[SPEAKER_00]: Hopefully that's easy to do.
+[SPEAKER_00]: Let's go in there and, okay, this building's that, this building, okay, done.
+[SPEAKER_02]: I don't think it's very easy in the network because they have to do subnets.
+[SPEAKER_00]: Oh, right, yeah.
+[SPEAKER_00]: It just depends on how they have them named.
+[SPEAKER_00]: If they've named them generically, then it shouldn't be a problem.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: We should just go with like building, bigger building, bigger building.
+[SPEAKER_00]: Building A, Building B, Building C.
+[SPEAKER_00]: If you run out of letters, you've got your company too big.
+[SPEAKER_02]: Chris, you got anything interesting right now?
+[SPEAKER_02]: I know you have a couple cabin order ones that are...
+[SPEAKER_02]: Yeah, I tested the changes he did and everything seemed good, so I'm just running the rest of the tests to make sure nothing else
+[SPEAKER_02]: Yeah, we pushed that one out at two yesterday and everything seemed fine.
+[SPEAKER_01]: A little bit after this meeting, we'll be sending you a Checksmith.
+[SPEAKER_01]: to test.
+[SPEAKER_01]: We finally wrapped up yesterday.
+[SPEAKER_01]: got an actual bank statement file from Jordan and we ran it through both side by side and everything worked.
+[SPEAKER_01]: Great.
+[SPEAKER_02]: So, we're done.
+[SPEAKER_02]: Did we all, did we figure out the whole like new ACH?
+[SPEAKER_01]: No, last I heard Jordan,
+[SPEAKER_01]: I got to where I could figure out how to
+[SPEAKER_01]: recreate the file he had been sending them, we have like,
+[SPEAKER_01]: options to change all that in the accounting program.
+[SPEAKER_01]: But at that point, Jordan said, I guess
+[SPEAKER_01]: the bank that they're working with had reached out to like another
+[SPEAKER_01]: that they're associated with that was gonna see if they could process the ACH for them.
+[SPEAKER_01]: The way we head with the old place.
+[SPEAKER_01]: Yeah, I guess.
+[SPEAKER_01]: Or if they could at least provide some more info on why our ECH wasn't working.
+[SPEAKER_01]: I haven't heard anything, it's been like a week.
+[SPEAKER_02]: And did I hear he called about the 401k change?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: We're going to have to make a change
+[SPEAKER_01]: But he said it's not until October, and all we have to do is just add
+[SPEAKER_01]: an extra column onto the file that they export.
+[SPEAKER_01]: That just has if employees are part-time or not.
+[SPEAKER_01]: That's all it sounds like we'll have to do.
+[SPEAKER_01]: That's good.
+[SPEAKER_01]: I don't know if they'll need a one-time
+[SPEAKER_01]: to import everybody, or if that's something they could just transfer between the companies.
+[SPEAKER_01]: Which I assume they can, since they're
+[SPEAKER_01]: bringing over all of the amount and all that stuff.
+[SPEAKER_01]: which means function alone.
+[SPEAKER_01]: Um...
+[SPEAKER_02]: I will fill you guys in.
+[SPEAKER_02]: moving forward and we'll talk about this a little bit more on Monday when everybody's here
+[SPEAKER_02]: Thursdays, Scott's gonna start running meetings because
+[SPEAKER_02]: He's gonna get more technical with it.
+[SPEAKER_02]: He's gonna show...
+[SPEAKER_02]: more of the boards and we'll go through how
+[SPEAKER_02]: we're going to standardize things or try to.
+[SPEAKER_02]: but he's going to take the lead on coordinating all of the PR he has.
+[SPEAKER_02]: coordinated to all the triage type stuff.
+[SPEAKER_02]: We just want to get some stuff in place that
+[SPEAKER_02]: that we can go off of to make sure that stuff doesn't go stale or make sure that
+[SPEAKER_02]: stuff is getting out in a reasonable time and we're
+[SPEAKER_02]: to a place where we can start
+[SPEAKER_02]: learning, documenting things to take stuff off of your plate.
+[SPEAKER_02]: So that's kind of what this Thursday meeting is going to be about is
+[SPEAKER_02]: just, it's going to be ticket based.
+[SPEAKER_02]: Mondays will be just
+[SPEAKER_02]: What are we gonna be trying to push out for the week?
+[SPEAKER_02]: What are we working on?
+[SPEAKER_02]: Whatever.
+[SPEAKER_02]: But then the Thursday one we'll just focus on tickets, which we kind of do already.
+[SPEAKER_02]: But he'll get more detailed and we'll still keep it as short as we can.
+[SPEAKER_02]: Just...
+[SPEAKER_02]: but that'll take one thing off of my plate.
+[SPEAKER_00]: I'm happy to do it.
+[SPEAKER_00]: We've got like over 200 issues out there now.
+[SPEAKER_00]: Really all we're trying to do is keep it from getting stale.
+[SPEAKER_00]: Just keep it current.
+[SPEAKER_02]: and that's one reason if you guys have seen the periodic emails coming through with
+[SPEAKER_02]: Like the ones that have been over a year, that just haven't been touched yet.
+[SPEAKER_02]: If you had any of those, you'll get an automated email once a month.
+[SPEAKER_00]: First of every month they should come through.
+[SPEAKER_00]: And the plan is, once those are
+[SPEAKER_00]: either commented, the status has changed, or just
+[SPEAKER_00]: somebody's updated them in some way to say, yes, I know that's here.
+[SPEAKER_00]: then that'll fall off the list and as that gets smaller,
+[SPEAKER_00]: then we can reduce that time back to a more reasonable
+[SPEAKER_00]: Because a year is kind of a long time.
+[SPEAKER_00]: So we'll kind of feel that out.
+[SPEAKER_02]: Well another thing that we have been talking about too
+[SPEAKER_02]: So those are based off of anything that's active, right?
+[SPEAKER_00]: Well, yeah, if it hasn't been
+[SPEAKER_00]: if it's not closed, resolved,
+[SPEAKER_00]: and there has been no updates in 365 days.
+[SPEAKER_00]: An update could be anything from a status change to a comment or
+[SPEAKER_00]: Assigning it to someone for that matter.
+[SPEAKER_02]: But so we can mess around with some of the statuses too and that monitoring status
+[SPEAKER_02]: that we have in Jura.
+[SPEAKER_02]: if we flip it to monitoring, like if there's a ticket that
+[SPEAKER_02]: may or may not ever get done.
+[SPEAKER_02]: It may be something that they would like to have, but it's not
+[SPEAKER_02]: ever going to end up at the top of the list.
+[SPEAKER_02]: We could set that to monitoring, which will put it on hold in DevOps.
+[SPEAKER_02]: And then we can have a bucket of those, so I can free it up.
+[SPEAKER_02]: a time where we're just looking for stuff.
+[SPEAKER_02]: We can look on those on hold and then flip them back to active winter.
+[SPEAKER_00]: We could even explore some of the priorities on there as far as
+[SPEAKER_00]: if something is lowest priority,
+[SPEAKER_00]: that could be something else we could trigger off of.
+[SPEAKER_00]: low or lowest priorities might have a different
+[SPEAKER_00]: threshold and high level.
+[SPEAKER_00]: or highest priority or medium priority.
+[SPEAKER_00]: we could experiment with those thresholds and throw that into that query pretty easy.
+[SPEAKER_02]: Yeah, and really, I mean,
+[SPEAKER_02]: when we were putting some of those boards together just to show
+[SPEAKER_02]: what's out there, we were just focused on highs just because we know that they need those.
+[SPEAKER_02]: but the mediums most of the time are
+[SPEAKER_02]: pretty well needed also.
+[SPEAKER_02]: That's what the Thursday meetings will go.
+[SPEAKER_02]: streamline it.
+[SPEAKER_02]: get it to where they're more visible to us and like i said we're just trying to take some
+[SPEAKER_02]: some of the pressure off of you guys.
+[SPEAKER_02]: That way we keep eyes on it if you can.
+[SPEAKER_00]: And we don't get caught off guard when somebody calls in and goes, hey, what's this?
+[SPEAKER_00]: We're like, I haven't heard of that.
+[SPEAKER_04]: All right.
+[SPEAKER_00]: Especially when someone's out, like this week, we've got a lot of people out.
+[SPEAKER_02]: Yeah, Jordan doesn't like whenever me and Chris are both happy.
+[SPEAKER_00]: Oh yeah, he was not happy that day.
+[SPEAKER_02]: Can't really help.
+[SPEAKER_02]: Luckily.
+[SPEAKER_02]: Yeah, luckily.
+[SPEAKER_02]: Because originally I was supposed to be out all this week and I didn't know that Chris was going to be out also.
+[SPEAKER_02]: That worked out kind of, although he called on Monday when I was out.
+[SPEAKER_00]: We got that calendar on the triage board, so that helps.
+[SPEAKER_00]: We keep that updated.
+[SPEAKER_02]: Yeah, I need a new one.
+[SPEAKER_02]: Okay.
+[SPEAKER_02]: Andrew you got anything fun?
+[SPEAKER_03]: I have one fun thing and one semi, exciting thing.
+[SPEAKER_03]: Well, I think this is fun.
+[SPEAKER_03]: but people have been discovering
+[SPEAKER_03]: hogs, wild hogs in California.
+[SPEAKER_03]: When they open them up, they have neon blue meat.
+[SPEAKER_03]: All their meat looks like Smurf color.
+[SPEAKER_03]: At least the top layer of it does.
+[SPEAKER_03]: and it turns out that
+[SPEAKER_03]: there is a hog poison which is basically just a strong
+[SPEAKER_03]: rat poison and to prevent people from
+[SPEAKER_03]: basically getting secondhand poisoning.
+[SPEAKER_03]: they put a strong dye in it so that when the hogs eat the meat,
+[SPEAKER_03]: they will be like solid blue and apparently it gives them green tea too.
+[SPEAKER_03]: but, um,
+[SPEAKER_03]: Yeah, so I didn't know that was a thing.
+[SPEAKER_03]: That makes sense.
+[SPEAKER_03]: Yellow and blue make green.
+[SPEAKER_03]: Ann is...
+[SPEAKER_03]: just warframe, which is an anti-clodian agent that people take.
+[SPEAKER_03]: but it's just a very strong dose that kills rats and I guess hogs.
+[SPEAKER_03]: The...
+[SPEAKER_03]: We were debating on the web team if there was no prisoner involved
+[SPEAKER_03]: but you've just managed to get that blue dye into somebody's food,
+[SPEAKER_03]: would they turn like Smurf blue?
+[SPEAKER_00]: Seems like you'd have to eat a lot of it.
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: And the semi-exciting fact is the CHAP GBT-5 is supposed to be released
+[SPEAKER_03]: at noon, but only for people paying the $200 a month thing.
+[SPEAKER_03]: they're gonna roll it out to other people in like the next two weeks.
+[SPEAKER_00]: That's neat.
+[SPEAKER_00]: I used ChetGPT yesterday to
+[SPEAKER_00]: I just wanted to see what it would do.
+[SPEAKER_00]: So I started feeding it dump files and graphs and all sorts of things.
+[SPEAKER_00]: And I was really surprised.
+[SPEAKER_00]: It was pretty spot on with what Blake has been telling me.
+[SPEAKER_00]: a lot of the problems with the application I'm testing.
+[SPEAKER_00]: It flagged just about every one of them.
+[SPEAKER_00]: That's pretty good, it's recognizing what a person does.
+[SPEAKER_00]: I was impressed.
+[SPEAKER_00]: I've never really known what to do with a dump file either.
+[SPEAKER_00]: I throw it into...
+[SPEAKER_00]: Visual Studio and look at it and I still really don't completely understand what I'm looking at.
+[SPEAKER_00]: The GPT is able to explain it.
+[SPEAKER_00]: It's pretty neat.
+[SPEAKER_00]: Oh, and the thing about turning blue.
+[SPEAKER_00]: When my daughter was...
+[SPEAKER_00]: in a high chair.
+[SPEAKER_00]: She loved carrots and sweet potatoes.
+[SPEAKER_00]: That's about all she would eat.
+[SPEAKER_00]: She literally turned orange.
+[SPEAKER_02]: Yeah, we've had a couple orange babies before.
+[SPEAKER_02]: Andrew, what do you know about
+[SPEAKER_02]: Okay, this is going back to my test on Monday.
+[SPEAKER_02]: So I get there and
+[SPEAKER_02]: Well, okay, so all I knew about stress tests was I got to get on the treadmill and they got to monitor me.
+[SPEAKER_02]: Right?
+[SPEAKER_02]: Gotta see what my heart's doing when I'm stressed.
+[SPEAKER_02]: Well, they give me an IV as soon as I get there.
+[SPEAKER_02]: And say we're going to inject you with this nuclear
+[SPEAKER_02]: substance.
+[SPEAKER_02]: I was like, what?
+[SPEAKER_02]: Nuclear sounds bad.
+[SPEAKER_02]: after I had to sit there for an hour,
+[SPEAKER_02]: for I guess it to go through my system
+[SPEAKER_02]: Then they get readings on it or whatever because they sent me through another
+[SPEAKER_02]: Almost like an MRI machine that just watches it, but it all glows inside of you.
+[SPEAKER_02]: And that's what they watch in the thing that's going around you.
+[SPEAKER_02]: But I said, oh, it's just a low dose of,
+[SPEAKER_02]: You're clear, whatever.
+Stay closed.
+[SPEAKER_02]: It still doesn't sound good.
+[SPEAKER_02]: Next fact, I want to know more about this nuclear die.
+[SPEAKER_02]: or whatever it is.
+[SPEAKER_01]: I just like to imagine
+[SPEAKER_01]: that the stress test, you're like on the treadmill and there's just like an army drill sergeant screaming in your ear the whole time.
+[SPEAKER_01]: She was an old lady.
+[SPEAKER_02]: She was great.
+[SPEAKER_02]: other than when she was taking all the stickers off of me she was not gentle
+[SPEAKER_02]: Yeah, I thought I did great.
+[SPEAKER_02]: I was on there for like six minutes.
+[SPEAKER_02]: And then the doctor comes in and he said, you didn't last very long on the treadmill.
+[SPEAKER_02]: She stopped it.
+[SPEAKER_02]: My heart wasn't liking it, but I was doing fine.
+[SPEAKER_02]: They took me off, I guess, when the pressure got up too high.
+[SPEAKER_02]: But.
+[SPEAKER_02]: Andrew Graham next, hopefully next Friday is my assumption.
+[SPEAKER_02]: Assumption.
+[SPEAKER_02]: That's how much we have now.
+[SPEAKER_02]: Okay, thanks guys.
+[SPEAKER_00]: At least you got to do the treadmill.
+[SPEAKER_00]: I didn't.
+[SPEAKER_00]: Couldn't do the treadmill.
+[SPEAKER_00]: My mom didn't get on it either.
+[SPEAKER_00]: Yeah, did they do the chemicals?
+[SPEAKER_00]: stress test on her.
+[SPEAKER_02]: Nope, they just took her blood pressure in.
+[SPEAKER_02]: They did a chemical stress test on my mom.
+[SPEAKER_02]: Yeah, I've heard about those.
+[SPEAKER_02]: That's what I thought I was getting.
+[SPEAKER_00]: Oh, yeah.
+[SPEAKER_00]: I'm like, I don't know.
+[SPEAKER_00]: I think I'd rather do the treadmill.
+[SPEAKER_00]: I did something about laying in bed and then my heart just taken off would be really unsettling.
+[SPEAKER_02]: Yeah, I was kind of glad I did this trip.
+[SPEAKER_02]: It wasn't hard.
+[SPEAKER_02]: just walking, just raised and lowered.

@@ -1,0 +1,1193 @@
+WEBVTT
+
+00:00.031 --> 00:04.050
+[SPEAKER_02]: No Jacob, no Chris.
+
+00:05.093 --> 00:08.235
+[SPEAKER_02]: As far as...
+
+00:09.616 --> 00:11.007
+[SPEAKER_02]: Tickets go.
+
+00:11.571 --> 00:14.192
+[SPEAKER_02]: It's been fairly quiet.
+
+00:14.172 --> 00:18.394
+[SPEAKER_02]: You've been talking to Jordan on some stuff.
+
+00:18.374 --> 00:23.119
+[SPEAKER_02]: And then...
+
+00:23.723 --> 00:28.620
+[SPEAKER_02]: Blake, he's been working on a few issues with the cabinet order side of things.
+
+00:29.630 --> 00:35.488
+[SPEAKER_02]: And then I guess, Andrea, I don't know if they filled you in or not, but we had a
+
+00:35.468 --> 00:40.821
+[SPEAKER_02]: Issue with the customer portal emails.
+
+00:41.037 --> 00:41.699
+[SPEAKER_02]: Yeah.
+
+00:42.809 --> 00:45.043
+[SPEAKER_03]: Yeah, I've been following that.
+
+00:45.063 --> 00:46.915
+[SPEAKER_02]: Molly's been keeping me posted.
+
+00:46.935 --> 00:47.740
+[SPEAKER_02]: Okay, cool.
+
+00:48.277 --> 00:53.072
+[SPEAKER_02]: Yeah, it sounded like it was just something that Cody did, but I think he's got it fixed now.
+
+00:53.677 --> 00:58.202
+[SPEAKER_02]: He noticed this morning that they weren't going through again.
+
+00:58.773 --> 01:04.497
+[SPEAKER_02]: pushed him out and then I guess made another change on the security side to
+
+01:04.477 --> 01:06.010
+[SPEAKER_02]: allowed those to go through.
+
+01:06.051 --> 01:08.310
+[SPEAKER_02]: It was quarantining.
+
+01:08.290 --> 01:12.867
+[SPEAKER_02]: every email that was coming in to...
+
+01:13.538 --> 01:18.351
+[SPEAKER_02]: Or is it orders at www.inc.com?
+
+01:18.331 --> 01:22.587
+[SPEAKER_02]: I don't know if it was all emails or not.
+
+01:23.461 --> 01:27.565
+[SPEAKER_02]: So there's like 90...
+
+01:28.253 --> 01:32.003
+[SPEAKER_02]: They were just kind of sitting out there waiting to get picked up.
+
+01:31.983 --> 01:34.710
+[SPEAKER_00]: I heard you mention spoofing, is that?
+
+01:34.751 --> 01:36.306
+[SPEAKER_02]: Yeah, that's what it was.
+
+01:36.286 --> 01:39.310
+[SPEAKER_02]: It was labeling them as, it was spoof.
+
+01:39.290 --> 01:44.102
+[SPEAKER_00]: I mean are we like changing the to or the from address?
+
+01:44.993 --> 01:50.188
+[SPEAKER_01]: Well, you can spoof emails and you can fake what your address is.
+
+01:50.268 --> 01:50.852
+[SPEAKER_01]: Right.
+
+01:50.832 --> 01:52.607
+[SPEAKER_01]: I guess that's what it thinks they are.
+
+01:52.627 --> 01:55.712
+[SPEAKER_00]: I don't know if we're doing that or not.
+
+01:56.047 --> 01:58.104
+[SPEAKER_01]: I think it probably thinks that they're spoofing.
+
+01:58.830 --> 02:01.028
+[SPEAKER_00]: Oh, them coming into us.
+
+02:01.008 --> 02:01.696
+[SPEAKER_01]: That's what I would think.
+
+02:01.717 --> 02:03.559
+[SPEAKER_02]: Cause he was, he was,
+
+02:04.130 --> 02:07.795
+[SPEAKER_02]: supposed to, I guess, whitelist a
+
+02:07.775 --> 02:11.052
+[SPEAKER_02]: schism email address that it was using
+
+02:11.032 --> 02:16.890
+[SPEAKER_02]: And he ended up whitelisting anything that was at www.com.
+
+02:16.870 --> 02:20.856
+[SPEAKER_02]: So that's what threw it off originally.
+
+02:20.836 --> 02:22.336
+[SPEAKER_02]: I don't know.
+
+02:22.357 --> 02:23.370
+[SPEAKER_02]: It doesn't really...
+
+02:24.312 --> 02:26.674
+[SPEAKER_00]: Why would it throw it off if you're whitelisting it?
+
+02:26.917 --> 02:27.825
+[SPEAKER_01]: I don't know.
+
+02:27.805 --> 02:33.816
+[SPEAKER_01]: it doesn't make any sense so is it the orders at wwe yeah email that's the one that was marked as
+
+02:33.796 --> 02:35.369
+[SPEAKER_01]: being spooked?
+
+02:35.389 --> 02:37.043
+[SPEAKER_01]: I don't think so.
+
+02:37.063 --> 02:38.575
+[SPEAKER_01]: I think it was just this.
+
+02:38.555 --> 02:40.625
+[SPEAKER_02]: Yeah, the customer emails that were coming in.
+
+02:41.489 --> 02:44.042
+[SPEAKER_02]: But they're coming in from
+
+02:44.022 --> 02:45.932
+[SPEAKER_02]: Customer portal.
+
+02:47.195 --> 02:50.937
+[SPEAKER_02]: So that would be coming in from, I guess, one of our internal emails.
+
+02:51.239 --> 02:52.345
+[SPEAKER_02]: Right, Andrew?
+
+02:52.325 --> 02:54.252
+[SPEAKER_02]: Like when they create an order?
+
+02:54.890 --> 02:59.230
+[SPEAKER_03]: That does make sense because basically
+
+02:59.210 --> 03:05.220
+[SPEAKER_03]: The way the ticketing API works, it basically is scooping the emails
+
+03:05.200 --> 03:08.764
+[SPEAKER_03]: I believe because it's getting
+
+03:08.744 --> 03:13.455
+[SPEAKER_03]: Basically, it knows who they are,
+
+03:13.435 --> 03:17.677
+[SPEAKER_03]: and what their email address is, but they're not actually sending them email.
+
+03:17.697 --> 03:19.446
+[SPEAKER_03]: Right, that's the program that's sending it.
+
+03:19.426 --> 03:23.158
+[SPEAKER_03]: So we're basically seeing who it's from.
+
+03:23.138 --> 03:26.601
+[SPEAKER_03]: If we send an email, we're putting their address
+
+03:26.581 --> 03:30.415
+[SPEAKER_03]: So it is spoofing, but it's a legitimate spoofing.
+
+03:31.205 --> 03:33.283
+[SPEAKER_03]: That's why they call it spoofing.
+
+03:33.719 --> 03:36.178
+[SPEAKER_02]: I had to look it up.
+
+03:36.198 --> 03:37.266
+[SPEAKER_02]: It's like a hoax.
+
+03:37.415 --> 03:38.987
+[SPEAKER_00]: It is, that's exactly what it is.
+
+03:39.168 --> 03:43.037
+[SPEAKER_00]: I used to do it all the time.
+
+03:43.287 --> 03:46.834
+[SPEAKER_00]: for work and for play.
+
+03:46.814 --> 03:51.458
+[SPEAKER_00]: send my brother or my sister emails from
+
+03:52.113 --> 03:55.862
+[SPEAKER_00]: Ed McMahon, you want a million dollars?
+
+03:58.795 --> 04:03.304
+[SPEAKER_00]: You see that all the time on emails and seeing your spam folder all the time.
+
+04:03.284 --> 04:08.755
+[SPEAKER_00]: And you go and you hover over the address that it says it's from and it's something else.
+
+04:11.114 --> 04:14.982
+[SPEAKER_02]: It's kind of looking for it again because after you pushed out the
+
+04:14.962 --> 04:17.985
+[SPEAKER_02]: There was like 20 or so sitting in quarantine this morning.
+
+04:17.965 --> 04:21.342
+[SPEAKER_02]: and then he made another change and it wasn't performable.
+
+04:21.363 --> 04:23.976
+[SPEAKER_02]: So I think it's fixed.
+
+04:23.956 --> 04:24.669
+[SPEAKER_02]: Thank you.
+
+04:26.757 --> 04:31.553
+[SPEAKER_02]: Yeah, we've been working on a few issues with
+
+04:31.533 --> 04:35.805
+[SPEAKER_02]: Cameron Norder trying to diagnose some oddball.
+
+04:36.646 --> 04:40.969
+[SPEAKER_02]: issues that they've been having.
+
+04:41.692 --> 04:44.715
+[SPEAKER_02]: And then the one thing I really have to get
+
+04:44.695 --> 04:46.674
+[SPEAKER_02]: I will be out tomorrow.
+
+04:46.957 --> 04:49.238
+[SPEAKER_02]: I'm not having my procedure tomorrow, but
+
+04:49.690 --> 04:53.912
+[SPEAKER_02]: Since I'm not having my procedure, I'm gonna do what I was originally planning,
+
+04:55.732 --> 04:56.917
+[SPEAKER_02]: I'm not going.
+
+04:59.731 --> 05:00.837
+[SPEAKER_02]: place I was going.
+
+05:02.003 --> 05:05.742
+[SPEAKER_02]: I'm gonna take the day and just spend it with the littles.
+
+05:06.953 --> 05:12.745
+[SPEAKER_02]: But I do want to try and get that email out if you can.
+
+05:13.130 --> 05:17.200
+[SPEAKER_02]: And I think all we need to really do on that one
+
+05:17.720 --> 05:20.743
+[SPEAKER_02]: We need to look into the rehire.
+
+05:20.723 --> 05:23.899
+[SPEAKER_02]: just to make sure that it's putting in the right date there.
+
+05:23.879 --> 05:27.949
+[SPEAKER_02]: If they're a rehire, make sure that it's putting the rehire date in.
+
+05:27.929 --> 05:30.278
+[SPEAKER_02]: as the start date or whatever.
+
+05:30.730 --> 05:35.560
+[SPEAKER_02]: And then everything else, I think we just need to make sure that it's
+
+05:35.540 --> 05:38.952
+[SPEAKER_02]: that last export date is being set.
+
+05:38.932 --> 05:44.672
+[SPEAKER_01]: Which that works differently for just not like how it is with the medical where we just set that date and
+
+05:44.652 --> 05:50.089
+[SPEAKER_01]: We'll have to create a bunch of dummy records as if they've been exported.
+
+05:50.069 --> 05:54.105
+[SPEAKER_02]: because they have been exporting periodically, but like the
+
+05:54.997 --> 05:57.733
+[SPEAKER_02]: The last day that I sent one of those change files,
+
+05:58.017 --> 06:02.070
+[SPEAKER_02]: is I assume what we want that day to be set through.
+
+06:02.050 --> 06:06.238
+[SPEAKER_01]: I can't remember if we deleted the export from that or if we just marked it.
+
+06:06.218 --> 06:07.424
+[SPEAKER_01]: has not finalized it.
+
+06:07.444 --> 06:12.229
+[SPEAKER_01]: If the record's still there, all we gotta do is just set that as the most recent one, and then we'll be good.
+
+06:12.209 --> 06:15.175
+[SPEAKER_01]: But that one was an actual export.
+
+06:15.236 --> 06:16.023
+[SPEAKER_01]: Oh, yeah, that's right.
+
+06:16.043 --> 06:16.971
+[SPEAKER_01]: Yeah, that was the script.
+
+06:16.951 --> 06:19.329
+[SPEAKER_01]: Yeah, so we'll probably have to still insert the records.
+
+06:19.651 --> 06:22.472
+[SPEAKER_02]: We can look back and see what the records show.
+
+06:22.452 --> 06:24.785
+[SPEAKER_02]: because I know what date that was.
+
+06:24.805 --> 06:27.298
+[SPEAKER_02]: It was like July 8th or something.
+
+06:27.278 --> 06:31.483
+[SPEAKER_02]: So we can look back and see what the closest line is if we want to do that.
+
+06:32.240 --> 06:34.318
+[SPEAKER_02]: Because I think that'll...
+
+06:34.957 --> 06:39.178
+[SPEAKER_02]: that'll clean up their discrepancies.
+
+06:40.002 --> 06:43.752
+[SPEAKER_02]: In my mind, they weren't using this to compare to production at all.
+
+06:43.732 --> 06:49.270
+[SPEAKER_02]: they were just comparing it to the format like is are we getting everything we need
+
+06:49.250 --> 06:55.125
+[SPEAKER_02]: and then we say, okay, it's good, then we start in production.
+
+06:55.105 --> 06:58.197
+[SPEAKER_02]: they were actually comparing it to production.
+
+06:58.177 --> 07:01.200
+[SPEAKER_02]: isn't going to line up because we're going
+
+07:01.180 --> 07:05.267
+[SPEAKER_02]: have some that are that have been terminated that they're not going to have in their system
+
+07:05.247 --> 07:07.815
+[SPEAKER_02]: They're just going to drop off of our test file.
+
+07:08.234 --> 07:09.964
+[SPEAKER_02]: So we'll just try and get it.
+
+07:10.206 --> 07:12.439
+[SPEAKER_02]: We'll send this next one as it
+
+07:13.448 --> 07:19.459
+[SPEAKER_02]: could be the production file, the first one.
+
+07:19.439 --> 07:23.104
+[SPEAKER_02]: Um...
+
+07:25.784 --> 07:27.819
+[SPEAKER_02]: How's everything going on your end?
+
+07:28.061 --> 07:29.230
+[SPEAKER_02]: I've seen a few...
+
+07:29.210 --> 07:35.220
+[SPEAKER_02]: Yeah, I think I've got a lot of those label issues fixed.
+
+07:35.200 --> 07:40.435
+[SPEAKER_02]: Yeah, it's just kind of random things down.
+
+07:40.853 --> 07:42.578
+[SPEAKER_02]: How's the
+
+07:46.760 --> 07:49.820
+[SPEAKER_02]: I forgot the name.
+
+07:49.840 --> 07:51.792
+[SPEAKER_02]: The phone thing or the emergency thing.
+
+07:52.109 --> 07:55.352
+[SPEAKER_02]: Oh, I think we're going to add the new building.
+
+07:55.805 --> 07:59.100
+[SPEAKER_02]: Friday, I think that's what their plan is.
+
+07:59.120 --> 07:59.908
+[SPEAKER_02]: Okay, cool.
+
+07:59.888 --> 08:02.375
+[SPEAKER_02]: So yeah, that's all over there.
+
+08:02.698 --> 08:03.992
+[SPEAKER_02]: Did they get fans yet?
+
+08:04.394 --> 08:07.671
+[SPEAKER_02]: Oh, yeah, I think they've got a couple.
+
+08:07.651 --> 08:10.945
+[SPEAKER_02]: One at least, I know, in that area.
+
+08:11.313 --> 08:14.742
+[SPEAKER_00]: Let me talk about those big old fans.
+
+08:15.464 --> 08:19.163
+[SPEAKER_02]: It makes a difference for sure.
+
+08:20.206 --> 08:22.268
+[SPEAKER_02]: I guess they're calling the building eclipse.
+
+08:23.227 --> 08:24.112
+[SPEAKER_02]: Really?
+
+08:25.218 --> 08:25.339
+[SPEAKER_02]: Yeah.
+
+08:25.359 --> 08:27.410
+[SPEAKER_02]: Is the other one Shiloh?
+
+08:27.430 --> 08:29.119
+[SPEAKER_02]: I don't know I guess so.
+
+08:29.504 --> 08:33.388
+[SPEAKER_02]: That's what Jenny said and that's what they called it in the
+
+08:33.368 --> 08:38.198
+[SPEAKER_02]: InformaCast and Label and Eclipse.
+
+08:39.089 --> 08:41.204
+[SPEAKER_00]: But Charlotte's going to be moving over there, right?
+
+08:41.768 --> 08:42.352
+[SPEAKER_02]: I don't know.
+
+08:42.493 --> 08:43.319
+[SPEAKER_02]: Yeah, I guess so.
+
+08:43.339 --> 08:44.205
+[SPEAKER_02]: That's the plan.
+
+08:44.185 --> 08:48.677
+[SPEAKER_02]: I was talking to Corey about it and he didn't, he was kind of weirded out about it too because
+
+08:48.657 --> 08:50.687
+[SPEAKER_02]: It's eventually going to be Shiloh, but... Right.
+
+08:51.310 --> 08:53.622
+[SPEAKER_02]: Because eventually an aspect of it, right?
+
+08:53.602 --> 08:55.677
+[SPEAKER_02]: Yeah, I think so.
+
+08:55.798 --> 08:58.498
+[SPEAKER_02]: We may have some name changes later, I don't know.
+
+08:58.478 --> 09:00.591
+[SPEAKER_00]: Hopefully that's easy to do.
+
+09:01.668 --> 09:05.957
+[SPEAKER_00]: Let's go in there and, okay, this building's that, this building, okay, done.
+
+09:08.485 --> 09:12.649
+[SPEAKER_02]: I don't think it's very easy in the network because they have to do subnets.
+
+09:13.112 --> 09:14.057
+[SPEAKER_00]: Oh, right, yeah.
+
+09:16.585 --> 09:18.518
+[SPEAKER_00]: It just depends on how they have them named.
+
+09:18.659 --> 09:22.242
+[SPEAKER_00]: If they've named them generically, then it shouldn't be a problem.
+
+09:23.099 --> 09:26.224
+[SPEAKER_01]: Yeah.
+
+09:27.436 --> 09:31.540
+[SPEAKER_01]: We should just go with like building, bigger building, bigger building.
+
+09:31.520 --> 09:34.830
+[SPEAKER_00]: Building A, Building B, Building C.
+
+09:34.810 --> 09:39.792
+[SPEAKER_00]: If you run out of letters, you've got your company too big.
+
+09:41.425 --> 09:45.141
+[SPEAKER_02]: Chris, you got anything interesting right now?
+
+09:45.458 --> 09:48.330
+[SPEAKER_02]: I know you have a couple cabin order ones that are...
+
+09:49.289 --> 09:55.165
+[SPEAKER_02]: Yeah, I tested the changes he did and everything seemed good, so I'm just running the rest of the tests to make sure nothing else
+
+09:55.145 --> 09:59.400
+[SPEAKER_02]: Yeah, we pushed that one out at two yesterday and everything seemed fine.
+
+10:00.798 --> 10:06.252
+[SPEAKER_01]: A little bit after this meeting, we'll be sending you a Checksmith.
+
+10:06.232 --> 10:07.828
+[SPEAKER_01]: to test.
+
+10:07.848 --> 10:10.656
+[SPEAKER_01]: We finally wrapped up yesterday.
+
+10:10.636 --> 10:16.647
+[SPEAKER_01]: got an actual bank statement file from Jordan and we ran it through both side by side and everything worked.
+
+10:16.627 --> 10:17.436
+[SPEAKER_01]: Great.
+
+10:17.456 --> 10:20.308
+[SPEAKER_02]: So, we're done.
+
+10:20.288 --> 10:24.645
+[SPEAKER_02]: Did we all, did we figure out the whole like new ACH?
+
+10:24.625 --> 10:29.640
+[SPEAKER_01]: No, last I heard Jordan,
+
+10:29.873 --> 10:34.585
+[SPEAKER_01]: I got to where I could figure out how to
+
+10:34.565 --> 10:38.179
+[SPEAKER_01]: recreate the file he had been sending them, we have like,
+
+10:38.159 --> 10:40.637
+[SPEAKER_01]: options to change all that in the accounting program.
+
+10:41.544 --> 10:43.579
+[SPEAKER_01]: But at that point, Jordan said, I guess
+
+10:43.559 --> 10:48.169
+[SPEAKER_01]: the bank that they're working with had reached out to like another
+
+10:48.723 --> 10:53.485
+[SPEAKER_01]: that they're associated with that was gonna see if they could process the ACH for them.
+
+10:53.465 --> 10:57.274
+[SPEAKER_01]: The way we head with the old place.
+
+10:57.294 --> 10:58.362
+[SPEAKER_01]: Yeah, I guess.
+
+10:58.342 --> 11:03.660
+[SPEAKER_01]: Or if they could at least provide some more info on why our ECH wasn't working.
+
+11:03.640 --> 11:06.512
+[SPEAKER_01]: I haven't heard anything, it's been like a week.
+
+11:07.454 --> 11:11.932
+[SPEAKER_02]: And did I hear he called about the 401k change?
+
+11:11.952 --> 11:12.537
+[SPEAKER_01]: Yeah.
+
+11:12.517 --> 11:15.760
+[SPEAKER_01]: We're going to have to make a change
+
+11:15.740 --> 11:19.776
+[SPEAKER_01]: But he said it's not until October, and all we have to do is just add
+
+11:19.756 --> 11:24.028
+[SPEAKER_01]: an extra column onto the file that they export.
+
+11:24.008 --> 11:27.332
+[SPEAKER_01]: That just has if employees are part-time or not.
+
+11:27.352 --> 11:29.386
+[SPEAKER_01]: That's all it sounds like we'll have to do.
+
+11:29.406 --> 11:29.648
+[SPEAKER_01]: That's good.
+
+11:31.366 --> 11:34.390
+[SPEAKER_01]: I don't know if they'll need a one-time
+
+11:34.370 --> 11:38.112
+[SPEAKER_01]: to import everybody, or if that's something they could just transfer between the companies.
+
+11:38.534 --> 11:40.043
+[SPEAKER_01]: Which I assume they can, since they're
+
+11:40.023 --> 11:43.907
+[SPEAKER_01]: bringing over all of the amount and all that stuff.
+
+11:45.760 --> 11:48.582
+[SPEAKER_01]: which means function alone.
+
+11:52.325 --> 11:53.830
+[SPEAKER_01]: Um...
+
+11:58.012 --> 12:01.086
+[SPEAKER_02]: I will fill you guys in.
+
+12:01.066 --> 12:07.077
+[SPEAKER_02]: moving forward and we'll talk about this a little bit more on Monday when everybody's here
+
+12:07.057 --> 12:12.342
+[SPEAKER_02]: Thursdays, Scott's gonna start running meetings because
+
+12:13.334 --> 12:16.412
+[SPEAKER_02]: He's gonna get more technical with it.
+
+12:17.397 --> 12:18.805
+[SPEAKER_02]: He's gonna show...
+
+12:19.325 --> 12:23.007
+[SPEAKER_02]: more of the boards and we'll go through how
+
+12:22.987 --> 12:27.630
+[SPEAKER_02]: we're going to standardize things or try to.
+
+12:28.589 --> 12:34.380
+[SPEAKER_02]: but he's going to take the lead on coordinating all of the PR he has.
+
+12:34.360 --> 12:38.835
+[SPEAKER_02]: coordinated to all the triage type stuff.
+
+12:40.300 --> 12:43.965
+[SPEAKER_02]: We just want to get some stuff in place that
+
+12:44.772 --> 12:50.783
+[SPEAKER_02]: that we can go off of to make sure that stuff doesn't go stale or make sure that
+
+12:50.763 --> 12:55.575
+[SPEAKER_02]: stuff is getting out in a reasonable time and we're
+
+12:55.555 --> 12:58.579
+[SPEAKER_02]: to a place where we can start
+
+12:58.559 --> 13:02.545
+[SPEAKER_02]: learning, documenting things to take stuff off of your plate.
+
+13:02.525 --> 13:05.869
+[SPEAKER_02]: So that's kind of what this Thursday meeting is going to be about is
+
+13:05.849 --> 13:10.258
+[SPEAKER_02]: just, it's going to be ticket based.
+
+13:10.279 --> 13:11.708
+[SPEAKER_02]: Mondays will be just
+
+13:11.688 --> 13:14.632
+[SPEAKER_02]: What are we gonna be trying to push out for the week?
+
+13:15.498 --> 13:16.265
+[SPEAKER_02]: What are we working on?
+
+13:16.285 --> 13:17.091
+[SPEAKER_02]: Whatever.
+
+13:17.071 --> 13:23.065
+[SPEAKER_02]: But then the Thursday one we'll just focus on tickets, which we kind of do already.
+
+13:23.045 --> 13:28.532
+[SPEAKER_02]: But he'll get more detailed and we'll still keep it as short as we can.
+
+13:28.512 --> 13:30.000
+[SPEAKER_02]: Just...
+
+13:31.280 --> 13:35.755
+[SPEAKER_02]: but that'll take one thing off of my plate.
+
+13:36.173 --> 13:37.221
+[SPEAKER_00]: I'm happy to do it.
+
+13:37.584 --> 13:41.695
+[SPEAKER_00]: We've got like over 200 issues out there now.
+
+13:42.147 --> 13:44.305
+[SPEAKER_00]: Really all we're trying to do is keep it from getting stale.
+
+13:45.131 --> 13:46.200
+[SPEAKER_00]: Just keep it current.
+
+13:46.180 --> 13:52.191
+[SPEAKER_02]: and that's one reason if you guys have seen the periodic emails coming through with
+
+13:52.171 --> 13:57.625
+[SPEAKER_02]: Like the ones that have been over a year, that just haven't been touched yet.
+
+13:57.605 --> 14:02.552
+[SPEAKER_02]: If you had any of those, you'll get an automated email once a month.
+
+14:02.532 --> 14:06.957
+[SPEAKER_00]: First of every month they should come through.
+
+14:06.937 --> 14:10.045
+[SPEAKER_00]: And the plan is, once those are
+
+14:10.025 --> 14:13.690
+[SPEAKER_00]: either commented, the status has changed, or just
+
+14:13.670 --> 14:17.503
+[SPEAKER_00]: somebody's updated them in some way to say, yes, I know that's here.
+
+14:18.192 --> 14:22.633
+[SPEAKER_00]: then that'll fall off the list and as that gets smaller,
+
+14:22.613 --> 14:26.498
+[SPEAKER_00]: then we can reduce that time back to a more reasonable
+
+14:26.478 --> 14:28.374
+[SPEAKER_00]: Because a year is kind of a long time.
+
+14:29.483 --> 14:31.257
+[SPEAKER_00]: So we'll kind of feel that out.
+
+14:31.237 --> 14:36.420
+[SPEAKER_02]: Well another thing that we have been talking about too
+
+14:39.472 --> 14:44.368
+[SPEAKER_02]: So those are based off of anything that's active, right?
+
+14:44.348 --> 14:49.498
+[SPEAKER_00]: Well, yeah, if it hasn't been
+
+14:50.626 --> 14:53.717
+[SPEAKER_00]: if it's not closed, resolved,
+
+14:53.697 --> 14:58.577
+[SPEAKER_00]: and there has been no updates in 365 days.
+
+14:58.912 --> 15:04.365
+[SPEAKER_00]: An update could be anything from a status change to a comment or
+
+15:04.666 --> 15:08.668
+[SPEAKER_00]: Assigning it to someone for that matter.
+
+15:08.648 --> 15:14.659
+[SPEAKER_02]: But so we can mess around with some of the statuses too and that monitoring status
+
+15:14.639 --> 15:16.701
+[SPEAKER_02]: that we have in Jura.
+
+15:17.373 --> 15:22.388
+[SPEAKER_02]: if we flip it to monitoring, like if there's a ticket that
+
+15:23.515 --> 15:26.539
+[SPEAKER_02]: may or may not ever get done.
+
+15:26.519 --> 15:30.420
+[SPEAKER_02]: It may be something that they would like to have, but it's not
+
+15:30.400 --> 15:34.521
+[SPEAKER_02]: ever going to end up at the top of the list.
+
+15:35.480 --> 15:39.735
+[SPEAKER_02]: We could set that to monitoring, which will put it on hold in DevOps.
+
+15:39.985 --> 15:44.460
+[SPEAKER_02]: And then we can have a bucket of those, so I can free it up.
+
+15:44.440 --> 15:46.536
+[SPEAKER_02]: a time where we're just looking for stuff.
+
+15:46.556 --> 15:50.063
+[SPEAKER_02]: We can look on those on hold and then flip them back to active winter.
+
+15:50.043 --> 15:56.053
+[SPEAKER_00]: We could even explore some of the priorities on there as far as
+
+15:56.033 --> 15:58.753
+[SPEAKER_00]: if something is lowest priority,
+
+16:00.421 --> 16:03.580
+[SPEAKER_00]: that could be something else we could trigger off of.
+
+16:03.982 --> 16:06.702
+[SPEAKER_00]: low or lowest priorities might have a different
+
+16:07.306 --> 16:10.330
+[SPEAKER_00]: threshold and high level.
+
+16:10.310 --> 16:13.772
+[SPEAKER_00]: or highest priority or medium priority.
+
+16:13.752 --> 16:17.756
+[SPEAKER_00]: we could experiment with those thresholds and throw that into that query pretty easy.
+
+16:17.797 --> 16:19.527
+[SPEAKER_02]: Yeah, and really, I mean,
+
+16:19.979 --> 16:24.066
+[SPEAKER_02]: when we were putting some of those boards together just to show
+
+16:24.046 --> 16:29.382
+[SPEAKER_02]: what's out there, we were just focused on highs just because we know that they need those.
+
+16:29.362 --> 16:33.330
+[SPEAKER_02]: but the mediums most of the time are
+
+16:34.070 --> 16:37.887
+[SPEAKER_02]: pretty well needed also.
+
+16:38.558 --> 16:42.983
+[SPEAKER_02]: That's what the Thursday meetings will go.
+
+16:42.963 --> 16:46.088
+[SPEAKER_02]: streamline it.
+
+16:46.878 --> 16:51.775
+[SPEAKER_02]: get it to where they're more visible to us and like i said we're just trying to take some
+
+16:51.755 --> 16:53.348
+[SPEAKER_02]: some of the pressure off of you guys.
+
+16:53.408 --> 16:56.533
+[SPEAKER_02]: That way we keep eyes on it if you can.
+
+16:58.353 --> 17:02.313
+[SPEAKER_00]: And we don't get caught off guard when somebody calls in and goes, hey, what's this?
+
+17:02.815 --> 17:04.363
+[SPEAKER_00]: We're like, I haven't heard of that.
+
+17:04.343 --> 17:05.832
+[SPEAKER_04]: All right.
+
+17:07.330 --> 17:11.687
+[SPEAKER_00]: Especially when someone's out, like this week, we've got a lot of people out.
+
+17:12.545 --> 17:16.047
+[SPEAKER_02]: Yeah, Jordan doesn't like whenever me and Chris are both happy.
+
+17:16.168 --> 17:18.100
+[SPEAKER_00]: Oh yeah, he was not happy that day.
+
+17:19.953 --> 17:20.702
+[SPEAKER_02]: Can't really help.
+
+17:20.722 --> 17:21.127
+[SPEAKER_02]: Luckily.
+
+17:22.018 --> 17:23.010
+[SPEAKER_02]: Yeah, luckily.
+
+17:22.990 --> 17:28.798
+[SPEAKER_02]: Because originally I was supposed to be out all this week and I didn't know that Chris was going to be out also.
+
+17:30.601 --> 17:34.249
+[SPEAKER_02]: That worked out kind of, although he called on Monday when I was out.
+
+17:36.440 --> 17:40.290
+[SPEAKER_00]: We got that calendar on the triage board, so that helps.
+
+17:40.270 --> 17:41.558
+[SPEAKER_00]: We keep that updated.
+
+17:42.222 --> 17:44.678
+[SPEAKER_02]: Yeah, I need a new one.
+
+17:48.050 --> 17:50.237
+[SPEAKER_02]: Okay.
+
+17:50.257 --> 17:51.512
+[SPEAKER_02]: Andrew you got anything fun?
+
+17:52.403 --> 17:58.363
+[SPEAKER_03]: I have one fun thing and one semi, exciting thing.
+
+17:58.715 --> 18:00.912
+[SPEAKER_03]: Well, I think this is fun.
+
+18:01.381 --> 18:05.046
+[SPEAKER_03]: but people have been discovering
+
+18:05.026 --> 18:08.657
+[SPEAKER_03]: hogs, wild hogs in California.
+
+18:08.637 --> 18:12.014
+[SPEAKER_03]: When they open them up, they have neon blue meat.
+
+18:12.175 --> 18:14.648
+[SPEAKER_03]: All their meat looks like Smurf color.
+
+18:14.628 --> 18:18.478
+[SPEAKER_03]: At least the top layer of it does.
+
+18:18.458 --> 18:22.056
+[SPEAKER_03]: and it turns out that
+
+18:22.036 --> 18:27.490
+[SPEAKER_03]: there is a hog poison which is basically just a strong
+
+18:27.470 --> 18:33.480
+[SPEAKER_03]: rat poison and to prevent people from
+
+18:33.460 --> 18:37.227
+[SPEAKER_03]: basically getting secondhand poisoning.
+
+18:37.207 --> 18:43.217
+[SPEAKER_03]: they put a strong dye in it so that when the hogs eat the meat,
+
+18:43.197 --> 18:48.617
+[SPEAKER_03]: they will be like solid blue and apparently it gives them green tea too.
+
+18:48.597 --> 18:50.153
+[SPEAKER_03]: but, um,
+
+18:51.061 --> 18:53.093
+[SPEAKER_03]: Yeah, so I didn't know that was a thing.
+
+18:53.133 --> 18:53.716
+[SPEAKER_03]: That makes sense.
+
+18:54.118 --> 18:56.532
+[SPEAKER_03]: Yellow and blue make green.
+
+18:56.782 --> 18:58.827
+[SPEAKER_03]: Ann is...
+
+18:59.228 --> 19:04.497
+[SPEAKER_03]: just warframe, which is an anti-clodian agent that people take.
+
+19:04.814 --> 19:10.572
+[SPEAKER_03]: but it's just a very strong dose that kills rats and I guess hogs.
+
+19:11.395 --> 19:13.508
+[SPEAKER_03]: The...
+
+19:15.749 --> 19:20.680
+[SPEAKER_03]: We were debating on the web team if there was no prisoner involved
+
+19:20.660 --> 19:24.898
+[SPEAKER_03]: but you've just managed to get that blue dye into somebody's food,
+
+19:24.878 --> 19:28.813
+[SPEAKER_03]: would they turn like Smurf blue?
+
+19:29.114 --> 19:31.650
+[SPEAKER_00]: Seems like you'd have to eat a lot of it.
+
+19:32.636 --> 19:33.522
+[SPEAKER_03]: Yeah.
+
+19:34.126 --> 19:40.137
+[SPEAKER_03]: And the semi-exciting fact is the CHAP GBT-5 is supposed to be released
+
+19:40.117 --> 19:46.127
+[SPEAKER_03]: at noon, but only for people paying the $200 a month thing.
+
+19:46.107 --> 19:51.342
+[SPEAKER_03]: they're gonna roll it out to other people in like the next two weeks.
+
+19:52.132 --> 19:54.024
+[SPEAKER_00]: That's neat.
+
+19:54.044 --> 19:57.788
+[SPEAKER_00]: I used ChetGPT yesterday to
+
+19:57.768 --> 19:59.320
+[SPEAKER_00]: I just wanted to see what it would do.
+
+19:59.360 --> 20:03.492
+[SPEAKER_00]: So I started feeding it dump files and graphs and all sorts of things.
+
+20:03.472 --> 20:05.607
+[SPEAKER_00]: And I was really surprised.
+
+20:05.667 --> 20:09.010
+[SPEAKER_00]: It was pretty spot on with what Blake has been telling me.
+
+20:08.990 --> 20:12.251
+[SPEAKER_00]: a lot of the problems with the application I'm testing.
+
+20:12.855 --> 20:14.747
+[SPEAKER_00]: It flagged just about every one of them.
+
+20:14.727 --> 20:20.738
+[SPEAKER_00]: That's pretty good, it's recognizing what a person does.
+
+20:20.718 --> 20:24.045
+[SPEAKER_00]: I was impressed.
+
+20:24.515 --> 20:27.272
+[SPEAKER_00]: I've never really known what to do with a dump file either.
+
+20:27.292 --> 20:29.344
+[SPEAKER_00]: I throw it into...
+
+20:29.999 --> 20:35.470
+[SPEAKER_00]: Visual Studio and look at it and I still really don't completely understand what I'm looking at.
+
+20:36.074 --> 20:37.976
+[SPEAKER_00]: The GPT is able to explain it.
+
+20:38.967 --> 20:39.756
+[SPEAKER_00]: It's pretty neat.
+
+20:42.757 --> 20:45.891
+[SPEAKER_00]: Oh, and the thing about turning blue.
+
+20:47.016 --> 20:48.683
+[SPEAKER_00]: When my daughter was...
+
+20:49.405 --> 20:50.111
+[SPEAKER_00]: in a high chair.
+
+20:50.696 --> 20:52.470
+[SPEAKER_00]: She loved carrots and sweet potatoes.
+
+20:52.510 --> 20:54.083
+[SPEAKER_00]: That's about all she would eat.
+
+20:54.063 --> 20:57.137
+[SPEAKER_00]: She literally turned orange.
+
+20:57.893 --> 21:01.862
+[SPEAKER_02]: Yeah, we've had a couple orange babies before.
+
+21:03.395 --> 21:06.773
+[SPEAKER_02]: Andrew, what do you know about
+
+21:07.259 --> 21:10.536
+[SPEAKER_02]: Okay, this is going back to my test on Monday.
+
+21:10.516 --> 21:14.434
+[SPEAKER_02]: So I get there and
+
+21:15.106 --> 21:21.066
+[SPEAKER_02]: Well, okay, so all I knew about stress tests was I got to get on the treadmill and they got to monitor me.
+
+21:21.046 --> 21:22.440
+[SPEAKER_02]: Right?
+
+21:22.460 --> 21:25.369
+[SPEAKER_02]: Gotta see what my heart's doing when I'm stressed.
+
+21:26.159 --> 21:30.313
+[SPEAKER_02]: Well, they give me an IV as soon as I get there.
+
+21:30.293 --> 21:34.195
+[SPEAKER_02]: And say we're going to inject you with this nuclear
+
+21:34.175 --> 21:36.942
+[SPEAKER_02]: substance.
+
+21:36.962 --> 21:38.295
+[SPEAKER_02]: I was like, what?
+
+21:38.630 --> 21:42.413
+[SPEAKER_02]: Nuclear sounds bad.
+
+21:42.393 --> 21:48.015
+[SPEAKER_02]: after I had to sit there for an hour,
+
+21:47.995 --> 21:51.559
+[SPEAKER_02]: for I guess it to go through my system
+
+21:51.539 --> 21:56.115
+[SPEAKER_02]: Then they get readings on it or whatever because they sent me through another
+
+21:56.939 --> 22:02.494
+[SPEAKER_02]: Almost like an MRI machine that just watches it, but it all glows inside of you.
+
+22:02.474 --> 22:06.156
+[SPEAKER_02]: And that's what they watch in the thing that's going around you.
+
+22:06.929 --> 22:10.965
+[SPEAKER_02]: But I said, oh, it's just a low dose of,
+
+22:10.945 --> 22:15.026
+[SPEAKER_02]: You're clear, whatever.
+
+22:15.509 --> 22:16.011
+Stay closed.
+
+22:15.991 --> 22:20.415
+[SPEAKER_02]: It still doesn't sound good.
+
+22:20.800 --> 22:25.191
+[SPEAKER_02]: Next fact, I want to know more about this nuclear die.
+
+22:25.525 --> 22:27.964
+[SPEAKER_02]: or whatever it is.
+
+22:28.024 --> 22:28.971
+[SPEAKER_01]: I just like to imagine
+
+22:28.951 --> 22:34.962
+[SPEAKER_01]: that the stress test, you're like on the treadmill and there's just like an army drill sergeant screaming in your ear the whole time.
+
+22:34.942 --> 22:36.606
+[SPEAKER_01]: She was an old lady.
+
+22:36.768 --> 22:37.965
+[SPEAKER_02]: She was great.
+
+22:37.945 --> 22:43.585
+[SPEAKER_02]: other than when she was taking all the stickers off of me she was not gentle
+
+22:43.852 --> 22:46.133
+[SPEAKER_02]: Yeah, I thought I did great.
+
+22:46.497 --> 22:48.495
+[SPEAKER_02]: I was on there for like six minutes.
+
+22:48.880 --> 22:53.343
+[SPEAKER_02]: And then the doctor comes in and he said, you didn't last very long on the treadmill.
+
+22:54.127 --> 22:54.891
+[SPEAKER_02]: She stopped it.
+
+22:54.871 --> 23:00.797
+[SPEAKER_02]: My heart wasn't liking it, but I was doing fine.
+
+23:00.777 --> 23:05.674
+[SPEAKER_02]: They took me off, I guess, when the pressure got up too high.
+
+23:10.109 --> 23:10.636
+[SPEAKER_02]: But.
+
+23:11.982 --> 23:16.034
+[SPEAKER_02]: Andrew Graham next, hopefully next Friday is my assumption.
+
+23:16.054 --> 23:17.284
+[SPEAKER_02]: Assumption.
+
+23:17.855 --> 23:21.688
+[SPEAKER_02]: That's how much we have now.
+
+23:23.187 --> 23:26.953
+[SPEAKER_02]: Okay, thanks guys.
+
+23:26.933 --> 23:30.739
+[SPEAKER_00]: At least you got to do the treadmill.
+
+23:30.760 --> 23:31.122
+[SPEAKER_00]: I didn't.
+
+23:31.102 --> 23:32.549
+[SPEAKER_00]: Couldn't do the treadmill.
+
+23:33.052 --> 23:34.841
+[SPEAKER_00]: My mom didn't get on it either.
+
+23:34.861 --> 23:37.112
+[SPEAKER_00]: Yeah, did they do the chemicals?
+
+23:37.092 --> 23:38.144
+[SPEAKER_00]: stress test on her.
+
+23:38.164 --> 23:40.774
+[SPEAKER_02]: Nope, they just took her blood pressure in.
+
+23:40.754 --> 23:45.246
+[SPEAKER_02]: They did a chemical stress test on my mom.
+
+23:45.226 --> 23:46.456
+[SPEAKER_02]: Yeah, I've heard about those.
+
+23:46.476 --> 23:48.028
+[SPEAKER_02]: That's what I thought I was getting.
+
+23:48.048 --> 23:48.975
+[SPEAKER_00]: Oh, yeah.
+
+23:48.955 --> 23:50.051
+[SPEAKER_00]: I'm like, I don't know.
+
+23:50.092 --> 23:51.979
+[SPEAKER_00]: I think I'd rather do the treadmill.
+
+23:51.959 --> 23:56.822
+[SPEAKER_00]: I did something about laying in bed and then my heart just taken off would be really unsettling.
+
+23:58.895 --> 24:01.580
+[SPEAKER_02]: Yeah, I was kind of glad I did this trip.
+
+24:02.165 --> 24:03.336
+[SPEAKER_02]: It wasn't hard.
+
+24:04.042 --> 24:07.656
+[SPEAKER_02]: just walking, just raised and lowered.
+

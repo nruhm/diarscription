@@ -1,0 +1,338 @@
+[SPEAKER_05]: Well, it's quiet.
+[SPEAKER_05]: Everything's stopped.
+[SPEAKER_05]: Thank you.
+[SPEAKER_04]: It's all Stacy's fault.
+[SPEAKER_01]: My fault?
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: What'd I do?
+[SPEAKER_04]: I don't know.
+[SPEAKER_04]: Everybody was talking until you came in.
+[SPEAKER_01]: Technically it was me.
+[SPEAKER_01]: I think I did.
+[SPEAKER_01]: You're the first person to know this.
+[SPEAKER_01]: Oh yeah that's cool.
+[SPEAKER_01]: Well, apparently it is the year of the snake in Chinese.
+[SPEAKER_01]: calendar and so Xenia Optical like did a snake
+[SPEAKER_01]: Basically they have like four or five glasses with little snakes on the sides.
+[SPEAKER_05]: We got our fact of the day pre-teaser.
+[SPEAKER_00]: Do you have a, is it, is it?
+[SPEAKER_00]: It's red.
+[SPEAKER_00]: So is it like blue light protected?
+[SPEAKER_01]: You know, I think it's a gimmick.
+[SPEAKER_01]: I just like the fact that it kind of looks like
+[SPEAKER_01]: The...
+[SPEAKER_01]: Cyclops from the X-Men had like those red glasses.
+[SPEAKER_01]: But supposedly they said like
+[SPEAKER_01]: protects you from security cameras because
+[SPEAKER_01]: they'll just see like red and then they won't be able to do facial recognition.
+[SPEAKER_01]: I think that's a given.
+[SPEAKER_07]: Something going on with the meeting?
+[SPEAKER_07]: Hi, Chris.
+[SPEAKER_07]: He said that you guys are muted.
+[SPEAKER_07]: Yeah, I think you hit it like as soon as you started it.
+[SPEAKER_07]: I think it's probably because like the AI companion thing whenever it was on it shows it was muted and I guess maybe
+[SPEAKER_07]: I tried to help you.
+[SPEAKER_05]: Well, I guess we can get started.
+[SPEAKER_05]: It's 9-0-1.
+[SPEAKER_05]: Yay.
+[SPEAKER_05]: As we all know, Adam is having some
+[SPEAKER_05]: health issues so he's getting checked out so be thinking about him praying about him
+[SPEAKER_05]: And other than that, I don't think there's anything.
+[SPEAKER_05]: new going on in my world, so.
+[SPEAKER_05]: I'm just sitting over there taking notes and routing phone calls.
+[SPEAKER_05]: Let me just go around counterclockwise today.
+[SPEAKER_06]: You sent Kevin an order out on the...
+[SPEAKER_06]: Friday with just kind of a hodgepodge of faces.
+[SPEAKER_06]: Smaller stove.
+[SPEAKER_06]: Probably have Blake working on another one this week.
+[SPEAKER_06]: He should be good to go on
+[SPEAKER_06]: I think most of the common issues is what we're going to.
+[SPEAKER_06]: bigger release with designer and cabin order and the builder service.
+[SPEAKER_04]: When do you owe me from Vegas?
+[SPEAKER_00]: Tomorrow.
+[SPEAKER_00]: Wow.
+[SPEAKER_00]: Two hours ago.
+[SPEAKER_04]: Jake.
+[SPEAKER_05]: Are you guys going to be able to hit the Slack channel while you're there?
+[SPEAKER_04]: I mean as long as we have time.
+[SPEAKER_05]: well right yeah it'd be cool like you can't actually you're on the floor and
+[SPEAKER_04]: They're like really strict about pictures.
+[SPEAKER_04]: and stuff, so you can't really take pictures unless you're in a photo area.
+[SPEAKER_04]: Really?
+[SPEAKER_06]: I guess like there's enough.
+[SPEAKER_06]: like between like feds and
+[SPEAKER_06]: borderline criminal and I guess like full blown criminal hackers that
+[SPEAKER_06]: do come to it, like just, I guess, people that are super strict about their privacy.
+[SPEAKER_04]: right yeah somebody sees you like taking a picture they can go to like
+[SPEAKER_04]: The people that work there will be like, hey, they were taking a picture.
+[SPEAKER_04]: They'll be like, oh...
+[SPEAKER_04]: See they need these red glasses.
+[SPEAKER_05]: That's right, yeah.
+[SPEAKER_05]: I bet there's some people running around in there too that have the infrared build things going on there.
+[SPEAKER_05]: Don't mask out their faces.
+[SPEAKER_07]: Didn't you say you met the guy from Darknet Diaries?
+[SPEAKER_07]: Yeah.
+[SPEAKER_04]: Two years ago, we met.
+[SPEAKER_04]: His name was Ghost Exodus.
+[SPEAKER_04]: And we met him there.
+[SPEAKER_04]: Yeah, he has an episode of Dark Knight Diaries.
+[SPEAKER_04]: He went to prison for a little while.
+[SPEAKER_04]: basically he worked for this healthcare like
+[SPEAKER_04]: a smaller thing, but they had locked down his computer.
+[SPEAKER_04]: So he just remoted into one of the servers and
+[SPEAKER_04]: was doing stuff from there.
+[SPEAKER_04]: know if he was even IT, but he just found a way to get into their server
+[SPEAKER_04]: VMs and then was just doing stuff from there.
+[SPEAKER_04]: The Fed guy, he like posted on him.
+[SPEAKER_04]: YouTube or something about how he was hacking like making it play up like he was doing more than what he was
+[SPEAKER_04]: This fed agent was trying to make a name for itself, so they threw the hammer.
+[SPEAKER_04]: and all he was really doing was remoting into something on prim.
+[SPEAKER_04]: But since it was medical services and stuff.
+[SPEAKER_04]: He was like the runner of this hacker group.
+[SPEAKER_04]: You went to prison for like 50 meters or something.
+[SPEAKER_04]: Yeah, it was crazy.
+[SPEAKER_04]: Yeah, it was like, wow.
+[SPEAKER_07]: People get up.
+[SPEAKER_07]: with less for murder.
+[SPEAKER_04]: Yeah.
+[SPEAKER_05]: That's crazy.
+[SPEAKER_04]: Yeah, you really got it.
+[SPEAKER_04]: You can't get the best end of the stick.
+[SPEAKER_04]: He's a nice guy funny enough.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: Most of them are, I think.
+[SPEAKER_04]: Yeah.
+[SPEAKER_05]: What you got going on, Greg?
+[SPEAKER_05]: You and Stevie were talking about something this morning really interesting.
+[SPEAKER_02]: Oh, yeah.
+[SPEAKER_02]: So,
+[SPEAKER_02]: Yeah, she's just working on the embedded devices.
+[SPEAKER_02]: We don't have anything to deliver yet for that.
+[SPEAKER_02]: Uh-huh.
+[SPEAKER_02]: We do have an application hub, Chris.
+[SPEAKER_02]: we're going to turn over to testing and then probably a consolidate this one.
+[SPEAKER_02]: That's what we say.
+[SPEAKER_04]: I don't have any releases, but
+[SPEAKER_04]: I've been looking on my side quest about ACH transfers.
+[SPEAKER_04]: I reached out to a company and they were like,
+[SPEAKER_04]: Yeah, we really would like there to be at least 10,000 transactions a month.
+[SPEAKER_04]: Then they just didn't reply to me after that.
+[SPEAKER_04]: Wow.
+[SPEAKER_04]: I think we give about 7,500 transactions a month.
+[SPEAKER_05]: So you're only...
+[SPEAKER_04]: Right there.
+[SPEAKER_04]: We really want at least $5,000
+[SPEAKER_04]: and 10,000 plus transactions.
+[SPEAKER_04]: And I was like,
+[SPEAKER_04]: Yeah, I was like $500,000 is not any problem at all.
+[SPEAKER_06]: And then they just didn't reply.
+[SPEAKER_06]: That's pretty dull on their part, because the cash.
+[SPEAKER_04]: Well, I think what it is is with an ACH
+[SPEAKER_04]: it's so cheap to process they don't do like a percentage or anything so it's really like
+[SPEAKER_04]: they make their money off different transactions which
+[SPEAKER_04]: I'm sure they just group at all.
+[SPEAKER_04]: They wouldn't even tell me the pricing or anything, so I'm back on the search.
+[SPEAKER_07]: I wonder if they would change their mind if we told them that you know we're
+[SPEAKER_07]: Planning on having higher volume eventually because I think Jeff
+[SPEAKER_07]: wants all of our vendor ACH to eventually be, or vendors to be ACHs.
+[SPEAKER_07]: It's kind of like trying it out with some right now.
+[SPEAKER_04]: and try to reach out maybe again.
+[SPEAKER_04]: There's actually a payment bill at DEF CON
+[SPEAKER_04]: So I'm gonna go cruise around there and see if there's like
+[SPEAKER_04]: anybody has tips on good secure
+[SPEAKER_05]: Just don't get a tip from some criminal hacker.
+[SPEAKER_05]: Yeah, definitely.
+[SPEAKER_04]: It's like, oh, have you heard of this URL?
+[SPEAKER_05]: I happen to be the man in the middle on that but we're not saying yeah I think I would do some research when I got back but at least
+[SPEAKER_05]: Maybe somebody could point me.
+[SPEAKER_05]: Oh, God.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: You just can't seem to get your
+[SPEAKER_05]: out of finance, can you?
+[SPEAKER_05]: It just keeps pulling you back.
+[SPEAKER_04]: Especially when Ethan was gone last week.
+[SPEAKER_04]: Jeff and Jordan just decided to start calling me again, willy-nilly.
+[SPEAKER_04]: And then Chris asked me to look into that ACH transfer.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: I feel bad because me and...
+[SPEAKER_04]: Chandler like right on the cusp of being able to release this thing we've been working on for like a month and a half too
+[SPEAKER_04]: and then I'm like, all right, well, I'm gonna be looking at this.
+[SPEAKER_05]: What's this thing you're working on?
+[SPEAKER_04]: That logistics.
+[SPEAKER_04]: Oh yeah.
+[SPEAKER_04]: Multiplayer, it's like right there, just like finally.
+[SPEAKER_04]: Doing final touches.
+[SPEAKER_05]: So you wanted to do multi?
+[SPEAKER_05]: So that if two people are using logistics, they won't stomp on each other.
+[SPEAKER_04]: Yeah, exactly.
+[SPEAKER_04]: So each time something happens it will refresh from the API.
+[SPEAKER_04]: This is apparently refreshing, really screw stuff up right now.
+[SPEAKER_04]: where Jason explains it, I don't know exactly, but...
+[SPEAKER_05]: But this is the CAD part for Jason, right?
+[SPEAKER_04]: Yeah.
+[SPEAKER_05]: This isn't...
+[SPEAKER_05]: This isn't what Janelle uses.
+[SPEAKER_05]: Yeah, because Janelle is the only one that uses it, so she probably wouldn't really benefit from
+[SPEAKER_04]: No, there's a few others that use it, but it already has a feature like that.
+[SPEAKER_04]: I don't know how they...
+[SPEAKER_04]: CNC tab ended up in logistics.
+[SPEAKER_06]: He was just a place to put it in.
+[SPEAKER_06]: That's kind of what I figured the logistics has.
+[SPEAKER_06]: for the stuff Janelle uses, it has some concurrency like that.
+[SPEAKER_06]: if one person moves an order into the load,
+[SPEAKER_06]: they could send a message and it moves that order into that load on all their machines too.
+[SPEAKER_05]: It's really hard to test that stuff, isn't it Chris?
+[SPEAKER_05]: Like concurrency parts and things like that?
+[SPEAKER_07]: Yeah, we'd have to have two different ones going at once.
+[SPEAKER_05]: Right.
+[SPEAKER_07]: That gives us to Ethan.
+[SPEAKER_07]: Because for us, we've just been focused on Checksmith.
+[SPEAKER_07]: We're getting pretty close to finishing up the reconciled piece.
+[SPEAKER_07]: Hopefully this week we'll wrap it up and be able to set it to testing and run through.
+[SPEAKER_07]: Bye.
+[SPEAKER_01]: On our end, recently we did website releases that
+[SPEAKER_01]: It was, I think, last week.
+[SPEAKER_01]: But there was four minor text change.
+[SPEAKER_01]: And Natalie has done accessibility.
+[SPEAKER_01]: changes for the website,
+[SPEAKER_01]: I think I sent, I can't quite remember, but I think I sent customer portal to testing
+[SPEAKER_01]: So maybe this week we could have a release in just a minute.
+[SPEAKER_01]: It depends on that course.
+[SPEAKER_01]: And that was for, I think,
+[SPEAKER_01]: I don't know exactly what it was, but it had something to do with bill paid changes.
+[SPEAKER_01]: or on your end, I think.
+[SPEAKER_07]: They remember something like that, I don't know.
+[SPEAKER_07]: I don't know all the details because Matt's been talking with her more about it.
+[SPEAKER_07]: But I see if they're in here.
+[SPEAKER_07]: Yeah.
+[SPEAKER_07]: So once she's ready to push that out, we just gotta...
+[SPEAKER_07]: push the payment processing API.
+[SPEAKER_05]: It might be interesting to create some kind of a diagram where this hooks to this, hooks to this,
+[SPEAKER_05]: So this is, you know, between
+[SPEAKER_05]: between Andrew's team and your team.
+[SPEAKER_05]: order entry, how all those talk to each other.
+[SPEAKER_05]: I might do that.
+[SPEAKER_05]: I'm gonna work on that
+[SPEAKER_05]: So if I teams you or something pestering you about that, that's probably what it's about.
+[SPEAKER_05]: I'm probably trying to draw pictures.
+[SPEAKER_04]: It would be cool to have a full program.
+[SPEAKER_04]: Because everything starts in orders and then it traces through.
+[SPEAKER_04]: Like a map.
+[SPEAKER_04]: Yeah, yeah.
+[SPEAKER_04]: Like one of those, what's the guy from the TV show that has like the wall?
+[SPEAKER_04]: From It's Always Sunny.
+[SPEAKER_07]: Yeah.
+[SPEAKER_07]: Pick me Sylvia.
+[SPEAKER_03]: Sylvia Scott.
+[SPEAKER_07]: I was like, wait a second.
+[SPEAKER_05]: Got any facts?
+[SPEAKER_01]: I have two they're both AI facts.
+[SPEAKER_01]: there was a leak, I suspect that they did it themselves,
+[SPEAKER_01]: but that showed how much the AI people in Meta are getting.
+[SPEAKER_01]: And I think they did it themselves.
+[SPEAKER_01]: or I suspect because they are trying to basically poach all of the
+[SPEAKER_01]: developers, but apparently at least five of them are
+[SPEAKER_01]: They all got $10 million signing bonuses.
+[SPEAKER_01]: No, excuse me, $100 million signing bonuses
+[SPEAKER_01]: and are making 10 million a year apiece.
+[SPEAKER_01]: Wow.
+[SPEAKER_01]: And then the second fact is well, it's not really a fact or of an announcement but
+[SPEAKER_01]: Chapter 85 is supposed to be released this week, like Thursday or Friday.
+[SPEAKER_05]: I read something this morning about Apple working on their own AI.
+you
+[SPEAKER_06]: It's been Siri for years.
+[SPEAKER_05]: I'm thinking, OK, it's either going to be called IAI
+[SPEAKER_05]: or they're just gonna make Siri smarter.
+[SPEAKER_05]: I don't know.
+[SPEAKER_01]: well before and I thought this was really lame but
+[SPEAKER_01]: They tried to just call it AI, but make the A Apple.
+[SPEAKER_01]: So Apple intelligence and they just call it AI.
+[SPEAKER_01]: AI is ready to take it.
+[SPEAKER_05]: Right.
+[SPEAKER_07]: A bit late to the game there.
+[SPEAKER_05]: Yeah, they are.
+[SPEAKER_05]: They really are.
+[SPEAKER_05]: Of course, the technology is already developed now.
+[SPEAKER_05]: they can kind of piggyback off of what's already out there, I guess.
+[SPEAKER_04]: Yeah, even Snapchat has an A on it.
+[SPEAKER_05]: Thank you.
+[SPEAKER_00]: So Blake's here, and you all have to see Andrea.
+[SPEAKER_06]: Today he's gone, but he'll be gone here the rest of the week.
+[SPEAKER_06]: It should be over.
+[SPEAKER_05]: So is Blake going to be the only one on your team that's here?
+[SPEAKER_06]: Yeah, he should be the only one.
+[SPEAKER_06]: If not, I won't bring my laptop, but um...
+[SPEAKER_06]: Text me in probably the easiest way to make sure I see it.
+[SPEAKER_05]: Okay.
+[SPEAKER_05]: So you got your number in the emergency contacts thing, right?
+[SPEAKER_05]: Yeah, it should be on...
+[SPEAKER_05]: SharePoint.
+[SPEAKER_05]: SharePoint.
+[SPEAKER_05]: I always forget the name of that.
+[SPEAKER_05]: I've copied the
+[SPEAKER_05]: SharePoint contacts into the
+[SPEAKER_05]: Confluence pages for JIRA, they're all kind of
+[SPEAKER_05]: Confluence Jura, yeah.
+[SPEAKER_05]: So I've got those contacts in there so I know where they are so I don't have to go hunting
+[SPEAKER_05]: SharePoint, so that's helpful.
+[SPEAKER_04]: Last Thursday when Jordan was like freaking out about permissions and everything.
+[SPEAKER_04]: He's like, do you have Adam's number?
+[SPEAKER_04]: I was like, yeah.
+[SPEAKER_04]: He's like, can I have it?
+[SPEAKER_04]: I'm like, uh.
+[SPEAKER_05]: Yeah, that's a touchy place.
+[SPEAKER_07]: Wait, did I say I have it?
+[SPEAKER_07]: I guess I have deleted it.
+[SPEAKER_03]: I was like, what do you need it for?
+[SPEAKER_03]: He's like, I'm trying to find permission.
+[SPEAKER_04]: I was like, hold on, we're talking to Chris right now.
+[SPEAKER_04]: I don't have permissions, but yeah, Jordan was like, he was like trying to move way faster though.
+[SPEAKER_04]: what it was actually
+[SPEAKER_00]: If anybody needs any supplies, let me know.
+[SPEAKER_05]: Is anybody else going to be out just well?
+[SPEAKER_05]: Yeah, it would be a bad week to be gone because everybody's going to DEF CON.
+[SPEAKER_01]: I will say my girlfriend's mother is having
+[SPEAKER_01]: age and heart-related issues.
+[SPEAKER_01]: If something were to happen, I might be out, but I don't think anything will happen.
+[SPEAKER_05]: I'll throw a few prayers your way too.
+[SPEAKER_00]: Adam was supposed to be out Friday with all this going on.
+[SPEAKER_00]: I don't know if he's still leaving him up.
+[SPEAKER_06]: How's he feeling today?
+[SPEAKER_00]: I was with him yesterday.
+[SPEAKER_00]: He was his normal self.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: My mom, she had...
+[SPEAKER_00]: Kind of the same thing.
+[SPEAKER_00]: She had chest pains and went in for a stress test.
+[SPEAKER_00]: She was on the treadmill for like 10 days.
+[SPEAKER_00]: seconds and they saw stuff rushed her to the ER she had a triple bypass
+[SPEAKER_00]: Wow.
+[SPEAKER_00]: And she was 45.
+[SPEAKER_00]: So all of this is in the back of Adam's head.
+[SPEAKER_05]: Right.
+[SPEAKER_00]: So he has a stress test today at 9.30.
+[SPEAKER_00]: and then he's supposed to meet with the doctor at 12 o'clock.
+[SPEAKER_00]: So if they don't see anything,
+[SPEAKER_00]: They did give him blood pressure medicine.
+[SPEAKER_00]: They think that's what it is, high blood pressure.
+[SPEAKER_04]: You gotta take blood pressure.
+[SPEAKER_05]: Right.
+[SPEAKER_00]: Yeah, it's important.
+[SPEAKER_00]: So if they do find stuff, then they'll start doing another test.
+[SPEAKER_00]: Anyways.
+[SPEAKER_00]: I'll update everybody by here.
+[SPEAKER_05]: Okay, sounds good.
+[SPEAKER_05]: Appreciate it.
+[SPEAKER_02]: All right.
+[SPEAKER_05]: Everybody have a wonderful day and week.
+[SPEAKER_06]: What was his blood pressure, Stacy?
+[SPEAKER_00]: Um, wait a minute.
+[SPEAKER_00]: Before he went to the video on Friday, he said that the bottom line was 9-9.
+[SPEAKER_00]: Because I was like, oh.
+[SPEAKER_04]: I think they really freaked out.
+[SPEAKER_04]: Mine was like a hundred and something a day.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: The boss member?
+[SPEAKER_00]: Yeah.
+[SPEAKER_04]: I think it was like one, two.
+[SPEAKER_04]: Yeah.

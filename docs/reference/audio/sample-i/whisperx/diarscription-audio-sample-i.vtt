@@ -1,0 +1,1649 @@
+WEBVTT
+
+00:00.301 --> 00:03.105
+YESTERDAY AND IT'S KIND OF TODAY TALKING TO YOU GUYS
+
+00:03.338 --> 00:06.852
+where we put everything that we think will fit into
+
+00:09.363 --> 00:10.935
+in the spring.
+
+00:11.217 --> 00:14.783
+[SPEAKER_02]: And so we had two weeks actually developing the spring
+
+00:14.763 --> 00:17.871
+[SPEAKER_02]: and then we'll have one week afterwards where
+
+00:17.851 --> 00:23.254
+[SPEAKER_02]: you know, testing is going to be hammering it and we'll be going back and forth with them to make sure everything's right.
+
+00:23.234 --> 00:29.093
+[SPEAKER_02]: and then once that one week hard experience over we'll release it um and so
+
+00:29.073 --> 00:33.953
+[SPEAKER_02]: The way it works is, I think, which
+
+00:34.507 --> 00:40.062
+[SPEAKER_02]: I think there will be some overlap between the hardening and the next sprint.
+
+00:40.042 --> 00:42.377
+[SPEAKER_02]: Like we might go ahead and start working on the next sprint.
+
+00:42.477 --> 00:44.550
+[SPEAKER_02]: The vial testing is running through everything.
+
+00:44.530 --> 00:48.718
+[SPEAKER_02]: But this is like the timelines that he has for the ones that we're currently
+
+00:48.698 --> 00:50.794
+[SPEAKER_02]: working on or, you know, getting ready.
+
+00:50.854 --> 00:53.595
+[SPEAKER_02]: So starting Monday is when this next spring
+
+00:53.575 --> 00:57.763
+[SPEAKER_02]: We'll start, we got the two weeks, and then they'll end on October 3rd.
+
+00:57.743 --> 01:01.510
+[SPEAKER_02]: So I guess then hardening starts and then that will be done.
+
+01:02.992 --> 01:08.108
+[SPEAKER_02]: October 10th and then release and then we'll start the next sprint.
+
+01:08.088 --> 01:13.828
+[SPEAKER_02]: And so then this is everything that we had deemed
+
+01:13.808 --> 01:17.490
+[SPEAKER_02]: would fit into this sprint.
+
+01:17.470 --> 01:19.210
+[SPEAKER_02]: I see you have a question on here.
+
+01:19.230 --> 01:21.152
+[SPEAKER_02]: I just wanted to check with you guys, like is this list
+
+01:21.132 --> 01:22.358
+[SPEAKER_02]: Does this work for you guys?
+
+01:22.378 --> 01:23.563
+[SPEAKER_02]: Is this like the priority?
+
+01:23.945 --> 01:26.738
+[SPEAKER_02]: So what you would like to see go into this and if not,
+
+01:26.718 --> 01:32.728
+[SPEAKER_02]: We can kind of look at it again I guess and see if we need to make any changes or not.
+
+01:32.708 --> 01:38.719
+[SPEAKER_02]: I think we got that ready if you want to jump into that now
+
+01:38.699 --> 01:40.327
+[SPEAKER_02]: wait till after the slide.
+
+01:40.347 --> 01:41.915
+[SPEAKER_02]: You know, I think that this is pretty much it.
+
+01:41.935 --> 01:44.507
+[SPEAKER_02]: Like this is the reason I had some.
+
+01:46.613 --> 01:51.966
+[SPEAKER_02]: Okay, so the number one thing that we had down was just...
+
+01:51.946 --> 01:57.163
+[SPEAKER_02]: I'm 100% sure we're good on all of the fidelity stuff.
+
+01:58.848 --> 02:01.686
+[SPEAKER_02]: okay we're going to send the census this week
+
+02:01.987 --> 02:05.828
+[SPEAKER_02]: I think we're working on the money file, should have all that ready.
+
+02:05.909 --> 02:07.980
+[SPEAKER_02]: We just wanna make sure we have everything prepared
+
+02:07.960 --> 02:09.272
+[SPEAKER_02]: Yeah.
+
+02:09.293 --> 02:12.604
+[SPEAKER_02]: And so we- 9 of 26, right, is the-
+
+02:12.584 --> 02:14.233
+[SPEAKER_02]: is the last transmission.
+
+02:14.393 --> 02:18.595
+[SPEAKER_02]: It's going to be this week today or tomorrow.
+
+02:18.575 --> 02:23.488
+[SPEAKER_02]: Yeah, and we're kind of allotting for time for that during all this.
+
+02:23.468 --> 02:28.213
+[SPEAKER_02]: So we made sure we left some hours available for if there's any
+
+02:28.193 --> 02:31.268
+[SPEAKER_02]: high priority issues that come up.
+
+02:31.248 --> 02:35.470
+[SPEAKER_02]: and stuff like that, generating these census files if there's any changes needed.
+
+02:35.450 --> 02:41.308
+[SPEAKER_02]: we have like kind of some time buffer within this to do all that stuff okay so that was number one
+
+02:42.166 --> 02:47.535
+[SPEAKER_02]: Number two, it says DevTicket 1103.
+
+02:47.515 --> 02:51.754
+[SPEAKER_02]: I need that deployed to make 926.
+
+02:52.966 --> 02:54.930
+[SPEAKER_02]: Which one was that?
+
+02:55.011 --> 02:56.226
+[SPEAKER_02]: Second from the bottom.
+
+02:56.206 --> 03:01.710
+[SPEAKER_02]: Yeah.
+
+03:01.690 --> 03:05.457
+[SPEAKER_02]: Yeah, so that actually,
+
+03:05.437 --> 03:08.779
+[SPEAKER_02]: That's probably a five-minute deal.
+
+03:08.799 --> 03:10.873
+[SPEAKER_02]: That's probably a... Yeah, that one...
+
+03:10.853 --> 03:12.325
+[SPEAKER_02]: Yeah, that one.
+
+03:13.520 --> 03:15.498
+[SPEAKER_02]: shouldn't be to trigger a problem.
+
+03:15.922 --> 03:17.961
+[SPEAKER_02]: David, can you say you needed that virus?
+
+03:17.941 --> 03:21.775
+[SPEAKER_02]: because that Monday is like,
+
+03:22.632 --> 03:26.247
+[SPEAKER_02]: that Monday would be a payroll cycle that's applicable to this.
+
+03:26.227 --> 03:29.993
+[SPEAKER_02]: You know, I'm just going to try to look back and I needed to look forward.
+
+03:29.973 --> 03:33.756
+[SPEAKER_02]: You need to buy 926.
+
+03:38.697 --> 03:41.248
+[SPEAKER_02]: Yeah, 926.
+
+03:42.646 --> 03:47.053
+[SPEAKER_02]: Which I guess, so that's before the food plan release of everything.
+
+03:47.033 --> 03:52.707
+[SPEAKER_02]: I don't know, we can take a look, maybe see if we can just like throw that in with the payroll release that's
+
+03:52.687 --> 03:56.520
+[SPEAKER_02]: And that's the only payroll issue out there, right?
+
+03:56.500 --> 03:57.809
+[SPEAKER_02]: Yeah.
+
+03:58.010 --> 04:02.038
+[SPEAKER_02]: When do we have to switch over payroll to the 401k separate?
+
+04:02.018 --> 04:05.734
+[SPEAKER_02]: When's the first date you're going to generate a money file for that?
+
+04:05.714 --> 04:09.987
+[SPEAKER_02]: The first money file is October 2nd.
+
+04:10.810 --> 04:14.998
+[SPEAKER_02]: Okay, I'm trying to think of a way that we could...
+
+04:14.978 --> 04:16.207
+[SPEAKER_02]: We'll have those together.
+
+04:16.248 --> 04:18.323
+[SPEAKER_02]: But we need
+
+04:19.147 --> 04:25.157
+[SPEAKER_02]: So that means the 29th, whenever I run payroll, I need the fidelity file on there.
+
+04:25.137 --> 04:29.781
+[SPEAKER_02]: You know, whenever I create that money file, it's got to read fidelity.
+
+04:30.132 --> 04:32.515
+[SPEAKER_02]: So what is it, September 29th?
+
+04:34.216 --> 04:36.738
+[SPEAKER_02]: Okay, so what day would you be running payroll?
+
+04:36.758 --> 04:37.746
+[SPEAKER_02]: September 29th?
+
+04:37.726 --> 04:41.661
+[SPEAKER_02]: And then we're uploading the contributions
+
+04:41.641 --> 04:44.344
+[SPEAKER_02]: on the second with that Michael Koshner.
+
+04:44.881 --> 04:48.327
+[SPEAKER_02]: Okay, so 29.
+
+04:49.167 --> 04:54.452
+[SPEAKER_02]: But the 29th, whenever I run payroll, I need that to refill 20 months.
+
+04:56.862 --> 05:01.101
+[SPEAKER_02]: The 22nd is the last one that we are uploading to you.
+
+05:01.756 --> 05:04.948
+[SPEAKER_02]: You came from here.
+
+05:05.249 --> 05:08.486
+[SPEAKER_02]: I guess I'm a little confused.
+
+05:08.506 --> 05:10.315
+[SPEAKER_02]: So in the 9th, 26th then,
+
+05:11.527 --> 05:14.042
+[SPEAKER_02]: The 926, so that's on Friday.
+
+05:14.083 --> 05:15.833
+[SPEAKER_02]: So that will be actually the 926.
+
+05:15.813 --> 05:19.967
+[SPEAKER_02]: payroll that you're going to be running for the night?
+
+05:19.947 --> 05:22.683
+[SPEAKER_02]: We're talking about two separate things.
+
+05:22.703 --> 05:24.152
+[SPEAKER_02]: Two separate things.
+
+05:24.132 --> 05:26.124
+[SPEAKER_02]: I'm trying to get the data straight on those.
+
+05:26.205 --> 05:30.008
+[SPEAKER_02]: I'm just trying to see if there's a way that we can do those in the same release.
+
+05:31.118 --> 05:34.142
+[SPEAKER_02]: So like the...
+
+05:34.122 --> 05:38.530
+[SPEAKER_02]: the 11-03 pay-to-date thing for the health care checks.
+
+05:38.510 --> 05:40.707
+[SPEAKER_02]: He said that's up by 926.
+
+05:40.747 --> 05:43.407
+[SPEAKER_02]: So would that mean that you're going to be running the payroll on 929?
+
+05:43.387 --> 05:45.921
+[SPEAKER_02]: Yeah, you can throw both of them.
+
+05:45.961 --> 05:47.208
+[SPEAKER_02]: So the money file change?
+
+05:47.831 --> 05:48.233
+[SPEAKER_02]: Yeah.
+
+05:48.601 --> 05:50.052
+[SPEAKER_02]: can go in at 946.
+
+05:51.079 --> 05:52.671
+[SPEAKER_02]: Great, okay, yeah, let me get it in.
+
+05:52.651 --> 05:56.063
+[SPEAKER_02]: Because I'm going to run the payroll at 29.
+
+05:56.043 --> 05:59.404
+[SPEAKER_02]: And then that money file is for you fidelity.
+
+05:59.384 --> 06:02.965
+[SPEAKER_02]: because I have a meeting scheduled with Michael on the 2nd.
+
+06:02.945 --> 06:04.578
+[SPEAKER_02]: to upload those contributions.
+
+06:04.820 --> 06:07.118
+[SPEAKER_02]: That's our first upload of fidelity.
+
+06:07.138 --> 06:07.723
+Okay.
+
+06:07.703 --> 06:09.352
+[SPEAKER_02]: Okay, good.
+
+06:09.452 --> 06:13.714
+[SPEAKER_02]: There's going to be some things in there, Ethan, that you're not going to do.
+
+06:13.694 --> 06:17.005
+[SPEAKER_02]: We're not going to be able to...
+
+06:17.339 --> 06:19.712
+[SPEAKER_02]: Love them with Christmas playing here.
+
+06:19.852 --> 06:22.084
+[SPEAKER_02]: You know, it's got to change.
+
+06:23.836 --> 06:25.290
+[SPEAKER_02]: You know what I mean?
+
+06:26.350 --> 06:26.955
+[SPEAKER_02]: Yeah.
+
+06:27.338 --> 06:31.028
+[SPEAKER_02]: I know we're trying to make all the business plans, but like that little thing there,
+
+06:31.008 --> 06:31.592
+[SPEAKER_02]: Yeah.
+
+06:31.612 --> 06:35.415
+[SPEAKER_02]: So I got the five-inch job for you to switch that date on those.
+
+06:36.273 --> 06:38.889
+[SPEAKER_02]: I don't feel like that.
+
+06:38.909 --> 06:41.625
+[SPEAKER_02]: Well, the thing is that we also have to run through testing
+
+06:41.605 --> 06:45.118
+[SPEAKER_02]: and other stuff, but yeah, I guess we're trying to get it to,
+
+06:45.098 --> 06:50.215
+[SPEAKER_02]: I guess a process where we can kind of like
+
+06:50.195 --> 06:56.205
+[SPEAKER_02]: plan out two weeks of work and just you know we've got to disappear for those two weeks unless like something super urgent comes up
+
+06:56.185 --> 06:59.378
+[SPEAKER_02]: just hammer that all out and then release it all.
+
+06:59.358 --> 07:04.609
+[SPEAKER_02]: Yeah, I know that's a good, I like the structure, I think we should do that better.
+
+07:04.589 --> 07:06.533
+[SPEAKER_02]: I still think there's going to be
+
+07:06.783 --> 07:11.038
+[SPEAKER_02]: There's still big things in there like this.
+
+07:11.018 --> 07:12.995
+[SPEAKER_02]: It's no different.
+
+07:13.015 --> 07:14.548
+[SPEAKER_02]: We're just going to be on that one.
+
+07:14.528 --> 07:15.194
+[SPEAKER_02]: Yeah.
+
+07:15.214 --> 07:18.666
+[SPEAKER_02]: And they kind of get to the point where we can kind of
+
+07:18.646 --> 07:23.830
+[SPEAKER_02]: figure these out way in advance and then we can kind of
+
+07:23.810 --> 07:29.314
+[SPEAKER_02]: get to it in a manner of like, you know, a time where, you know, we have plenty of time to get to it and it's not urgent.
+
+07:29.294 --> 07:32.852
+[SPEAKER_02]: But yeah, I understand that every step like that comes out.
+
+07:32.873 --> 07:33.398
+[SPEAKER_02]: We do.
+
+07:33.378 --> 07:38.089
+[SPEAKER_02]: keep that in mind whenever we're scheduling or not scheduling whenever we're
+
+07:38.069 --> 07:43.658
+[SPEAKER_02]: planning out all these spreads to like we're leaving time in there to do these.
+
+07:44.228 --> 07:46.144
+[SPEAKER_02]: And so we're square on that.
+
+07:46.245 --> 07:48.585
+[SPEAKER_02]: I'd like to have on 926,
+
+07:48.565 --> 07:52.939
+[SPEAKER_02]: with pay date changes and then also we're flipping from
+
+07:52.919 --> 07:56.249
+[SPEAKER_02]: Transamerica to a Fidelity Contribution Fund.
+
+07:56.269 --> 07:57.782
+[SPEAKER_02]: Yeah.
+
+07:57.762 --> 08:02.153
+[SPEAKER_02]: Number three, I had dev ticket 1106.
+
+08:02.133 --> 08:04.365
+[SPEAKER_02]: That 1095 discrepancy?
+
+08:04.948 --> 08:05.410
+[SPEAKER_02]: Yep.
+
+08:05.431 --> 08:07.401
+[SPEAKER_02]: I want to send that file on 10.1.
+
+08:08.495 --> 08:09.564
+[SPEAKER_02]: because I have a 1015.
+
+08:09.705 --> 08:13.898
+[SPEAKER_02]: I've got to give them time to review that file.
+
+08:14.755 --> 08:16.564
+[SPEAKER_02]: AND I THINK IT'S NOT
+
+08:18.147 --> 08:23.297
+[SPEAKER_02]: review any changes or if there's any discrepancies.
+
+08:23.277 --> 08:24.322
+[SPEAKER_02]: Yeah.
+
+08:24.343 --> 08:29.288
+[SPEAKER_02]: And we're going to have a meeting scheduled 10-15.
+
+08:29.268 --> 08:32.663
+[SPEAKER_02]: Which one was that?
+
+08:33.250 --> 08:37.865
+[SPEAKER_02]: It's 1106 and 95 discrepancy.
+
+08:38.087 --> 08:38.147
+Go.
+
+08:39.342 --> 08:44.577
+[SPEAKER_02]: which their file, it's been right, so I don't know what changed.
+
+08:51.830 --> 08:55.274
+[SPEAKER_02]: It'd be kind of nice when you look at that to see what did change.
+
+08:55.395 --> 08:57.368
+[SPEAKER_02]: I mean, we ran that thing for months.
+
+08:57.348 --> 08:59.861
+[SPEAKER_02]: A couple, maybe a year and a half a year.
+
+09:00.243 --> 09:02.515
+[SPEAKER_02]: Yeah, something doesn't change.
+
+09:03.001 --> 09:08.455
+[SPEAKER_02]: Yeah, that one's still kind of an enigma, so I was probably not really sure what's happened there either.
+
+09:08.435 --> 09:13.315
+[SPEAKER_02]: So next thing I had,
+
+09:13.295 --> 09:17.905
+[SPEAKER_02]: I don't know that they're big 1095, the break,
+
+09:18.323 --> 09:19.432
+[SPEAKER_02]: Kind of over my head.
+
+09:20.359 --> 09:21.891
+[SPEAKER_02]: Is that the inventory management one?
+
+09:22.375 --> 09:23.524
+[SPEAKER_02]: Yeah, I'm not sure what that is.
+
+09:23.504 --> 09:27.456
+[SPEAKER_02]: Yes, he said that, and we realized afterwards that that's kind of out of our court.
+
+09:27.436 --> 09:30.848
+[SPEAKER_02]: Greg actually already sorted that out.
+
+09:31.267 --> 09:36.231
+[SPEAKER_02]: The number...
+
+09:37.561 --> 09:43.572
+[SPEAKER_02]: So I had 1031, starting to get into that GCHP.
+
+09:43.552 --> 09:45.277
+[SPEAKER_02]: Welcome.
+
+09:46.100 --> 09:50.254
+[SPEAKER_02]: And then the only thing I had after that was
+
+09:50.234 --> 09:53.815
+[SPEAKER_02]: All the check fits together.
+
+09:53.795 --> 09:58.405
+[SPEAKER_02]: Dev ticket 741, we closed.
+
+09:59.077 --> 10:03.130
+[SPEAKER_02]: Diff Ticket 553, we can close.
+
+10:03.498 --> 10:06.131
+[SPEAKER_02]: 741, we can close.
+
+10:06.433 --> 10:09.508
+[SPEAKER_02]: 741, 553.
+
+10:09.488 --> 10:12.428
+[SPEAKER_02]: We can close 695.
+
+10:14.416 --> 10:19.228
+[SPEAKER_02]: And I made a comment on 801.
+
+10:19.208 --> 10:21.122
+[SPEAKER_02]: That the first part of that is done.
+
+10:21.686 --> 10:22.975
+[SPEAKER_02]: I read my...
+
+10:22.955 --> 10:27.953
+[SPEAKER_02]: I'm running my balance sheet with the earnings piece on 801.
+
+10:28.220 --> 10:31.285
+[SPEAKER_02]: I can't recall any of that.
+
+10:31.306 --> 10:33.302
+[SPEAKER_02]: I can't remember our issue.
+
+10:33.282 --> 10:38.415
+[SPEAKER_02]: We're getting one mountain from one place and one in the other, but I can't recreate it.
+
+10:38.395 --> 10:41.689
+[SPEAKER_02]: So if we want to go ahead until I can find a dream to see.
+
+10:41.669 --> 10:43.643
+[SPEAKER_02]: I'm okay at the moment.
+
+10:43.663 --> 10:46.684
+[SPEAKER_02]: With that one, I think the plan was we talked about
+
+10:46.664 --> 10:52.472
+[SPEAKER_02]: having balance sheet actually call the same bit of code that retained earnings report does.
+
+10:52.452 --> 10:58.227
+[SPEAKER_02]: because I think balance sheet is kind of recalculating everything itself, and that's what it is.
+
+10:58.207 --> 11:02.530
+[SPEAKER_02]: discrepancies, so I think it would still be a worthwhile improvement.
+
+11:02.510 --> 11:07.121
+[SPEAKER_02]: Okay, but the first part of that thing, that's the only thing I'm missing.
+
+11:07.363 --> 11:07.947
+[SPEAKER_02]: Yeah.
+
+11:07.927 --> 11:11.652
+[SPEAKER_02]: Yeah, and we noted that we kind of cleared that like in our estimate on the time on that.
+
+11:11.672 --> 11:13.363
+[SPEAKER_02]: I saw that you commented on there.
+
+11:13.343 --> 11:19.354
+[SPEAKER_02]: Going back to the Dev 553 though, that one I didn't think had ever been worked on.
+
+11:19.334 --> 11:24.248
+[SPEAKER_02]: I just got off the phone with Kevin and
+
+11:24.228 --> 11:25.922
+[SPEAKER_02]: I said, is it relevant?
+
+11:26.527 --> 11:27.938
+[SPEAKER_02]: Have you had any other issues?
+
+11:27.959 --> 11:29.007
+[SPEAKER_02]: And he said no.
+
+11:29.442 --> 11:34.913
+[SPEAKER_02]: And so he's unable, he can't think of any examples since.
+
+11:35.787 --> 11:39.739
+[SPEAKER_02]: because they put in that ticket in like January and so
+
+11:39.719 --> 11:43.030
+[SPEAKER_02]: I don't know, it's one of those things where for Pops to begin,
+
+11:43.010 --> 11:44.633
+[SPEAKER_02]: Prioritize the ticket.
+
+11:45.323 --> 11:46.033
+[SPEAKER_02]: I may take a look
+
+11:46.013 --> 11:49.813
+[SPEAKER_02]: at it because I remember I had the exact steps to reproduce that
+
+11:49.793 --> 11:54.589
+[SPEAKER_02]: It was something that didn't come up very often, but it was basically
+
+11:54.569 --> 11:58.555
+[SPEAKER_02]: If you went to go edit a sale where
+
+11:58.535 --> 12:02.672
+[SPEAKER_02]: because I think it's where they can like change the ship to the customer or
+
+12:02.652 --> 12:06.014
+[SPEAKER_02]: Basically, the Shift 2 on the sale isn't one that can be found anymore.
+
+12:06.557 --> 12:07.785
+[SPEAKER_02]: It would just default.
+
+12:07.765 --> 12:13.776
+[SPEAKER_02]: to whatever their current ship to is, and then it would recalculate all the tax and mess everything up.
+
+12:13.756 --> 12:18.720
+[SPEAKER_02]: It was cold on Kevin.
+
+12:20.168 --> 12:24.087
+[SPEAKER_02]: because we were trying to to recall what that was and
+
+12:24.775 --> 12:27.563
+[SPEAKER_02]: But okay, it sounds like you've got a lead on that.
+
+12:28.420 --> 12:32.052
+[SPEAKER_02]: Yeah, it was one that came up twice maybe, and then it was like,
+
+12:32.032 --> 12:34.956
+[SPEAKER_02]: It's hard to track down, kind of screwed everything up with the sales tax.
+
+12:35.460 --> 12:36.186
+[SPEAKER_02]: Okay.
+
+12:37.330 --> 12:40.354
+[SPEAKER_02]: We haven't had any flags on it.
+
+12:40.334 --> 12:45.720
+[SPEAKER_02]: I would throw that ahead of probably the ACH and the Jack Smith piece then.
+
+12:45.700 --> 12:47.391
+[SPEAKER_02]: Because that's kind of
+
+12:48.012 --> 12:49.440
+[SPEAKER_02]: Well, I'm happy they hurt Cindy.
+
+12:49.742 --> 12:52.317
+[SPEAKER_02]: They would call out on Cindy, like she would get the flag.
+
+12:52.719 --> 12:52.941
+[SPEAKER_02]: Yeah.
+
+12:52.961 --> 12:53.685
+[SPEAKER_02]: They don't match.
+
+12:53.665 --> 12:59.490
+[SPEAKER_02]: The one example that Kevin had, we were able to get a resale certificate on.
+
+12:59.470 --> 13:01.406
+[SPEAKER_02]: So it kind of became a non-issue.
+
+13:01.487 --> 13:04.553
+[SPEAKER_02]: I don't think it is an issue either.
+
+13:06.794 --> 13:12.619
+[SPEAKER_02]: So looking at this list that we have here, I think that pretty much everything that you've mentioned is in here.
+
+13:12.599 --> 13:18.407
+[SPEAKER_02]: the only thing that out of the list that we did send you I think there's really only one thing that we
+
+13:18.387 --> 13:23.115
+[SPEAKER_02]: didn't think would fit in the sprint, and that was like all the missing checksmith reports.
+
+13:23.095 --> 13:26.845
+[SPEAKER_02]: we were kind of thinking that that would be unless we have you know
+
+13:26.825 --> 13:32.835
+[SPEAKER_02]: we might end up being into the 401k stuff but for the next sprint but if not then like the Chex Smith report
+
+13:32.815 --> 13:36.885
+[SPEAKER_02]: would be good to work on there but we still were gonna like fix all the bugs and
+
+13:36.865 --> 13:42.319
+[SPEAKER_02]: Like all the feedback and stuff, you guys had them checked in on this upcoming room.
+
+13:42.890 --> 13:44.008
+[SPEAKER_02]: uh,
+
+13:46.417 --> 13:51.313
+[SPEAKER_02]: So everything we have mentioned here, we should be...
+
+13:52.508 --> 13:55.971
+[SPEAKER_02]: I think that 11, 12,
+
+13:56.980 --> 13:58.533
+[SPEAKER_02]: I think that's done.
+
+13:58.553 --> 14:01.135
+[SPEAKER_02]: I asked Marley yesterday.
+
+14:02.431 --> 14:07.564
+[SPEAKER_02]: 11, 12.
+
+14:08.354 --> 14:10.109
+[SPEAKER_02]: There's no number or order.
+
+14:10.129 --> 14:12.610
+[SPEAKER_02]: I think that's done.
+
+14:12.590 --> 14:16.339
+[SPEAKER_02]: What you guys did was reset all the PNC customers.
+
+14:16.792 --> 14:21.385
+[SPEAKER_02]: He wiped out their information, so they had to re-verify the accounts.
+
+14:21.365 --> 14:25.097
+[SPEAKER_02]: Yeah, that was the one that Matt did.
+
+14:25.077 --> 14:28.101
+[SPEAKER_02]: But they didn't get that sorted out.
+
+14:28.942 --> 14:33.855
+[SPEAKER_02]: I don't know if DNC did or strike, but I think as far as we're concerned.
+
+14:35.050 --> 14:36.842
+[SPEAKER_02]: We are done with that.
+
+14:37.109 --> 14:38.743
+[SPEAKER_02]: Okay.
+
+14:39.833 --> 14:41.770
+[SPEAKER_02]: I'm just in the order that
+
+14:41.952 --> 14:44.436
+[SPEAKER_02]: I don't know if you're on that or not.
+
+14:44.720 --> 14:46.689
+[SPEAKER_02]: That email with Krishna.
+
+14:47.914 --> 14:50.325
+[SPEAKER_02]: I just printed it out and kind of wrote on it.
+
+14:50.305 --> 14:52.367
+[SPEAKER_02]: I'll put in that finance team.
+
+15:03.265 --> 15:08.854
+[SPEAKER_02]: I mean like looking at this compared to like what we have on the plan here I think
+
+15:08.834 --> 15:10.796
+[SPEAKER_02]: everything lines up.
+
+15:10.817 --> 15:12.718
+[SPEAKER_02]: I mean, building through here, we got the
+
+15:12.698 --> 15:15.596
+[SPEAKER_02]: That first one, 741, you said we could close.
+
+15:15.938 --> 15:17.629
+[SPEAKER_02]: The 1031 is the
+
+15:17.609 --> 15:19.930
+[SPEAKER_02]: which that's the biggest chunk of this.
+
+15:19.950 --> 15:21.645
+[SPEAKER_02]: We're thinking that's gonna take up
+
+15:21.625 --> 15:25.307
+[SPEAKER_02]: the majority of this sprint and then
+
+15:25.287 --> 15:29.172
+[SPEAKER_02]: You know, we got that 553 at SafeSail being changed.
+
+15:29.152 --> 15:30.421
+[SPEAKER_02]: That shouldn't be too bad.
+
+15:30.441 --> 15:33.120
+[SPEAKER_02]: The 1095 thing,
+
+15:33.455 --> 15:36.196
+[SPEAKER_02]: and then the retained earnings report change.
+
+15:36.256 --> 15:39.077
+[SPEAKER_02]: That should also be a pretty quick, easy thing.
+
+15:39.057 --> 15:45.034
+[SPEAKER_02]: Really the only other bigger part of it would be like the checksmith bones and stuff.
+
+15:45.385 --> 15:47.301
+[SPEAKER_02]: But does that all sound good to you guys?
+
+15:47.382 --> 15:48.612
+[SPEAKER_02]: Yeah, it's not for idiots.
+
+15:48.592 --> 15:53.252
+[SPEAKER_02]: like the jack smith thing or the ach that's just kind of like i would push it to the end
+
+15:53.232 --> 15:58.095
+[SPEAKER_02]: Make sure we get everything else done, and then if we have time, work goes in.
+
+15:58.075 --> 16:02.477
+[SPEAKER_02]: Yeah, I think the list, like the order here is kind of the priority we were planning on going.
+
+16:02.498 --> 16:03.985
+[SPEAKER_02]: So from the top down,
+
+16:03.965 --> 16:05.984
+[SPEAKER_02]: So the ACA is going to be the first thing.
+
+16:06.509 --> 16:07.680
+[SPEAKER_02]: I will move it down.
+
+16:08.352 --> 16:12.321
+[SPEAKER_02]: because I need the I'd like to have like you need the payroll
+
+16:12.301 --> 16:18.126
+[SPEAKER_02]: I need that payroll thing, and then I need that 1095, so that needs to be above.
+
+16:18.106 --> 16:19.072
+[SPEAKER_02]: Okay.
+
+16:19.172 --> 16:21.627
+[SPEAKER_02]: I've got them ordered actually in the sprint now.
+
+16:21.647 --> 16:21.928
+[SPEAKER_02]: Ethan.
+
+16:22.170 --> 16:22.733
+[SPEAKER_02]: Okay.
+
+16:22.713 --> 16:23.759
+[SPEAKER_02]: Okay.
+
+16:25.369 --> 16:27.964
+[SPEAKER_02]: Because I know it's just kind of like,
+
+16:29.075 --> 16:33.297
+[SPEAKER_02]: Just trying to check down the list.
+
+16:33.277 --> 16:39.287
+[SPEAKER_02]: but that's the list that i need just because i have dates on those yeah yeah okay
+
+16:39.267 --> 16:44.687
+[SPEAKER_02]: Yeah, so I just went and reordered them as we were going.
+
+16:44.667 --> 16:47.691
+[SPEAKER_02]: and his friends, so it should be one night.
+
+16:47.671 --> 16:53.563
+[SPEAKER_00]: So it's going to change the priority to highest.
+
+16:53.729 --> 16:54.938
+[SPEAKER_02]: I wonder if they looked at it.
+
+16:55.019 --> 16:57.478
+[SPEAKER_02]: Based on this, Ethan, so
+
+16:57.458 --> 17:01.495
+[SPEAKER_02]: If that's the two weeks, Brent, you're looking for something for the next.
+
+17:01.475 --> 17:04.498
+[SPEAKER_02]: I wish.
+
+17:04.478 --> 17:07.003
+[SPEAKER_02]: I guess that'll be something we can kind of talk about later.
+
+17:07.205 --> 17:08.397
+[SPEAKER_02]: But yeah, the next one.
+
+17:08.377 --> 17:13.746
+[SPEAKER_02]: I don't know if it's going to be like the next phase of the 401k or if that would be the checksmith reports.
+
+17:13.726 --> 17:16.294
+[SPEAKER_02]: Or if there's anything else.
+
+17:16.544 --> 17:21.947
+[SPEAKER_02]: That's kind of what I was thinking is like, we would have a two week dedicated spread
+
+17:21.927 --> 17:24.101
+[SPEAKER_02]: Jake Smith, it's his own baby.
+
+17:25.007 --> 17:26.959
+[SPEAKER_02]: And you know, like we can knock that.
+
+17:26.939 --> 17:31.077
+[SPEAKER_02]: Yeah, I'm trying to knock a big chunk of that out.
+
+17:31.057 --> 17:34.755
+[SPEAKER_02]: which i know it's hard to dedicate two weeks to a project
+
+17:34.988 --> 17:36.383
+[SPEAKER_02]: See what we can get on.
+
+17:36.403 --> 17:36.544
+[SPEAKER_00]: Yeah.
+
+17:36.565 --> 17:37.333
+[SPEAKER_02]: And I've got another.
+
+17:38.121 --> 17:38.788
+[SPEAKER_02]: I've got this.
+
+17:38.768 --> 17:40.622
+[SPEAKER_02]: sales manager IBM.
+
+17:40.944 --> 17:42.234
+[SPEAKER_02]: I'm trying to work out a little bit.
+
+17:42.536 --> 17:44.712
+[SPEAKER_02]: Maybe I can have that ready in the next two weeks.
+
+17:45.063 --> 17:46.292
+[SPEAKER_02]: Following that.
+
+17:46.614 --> 17:49.977
+[SPEAKER_02]: After this, I'll push mine like...
+
+17:49.957 --> 17:52.904
+[SPEAKER_02]: into October, because it doesn't need to be anything.
+
+17:52.925 --> 17:54.398
+[SPEAKER_02]: It's just like a new project.
+
+17:55.255 --> 17:59.124
+[SPEAKER_02]: That would button up everything for us.
+
+17:59.144 --> 18:00.051
+[SPEAKER_02]: I think so too.
+
+18:01.617 --> 18:05.248
+[SPEAKER_02]: Yeah, you can scope that out with Krishna in the meantime.
+
+18:05.228 --> 18:08.370
+[SPEAKER_02]: Yeah, I'm sure they'll be reaching out to kind of
+
+18:08.873 --> 18:13.804
+[SPEAKER_02]: gather what's coming up and figure out, plan everything out.
+
+18:13.784 --> 18:18.765
+[SPEAKER_02]: But this this sprint was kind of mainly to address all the high priority stuff that we had and
+
+18:18.745 --> 18:24.418
+[SPEAKER_02]: And then anything else that we can kind of squeeze in there with it is what we kind of did.
+
+18:24.398 --> 18:26.680
+[SPEAKER_02]: Yeah.
+
+18:28.128 --> 18:33.919
+[SPEAKER_02]: I would just make sure we have everything else completed before we jump into any ACH or checklist.
+
+18:34.861 --> 18:37.885
+[SPEAKER_02]: And we're going to test that file area there as well.
+
+18:37.865 --> 18:41.783
+[SPEAKER_02]: As soon as he gives us a new, or they put those in and they hold them out.
+
+18:41.763 --> 18:45.144
+[SPEAKER_02]: We're going to try that in that sense as well.
+
+18:45.165 --> 18:47.318
+[SPEAKER_02]: I have permission to run that now.
+
+18:47.298 --> 18:51.148
+[SPEAKER_02]: So whenever you guys are ready for it, just send me a message and I can...
+
+18:51.128 --> 18:52.476
+[SPEAKER_02]: Pop on production.
+
+18:52.617 --> 18:55.958
+[SPEAKER_02]: Probably sometime this afternoon.
+
+18:55.938 --> 18:58.303
+[SPEAKER_02]: What time are you leaving?
+
+18:58.739 --> 19:03.042
+[SPEAKER_02]: I'll shoot for like 3 o'clock or so if you don't care, just send me that.
+
+19:03.143 --> 19:04.530
+[SPEAKER_02]: I'll have everything buttoned down here.
+
+19:04.510 --> 19:09.677
+[SPEAKER_02]: Okay, and towards the end of the day, and because we have the fidelity meeting at 2.30,
+
+19:09.657 --> 19:14.102
+[SPEAKER_02]: And so I should be done by three and I can just hop off and sit in.
+
+19:14.364 --> 19:15.651
+[SPEAKER_02]: And you probably have to,
+
+19:15.631 --> 19:21.642
+[SPEAKER_02]: i might have been with us all we did that well if you wouldn't send that to him now because that's not really going to change
+
+19:21.622 --> 19:25.077
+[SPEAKER_02]: Okay.
+
+19:25.639 --> 19:27.447
+[SPEAKER_02]: We'll holler at this afternoon anytime.
+
+19:27.427 --> 19:29.318
+[SPEAKER_02]: Okay, sounds good.
+
+19:29.359 --> 19:32.256
+[SPEAKER_02]: I'll be going to talk to you and pick up my daughter from school.
+
+19:32.236 --> 19:34.035
+[SPEAKER_02]: three, but I'll be back right after that.
+
+19:34.520 --> 19:36.238
+[SPEAKER_02]: The fourth three is fine.
+
+19:36.218 --> 19:40.710
+[SPEAKER_02]: I'll be buttoned up after lunch, so they send it to me sometime after lunch.
+
+19:40.690 --> 19:43.984
+[SPEAKER_02]: Okay, sounds good.
+
+19:43.964 --> 19:45.798
+[SPEAKER_02]: I'm already there.
+
+19:46.020 --> 19:47.713
+[SPEAKER_02]: I'm putting in now.
+
+19:47.693 --> 19:51.662
+[SPEAKER_02]: So that's why if you give me until after lunch, after 12, I'll be done.
+
+19:51.929 --> 19:52.535
+[SPEAKER_02]: Okay.
+
+19:52.555 --> 19:53.505
+[SPEAKER_02]: And then you should be good.
+
+19:53.525 --> 19:56.353
+[SPEAKER_02]: And then I'll get that followed by Rand, and then we'll get with you.
+
+19:56.333 --> 19:58.107
+[SPEAKER_02]: Yeah, okay.
+
+19:58.329 --> 19:59.982
+[SPEAKER_02]: Anything else or is that Ed?
+
+19:59.962 --> 20:00.927
+[SPEAKER_02]: I think that's it.
+
+20:01.650 --> 20:03.238
+[SPEAKER_02]: I have an extra slide on here.
+
+20:03.258 --> 20:05.770
+[SPEAKER_02]: I don't know if you guys have any other questions or anything.
+
+20:05.750 --> 20:11.760
+[SPEAKER_00]: Do you think that's the best idea to ask about
+
+20:11.740 --> 20:14.764
+[SPEAKER_00]: Air and stuff, just to plan, I heard.
+
+20:14.744 --> 20:20.248
+[SPEAKER_00]: Like after this couple of sprints, like sprint three and four.
+
+20:20.228 --> 20:23.961
+[SPEAKER_00]: just to focus on that figure and stuff.
+
+20:23.941 --> 20:28.990
+[SPEAKER_02]: We'll knock this one out and have him follow back up on the board.
+
+20:28.970 --> 20:34.727
+[SPEAKER_00]: Right now put a thought into the head.
+
+20:34.707 --> 20:36.722
+[SPEAKER_02]: It's either going to be one of the two.
+
+20:36.742 --> 20:40.650
+[SPEAKER_02]: It sounds like, well, I guess the sales manager thing, if we can come up with that.
+
+20:40.630 --> 20:43.654
+[SPEAKER_02]: It'll either be the checks minutes or
+
+20:43.634 --> 20:49.273
+[SPEAKER_02]: Yeah, just because it'll take two weeks for sure to knock all that out.
+
+20:49.253 --> 20:50.964
+[SPEAKER_02]: Right, that's what we were kind of planning to do.
+
+20:51.749 --> 20:54.910
+[SPEAKER_02]: And so that's why I'm saying like if this is a pretty solid,
+
+20:54.890 --> 20:58.116
+[SPEAKER_02]: I don't know if you have to correct me, but I feel like a pretty solid two weeks.
+
+20:58.096 --> 21:03.786
+[SPEAKER_02]: yesterday we all got together and we kind of looked through all these items that
+
+21:03.766 --> 21:07.735
+[SPEAKER_02]: that Krishna sent you and we kind of put estimates on each thing and then
+
+21:07.715 --> 21:12.004
+[SPEAKER_02]: and then kind of figured out what we could fit into two weeks.
+
+21:11.984 --> 21:15.261
+[SPEAKER_02]: It should work out pretty smooth.
+
+21:15.241 --> 21:21.252
+[SPEAKER_02]: following two weeks then we gotta check for the ACH thing if that kind of bleeds over so I mean I feel like
+
+21:21.232 --> 21:23.787
+[SPEAKER_02]: We got a good four weeks here of work.
+
+21:23.848 --> 21:27.208
+[SPEAKER_02]: We're going to need some in this transition.
+
+21:27.188 --> 21:30.600
+[SPEAKER_02]: Yeah.
+
+21:30.817 --> 21:34.110
+[SPEAKER_02]: While I got you this curiosity,
+
+21:34.090 --> 21:36.103
+[SPEAKER_02]: I know you and Matt were working on something.
+
+21:36.405 --> 21:38.076
+[SPEAKER_02]: Is that closed or no?
+
+21:38.360 --> 21:44.370
+[SPEAKER_02]: I think Matt's been hitting a lot of snags with it.
+
+21:44.350 --> 21:49.163
+[SPEAKER_02]: So I'm still not really sure how much longer that's going to be.
+
+21:49.143 --> 21:53.109
+[SPEAKER_02]: We've kind of got like the prototype, but it's just getting the numbers to line up right.
+
+21:53.411 --> 21:54.900
+[SPEAKER_02]: It's kind of having trouble with.
+
+21:54.880 --> 21:58.815
+[SPEAKER_02]: But it was some kind of like where I
+
+21:58.795 --> 22:01.108
+[SPEAKER_02]: Basically, I need access to a database, right?
+
+22:01.148 --> 22:03.220
+[SPEAKER_02]: I'm able to pull all the supports myself.
+
+22:03.200 --> 22:06.291
+[SPEAKER_02]: Yeah, everyone's going to spoil it too much.
+
+22:06.271 --> 22:07.225
+[SPEAKER_02]: kind of cool to see.
+
+22:07.286 --> 22:09.295
+[SPEAKER_02]: But yeah, essentially we're wanting to give you
+
+22:09.275 --> 22:14.290
+[SPEAKER_02]: go into the reports and see the data that gives the number on the reports.
+
+22:15.063 --> 22:16.433
+[SPEAKER_02]: just for our visibility.
+
+22:17.562 --> 22:17.884
+[SPEAKER_02]: Yeah.
+
+22:18.005 --> 22:19.133
+[SPEAKER_02]: It'd be nice.
+
+22:19.518 --> 22:24.803
+[SPEAKER_02]: Yeah, I'm not sure when we can expect
+
+22:25.171 --> 22:25.857
+[SPEAKER_02]: that yet.
+
+22:26.965 --> 22:28.296
+[SPEAKER_02]: But I mean, it's
+
+22:28.276 --> 22:33.308
+[SPEAKER_02]: It's close, but it's also been close for like a week just because we're going to get the numbers.
+
+22:33.288 --> 22:38.117
+[SPEAKER_02]: Tell me Christmas is around the corner.
+
+22:38.097 --> 22:39.765
+[SPEAKER_02]: Okay.
+
+22:40.087 --> 22:41.132
+[SPEAKER_02]: Okay, sounds good.
+
+22:41.595 --> 22:42.077
+[SPEAKER_02]: All right.
+
+22:42.178 --> 22:44.007
+[SPEAKER_02]: Thanks, guys.
+
+22:44.358 --> 22:45.256
+[SPEAKER_02]: Mm hmm.
+
+22:51.513 --> 22:53.431
+[SPEAKER_02]: I think I went well.
+
+22:53.694 --> 22:55.228
+[SPEAKER_02]: Other than they
+
+22:55.208 --> 23:00.527
+[SPEAKER_02]: The only part that I wish Christian was here for was...
+
+23:00.507 --> 23:03.531
+[SPEAKER_02]: So you have to push back, putting that
+
+23:03.511 --> 23:06.535
+[SPEAKER_02]: date that he needs, which I get.
+
+23:06.515 --> 23:10.230
+[SPEAKER_02]: If he's got stuff that he's got to get out for a certain day, then
+
+23:10.210 --> 23:13.234
+[SPEAKER_02]: We have to do as much as we can to do that.
+
+23:13.214 --> 23:19.157
+[SPEAKER_02]: yeah i wasn't sure how to handle that because you just tell them no because they do need it especially the payroll what they need by
+
+23:19.137 --> 23:20.274
+[SPEAKER_02]: Right.
+
+23:20.822 --> 23:22.161
+[SPEAKER_02]: Although,
+
+23:22.141 --> 23:23.247
+[SPEAKER_02]: I thought about it afterwards.
+
+23:23.267 --> 23:24.473
+[SPEAKER_02]: I mean, they do have a workaround.
+
+23:24.493 --> 23:28.152
+[SPEAKER_02]: It's not like we can't just run a SQL script and fix it after the fact.
+
+23:28.132 --> 23:31.662
+[SPEAKER_02]: It would be almost just the same amount of work to just
+
+23:31.642 --> 23:36.184
+[SPEAKER_02]: do that into payroll and push it out on time.
+
+23:37.092 --> 23:41.517
+[SPEAKER_02]: We can talk with Christian about that on how we...
+
+23:41.497 --> 23:44.520
+[SPEAKER_02]: deal with things like that.
+
+23:44.500 --> 23:47.608
+[SPEAKER_00]: Yeah, for the future you can just come on.
+
+23:47.588 --> 23:50.764
+[SPEAKER_00]: If they tell us what we have to come up with.
+
+23:50.744 --> 23:55.084
+[SPEAKER_02]: I feel like the further in we get with this,
+
+23:55.064 --> 23:58.088
+[SPEAKER_02]: the more they're gonna think ahead of time.
+
+23:58.068 --> 24:02.543
+[SPEAKER_00]: Yeah, that's what I was asking.
+
+24:02.523 --> 24:07.116
+[SPEAKER_00]: Can we just put an idea for them, like think about here and stuff?
+
+24:07.096 --> 24:11.858
+[SPEAKER_02]: I feel like we've got two or three sprints.
+
+24:11.838 --> 24:13.772
+[SPEAKER_02]: kind of in the waiting.
+
+24:14.275 --> 24:17.578
+[SPEAKER_02]: We didn't know about this sales manager thing, but
+
+24:17.558 --> 24:21.932
+[SPEAKER_02]: Yeah, that was an action to like this kind of kind of like
+
+24:21.912 --> 24:26.185
+[SPEAKER_02]: iterating through this, like building up to what we eventually want.
+
+24:26.165 --> 24:30.555
+[SPEAKER_02]: And I imagine like once we get to like quarter one of, you know,
+
+24:30.535 --> 24:35.550
+[SPEAKER_02]: 2026 that's kind of what we'll do like the full thing because you just want this, you know, right.
+
+24:35.530 --> 24:38.333
+[SPEAKER_02]: to plan out a whole quarter's worth of work from the beginning.
+
+24:40.188 --> 24:40.309
+[SPEAKER_02]: Right.
+
+24:40.289 --> 24:44.680
+[SPEAKER_02]: And so I just don't see I don't know how
+
+24:44.660 --> 24:48.055
+[SPEAKER_02]: Jeff and Jordan can think that far ahead.
+
+24:48.035 --> 24:53.893
+[SPEAKER_02]: I feel like there's a lot of stuff that they need right now.
+
+24:54.498 --> 24:57.195
+[SPEAKER_02]: And it might even just be kind of like, well, here's the thing.
+
+24:57.316 --> 25:00.154
+[SPEAKER_02]: I think the way I kind of see it is like,
+
+25:00.134 --> 25:05.672
+[SPEAKER_02]: the first sprint is like here's all the stuff that we for sure know that we you know need to do now but then
+
+25:05.652 --> 25:11.275
+[SPEAKER_02]: maybe the second sprint, we're wanting to do this, and the third sprint, we're going to do this.
+
+25:11.255 --> 25:14.257
+[SPEAKER_02]: But that's, you know, it can be changed if needed.
+
+25:14.639 --> 25:16.573
+[SPEAKER_02]: Yeah, maybe something that we just build out...
+
+25:16.553 --> 25:21.282
+[SPEAKER_02]: sprints based off of ideas they have or what they
+
+25:21.262 --> 25:25.348
+[SPEAKER_02]: know they're going to need at some point, but then depending on where the
+
+25:25.328 --> 25:28.253
+[SPEAKER_02]: Priorities lie, those friends can shift around too.
+
+25:29.161 --> 25:29.685
+[SPEAKER_02]: Yeah.
+
+25:29.665 --> 25:34.309
+[SPEAKER_00]: And also we need to come up with new stuff like
+
+25:34.289 --> 25:38.646
+[SPEAKER_00]: Maintainability of old apps is getting decreased.
+
+25:38.626 --> 25:42.156
+[SPEAKER_02]: We'll probably have to come up with that.
+
+25:42.136 --> 25:46.003
+[SPEAKER_02]: Because that's not something they're going to think about.
+
+25:45.983 --> 25:49.935
+[SPEAKER_02]: It sounds like, too, that'd be something from, like, you know,
+
+25:49.915 --> 25:53.715
+[SPEAKER_02]: get through a sprint and we underestimated you know we
+
+25:53.695 --> 25:58.558
+[SPEAKER_02]: or overestimated, I mean like we have extra time and we can work on some of that
+
+25:58.538 --> 26:03.672
+[SPEAKER_02]: But I guess for the bigger things, like the logging idea, that would probably be like its own sprint.
+
+26:03.652 --> 26:09.291
+[SPEAKER_02]: yeah or the rewrite of so
+
+26:09.271 --> 26:12.835
+[SPEAKER_02]: That's going to be like a whole year sprint.
+
+26:13.405 --> 26:14.470
+[SPEAKER_02]: Sorry, Jeff.
+
+26:14.591 --> 26:19.011
+[SPEAKER_02]: We won't be here in 2026.
+
+26:19.936 --> 26:21.289
+[SPEAKER_02]: Okay.
+
+26:21.309 --> 26:22.158
+[SPEAKER_02]: Yeah, it's pretty smooth.
+
+26:23.268 --> 26:23.854
+[SPEAKER_02]: Yeah.
+
+26:25.724 --> 26:31.735
+[SPEAKER_02]: This process will make it easier to do things like that if we decide we want to rewrite when it's in.
+
+26:31.715 --> 26:36.257
+[SPEAKER_02]: like to actually break it up into small chunks where we can
+
+26:36.237 --> 26:39.261
+[SPEAKER_02]: Yeah, in my...
+
+26:39.241 --> 26:42.923
+[SPEAKER_02]: Like he was kind of saying with that checks and this stuff,
+
+26:43.780 --> 26:49.791
+[SPEAKER_02]: If we have time to fit that one in after this sprint, then we fit that one in for the next sprint.
+
+26:49.771 --> 26:53.579
+[SPEAKER_02]: If not, we'll push it off another string or whatever.
+
+26:53.600 --> 26:53.942
+[SPEAKER_02]: Yeah.
+
+26:56.808 --> 27:00.112
+[SPEAKER_02]: Do you guys have access to the sprints now?
+
+27:00.575 --> 27:01.300
+[SPEAKER_02]: I think so, yeah.
+
+27:01.280 --> 27:03.645
+[SPEAKER_02]: You got it now, right?
+
+27:04.739 --> 27:07.021
+[SPEAKER_02]: Yeah, I think so.
+
+27:07.081 --> 27:08.151
+[SPEAKER_02]: Well, why have you guys?
+
+27:08.131 --> 27:12.977
+[SPEAKER_02]: We were kind of talking about it a little bit yesterday and I wanted to see what your guys' thoughts were.
+
+27:12.957 --> 27:17.905
+[SPEAKER_02]: but I was kind of thinking about reworking the release pipelines a little bit.
+
+27:17.885 --> 27:22.748
+[SPEAKER_02]: to where, like the way we're gonna be working on each of these items is we'll each
+
+27:22.728 --> 27:25.752
+[SPEAKER_02]: Like on the code side, we're each going to take
+
+27:25.732 --> 27:29.430
+[SPEAKER_02]: one of these items and we're going to like make a branch for it and
+
+27:29.410 --> 27:34.948
+[SPEAKER_02]: do all the work on that and then we'll do a pull request to merge it into like the main branch
+
+27:34.928 --> 27:38.442
+[SPEAKER_02]: And so what I was thinking about setting it up to do is that
+
+27:38.422 --> 27:41.732
+[SPEAKER_02]: Every time we do a floor request and that gets completed.
+
+27:41.712 --> 27:46.997
+[SPEAKER_02]: it'll automatically kick off the build and release straight to DevQC.
+
+27:46.977 --> 27:50.001
+[SPEAKER_02]: instead of waiting until the end of this two-week period
+
+27:49.981 --> 27:55.688
+[SPEAKER_02]: and grouping everything for each app together and then doing one release and then you guys testing it and then coming back
+
+27:55.668 --> 27:58.984
+[SPEAKER_02]: This way you guys can kind of test each thing as it comes out.
+
+27:59.004 --> 28:01.155
+[SPEAKER_02]: I don't know how you guys feel about that.
+
+28:02.350 --> 28:03.568
+[SPEAKER_01]: I'm fine with it.
+
+28:04.075 --> 28:05.374
+[SPEAKER_01]: I'm fine with that.
+
+28:05.354 --> 28:06.460
+[SPEAKER_01]: We would have to add.
+
+28:06.480 --> 28:11.365
+[SPEAKER_02]: Maybe that would be more just like for the manual testing side of things and they could do like one day.
+
+28:11.345 --> 28:13.898
+[SPEAKER_02]: run through like the regression test at the end.
+
+28:13.918 --> 28:14.501
+[SPEAKER_02]: I don't know.
+
+28:14.983 --> 28:17.254
+[SPEAKER_02]: Or a lot of people want to run regression.
+
+28:17.234 --> 28:18.802
+[SPEAKER_02]: Anytimes or whatever.
+
+28:19.124 --> 28:22.300
+[SPEAKER_02]: Can we just do one run through the regression test at the end of this?
+
+28:22.280 --> 28:25.303
+[SPEAKER_02]: I don't know what would be best, but...
+
+28:25.283 --> 28:28.258
+[SPEAKER_01]: I mean, either way would be fine just because I would set up.
+
+28:28.359 --> 28:31.294
+[SPEAKER_01]: The only downside is right now they're set up to where, like,
+
+28:31.274 --> 28:36.643
+[SPEAKER_01]: you have one run going it's waiting on approval and if you did another release it wouldn't start that
+
+28:36.623 --> 28:38.105
+[SPEAKER_01]: until this one got approval.
+
+28:38.754 --> 28:39.647
+[SPEAKER_02]: Yeah.
+
+28:39.627 --> 28:41.415
+[SPEAKER_02]: I was thinking I kind of have to rework it a little bit.
+
+28:41.455 --> 28:45.553
+[SPEAKER_02]: I might have to split up the pipelines to where DevQC is its own.
+
+28:45.533 --> 28:49.295
+[SPEAKER_02]: but then we can trigger the production release from there.
+
+28:49.858 --> 28:50.582
+[SPEAKER_02]: I'm not sure.
+
+28:50.562 --> 28:54.066
+[SPEAKER_02]: I was going to look at that a little bit, see if there's a better way to do it.
+
+28:54.086 --> 28:55.999
+[SPEAKER_02]: Because I feel like with this,
+
+28:55.979 --> 28:59.003
+[SPEAKER_02]: Like new process
+
+28:58.983 --> 29:03.930
+[SPEAKER_02]: we would be we want to be testing while we're developing so every time we push something
+
+29:03.910 --> 29:07.947
+[SPEAKER_02]: and then you guys can start going through it.
+
+29:07.927 --> 29:10.950
+[SPEAKER_02]: instead of just everything all at once at the end.
+
+29:10.930 --> 29:12.237
+[SPEAKER_02]: I think that would be fine.
+
+29:12.257 --> 29:16.941
+[SPEAKER_02]: Yeah, that way it's fresher in your mind too if I find something
+
+29:16.921 --> 29:19.141
+[SPEAKER_02]: Yeah, yeah, true.
+
+29:19.585 --> 29:21.885
+[SPEAKER_02]: And then we don't just have that bottleneck at the end where
+
+29:21.865 --> 29:24.889
+[SPEAKER_02]: We're done with everything, but then you guys have to go through it.
+
+29:24.869 --> 29:30.880
+[SPEAKER_02]: everything, you know, this way it'll be kind of more, once we get to the end, like you just have to test whatever the last thing is, then we're going to go.
+
+29:30.860 --> 29:31.976
+[SPEAKER_00]: activities.
+
+29:33.620 --> 29:33.883
+[SPEAKER_00]: If I
+
+29:33.863 --> 29:38.777
+[SPEAKER_00]: may ask how the architecture for this pipeline is set right now.
+
+29:39.432 --> 29:41.950
+[SPEAKER_00]: What is that?
+
+29:41.970 --> 29:43.722
+[SPEAKER_00]: How is this pipeline set?
+
+29:44.815 --> 29:49.257
+[SPEAKER_02]: The way that it works right now is, so development system,
+
+29:49.237 --> 29:50.001
+[SPEAKER_02]: pipeline.
+
+29:50.061 --> 29:54.606
+[SPEAKER_02]: So once the builds happen, development is set to automatically just release those builds
+
+29:54.586 --> 29:57.981
+[SPEAKER_02]: for pretty much any branch development, but then for
+
+29:57.961 --> 30:00.985
+[SPEAKER_02]: testing, we have to go manually trigger or release.
+
+30:00.965 --> 30:04.242
+[SPEAKER_02]: And so as a WQC environment, it deploys to
+
+30:04.222 --> 30:07.296
+[SPEAKER_02]: And then Matt and
+
+30:07.276 --> 30:08.909
+[SPEAKER_02]: Chris get notified of that.
+
+30:08.929 --> 30:11.267
+[SPEAKER_02]: They can go through and kick off all the tests for that.
+
+30:11.307 --> 30:12.375
+[SPEAKER_02]: And once they're done,
+
+30:12.355 --> 30:18.163
+[SPEAKER_02]: then we go through and we manually deploy it to QC and approve it to go to production after that.
+
+30:19.915 --> 30:24.373
+[SPEAKER_02]: But I think it's best to just have DevQC kind of an automatic thing every time
+
+30:24.353 --> 30:30.364
+[SPEAKER_02]: you know, a pull request is completed into like, I don't know if it would be the development branch or how we decide to start
+
+30:30.344 --> 30:33.283
+[SPEAKER_02]: on the code side of things, but...
+
+30:38.393 --> 30:44.370
+[SPEAKER_02]: But I'll kind of look at that and I want you guys to know what I come up with.
+
+30:45.177 --> 30:50.867
+[SPEAKER_00]: I'll also try to do some research if Roy can come up with an efficient rate.
+
+30:50.847 --> 30:52.619
+[SPEAKER_00]: What was that?
+
+30:52.639 --> 30:55.660
+[SPEAKER_00]: I will also try to do some research about this.
+
+30:55.640 --> 30:56.687
+[SPEAKER_00]: A little bit.
+
+30:56.707 --> 31:00.553
+[SPEAKER_00]: I haven't looked into our Azure pipelines apart of now.
+
+31:00.533 --> 31:03.625
+[SPEAKER_00]: But yeah, I will do some research as well.
+
+31:03.773 --> 31:05.904
+[SPEAKER_02]: They're voting in their paintings.
+
+31:05.925 --> 31:06.797
+[SPEAKER_00]: Oh, yeah.
+
+31:06.777 --> 31:12.653
+[SPEAKER_00]: I never dealt with Azure, I dealt with AWS and yeah.
+
+31:12.633 --> 31:16.336
+[SPEAKER_00]: Pretty much they should be the same.
+
+31:16.356 --> 31:18.610
+[SPEAKER_00]: Let's see.
+
+31:26.605 --> 31:27.967
+[SPEAKER_02]: Thank you.
+
+31:28.597 --> 31:29.308
+[SPEAKER_02]: See you later.
+

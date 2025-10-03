@@ -1,0 +1,399 @@
+start	end	text
+31	4050	No Jacob, no Chris.
+5093	8235	As far as...
+9616	11007	Tickets go.
+11571	14192	It's been fairly quiet.
+14172	18394	You've been talking to Jordan on some stuff.
+18374	23119	And then...
+23723	28620	Blake, he's been working on a few issues with the cabinet order side of things.
+29630	35488	And then I guess, Andrea, I don't know if they filled you in or not, but we had a
+35468	40821	Issue with the customer portal emails.
+41037	41699	Yeah.
+42809	45043	Yeah, I've been following that.
+45063	46915	Molly's been keeping me posted.
+46935	47740	Okay, cool.
+48277	53072	Yeah, it sounded like it was just something that Cody did, but I think he's got it fixed now.
+53677	58202	He noticed this morning that they weren't going through again.
+58773	64497	pushed him out and then I guess made another change on the security side to
+64477	66010	allowed those to go through.
+66051	68310	It was quarantining.
+68290	72867	every email that was coming in to...
+73538	78351	Or is it orders at www.inc.com?
+78331	82587	I don't know if it was all emails or not.
+83461	87565	So there's like 90...
+88253	92003	They were just kind of sitting out there waiting to get picked up.
+91983	94710	I heard you mention spoofing, is that?
+94751	96306	Yeah, that's what it was.
+96286	99310	It was labeling them as, it was spoof.
+99290	104102	I mean are we like changing the to or the from address?
+104993	110188	Well, you can spoof emails and you can fake what your address is.
+110268	110852	Right.
+110832	112607	I guess that's what it thinks they are.
+112627	115712	I don't know if we're doing that or not.
+116047	118104	I think it probably thinks that they're spoofing.
+118830	121028	Oh, them coming into us.
+121008	121696	That's what I would think.
+121717	123559	Cause he was, he was,
+124130	127795	supposed to, I guess, whitelist a
+127775	131052	schism email address that it was using
+131032	136890	And he ended up whitelisting anything that was at www.com.
+136870	140856	So that's what threw it off originally.
+140836	142336	I don't know.
+142357	143370	It doesn't really...
+144312	146674	Why would it throw it off if you're whitelisting it?
+146917	147825	I don't know.
+147805	153816	it doesn't make any sense so is it the orders at wwe yeah email that's the one that was marked as
+153796	155369	being spooked?
+155389	157043	I don't think so.
+157063	158575	I think it was just this.
+158555	160625	Yeah, the customer emails that were coming in.
+161489	164042	But they're coming in from
+164022	165932	Customer portal.
+167195	170937	So that would be coming in from, I guess, one of our internal emails.
+171239	172345	Right, Andrew?
+172325	174252	Like when they create an order?
+174890	179230	That does make sense because basically
+179210	185220	The way the ticketing API works, it basically is scooping the emails
+185200	188764	I believe because it's getting
+188744	193455	Basically, it knows who they are,
+193435	197677	and what their email address is, but they're not actually sending them email.
+197697	199446	Right, that's the program that's sending it.
+199426	203158	So we're basically seeing who it's from.
+203138	206601	If we send an email, we're putting their address
+206581	210415	So it is spoofing, but it's a legitimate spoofing.
+211205	213283	That's why they call it spoofing.
+213719	216178	I had to look it up.
+216198	217266	It's like a hoax.
+217415	218987	It is, that's exactly what it is.
+219168	223037	I used to do it all the time.
+223287	226834	for work and for play.
+226814	231458	send my brother or my sister emails from
+232113	235862	Ed McMahon, you want a million dollars?
+238795	243304	You see that all the time on emails and seeing your spam folder all the time.
+243284	248755	And you go and you hover over the address that it says it's from and it's something else.
+251114	254982	It's kind of looking for it again because after you pushed out the
+254962	257985	There was like 20 or so sitting in quarantine this morning.
+257965	261342	and then he made another change and it wasn't performable.
+261363	263976	So I think it's fixed.
+263956	264669	Thank you.
+266757	271553	Yeah, we've been working on a few issues with
+271533	275805	Cameron Norder trying to diagnose some oddball.
+276646	280969	issues that they've been having.
+281692	284715	And then the one thing I really have to get
+284695	286674	I will be out tomorrow.
+286957	289238	I'm not having my procedure tomorrow, but
+289690	293912	Since I'm not having my procedure, I'm gonna do what I was originally planning,
+295732	296917	I'm not going.
+299731	300837	place I was going.
+302003	305742	I'm gonna take the day and just spend it with the littles.
+305722	305806	Thank you.
+306953	312745	But I do want to try and get that email out if you can.
+313130	317200	And I think all we need to really do on that one
+317720	320743	We need to look into the rehire.
+320723	323899	just to make sure that it's putting in the right date there.
+323879	327949	If they're a rehire, make sure that it's putting the rehire date in.
+327929	330278	as the start date or whatever.
+330730	335560	And then everything else, I think we just need to make sure that it's
+335540	338952	that last export date is being set.
+338932	344672	Which that works differently for just not like how it is with the medical where we just set that date and
+344652	350089	We'll have to create a bunch of dummy records as if they've been exported.
+350069	354105	because they have been exporting periodically, but like the
+354997	357733	The last day that I sent one of those change files,
+358017	362070	is I assume what we want that day to be set through.
+362050	366238	I can't remember if we deleted the export from that or if we just marked it.
+366218	367424	has not finalized it.
+367444	372229	If the record's still there, all we gotta do is just set that as the most recent one, and then we'll be good.
+372209	375175	But that one was an actual export.
+375236	376023	Oh, yeah, that's right.
+376043	376971	Yeah, that was the script.
+376951	379329	Yeah, so we'll probably have to still insert the records.
+379651	382472	We can look back and see what the records show.
+382452	384785	because I know what date that was.
+384805	387298	It was like July 8th or something.
+387278	391483	So we can look back and see what the closest line is if we want to do that.
+392240	394318	Because I think that'll...
+394957	399178	that'll clean up their discrepancies.
+400002	403752	In my mind, they weren't using this to compare to production at all.
+403732	409270	they were just comparing it to the format like is are we getting everything we need
+409250	415125	and then we say, okay, it's good, then we start in production.
+415105	418197	they were actually comparing it to production.
+418177	421200	isn't going to line up because we're going
+421180	425267	have some that are that have been terminated that they're not going to have in their system
+425247	427815	They're just going to drop off of our test file.
+428234	429964	So we'll just try and get it.
+430206	432439	We'll send this next one as it
+433448	439459	could be the production file, the first one.
+439439	443104	Um...
+445784	447819	How's everything going on your end?
+448061	449230	I've seen a few...
+449210	455220	Yeah, I think I've got a lot of those label issues fixed.
+455200	460435	Yeah, it's just kind of random things down.
+460853	462578	How's the
+466760	469820	I forgot the name.
+469840	471792	The phone thing or the emergency thing.
+472109	475352	Oh, I think we're going to add the new building.
+475805	479100	Friday, I think that's what their plan is.
+479120	479908	Okay, cool.
+479888	482375	So yeah, that's all over there.
+482698	483992	Did they get fans yet?
+484394	487671	Oh, yeah, I think they've got a couple.
+487651	490945	One at least, I know, in that area.
+491313	494742	Let me talk about those big old fans.
+495464	499163	It makes a difference for sure.
+500206	502268	I guess they're calling the building eclipse.
+503227	504112	Really?
+505218	505339	Yeah.
+505359	507410	Is the other one Shiloh?
+507430	509119	I don't know I guess so.
+509504	513388	That's what Jenny said and that's what they called it in the
+513368	518198	InformaCast and Label and Eclipse.
+519089	521204	But Charlotte's going to be moving over there, right?
+521768	522352	I don't know.
+522493	523319	Yeah, I guess so.
+523339	524205	That's the plan.
+524185	528677	I was talking to Corey about it and he didn't, he was kind of weirded out about it too because
+528657	530687	It's eventually going to be Shiloh, but... Right.
+531310	533622	Because eventually an aspect of it, right?
+533602	535677	Yeah, I think so.
+535798	538498	We may have some name changes later, I don't know.
+538478	540591	Hopefully that's easy to do.
+541668	545957	Let's go in there and, okay, this building's that, this building, okay, done.
+548485	552649	I don't think it's very easy in the network because they have to do subnets.
+553112	554057	Oh, right, yeah.
+556585	558518	It just depends on how they have them named.
+558659	562242	If they've named them generically, then it shouldn't be a problem.
+563099	566224	Yeah.
+567436	571540	We should just go with like building, bigger building, bigger building.
+571520	574830	Building A, Building B, Building C.
+574810	579792	If you run out of letters, you've got your company too big.
+581425	585141	Chris, you got anything interesting right now?
+585458	588330	I know you have a couple cabin order ones that are...
+589289	595165	Yeah, I tested the changes he did and everything seemed good, so I'm just running the rest of the tests to make sure nothing else
+595145	599400	Yeah, we pushed that one out at two yesterday and everything seemed fine.
+600798	606252	A little bit after this meeting, we'll be sending you a Checksmith.
+606232	607828	to test.
+607848	610656	We finally wrapped up yesterday.
+610636	616647	got an actual bank statement file from Jordan and we ran it through both side by side and everything worked.
+616627	617436	Great.
+617456	620308	So, we're done.
+620288	624645	Did we all, did we figure out the whole like new ACH?
+624625	629640	No, last I heard Jordan,
+629873	634585	I got to where I could figure out how to
+634565	638179	recreate the file he had been sending them, we have like,
+638159	640637	options to change all that in the accounting program.
+641544	643579	But at that point, Jordan said, I guess
+643559	648169	the bank that they're working with had reached out to like another
+648723	653485	that they're associated with that was gonna see if they could process the ACH for them.
+653465	657274	The way we head with the old place.
+657294	658362	Yeah, I guess.
+658342	663660	Or if they could at least provide some more info on why our ECH wasn't working.
+663640	666512	I haven't heard anything, it's been like a week.
+667454	671932	And did I hear he called about the 401k change?
+671952	672537	Yeah.
+672517	675760	We're going to have to make a change
+675740	679776	But he said it's not until October, and all we have to do is just add
+679756	684028	an extra column onto the file that they export.
+684008	687332	That just has if employees are part-time or not.
+687352	689386	That's all it sounds like we'll have to do.
+689406	689648	That's good.
+691366	694390	I don't know if they'll need a one-time
+694370	698112	to import everybody, or if that's something they could just transfer between the companies.
+698534	700043	Which I assume they can, since they're
+700023	703907	bringing over all of the amount and all that stuff.
+705760	708582	which means function alone.
+712325	713830	Um...
+718012	721086	I will fill you guys in.
+721066	727077	moving forward and we'll talk about this a little bit more on Monday when everybody's here
+727057	732342	Thursdays, Scott's gonna start running meetings because
+733334	736412	He's gonna get more technical with it.
+737397	738805	He's gonna show...
+739325	743007	more of the boards and we'll go through how
+742987	747630	we're going to standardize things or try to.
+748589	754380	but he's going to take the lead on coordinating all of the PR he has.
+754360	758835	coordinated to all the triage type stuff.
+760300	763965	We just want to get some stuff in place that
+764772	770783	that we can go off of to make sure that stuff doesn't go stale or make sure that
+770763	775575	stuff is getting out in a reasonable time and we're
+775555	778579	to a place where we can start
+778559	782545	learning, documenting things to take stuff off of your plate.
+782525	785869	So that's kind of what this Thursday meeting is going to be about is
+785849	790258	just, it's going to be ticket based.
+790279	791708	Mondays will be just
+791688	794632	What are we gonna be trying to push out for the week?
+795498	796265	What are we working on?
+796285	797091	Whatever.
+797071	803065	But then the Thursday one we'll just focus on tickets, which we kind of do already.
+803045	808532	But he'll get more detailed and we'll still keep it as short as we can.
+808512	810000	Just...
+811280	815755	but that'll take one thing off of my plate.
+816173	817221	I'm happy to do it.
+817584	821695	We've got like over 200 issues out there now.
+822147	824305	Really all we're trying to do is keep it from getting stale.
+825131	826200	Just keep it current.
+826180	832191	and that's one reason if you guys have seen the periodic emails coming through with
+832171	837625	Like the ones that have been over a year, that just haven't been touched yet.
+837605	842552	If you had any of those, you'll get an automated email once a month.
+842532	846957	First of every month they should come through.
+846937	850045	And the plan is, once those are
+850025	853690	either commented, the status has changed, or just
+853670	857503	somebody's updated them in some way to say, yes, I know that's here.
+858192	862633	then that'll fall off the list and as that gets smaller,
+862613	866498	then we can reduce that time back to a more reasonable
+866478	868374	Because a year is kind of a long time.
+869483	871257	So we'll kind of feel that out.
+871237	876420	Well another thing that we have been talking about too
+879472	884368	So those are based off of anything that's active, right?
+884348	889498	Well, yeah, if it hasn't been
+890626	893717	if it's not closed, resolved,
+893697	898577	and there has been no updates in 365 days.
+898912	904365	An update could be anything from a status change to a comment or
+904666	908668	Assigning it to someone for that matter.
+908648	914659	But so we can mess around with some of the statuses too and that monitoring status
+914639	916701	that we have in Jura.
+917373	922388	if we flip it to monitoring, like if there's a ticket that
+923515	926539	may or may not ever get done.
+926519	930420	It may be something that they would like to have, but it's not
+930400	934521	ever going to end up at the top of the list.
+935480	939735	We could set that to monitoring, which will put it on hold in DevOps.
+939985	944460	And then we can have a bucket of those, so I can free it up.
+944440	946536	a time where we're just looking for stuff.
+946556	950063	We can look on those on hold and then flip them back to active winter.
+950043	956053	We could even explore some of the priorities on there as far as
+956033	958753	if something is lowest priority,
+960421	963580	that could be something else we could trigger off of.
+963982	966702	low or lowest priorities might have a different
+967306	970330	threshold and high level.
+970310	973772	or highest priority or medium priority.
+973752	977756	we could experiment with those thresholds and throw that into that query pretty easy.
+977797	979527	Yeah, and really, I mean,
+979979	984066	when we were putting some of those boards together just to show
+984046	989382	what's out there, we were just focused on highs just because we know that they need those.
+989362	993330	but the mediums most of the time are
+994070	997887	pretty well needed also.
+998558	1002983	That's what the Thursday meetings will go.
+1002963	1006088	streamline it.
+1006878	1011775	get it to where they're more visible to us and like i said we're just trying to take some
+1011755	1013348	some of the pressure off of you guys.
+1013408	1016533	That way we keep eyes on it if you can.
+1018353	1022313	And we don't get caught off guard when somebody calls in and goes, hey, what's this?
+1022815	1024363	We're like, I haven't heard of that.
+1024343	1025832	All right.
+1027330	1031687	Especially when someone's out, like this week, we've got a lot of people out.
+1032545	1036047	Yeah, Jordan doesn't like whenever me and Chris are both happy.
+1036168	1038100	Oh yeah, he was not happy that day.
+1039953	1040702	Can't really help.
+1040722	1041127	Luckily.
+1042018	1043010	Yeah, luckily.
+1042990	1048798	Because originally I was supposed to be out all this week and I didn't know that Chris was going to be out also.
+1050601	1054249	That worked out kind of, although he called on Monday when I was out.
+1056440	1060290	We got that calendar on the triage board, so that helps.
+1060270	1061558	We keep that updated.
+1062222	1064678	Yeah, I need a new one.
+1068050	1070237	Okay.
+1070257	1071512	Andrew you got anything fun?
+1072403	1078363	I have one fun thing and one semi, exciting thing.
+1078715	1080912	Well, I think this is fun.
+1081381	1085046	but people have been discovering
+1085026	1088657	hogs, wild hogs in California.
+1088637	1092014	When they open them up, they have neon blue meat.
+1092175	1094648	All their meat looks like Smurf color.
+1094628	1098478	At least the top layer of it does.
+1098458	1102056	and it turns out that
+1102036	1107490	there is a hog poison which is basically just a strong
+1107470	1113480	rat poison and to prevent people from
+1113460	1117227	basically getting secondhand poisoning.
+1117207	1123217	they put a strong dye in it so that when the hogs eat the meat,
+1123197	1128617	they will be like solid blue and apparently it gives them green tea too.
+1128597	1130153	but, um,
+1131061	1133093	Yeah, so I didn't know that was a thing.
+1133133	1133716	That makes sense.
+1134118	1136532	Yellow and blue make green.
+1136782	1138827	Ann is...
+1139228	1144497	just warframe, which is an anti-clodian agent that people take.
+1144814	1150572	but it's just a very strong dose that kills rats and I guess hogs.
+1151395	1153508	The...
+1155749	1160680	We were debating on the web team if there was no prisoner involved
+1160660	1164898	but you've just managed to get that blue dye into somebody's food,
+1164878	1168813	would they turn like Smurf blue?
+1169114	1171650	Seems like you'd have to eat a lot of it.
+1172636	1173522	Yeah.
+1174126	1180137	And the semi-exciting fact is the CHAP GBT-5 is supposed to be released
+1180117	1186127	at noon, but only for people paying the $200 a month thing.
+1186107	1191342	they're gonna roll it out to other people in like the next two weeks.
+1192132	1194024	That's neat.
+1194044	1197788	I used ChetGPT yesterday to
+1197768	1199320	I just wanted to see what it would do.
+1199360	1203492	So I started feeding it dump files and graphs and all sorts of things.
+1203472	1205607	And I was really surprised.
+1205667	1209010	It was pretty spot on with what Blake has been telling me.
+1208990	1212251	a lot of the problems with the application I'm testing.
+1212855	1214747	It flagged just about every one of them.
+1214727	1220738	That's pretty good, it's recognizing what a person does.
+1220718	1224045	I was impressed.
+1224515	1227272	I've never really known what to do with a dump file either.
+1227292	1229344	I throw it into...
+1229999	1235470	Visual Studio and look at it and I still really don't completely understand what I'm looking at.
+1236074	1237976	The GPT is able to explain it.
+1238967	1239756	It's pretty neat.
+1242757	1245891	Oh, and the thing about turning blue.
+1247016	1248683	When my daughter was...
+1249405	1250111	in a high chair.
+1250696	1252470	She loved carrots and sweet potatoes.
+1252510	1254083	That's about all she would eat.
+1254063	1257137	She literally turned orange.
+1257893	1261862	Yeah, we've had a couple orange babies before.
+1263395	1266773	Andrew, what do you know about
+1267259	1270536	Okay, this is going back to my test on Monday.
+1270516	1274434	So I get there and
+1275106	1281066	Well, okay, so all I knew about stress tests was I got to get on the treadmill and they got to monitor me.
+1281046	1282440	Right?
+1282460	1285369	Gotta see what my heart's doing when I'm stressed.
+1286159	1290313	Well, they give me an IV as soon as I get there.
+1290293	1294195	And say we're going to inject you with this nuclear
+1294175	1296942	substance.
+1296962	1298295	I was like, what?
+1298630	1302413	Nuclear sounds bad.
+1302393	1308015	after I had to sit there for an hour,
+1307995	1311559	for I guess it to go through my system
+1311539	1316115	Then they get readings on it or whatever because they sent me through another
+1316939	1322494	Almost like an MRI machine that just watches it, but it all glows inside of you.
+1322474	1326156	And that's what they watch in the thing that's going around you.
+1326929	1330965	But I said, oh, it's just a low dose of,
+1330945	1335026	You're clear, whatever.
+1335509	1336011	Stay closed.
+1335991	1340415	It still doesn't sound good.
+1340800	1345191	Next fact, I want to know more about this nuclear die.
+1345525	1347964	or whatever it is.
+1348024	1348971	I just like to imagine
+1348951	1354962	that the stress test, you're like on the treadmill and there's just like an army drill sergeant screaming in your ear the whole time.
+1354942	1356606	She was an old lady.
+1356768	1357965	She was great.
+1357945	1363585	other than when she was taking all the stickers off of me she was not gentle
+1363852	1366133	Yeah, I thought I did great.
+1366497	1368495	I was on there for like six minutes.
+1368880	1373343	And then the doctor comes in and he said, you didn't last very long on the treadmill.
+1374127	1374891	She stopped it.
+1374871	1380797	My heart wasn't liking it, but I was doing fine.
+1380777	1385674	They took me off, I guess, when the pressure got up too high.
+1390109	1390636	But.
+1391982	1396034	Andrew Graham next, hopefully next Friday is my assumption.
+1396054	1397284	Assumption.
+1397855	1401688	That's how much we have now.
+1403187	1406953	Okay, thanks guys.
+1406933	1410739	At least you got to do the treadmill.
+1410760	1411122	I didn't.
+1411102	1412549	Couldn't do the treadmill.
+1413052	1414841	My mom didn't get on it either.
+1414861	1417112	Yeah, did they do the chemicals?
+1417092	1418144	stress test on her.
+1418164	1420774	Nope, they just took her blood pressure in.
+1420754	1425246	They did a chemical stress test on my mom.
+1425226	1426456	Yeah, I've heard about those.
+1426476	1428028	That's what I thought I was getting.
+1428048	1428975	Oh, yeah.
+1428955	1430051	I'm like, I don't know.
+1430092	1431979	I think I'd rather do the treadmill.
+1431959	1436822	I did something about laying in bed and then my heart just taken off would be really unsettling.
+1438895	1441580	Yeah, I was kind of glad I did this trip.
+1442165	1443336	It wasn't hard.
+1444042	1447656	just walking, just raised and lowered.

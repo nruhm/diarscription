@@ -1,0 +1,1057 @@
+start	end	text
+1364	2279	Thank you.
+16028	18951	Are you entirely able to use production materials or something?
+34625	37648	Conrad needs to hurry back and get that clock adjusted again.
+38715	40146	Yeah, pull off.
+42978	44533	Just a few minutes.
+49998	52718	Ben was trying to set the wind of church a little fast.
+53626	56920	So the pastor gets done quicker.
+58132	60075	Especially during football season.
+61658	66893	Are you referring to the clock that is inside the clock text?
+67413	69559	That is all too.
+69580	69701	Is it?
+69863	69964	Yeah.
+71885	72850	It is.
+73252	73553	Kind of.
+73875	76046	No, I mean the wall clock.
+76066	77895	The clock text is a little bit off.
+77875	81642	Just a bad day.
+83410	85607	There's a big gap between five and six.
+89165	92188	Maybe we should have bought a better cloth.
+92168	94066	I think they're going for the gimmick.
+94167	96508	Look at the word clock at the top middle.
+96488	101098	Yeah, it is like there's a bump between L.O.C.
+101078	104661	Yeah, do you know those projections as we sit on the table?
+104681	105587	It's up there
+108672	110726	Hi folks, I'm sorry I'm a little late.
+110988	112962	You are not late compared to our cloud.
+112942	116624	Just discussing that.
+116644	117670	Right on time.
+117650	121180	Hello Krishna, everyone.
+121160	122994	Krishna, welcome folks.
+123739	125472	Nice to meet you.
+125915	126681	What?
+126661	130815	So this meeting is basically just
+130795	136806	Introducing everybody, kind of getting our feet wet on what we're doing and what we want to do.
+136786	141700	and yeah just go from there see where it takes us
+141680	146509	So Krishna, just to give you some
+146489	147675	Introductions to us.
+148841	149746	You already know Chris.
+150811	151977	Men on the yellow.
+151957	154416	I'm Adam.
+154496	155363	You've already met me.
+155383	157056	You haven't met me in person yet.
+157036	160836	So I hope...
+160816	164886	lead the development team here in the CAPE office.
+164866	169257	and we've got a few remote users also.
+169237	172615	Ethan is our
+172595	176766	leader of the finance team, which is the one that we're
+176746	179770	kinda gonna get our feet wet with you on.
+179750	185406	And then Ethan is leader of Psy.
+185386	190182	And here, and then we got Matt and Travis both remote.
+190634	192696	So they're also on 8-15.
+193013	196881	And then also in the room I've got Scott here.
+196861	200661	leading our triage team slash
+200641	204964	IT support guy for any tickets that come in and we're
+204944	207159	Kind of building that as we go also.
+207381	210482	That's something that we just started.
+210462	216287	And then Chris Kelly at the end of the table is leading our automation
+216267	218565	testing team.
+218887	219532	Okay.
+219552	221265	And then along with him we've got
+221245	222926	Mason?
+222946	224809	Mason is on his team.
+224789	229585	he's gonna start focusing on the finance guys
+229565	234563	programs and then Matt Hendricks on the call also is
+234543	239035	the leader of our manual testing team.
+239015	244857	Oh, him and Chris work heavily together on the testing side of things.
+244837	246776	Hello.
+247463	249058	Hello, guys.
+249038	251591	I have to apologize in advance if I ask again.
+251611	252757	No, no problem.
+253039	255049	We make notes of all the names, but
+255029	256740	And what do you guys do?
+256760	259538	But if there's something written up somewhere that you have
+259518	261287	We can write that up for you.
+262212	265107	Yeah, we can do that.
+265542	268735	Krishna, do you want to say anything about yourself at all?
+268715	271992	I'll just quickly introduce myself from my background.
+271972	277780	I started out my career as a software developer way back at Oracle.
+277760	281492	And then that was right after grad school.
+282198	283333	through science masters.
+283414	285441	And then I decided I was going to work at Oracle.
+285421	289204	It was a great place to be and practice all the software.
+289184	293946	back then, you know, practices that had learned in grad school and all that.
+294398	297017	After that, I decided I wanted to work at
+297301	302687	small medium-sized companies and I have since then worked at many different companies
+302667	308678	I also got an MBA and moved away from software engineering software development.
+308658	312947	into more the client side of the business where
+312927	317993	You talk to customers, you talk to users of your software,
+318293	322195	figure out what the pain points are, and then you
+322175	325975	then I would go talk to the engineering teams and say,
+325955	327409	the requirements.
+327450	329772	That's broadly speaking what I do.
+329752	334345	But there's a lot more of that to the product function.
+334325	339171	The thing that is most relevant here is
+339151	344520	Since about 2013, I have been involved in
+344500	349515	Agile teams and agile means
+349782	351238	many different things to do.
+351622	356569	every company that tries to practice it.
+356549	359573	And there's many variations of
+359553	365344	There is no correct agile leverage from what I have seen in my
+365324	368567	14 years of doing this.
+368547	371571	But it's really something that, you know,
+371551	375402	you adopt and it works for your
+375382	379485	your attorney team, as well as your clients that you serve.
+379465	381860	finance in a company, one client.
+382061	385341	There's many other clients in your company.
+385861	390387	So, but the key elements of this is trying to,
+390367	393390	For all our additional conversations,
+393370	398790	that we had last time, it seems like there's a little frustration in the minds of
+398770	404663	in terms of what they are getting versus what they thought they asked
+404643	407579	There's a gap, it seems like.
+408544	410333	And what I've...
+410313	413539	experience prior.
+413519	416830	teams is the product function.
+416810	421943	the product manager, my role is really to be the go between you guys
+421923	427731	and the clients and what that means is I am talking to these folks, the clients,
+427711	431528	on a fairly regular basis, and regular is the key thing.
+431508	434532	You know, regularly I go talk to them,
+434512	438498	get a sense of, hey, what are your pain points with what you're using right now?
+438518	439645	What's not working?
+439625	440737	What is working?
+441323	443020	What do we need to change, right?
+443000	446682	And I translate those conversations into
+448163	451592	Agile Speak, which would work for you guys.
+451572	453380	What are the user personas?
+453420	454505	What are the epics?
+454685	457397	What are the user stories in these epics?
+457833	459642	What are the examples criteria?
+460124	463843	Can you put together a UX and a markup of what
+463823	465520	this thing should look like.
+466369	468147	And then we
+468127	471150	work together, you guys in the room and myself,
+471130	476128	and we put them back to develop what these guys want.
+476108	477839	And then, what?
+478323	481866	The word regular will keep coming up, which is really key.
+481846	486692	that gap between what they think they asked for and what they got.
+486672	491029	That gap should not exist and it really didn't.
+491009	496885	keep coming up from time to time because people, if you have a conversation on day one,
+496865	502875	And on day 45, you deliver something to these clients
+502855	506554	that's a lot of days that have passed between
+506534	509946	what they thought they wanted and what they think they're getting.
+509926	513207	So that gap needs to reduce.
+513227	515059	So what I mean by that is, okay,
+515393	520847	If you do sprints, is it a two-week sprint, is it a week sprint, whatever it is,
+521232	526669	coming up with an iterative development process where
+526649	532660	Even if you haven't completely delivered all of the bells and whistles, all the buttons in the UI,
+532640	535731	you at least give them
+536251	540017	a UI that has the
+539997	543291	major elements in it so that they can start looking at it
+543271	545630	after the first week, after the second week, whatever it is.
+545872	547324	And I'm talking to them.
+547743	550800	you know every week let's say uh and so
+550780	555053	the best way to think of that is iterative versus incremental.
+555033	559457	This is a classic, and if you Google it, you'll find it.
+559437	564368	the Mona Lisa painting, there's two ways to develop the Mona Lisa painting.
+564348	569397	One is the iterative process where you draw an outline of the entire
+569377	571072	Mona Lisa in the painting.
+571819	573514	And then that's the first
+573494	576518	from this brick, first brick.
+576498	580146	And then every subsequent sprint you start to fill it out.
+580126	585057	You put more colors in paintings and color the hair.
+585037	586452	the face and all that stuff.
+587200	588938	But the client
+589357	594912	sees that initial drop from the first sprint and they're like,
+594892	600042	There's no gap between what they thought they wanted versus what they're starting to get.
+600022	605509	And so in each subsequent sprint, you iterate through and you start building out the painting.
+605489	609103	And at the end of it, they see what they've got.
+609083	610551	Now, that's one approach.
+610571	615094	The other approach is IKRA metal where you tape the top left corner of the Mona Lisa paint
+615074	617997	You fill out all the details of, you know,
+618213	622232	her face, or maybe just the face, right, in the first break.
+622212	625708	but none of the other parts of the painting.
+625688	630518	And then you show that to the client and they're like, wait a minute, this is not what I asked for.
+630498	632673	So the gap starts to develop, right?
+632874	636357	So that's my long-winded way of saying, you know,
+636337	640592	My role here will be to help you guys get some kind of a process
+640572	645874	where we start to do an iterative process
+645854	651865	delivery to these clients so that there is no gap or if there is a gap it is fairly quickly
+651845	654123	fixed block.
+654143	655493	That's the point.
+655473	661433	from the initial conversation that may seem like the pain point in the process, but I don't know.
+661413	666073	That's my value add here, so I'll stop talking.
+666053	671912	Any thoughts or any reactions?
+671892	677295	That sounds great, honestly.
+677275	679969	We could definitely use some more structure like that.
+680411	683286	I think the thing that I'm curious about most
+683266	687302	is seeing how this will fit into our team
+687282	693073	I think a lot of the teams here deal with this but like I think for ours it's
+693053	696398	Worst is that we support, I guess,
+696378	700566	probably like three or four main groups of users which I guess
+700546	706371	about the finance side of things, but we also deal with some of the HR stuff and sales.
+706351	710910	I'm just kind of curious how that's going to look with like sprints and stuff whenever we have
+710890	714268	Lots of tiny little things to do on all these different apps and different
+714248	717795	times versus working on one big feature or epic at a time?
+717775	719569	I'm kind of curious, I guess.
+720194	722875	So I think we want to start small.
+722855	728207	So what I mean by that is if right now you're saying the finance and accounting team is
+728187	730097	that client is
+730634	735953	the most hopeful, let's say, or the one that's had, that's been most...
+736321	738889	make the most noise, let's start with acting, right?
+739072	744137	So let's focus on what their needs are or what their
+744117	749908	points are and focus on trying to
+749888	754988	internally our process, setting it up so that we can
+754968	759021	you know, reduce this gap between what they think they ask for
+759001	761427	when they get it, what they think they ask for.
+761629	762902	That gap needs to
+762882	766041	come back and we need to get rid of that gap.
+766021	771964	And the way we're gonna do that is, well, I'm jumping ahead, I have to dive into your process and all that stuff.
+771944	775192	we need to get that gap reduced.
+775212	776402	So let's start with that.
+776382	779442	And yes, you're serving more than one client.
+779543	781093	I'm going to just use the word client.
+781073	783245	you know, user groups.
+784311	786966	And then once we have this working
+786946	792957	prove this as a proof point, this process that we're putting in place, it works.
+792937	794047	this client.
+794107	797496	Now let's then go find the next client.
+797476	799591	and then refine.
+799752	803318	And so starting small would be the best way to do this.
+803298	808414	And you'll find that we have to, each iteration, I don't know
+809407	812937	So every sprint, we have a retrospective.
+812917	815940	We stop and say, hey, what worked?
+815920	819241	what did not work, what needs to change, right?
+819342	820328	And what do we,
+820865	825188	There's three questions we ask, and so we ask those questions.
+825168	830166	of ourselves and then go around the room and just
+830956	835212	take that feedback and tweak the process and go to the next spring.
+835192	838090	that is going to be useful.
+838170	841168	And so once we have something working for one
+841148	844189	client, then we go off and
+844169	848728	work with the next team, next team, next team.
+848708	849923	roll this out.
+850875	852171	In terms of
+852151	854226	of the product management function.
+854306	856542	I've mentioned this to Christopher as well.
+856522	860558	I am one person and I have only so many hours with you guys.
+860538	865924	We may bring in more faults, but let's first prove this as a process that it works.
+866292	871780	Then we can look at rolling this out to other teams and other clients.
+871760	873279	Does that make sense?
+873542	874817	Yeah.
+874797	880048	And just to add to that, something that we're keeping in mind as a
+880028	885178	an overall team, I say team,
+885158	889600	I guess is better used for that.
+889580	893346	The team structure is and has been
+893326	897345	the way it has been for I don't know how many years now, four or five?
+897325	901446	We're open-minded on if
+901426	905310	the team structure the way it is currently
+905290	909495	housed to where we have roughly four
+909475	912499	I guess three or four guys on each team.
+912479	915739	that will work on this group of applications.
+915719	920802	If it makes more sense to do it a different way, whether it's
+920782	924058	just blowing it all up and not have teams and just.
+924038	929323	kind of give a project to a certain amount of people or developers or
+929303	934015	it down into smaller teams to where they're focused more on certain things.
+933995	939550	We're open to anything like that, so just keep that in your mind if we're
+939530	944022	if we get into talking about these things and you notice that
+944002	947363	like the ones that are more vocal,
+947343	953252	are always going to be the ones that get their applications worked on the most.
+953232	956652	think about it a little bit different on the team side.
+956873	957758	Absolutely.
+957738	963040	the advantage of just doing this small approach is
+963712	968406	you've got an existing, the analogy I use is,
+968386	972298	You're on a cruise in the middle of the Pacific.
+972318	973367	You're on a ship.
+973347	978987	and you're trying to change an engine part because there's something not working with.
+979743	982638	But the ship needs to keep going.
+982920	984488	So you cannot just stop the ship
+984468	986705	replace the entire engine and then start again.
+986766	988842	We have to keep cruising.
+989142	995085	uh so you take a small part of that engine you replace it and then hopefully that
+995065	1000587	satisfies the people on deck that were complaining about that engine park.
+1000567	1005919	You don't want to have to stop everything or start plugging things willy-nilly
+1005899	1008359	where everybody on desktop is complaining.
+1008380	1010880	So you don't want all your client teams
+1010860	1012996	getting really mad at you.
+1013722	1016483	Let's just take the really small piece.
+1016463	1019824	and replace that engine in
+1019804	1022039	the middle of your cruise, so.
+1022825	1024617	Yeah, and that makes it easy.
+1024597	1029595	But but yeah, thank you that you can stand back once we have
+1029575	1035585	one or two or three clients happy with whatever process we end up with
+1035565	1040479	then we can step back and say, is there a more efficient way to deliver
+1040459	1045204	what these clients are asking for and maybe the
+1045184	1050351	arrange the teams or broader process, but that's.
+1050533	1053073	Got a zest, you know, it's like small.
+1053094	1053658	That works.
+1053638	1059649	Just going through some of the lists that you sent out in the meeting invite.
+1059629	1065353	We are getting you an account set up and a VM to remote into to kind of look at
+1065333	1069842	everything we have, so that'll be shortcoming.
+1070767	1074988	The next one was walk through existing functionality.
+1075069	1076777	I don't know how deep I want to get into that.
+1076757	1078345	Go ahead.
+1079008	1082042	Yeah, I think this may have to wait for a little bit.
+1082022	1085847	What I'm trying to do is to get my arms around all of this stuff.
+1085888	1087780	The people, the processes,
+1087760	1092758	the technology, what you guys have built, all that stuff.
+1092738	1098748	Once I have the login, maybe you can, once I have the setup, maybe something.
+1098728	1101752	even if you could walk me through what's, you know,
+1101732	1106306	what they're using, the client, the accounting team?
+1106427	1106528	Yeah.
+1106508	1110021	And then I also want to dive into the process that
+1110001	1114003	your team is using, you know,
+1113983	1117682	Adam, you mentioned you guys use Jira as well.
+1117662	1122880	if i can get my content here i would look at uh
+1123147	1129157	And then we also have it synced up to the DevOps side where these guys mainly work out of.
+1129137	1135148	And we also have a Confluence knowledge base.
+1135128	1140092	We have a confluence knowledge base that's tied into that as well.
+1140460	1144902	And do the clients take a look at the conference pages at all?
+1144882	1147420	No, those are mostly internally for now.
+1147480	1149998	Okay.
+1151378	1156090	I don't know if we really have any KBs out there for that kind of stuff.
+1156070	1160359	Yeah those are mostly just internal for us as developers.
+1161824	1165000	Okay, so in terms of community,
+1165705	1169303	maybe this is diving into the process now, but
+1170110	1173741	when you either you've got
+1173721	1177099	certain set of features that economy wants now
+1177535	1182212	Could you talk a little bit about the process that exists now
+1182378	1186347	Yeah, currently, usually what we'll do is
+1186327	1190970	Most of the time, the clients will reach out to me
+1190950	1195965	and they'll kind of explain what they want and we'll talk through it and stuff and then I will go
+1195945	1199560	either onto JIRA, we've started using that more now,
+1199540	1204048	or sometimes directly into DevOps, but we'll create the work items there like user stories or
+1204028	1207170	issues, you know, depending on what it is.
+1207150	1211423	I'll communicate, like, so our team, the finance team,
+1211403	1217413	meet like every morning around I think 8.30 we kind of discuss like what we're working on currently and
+1217393	1220738	what we did the day before.
+1220718	1224754	that's usually when we'll kind of figure out who's gonna work on what
+1224734	1228281	we'll just put that into an iteration but we don't have like a very
+1228261	1231285	I guess structured process.
+1231265	1235048	We tried on our most recent project to follow something
+1235028	1238305	more agile like where we did sprints like we did like one month sprints
+1238285	1242979	But typically we just kind of work on these as they come in and then we'll group.
+1242959	1248565	group up a couple of issues or user stories together into one release and then push it out and
+1248545	1254555	Usually at that point we'll communicate either over teams or phone call with the users and let them know that that's out.
+1254535	1258572	Just diving into the actual intake itself,
+1258855	1263820	So the client folks know to contact you.
+1263800	1266892	You're the point of contact for things that they want.
+1266912	1267397	Yeah.
+1267985	1269791	And so they just call you?
+1269831	1271008	Not anymore.
+1270988	1276105	I'm trying to get away from that.
+1276085	1279193	Which that flow is part of like
+1279173	1282821	What we were reaching out to you for like look at this
+1282801	1285926	what Ethan described and that flow had been
+1285906	1290499	I mean, detrimental might be an overstatement, but it really impacted
+1290479	1293823	his personal workflow and his team's workflow.
+1293803	1298025	We've been trying to move that up like what Adam had said Scott's been doing.
+1298005	1303999	he and his team are triaging those calls, but a lot of the
+1303979	1309990	migration to that hasn't been super smooth with the with the user base because they
+1309970	1315238	they have this feeling that really Ethan's the only person they can talk to and so
+1315218	1319558	so what's ended up happening a lot of times they'll call Scott and Scott will attempt to
+1319538	1323709	troubleshoot the problem and at the end of the day they'll just say, we need to talk to Ethan.
+1324043	1327810	Just growing pains on knowledge.
+1327790	1331877	And so we're working on trying to like, and Scott's been doing a great job on
+1331857	1335117	gathering as much information as he can to kind of
+1335097	1338846	I guess prime Ethan for what's coming.
+1338826	1342407	but we haven't quite made that transition yet to where
+1342387	1345326	Ethan's not having to feel so much of that himself.
+1345947	1351958	And Scott, how often do you meet with these folks, with the client team, the accounting folks?
+1351938	1354200	Oh, I haven't yet.
+1355291	1356058	So you haven't?
+1356038	1360041	It's basically when they're calling is when we're meeting them.
+1360477	1364260	I don't really have a good working relationship with most of them.
+1364240	1369710	I have been to some of the plants and some of the teams, but not all of them.
+1370348	1371275	Okay.
+1371295	1376292	The accounting folks specifically, how often do they
+1376727	1379751	Yes, they're the ones that are most vocal right now, but
+1379731	1381445	How often do they vocalize?
+1381566	1383784	I'm trying to get a sense of, you know,
+1383764	1386275	the actual intake process in detail.
+1386757	1389690	How do they just call you Ethan every day?
+1389670	1392880	I mean, it's like.
+1392860	1397841	how often they run into a problem.
+1397821	1402161	they don't usually put in tickets like as soon as they run into an issue usually they will
+1402141	1405165	call directly and ask to speak to me.
+1405145	1408168	or sometimes Psy now, but
+1408148	1412488	Yeah, I'd say it depends, but anywhere from...
+1412468	1416673	three to 20 times a week, it just really depends.
+1416653	1421213	But yeah sometimes it'll be seven or eight times in a single day.
+1421800	1424966	And they want to use emails to communicate, right?
+1424986	1426478	It's basically phone calls.
+1426458	1426941	Yeah.
+1427082	1428511	That's their preferred guess.
+1428532	1428833	Yes.
+1429337	1431692	We're trying to get
+1431672	1436012	them to go through me right now they call one number
+1435992	1441075	and it comes to Adam or I, and we get an issue put in,
+1441055	1442505	if they'll explain it to us.
+1443713	1446593	Many times it will be, I just need to talk to Ethan.
+1446573	1452027	So I've been trying to keep notes on those types of things and
+1452007	1457157	when I can ahead of time to keep a history of what's going on.
+1457508	1460506	And for minors, those calls could be anything, too.
+1460788	1462337	Yeah, absolutely.
+1462317	1465341	It could be like almost a network down.
+1465321	1469070	issue that they're experiencing that really needs to be looked at now.
+1469050	1473604	It could be something they're thinking of on the current most recent release.
+1473684	1474369	It could be
+1474349	1478368	little thing that's bugging them or it could just be a hypothetical like hey
+1478348	1480204	what if we decide to do this, is that doable?
+1480506	1481777	I mean, it can range.
+1481757	1483814	of any of those things.
+1483834	1484983	Or even sometimes like,
+1484963	1489639	Just like, hey, can you write me like a query, like a SQL query that will find this information?
+1489679	1490042	Sure.
+1490385	1490687	Yeah.
+1490667	1493860	Yeah, one time I had a call that was like,
+1493840	1499766	Jordan literally just fixed it right as I answered the call, so it was great.
+1499746	1503597	I mean that is
+1503577	1509115	natural behavior to them i mean even for us if we have some credit card issue
+1509095	1510836	that charge cord
+1511761	1516911	by some reason we just want to get to the direct person and
+1516891	1521585	get it resolved instead of writing emails or chatting through a customer.
+1521565	1524842	They have that avenue, that's what they want.
+1524902	1527576	They get requests through email, Teams, Slack.
+1527556	1531592	There are various ways this happens.
+1531572	1534917	it will bypass the initial triage intake.
+1534897	1538832	I'll say that's been a hurdle for us like doing in house
+1538812	1543219	any in-house IT since as long as I've been here is that
+1543975	1548855	Anytime I've tried to operate or do something like an IT shop would
+1548835	1552062	like a third party IT shop providing a service.
+1552042	1557073	where we kind of set up the contractual guidelines and we define the flow.
+1557053	1560752	It's been a struggle here because
+1560732	1566743	I'm not saying we're not on the same team, we are all on the same team, but there's this tendency to believe that
+1566723	1570860	any sort of structure or hierarchy we want to
+1570840	1575332	put in is a roadblock to us really working together.
+1575532	1581475	We all work for WW, so if the accounting team has a question, they should just be able to call and talk to
+1581455	1584953	any developer they want because we're all working for the same team.
+1584973	1585696	They're dedicated.
+1585777	1587465	We have a team dedicated to them
+1587445	1593456	And so as soon as we put in any structure of like, well, you need to call this number or email this ticket in,
+1593436	1597202	It's, well, no, that's impacting my workflow.
+1597182	1601623	So I'm not going to do that because we're all on the same team here.
+1601603	1602877	You can see what I mean.
+1602937	1603281	It's not.
+1604312	1605100	We've had trouble offering.
+1605080	1608559	operating as a software shop and I'm not saying we should
+1608539	1611647	operate everything as if we're a third party.
+1611627	1614988	We've hit resistance there in the past.
+1615390	1618887	That is a big problem because it's not
+1618867	1622548	Yes, it impacts the client's workflow.
+1622950	1628775	On the flip side, it is affecting Ethan and all the delivery teams.
+1628755	1634142	It's affecting your workflow if you are working on something and get interrupted, right?
+1634510	1638563	It doesn't, it's not an optimal situation.
+1638543	1643659	probably because we may have to take this offline to bubble this up.
+1643639	1647793	This is a process change.
+1647773	1650797	that will need to get signed up from
+1650777	1654662	And that's what I would hope that at the end of the day I feel like if we
+1654642	1659066	If we do like what you described well and we build out this product
+1659046	1663943	product management system well yeah i think that a lot of the other
+1663923	1666947	Because, I mean, they're not hard enough.
+1666927	1667510	to work with.
+1667570	1671773	I mean they easily acknowledge that they want to be respectful of these guys time just as
+1671753	1675333	So they're not, they're not
+1675313	1681324	problematic in that sense, but I think that that gap in expectations you were talking about
+1681304	1687315	I feel like if we can close that and really do product management well and customer service well, I think that it will
+1687295	1689650	it will alleviate a lot of the other issues.
+1689751	1691905	And like you said, the regular communication,
+1691885	1697170	if they're being regularly heard and their needs are being addressed and questions being answered,
+1697150	1703160	I think that a lot of the other stuff will slowly make itself not an issue anymore
+1703140	1703287	you
+1703782	1704425	Absolutely.
+1704445	1709792	So this, Scott, you're driving the reality, right?
+1709772	1710000	you
+1710751	1716205	That is a really good idea because you want to separate out the
+1716185	1722195	Network down versus, you know, network is up and running, but this button is not doing what it's supposed to do.
+1722175	1725537	versus I want a new button.
+1725558	1728034	You can split them up into three categories of
+1728014	1733333	burning building something that currently you know the plumbing is broken fix it right now
+1733313	1737940	Versus, you know, so that is an absolutely
+1737920	1743525	critical part of the intake when we need them to buy into that process.
+1743505	1747862	It's great that you guys are already thinking about that and put that in place.
+1748078	1750258	So that process needs to
+1751302	1756114	be adhered to, it needs to not jump into, hey, get Ethan on the phone.
+1756094	1757779	Ethan is not available anymore.
+1757880	1759118	He's left the building.
+1759098	1762729	That's going to be difficult, but we'll get there, I think.
+1762709	1763738	I'm joking.
+1764222	1766965	I'm just .
+1766945	1770407	That intake process is really key.
+1770387	1775301	you need to free up Ethan and their team to have even more
+1775990	1780228	rational list of, hey, here's all this stuff, we priaged it,
+1780208	1783317	this brain, you gotta do this work, right?
+1783297	1787130	Well, if Ethan left the building, where who is that?
+1787110	1788139	Right?
+1788219	1792193	Yeah, there's a lot of that.
+1792173	1797255	And that's why I like having triage and product management
+1797235	1801963	as these buffers between, like you said, with intake between the rest of the
+1801943	1805608	all the clients and the engineers and the dev team.
+1805588	1811548	I think if we implement that and they're satisfied with what the deliverables are, I don't think it will
+1811528	1814839	I think it will move away from like as Ethan said
+1814819	1817927	here, oh no Ethan, what about Si, what about Jacob, I think that
+1817907	1821522	if they know that when they come into triage or product development,
+1821502	1827310	they know they're cared for, and they're going to get what they need, and I think it will take care of itself.
+1827290	1829180	And maybe I'm too idealistic.
+1829200	1832659	I would like to give a small input on this topic.
+1833803	1836827	for what I have for seven good months.
+1836807	1840793	I feel like what we are lacking is one service team.
+1840773	1845079	because we have development team but their queries
+1845059	1849821	if they can be addressed by a dedicated service team,
+1849801	1855170	to answer those service calls, that would help our workflow a lot.
+1855150	1860165	That's going to take some of that building that confluence knowledge base out.
+1860145	1864992	so that we can handle some more of those issues instead of
+1865697	1869835	So I know there are things that come in that just need a script run.
+1869815	1875285	If that can be taken care of in triage, that's going to help a lot.
+1875535	1880095	And we've got priorities in there that we're starting to implement now as well, but I don't feel like
+1880075	1883115	the users really get it.
+1883095	1887756	They just feel like, okay, if I put everything in as high priority, it'll just get done fast.
+1887736	1893595	yeah so does that give you enough of a snapshot krishna
+1893575	1895211	This is good.
+1895918	1897999	I think what I would want to do is to
+1897979	1901070	you know, value of the triage process as it's done.
+1901050	1905137	And then with Ethan on the back end side,
+1906265	1911718	detail about the app, you know, JIRA and all of that stuff, the systems and
+1911698	1917642	But I am getting a good flavor of where the issues with problems
+1917622	1921050	My piece of dishes is so overloaded.
+1921030	1922730	But yeah, this is good.
+1922810	1924611	I think this is a good discussion.
+1924591	1930602	It's not just important for us in the delivery side to have a process.
+1930582	1933791	It's very important for the clients to follow
+1934817	1936307	It's communication, right?
+1936368	1939832	Right now, it's a small company,
+1939812	1940681	But it's not.
+1940762	1943410	It's a fairly big team here, right?
+1943390	1949400	and it's no longer the case that you can just pick up the phone, call Ethan and say, hey, this thing is broke.
+1949380	1953433	We have to have some
+1953413	1957433	rational processes that everybody follows and conveys.
+1957413	1962985	if the conference, and I'm just throwing this out, before I, in accounting,
+1962965	1968486	feel like calling Ethan, maybe I take a look at this confidence page and do a little
+1968466	1971895	diagnostic myself and say, hey, I'm seeing
+1971875	1976907	This error message, let me check if there's something on the Confidence page that talks about that.
+1977275	1979637	And so maybe I can help, self help.
+1979657	1981918	Maybe I can fix my own problem.
+1981898	1987335	Instead of having Ethan, instead of having to call Ethan and say,
+1987315	1989087	and see if there's any points out ahead.
+1989107	1991563	This has already been documented by Knowledge Base Sphere.
+1991926	1993073	Go take a look at that.
+1993053	1998304	So maybe that kind of a self-help process would be the first point.
+1998284	2003738	for those classes of problems where network is down or
+2003718	2005156	Uh...
+2005878	2008373	the plumbing is broke.
+2009218	2011129	If it's an enhancement request,
+2011109	2013913	I in the accounting team just go to
+2015142	2019062	JIRA, and I submit an enhancement request.
+2019122	2021052	Maybe the form could be made fairly simple enough for me to
+2021538	2022335	Understand.
+2022922	2028645	And so that work, that intake process, I'm sort of offloading it.
+2028625	2033320	what Krishna is suggesting is sharing that responsibility with the client teams
+2033300	2038078	giving them enough tools to a diagnose themselves,
+2038430	2041453	B submit requests themselves.
+2041433	2044778	If that doesn't work, then maybe
+2044758	2047782	Spock and the triage team might get on the phone with him.
+2047762	2049612	But never call it Ethan.
+2049632	2050858	Don't bug Ethan.
+2050878	2051783	He's in a sprint.
+2052165	2053452	That's a lot.
+2053432	2058463	You know, once the sprint starts lockdown, they might let us even no longer available.
+2058443	2063745	Because the work has been identified for that spring, and that is all they're going to do.
+2063725	2067728	maybe there's a very urgent request that maybe
+2067708	2069576	changes the spring backlog.
+2069637	2073313	But no, once the spring backlog has been defined,
+2073800	2077165	No more, no more, no more.
+2077185	2078072	You're getting one of them.
+2078052	2080765	Just told him that I got fired.
+2080966	2083658	Just told him, yeah, we don't have a finance team anymore.
+2083638	2087507	While we go by aliases.
+2087749	2088535	Yeah.
+2088515	2094171	But you know, those are some ideas we need to explore
+2094151	2098947	Can we give these client teams some tools that A,
+2099635	2101444	have less than help themselves.
+2101846	2105798	and be for burning situations, right?
+2105778	2110860	And then B, if they want something in the future, like an enhancement request,
+2111212	2115771	They submitted themselves and it goes to Scott and he looks at it and says,
+2116780	2121559	you know, yeah, this is a valid and that's my request.
+2121539	2125305	engages with the submitter to say, what do you mean?
+2125285	2127380	by what you said, maybe.
+2127420	2131026	And so we flesh that out as a user story,
+2131006	2136443	build a mock-up based on whatever they're looking for and then we say yep
+2136423	2141455	You know, there's this set of 10 announcement requests that have come in.
+2141435	2144560	Now we've got to prioritize them for the next break.
+2144928	2147952	So that's the kind of work me and you spot.
+2147932	2151985	and looking at us both as the product management team, the product team,
+2151965	2154780	who are going to be interfacing with the client teams.
+2155243	2157756	Ethan Moeller talks to the client teams.
+2157736	2159207	being a little extreme here.
+2159610	2161384	But, you know, the point is once
+2161364	2164388	lockdown, Ethan and the team don't get interrupted.
+2164368	2168202	Once the sprint is over, there's a small window where, yes,
+2168182	2172741	Ethan takes a phone call or two but really we need to get away from that mindset of
+2172721	2176290	get on the phone with Ethernet team, that's not going to work, right?
+2176310	2177500	That's not going to scale.
+2177699	2182917	And so maybe get on the phone with Scott.
+2183453	2186595	but it all just have the,
+2187149	2191489	getting on the phone should only be sort of last resort but
+2191908	2197159	network is down or something is just completely not working then yeah you call Skype because
+2197139	2200365	I cannot email or I cannot, you know,
+2200345	2203369	I send this live, TV messages or whatever it is.
+2203349	2207114	But, you know, and there is a regular cadence.
+2207134	2209107	Scott meets with the client
+2209087	2214321	We have folks every week, however often he doesn't, right?
+2214301	2218084	And that's when they tell them, here's all the list of stuff that
+2218705	2219772	It's not working.
+2220014	2222068	I want new stuff, whatever it is.
+2222591	2224665	And every week we
+2224645	2227872	look at the stuff that they've given us from the past week,
+2227852	2231061	We organize it, categorize it.
+2231041	2236613	feed into the spring backlog, and then we communicate back to the plant team and say,
+2237251	2239066	This is what we heard from you guys.
+2239247	2241102	This is our plan to address it.
+2241638	2246839	you know, look for this thing to come out in the next two weeks, three weeks, whatever it is, right?
+2246819	2249893	So that is the intake process.
+2249873	2255125	to address the vocal clients who are
+2255341	2259968	dissatisfied, but it will require change from both the
+2259948	2264794	client site as well as for Skype.
+2265213	2270515	But yeah, just getting on the phone with Ethan or something is not working and team.
+2270495	2276100	that's the thing that we need to break.
+2276519	2279998	Absolutely, let's step in the right direction.
+2282054	2284838	But yeah, this is good.
+2284858	2286613	I'm getting a sense of it.
+2289277	2292790	This is supposed to be, in my mind, this is supposed to be an introduction.
+2292770	2296249	You're getting a good intro.
+2296229	2300232	We're actually planning a little bit.
+2301848	2303826	So what I want to do is
+2304211	2309563	Adam, you'll be setting me up with the accounts or someone will be setting me up with the accounts and stuff like that.
+2309543	2311150	Yeah, they're working on that today.
+2311940	2312706	Okay, great.
+2313250	2316718	So then I can look forward to, you know, I'll set up
+2316698	2321123	one-on-one columns, Adam, Ethan, and Scott,
+2321103	2325780	that you want to pull in, but I want to stop the intake process
+2325760	2326909	How is that working?
+2327292	2328381	The triage process.
+2328784	2329893	I want to go to the GR.
+2329913	2331062	I want to understand the development
+2331042	2332069	process itself.
+2332633	2336378	I want to look at the actual requirements, how they've been captured,
+2336982	2342082	You know, sometimes I can say I want a button or I want
+2343243	2349051	Something X but in the way it's been translated into requirements made
+2349031	2354670	lead Ethan and the team to build Y and X is not Y and so I want to just
+2354650	2356543	Connect the dots from...
+2357671	2363580	the words of the client teams to what Ethan receives.
+2363560	2369200	And so that again contributes to gap in developing.
+2369180	2371456	Mission is a good thing.
+2371698	2374296	What kind of gives you an idea of that with
+2374276	2378920	Some of our most recent ones, or most recent projects, kind of like that.
+2378900	2381957	The Chuck Smith one, I think is a good one to show.
+2381937	2385771	of how the process works and what we've gathered from them.
+2385751	2390715	and we'll see if it all makes sense to you.
+2391202	2395542	I'd like to first just start off with, you know, that list Adam you mentioned
+2395522	2399406	who was in the meeting, who was in the team, what did you all...
+2399386	2404097	Yeah, we can do that.
+2404988	2409126	And so then I will also be documenting as we go along
+2409106	2412147	what I'm hearing from you, each of you.
+2412127	2415555	various parts, the triage process, the intake process,
+2415839	2419504	all of that stuff, I'll be putting that stuff in the slides,
+2420142	2421472	or whatever it is.
+2421492	2424313	And then, you know,
+2424884	2430405	I imagine this week will be spent on meeting with each of you
+2430942	2436109	separately just to get a sense of deep diving in each area.
+2436089	2439687	And then I'll document all of them to a week and say, give me some technical.
+2439667	2443669	So I came back and said, but here's all the problems we have.
+2443649	2445300	and here's some possible solutions.
+2445823	2448259	It's great that you guys have already
+2448239	2452157	gotten down this path of kriya so now we need to figure out why it is that that's not
+2452880	2458063	taking so and that's that's in an instant stage at this point too where.
+2458043	2462856	When we started beginning of the year, close to it.
+2462836	2464489	In the spring, maybe?
+2464509	2467834	Well, this role itself is really two years old.
+2467814	2470585	as of right now
+2470784	2475664	Really just started working on the standard operating procedures, the
+2475644	2480399	itself over the last couple of months, right?
+2480419	2481064	Yeah.
+2482073	2483523	The idea has been there.
+2484328	2488033	Just getting it formalized and
+2488013	2493501	Having it put in place to where everybody knows it, that's where we're at right now.
+2495793	2496885	Awesome.
+2498099	2499171	And then also
+2499944	2504368	That's a part of this week I want to dive into the actual
+2504348	2508722	Adam, you heard talking about the tech stack and all that, the actual,
+2509462	2513278	frameworks and, you know, tools and how, you know,
+2513815	2515147	databases and all that stuff.
+2515288	2518375	I want to just get a full understanding of that as well, but that's not
+2518355	2521868	And the music priority, that's sort of what worked out.
+2522236	2524618	The list I think my teeny pigs are just.
+2525915	2531166	Now that I've met you all, the next step for me really is to
+2531770	2536819	get the account set up, log in and then have Ethan walk me through what is
+2537626	2541510	what they're using, the accounting folks and the modules.
+2541895	2544261	with features and all of that.
+2545150	2545898	And then
+2546570	2549442	Scott, meeting with you to understand
+2550552	2554420	triage process, how that works.
+2554889	2558875	I want to do this all and what I have a good understanding of our internal
+2560255	2565169	People process technology stuff before I start engaging with the client itself.
+2565824	2569641	When I engage with the client, I want to sort of, beyond just introductions,
+2569840	2573657	Maybe the initial call is just in your production, but I want to also sort of
+2574042	2579766	you know, have some slides and talks about, hey, this is the new world we're going to for intake,
+2579746	2583175	No longer do you just call Ethan a team.
+2583155	2587798	I'm being a little harsh, but this is what the intake process is going to look like.
+2588268	2593131	you know, maybe some forms for you to fill out when you have an idea of
+2593111	2598615	the new thing that you want, or maybe this is where you go to see if the system is down,
+2598595	2601771	or those kinds of classes of
+2602274	2606952	Issue the things that they can tools that we can give them to help themselves.
+2607286	2610985	and then if nothing works, then yes, contact Scott.
+2611572	2614377	or call this number, whatever it is.
+2614492	2620502	And so that's, I wanna reach that point before we engage with the clients
+2620482	2625784	And then separately I want to talk to them as well to get their side of
+2625764	2629363	Why is it that, what is it that is not working for them?
+2630770	2631775	And then,
+2631755	2637090	Because now right now I'm hearing your side of what's not working.
+2637070	2641613	I want to hear their cycle once working and then come across there.
+2641593	2646135	And then we can come up with a proposal for how things should change.
+2646588	2649932	and then start living that change, as they say.
+2650604	2652536	But that's a little bit wasted right now.
+2653120	2655636	So what's your idea on...
+2655616	2660817	Like as far as your time goes, I don't know what your availability is, but
+2660797	2666082	Like once we get you set up with access and everything, we can kind of walk you through that.
+2666062	2670618	Should we just create some calls for you to discuss?
+2670760	2670840	Yes.
+2670820	2673844	But my lease, once I have the account set up,
+2673824	2676489	and I can log in and take a look at stuff.
+2676510	2678468	I want to meet with Ethan
+2678448	2683564	had him walk me through, hey, this is what the accounting folks are using right now.
+2683544	2688053	Then I don't know who can walk me through the JIRA.
+2688033	2691531	Issues that are more specific more specifically.
+2691551	2693622	I want to understand that
+2693602	2696811	Right now, I am...
+2697736	2702177	schedule to spend four hours a day with you guys, you know,
+2702427	2707273	I have some flexibility in terms of when that is, so I can work based on
+2707253	2713129	what your calendar looks like in terms of eating with each of the folks.
+2714071	2718647	And so... Yeah, we'll get a feeling about that whenever we start.
+2718627	2719837	getting into talking.
+2721088	2722782	Are you in Central Town where you're at?
+2722762	2724623	I'm Mountain Tide.
+2724643	2726038	Mountain Tide.
+2726018	2729768	You know, 8 o'clock, your time, Sunday time,
+2729748	2733328	works for me, we can work something out.
+2733308	2737513	If we have a calendar that you all share,
+2737493	2743167	and also block off times where I have to use and maybe stop.
+2743687	2747757	work on that, like instead of my working hours and that kind of stuff.
+2747737	2748681	Okay.
+2750469	2753663	Yeah, I know Ethan's got his daily meeting at 8.30 our time.
+2753643	2759046	And then we've got weekly meetings with the team leads
+2759026	2763197	9 o'clock on Mondays and 9 o'clock on Thursdays in the morning.
+2763177	2768682	But yeah, other than that, we can pretty much work around anything.
+2769961	2772681	Yeah, I tend to work the mornings
+2773960	2777200	You're gonna have to go into the building and other stuff.
+2777220	2778729	Yeah, that's fine with us.
+2778749	2779212	Yeah, perfect.
+2779546	2782036	Cooperate.
+2782057	2783008	Excellent.
+2784018	2788746	So I make the information on the accounts set up and all of that.
+2788726	2793321	I don't know if you're gonna set me up with an internal email address.
+2793342	2794450	I believe they are, yeah.
+2794430	2799327	okay yeah what's that hit with an email account and like a team's account
+2799307	2803110	stuff where you can IM if needed.
+2803130	2805283	And I have a Mac machine,
+2805871	2806364	Well,
+2806681	2808531	that I use, I don't know.
+2808793	2810100	We have others with Max.
+2810844	2811145	Okay.
+2811467	2812573	Not many, but...
+2812553	2815577	They do need to just follow that.
+2815557	2820235	Yeah, we'll set you up with a VM to where you can remote in and do all your work from there.
+2820215	2821770	Good, that's good.
+2821790	2822158	Okay, awesome.
+2822425	2823997	So then I will look forward to hearing from you.
+2824078	2827525	And then my next step will be to meet with Ethan.
+2828045	2832334	starts I you know so I'll just work down
+2832314	2833563	That'll work?
+2834348	2837127	And I'll get you a list of who's who.
+2837107	2841448	I don't know if I have a picture next to him.
+2841469	2842594	I'll get you who's who.
+2842574	2843823	Great.
+2844367	2844750	Excellent.
+2844790	2845395	Thank you, Chris.
+2845475	2846120	This is awesome.
+2846241	2847268	Really excited to
+2847518	2850559	be working with you all, it's gonna be fun stuff.
+2850944	2853683	Nice meeting.
+2853985	2855233	Nice to meet you.
+2855213	2856439	All right.
+2856459	2856701	Thank you.
+2856721	2857625	We'll talk to you soon.
+2857907	2858389	Sounds good.
+2858570	2858852	Great.
+2859394	2860178	Thank you.
+2860199	2860701	See ya.
+2868882	2872163	Bye-bye.
+2872404	2873290	Meeting's over.
+2875598	2876727	I'm optimistic.
+2877593	2878561	What did you say?
+2878581	2879790	I said I'm optimistic.
+2879871	2881120	Yeah.
+2881100	2882029	That's cool.
+2882049	2884714	I think if he can help.
+2884694	2889760	help us build that middle layer out, like to actually be that
+2889740	2893776	customer service, product management, product analysis, triage,
+2893756	2897235	and actually like be at the end of the day be
+2897215	2899110	serving like the end user as well.
+2899170	2900863	Not that we're not now, but like I said,
+2900843	2904424	It is a big, it does create those gaps whenever
+2904404	2907546	we do an initial and then we're not really
+2907526	2910180	in that customer service realm anymore.
+2910481	2913537	You guys are just trying to code and develop and get it out the door.
+2913517	2919055	And then you're having to wear all the hats when you do get out the door.
+2919035	2924100	with like what's a bug, what's a new feature, what's something we need to roll up.
+2924080	2928792	into another iteration what's a brand new thing they want and then meanwhile you're trying to
+2928772	2932369	code it all to figure out I think that
+2932349	2934022	and just answer questions.
+2934183	2936622	Like I said, in the past,
+2936602	2939625	kind of like we had to be in the beginning.
+2939605	2944587	just because there was only so many people here to do it yeah and now that we're big enough
+2944567	2947877	and we can still grow some more.
+2947857	2951522	It sounds like his initial plan is to kind of be
+2951502	2956028	go between and then once he kind of gets a feel for what needs to happen then it can
+2956008	2959048	start developing the treehouse system.
+2959028	2963723	Yeah, I'd be a mix of... I feel like, which I think he'll...
+2963703	2968110	I feel like what you're doing on the triage is exactly what we need.
+2968090	2973055	I just think it needs to be, you guys keep developing and then we need to sell that to the users
+2973035	2979045	But like, I mean, I would envision everything intake wise, like he was everything coming into triage in a tree
+2979025	2983163	you're determining where it needs to be flow out from there like it
+2983143	2986352	maybe we end up having a support team at some point that's just
+2986332	2991111	you just hand off to a support team that actually can answer questions, guide people through stuff.
+2991091	2996443	to get them through using confluence on their own, you might have a,
+2996423	2997952	something rounded to testing.
+2998153	3002316	Like if it seems like it's an actual bug, maybe you need to triage something.
+3002296	3006653	and then you would also have the product management that's really
+3006633	3009394	the ultimate user interaction.
+3009475	3011732	I've been doing a lot of that myself.
+3011712	3016643	in the triaging part of this testing and reproducing things that
+3016623	3020963	that they report and that seems to work pretty well.
+3020943	3025637	Coming from testing, it's been pretty easy for me to do.
+3025617	3028742	and see like every development piece we do,
+3028722	3032927	even if it's a bug like you find going back through like that.
+3032907	3038445	Product management piece and like the product manager or whatever we call it like analysis, whatever and
+3038425	3043643	always that user go between they're the ones that like helping build out what the iterations are what
+3043623	3046731	are, they're the ones doing the user communication.
+3046711	3049954	and here's what we're delivering, here's what it's gonna be, what do you need.
+3049934	3053987	And like even if you find a bug, kind of route back through them and say, hey,
+3053967	3057717	Changing this is this what you're saying, but let them be that go between and
+3057697	3062104	and kill off all the communication that comes directly to not just you but like
+3062084	3066019	your team, Conrad's team, Andrew's team, it just, like, it all stopped.
+3065999	3072010	It all goes through that plug, because right now we just assign it to the team leads if there's a plug, we can just assign it to him.
+3071990	3076785	And also, weirdly we have this situation like,
+3076765	3081105	During development phase, we have big gap between user and
+3081085	3084480	as developers when there is an issue.
+3084460	3089155	there's no gap at the immediate quality.
+3089135	3095145	There has to be a gap and there has to be a removal of the gap as well.
+3095125	3101102	I'm really interested to see what he thinks about the documents that have gotten so far.
+3101082	3102953	and what his suggestions would be.
+3104261	3106755	So all that stuff is even
+3106735	3108410	flowcharted out in there.
+3108612	3110367	Yeah, but I think he's
+3110347	3114484	He reckoned I mean he alluded to it in the call like he's just one person that he can't
+3114464	3118500	do that for everyone, but like getting it off the ground here.
+3118480	3121504	would be good and that's the one thing I'd like to see
+3121484	3125048	the board like a big picture wise if we're looking at this intake of
+3125028	3128676	flow that we talked about and there being a product management team we have to
+3128656	3132928	that team and that that might mean people from other teams that like.
+3132908	3134744	really feel like they're aligned with that.
+3134784	3136115	They would love to talk to users.
+3136135	3137164	They would love to be that
+3137144	3140353	Analysts go between that might mean that we build a team
+3140333	3146142	out of our other teams, out of people that really, because I want people doing like what they love to do,
+3146122	3148683	what they're good at doing, get people set up to win.
+3149248	3151204	And like if there's people on our other teams
+3151184	3154410	like to develop but they feel like this might be a niche then let's
+3154390	3157887	let them come in and train and build that out, then we can
+3157867	3160907	Again, I'd like to see a pipeline coming up of like
+3160887	3162595	That's what I really like to have.
+3163017	3164926	Developers are always kind of like you're doing.
+3165228	3166594	Developers are coming up.
+3166574	3171184	taking on roles that like fit them well and as we have other spots that fit
+3171164	3175943	and get them in a place where they can really do well and succeed and help everyone.
+3175923	3181613	so it might be that we have to kind of piece together the analysis team
+3181593	3185593	from people who would want to do it, would love to do it and do it well.
+3185754	3187603	And then we start bringing up more developers
+3187583	3189659	to fill those gaps.
+3190284	3192683	I don't ever want to get to a spot to where we're like,
+3192663	3197712	Say like I mean you coming in and working development wise I know you were fantastic and testing and
+3197692	3202133	I don't want to ever be like, well, he'd be good in development, but we can't lose him in testing.
+3202282	3203712	I don't want to be that.
+3203893	3206672	I want to get people where they want to be and where they can really be.
+3206652	3209946	be a star move, so yeah.
+3210280	3212166	That's why I mentioned that in the beginning.
+3212226	3213321	I'm like, we're not...
+3214246	3217590	What we haven't set up now with the different teams and stuff.
+3217570	3222147	It doesn't have to be what it is going forward.
+3222127	3228036	Like you said, we want to think outside the box if we need to, just to make that process work the best.
+3228016	3233352	There is no box.
+3233332	3237756	We would need a service and information team like
+3237736	3242768	Most of the calls we get from Jayak, it's like they want
+3242748	3248404	information from that database or something that has to be like
+3248384	3249855	done on the database.
+3250520	3252555	So it would be better to not
+3252535	3258073	like separate from the development team have a service information team yeah
+3258053	3262984	that could directly address Jeffs and Jordan's goal or any other team.
+3262964	3267102	I think having that division between like
+3267807	3270831	who's actually doing it and delivering it.
+3270811	3274712	and the users is like a huge because I just got an email from Joe
+3274692	3279100	before this meeting where he wants me to do write a query yeah and he said it
+3279080	3283723	It has payroll data, so it's like, I know you'll end up having to run it, so can you just do it?
+3283703	3287279	And some of that, I think.
+3287360	3289208	It's like, because he knows that like,
+3289188	3290398	Ethan can do this.
+3290822	3291911	So I'll just call Ethan.
+3291931	3292698	Chris can do this.
+3292758	3293545	I'll just call Chris.
+3293525	3294470	Jacob can do this.
+3294551	3295315	I'll just call Jacob.
+3295436	3296300	I don't want that.
+3296421	3298050	I want it to go through.
+3298030	3301712	a funnel that's a team and like whoever's talking like
+3301692	3303769	is never the person to actually deliver.
+3303930	3305442	I don't want Jeff to know who does what.
+3305422	3309576	I want there to be a person or a team he talks to.
+3309556	3314436	I think that's just good across the board anyway, but that's how all this ends up.
+3314416	3317997	In reality, he could have easily sent
+3317977	3319977	this request to a triage team.
+3320542	3322198	It could have gone through this
+3322178	3327598	hand it off to the developer, and even if there's not security to run it on production for the payroll stuff,
+3327578	3329689	It could just be like what you would normally do.
+3329709	3331700	You would just send me a script and say, can you run this?
+3331740	3332745	I've written everything.
+3332725	3336263	Like it doesn't have to come directly to me or directly to you.
+3337087	3338112	I don't know how much
+3338378	3344389	We're talking about database, writing database queries and databases in general, and we've got two
+3344369	3346863	a fantastic job.
+3347386	3349941	And she got more involved in it.
+3349921	3355932	A lot of those scripts that you end up writing just because you have access to it.
+3355912	3358935	She's our database admin.
+3358915	3360001	That'd be awesome.
+3360664	3364082	Include her as part of the teams, as one of the teams.
+3364062	3369735	And even if we had, like in these specific situations where,
+3369715	3373583	like Ethan or whoever's writing these don't have access on production.
+3375031	3380367	Can't we have something, I know we've talked about doing something
+3380347	3384028	in the schism or whatever in the pipelines to where we can throw out
+3384008	3388872	Stuff like that where maybe all you got to do is click approve and then it runs it
+3388852	3394288	In the banking system we used to have this
+3394268	3397461	where whenever we have an issue on production,
+3397441	3401410	We, as a developer of our service, we raise a ticket
+3401390	3405443	and the ticket directly goes to the in-charge product owner.
+3405423	3409527	And when he approves, he will approve the session.
+3409507	3413762	for a certain time, like one hour, half an hour, whatever the time.
+3413742	3415440	that requires the job.
+3415965	3417238	And once that is done,
+3417218	3422385	We will also have logs that monitor our actions and
+3422365	3427072	Whenever you want you can just see those logs like what this exact user has done.
+3427112	3427313	Yeah
+3427293	3429124	From the security point of view.
+3429144	3431700	Something like that would be great to build out.
+3431680	3437691	I mean, that's another scalability thing that we're, what we're doing now isn't scalable, it's just what it's always been.
+3437671	3443395	I don't know if this is the right place to ask or not, but I've just always been curious when you write a script like that.
+3443375	3448947	and then you send it to somebody else to run, don't you kind of feel like you're flying blind a little bit?
+3448927	3450246	Yeah, for sure.
+3451727	3451950	Definitely.
+3451930	3455967	when we're dealing with the employee or payroll data,
+3455947	3459747	tricky to know if my script is correct because
+3459727	3463695	Jordan a lot of times knows roughly what number he's looking for than what I'm looking for.
+3463675	3469483	or especially with payroll data is like millions of dollars different because it's all scrambled, you know.
+3474172	3477617	I kind of like that idea, though, that you were talking about, to wear it.
+3477597	3481330	you approve like a window of time and then just kind of
+3481310	3487101	After that it just expires and again you have to price another ticket for that.
+3487081	3492771	And we had a project years ago called like data extract that never got out the door.
+3492751	3493900	I do remember that.
+3493921	3496703	Yeah, but that was the idea of it too, was that
+3496683	3501377	like you could just connect to this, and which it's still,
+3501357	3506575	the end goal of it is still or the the first iteration still kind of living out there but
+3506555	3512008	the users could connect to that service from Excel and just pull
+3511988	3517645	specific views we had written on SQL and they could just load an Excel sheet and manipulate it and then make their own.
+3517625	3520648	export files or whatever they needed to do.
+3520628	3525610	The idea of that was that like a developer could just write a function or a view
+3525590	3529035	let it get deployed and then the user does their own thing if they need.
+3529015	3532562	And also I thought of one more project like
+3532542	3535937	have a service that runs on the production side.
+3535917	3539956	where it just tracks the user actions.
+3540137	3541624	Like for example,
+3541604	3546889	Jeff has done some action, like he went to Jack Smith, he did click on this.
+3546869	3548761	and this, this, and that.
+3548782	3550855	And he came and frozen.
+3550835	3555259	When he calls us, he'll be explaining the whole thing.
+3555239	3561250	Instead of him explaining those what he has done we can just go to the server log and
+3561230	3562279	and just make those logs.
+3562300	3565367	And that would help a little bit with communication too.
+3565347	3568170	People are trying to explain what they've done to produce a bug.
+3568210	3569299	They miss a couple of things.
+3569279	3572657	and they can't replicate that bug anymore
+3572637	3575965	In a limited sense, some of that's...
+3576248	3580740	was done in the database where you would have changed by certain, right?
+3580720	3585178	But it's kind of like that confirmation thing that we've been chasing.
+3585158	3588115	what are we missing that she's been doing
+3588230	3589523	It doesn't catch everything.
+3589704	3592047	Yeah, it just checks, okay,
+3592027	3597531	This data cell got changed, this data row got changed by this person at this time.
+3597511	3599286	You don't really know much fun on that.
+3599769	3601564	But it is helpful.
+3601544	3606576	You can at least see, oh, okay, well, I see when the last time the record was changed and by who.
+3606556	3609580	Now we can go back and ask them what they were doing.
+3609560	3612389	This way, like you're talking about, we wouldn't necessarily have to do that.
+3612409	3613258	We have a record of it.
+3613238	3618557	Make notes of all those things, like the SQL access times.
+3618537	3624497	the deployment approaches and the like the stack tracing and user step like logging
+3624477	3626594	All that stuff's good, just take note of it.
+3627098	3629053	Especially as we go through this with him,
+3629033	3632057	build out what we want our intake and flow to look like.
+3632037	3636647	if there's pieces like that that may not be directly part of the flow but we need to add in like we need to
+3636627	3638048	note that and remember it.
+3638109	3639651	I kind of feel like that's something he'll
+3639631	3644325	probably identify like if you're talking about with the logging and stuff, like that's somewhere where we're kind of lacking and I feel like
+3644305	3650316	maybe that's something he'll bring up that'll help us a ton with being able to communicate with the users that we can actually see.
+3650296	3655227	What's going wrong over the years happen and stuff walking we a lot of times like
+3655207	3661217	I feel like at least our team, our process is kind of
+3661197	3665250	I wouldn't say haphazard, but you know, we don't have like a ton of structure with it.
+3665230	3668946	we don't have very specific requirements for how components should be.
+3668926	3673485	you know implement and stuff so i write is a little bit differently so on this page we may have good error handling on this one
+3673465	3676489	We may not, or we may forget to add logging here.
+3676469	3681079	stuff and that's been that's been bittersweet over the years it's been cool because it's it's
+3681059	3684083	It's granted a lot of flexibility for teams and developers
+3684063	3690073	try new things so like we haven't learned hamstrung people on certain technologies but the other time other side of it
+3690053	3693164	we ended up having kind of the wild west of technology.
+3693508	3694174	Yeah, absolutely.
+3694154	3697667	It's opened up doors for like
+3697647	3701194	learning new things that we wouldn't have learned otherwise but it's also made
+3701174	3702302	a lot of problems too.
+3702746	3706695	So are you talking about standardizing how apps are written?
+3706675	3709817	where everything has to be more on the structure.
+3709797	3714508	Structured and everything has to have a tri-catch and everything has to have
+3714488	3716685	Yeah, I can see it's benefiting from better coding standards.
+3716705	3718761	Or are you talking more like minting or things like that?
+3718741	3721849	Yeah, I feel like having better coding standards might
+3721829	3725562	where it doesn't really matter what language you're in, but making sure that, you know,
+3725542	3728683	If you're writing a service or whatever, you need to have like error handled
+3728663	3731711	at each step or logging it needs to be in each thing.
+3731792	3732317	I don't know.
+3732337	3733003	I just...
+3732983	3737543	yeah like for example logging it seems like a
+3737523	3741897	product like we could take over and implement into the apps but
+3741877	3744431	It's not as easy as we think.
+3744632	3747769	Sometimes we might have to rewrite the whole app as well.
+3747749	3751262	because the app was never written to be
+3751242	3756578	or to include any logging system into it so yeah it's like
+3756558	3760408	Every user control has to be really done.
+3760388	3764914	and all these different platforms out there that don't talk to each other well.
+3764894	3769285	Yeah, which again, if you talk to someone like some developer,
+3769265	3774246	If we had to rewrite this whole app, they would not agree.
+3774226	3777368	I mean, they would agree, but it's just like, yeah.
+3778816	3783055	it feels like a big workout a big project and once we
+3783035	3785230	step into that project.
+3785250	3788995	Again, if we are getting calls from Jeff and Jordan,
+3788975	3791373	It will break the mold flow.
+3791756	3794496	You're going to have somebody to fry in that for you.
+3794476	3795914	For sure.
+3797378	3799097	Very optimistic though.
+3799117	3800492	I love it.
+3800512	3801482	Not for good talk anymore.
+3801462	3807473	I think Zach got the user set up.
+3807453	3813193	You're probably as good to get the user's phone and whatnot from.
+3813342	3816906	You can ask about the log and everything.
