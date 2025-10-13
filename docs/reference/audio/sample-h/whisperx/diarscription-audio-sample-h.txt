@@ -1,0 +1,1065 @@
+Thank you.
+[SPEAKER_03]: to be highly able and hidden's production potentials or something.
+[SPEAKER_07]: Conrad needs to hurry back and get that clock congested again.
+[SPEAKER_07]: Yeah, pull off.
+[SPEAKER_05]: Just a few minutes.
+[SPEAKER_05]: We always try and set the one in church a little fast.
+[SPEAKER_05]: So the pastor gets done quicker.
+[SPEAKER_01]: Especially during football season.
+[SPEAKER_02]: Are you referring to the clock that is inside the clock text?
+[SPEAKER_02]: That is all too.
+[SPEAKER_06]: Is it?
+[SPEAKER_02]: Yeah.
+[SPEAKER_06]: It is.
+[SPEAKER_02]: Kind of.
+[SPEAKER_02]: No, I mean, the wall clock.
+[SPEAKER_02]: The clock text is a little bit off.
+[SPEAKER_01]: Just a bad bit.
+[SPEAKER_01]: There's a big gap between five and six.
+[SPEAKER_06]: Maybe we should have bought a better clock.
+[SPEAKER_06]: I think they're going for the gimmick.
+[SPEAKER_06]: Look at the word clock at the top middle.
+[SPEAKER_02]: Yeah, it is like there's a bump between L.O.C.
+[SPEAKER_01]: Yeah, just get rid of this projector as we sit on the table and it just shoots up there.
+[SPEAKER_00]: Hi folks, I'm sorry I'm a little late.
+[SPEAKER_07]: You are not late compared to our cloud.
+[SPEAKER_05]: Just discussing that.
+[SPEAKER_07]: Right on time.
+[SPEAKER_07]: Hello Krishna, everyone?
+[SPEAKER_07]: Krishna, folks.
+[SPEAKER_07]: Nice to meet you.
+[SPEAKER_07]: What?
+[SPEAKER_07]: So this meeting is basically just
+[SPEAKER_07]: Introducing everybody, kind of getting our feet wet on what we're doing and what we want to do.
+[SPEAKER_07]: and yeah just go from there see where it takes us
+[SPEAKER_07]: So Krishna, just to give you some
+[SPEAKER_07]: Introductions to us.
+[SPEAKER_07]: You already know Chris.
+[SPEAKER_07]: Men on the yellow.
+[SPEAKER_07]: I'm Adam.
+[SPEAKER_07]: You've already met me.
+[SPEAKER_07]: You haven't met me in person yet.
+[SPEAKER_07]: So I hope...
+[SPEAKER_07]: lead the development team here in the CAPE office.
+[SPEAKER_07]: and we got a few remote users also.
+[SPEAKER_07]: Ethan is our
+[SPEAKER_07]: leader of the finance team, which is the one that we're
+[SPEAKER_07]: kinda gonna get our feet wet with you on.
+[SPEAKER_07]: And then Ethan is leader of PSY.
+[SPEAKER_07]: And here, and then we got Matt and Travis both remote.
+[SPEAKER_07]: So they're also on E15.
+[SPEAKER_07]: And then also in the room, I've got Scott here.
+[SPEAKER_07]: leading our triage team slash
+[SPEAKER_07]: IT support guy for any tickets that come in and we're
+[SPEAKER_07]: Kind of building that as we go also.
+[SPEAKER_07]: That's something that we just started.
+[SPEAKER_07]: And then Chris Kelly at the end of the table is leading our automation
+[SPEAKER_07]: testing team.
+[SPEAKER_07]: Okay.
+[SPEAKER_07]: And then along with him we've got
+[SPEAKER_07]: Mason?
+[SPEAKER_07]: Mason is on his team.
+[SPEAKER_07]: He's going to start focusing on the finance guy's
+[SPEAKER_07]: programs and then Matt Hendricks on the call also is
+[SPEAKER_07]: the leader of our manual testing team.
+[SPEAKER_07]: So, him and Chris work heavily together on the testing side of things.
+[SPEAKER_00]: So, welcome to all these guys.
+[SPEAKER_00]: I have to apologize in advance if I ask again.
+[SPEAKER_00]: We make notes of all the names, but
+[SPEAKER_00]: And what do you guys do?
+[SPEAKER_00]: But if there's something written up somewhere that you have
+[SPEAKER_00]: We can write that up for you.
+[SPEAKER_07]: Yeah we can do that.
+[SPEAKER_07]: Krishna, do you want to say anything about yourself at all?
+[SPEAKER_00]: I'll just quickly introduce myself and my background.
+[SPEAKER_00]: I started out my career as a software developer way back at Oracle.
+[SPEAKER_00]: And then that was right after grad school.
+[SPEAKER_00]: science masters and then I decided I was going to work at Oracle.
+[SPEAKER_00]: It was a great place to be and practice all the software.
+[SPEAKER_00]: back then, you know, practices that had learned in grad school and all that.
+[SPEAKER_00]: After that, I decided I wanted to work at
+[SPEAKER_00]: small medium sized companies and I have since then worked at many different companies
+[SPEAKER_00]: I also got an MBA and moved away from software engineering software development.
+[SPEAKER_00]: into more the client side of the business where
+[SPEAKER_00]: You talk to customers, you talk to users of your software,
+[SPEAKER_00]: figure out what the pain points are, and then you
+[SPEAKER_00]: then I would go talk to the engineering teams and say,
+[SPEAKER_00]: the requirements.
+[SPEAKER_00]: That's broadly speaking what I do.
+[SPEAKER_00]: But there's a lot more of that to the product function.
+[SPEAKER_00]: The thing that is most relevant here is
+[SPEAKER_00]: Since about 2013, I have been involved in
+[SPEAKER_00]: Agile teams and agile means
+[SPEAKER_00]: Many different things do.
+[SPEAKER_00]: every company that tries to practice it.
+[SPEAKER_00]: And there's many variations of
+[SPEAKER_00]: There is no correct agile leverage from what I have seen in my
+[SPEAKER_00]: 14 years of doing this.
+[SPEAKER_00]: But it's really something that
+[SPEAKER_00]: you know, you adopt and it works for your
+[SPEAKER_00]: your internally team, as well as your clients that you serve.
+[SPEAKER_00]: finance and economy, one client.
+[SPEAKER_00]: There's many other clients in your company.
+[SPEAKER_00]: So, but the key elements of this is trying to,
+[SPEAKER_00]: For all our additional conversations,
+[SPEAKER_00]: that we had last time, it seems like there's a little frustration in the minds of
+[SPEAKER_00]: accounting and finance in terms of what they are getting versus what they thought they asked
+[SPEAKER_00]: There's a gap, it seems like.
+[SPEAKER_00]: And what I've...
+[SPEAKER_00]: experienced prior
+[SPEAKER_00]: teams is the product function.
+[SPEAKER_00]: the product manager, my role is really to be the go between you guys
+[SPEAKER_00]: and the clients and what that means is I am talking to these folks, the clients,
+[SPEAKER_00]: on a fairly regular basis, and regular is the key thing.
+[SPEAKER_00]: You know, regularly I go talk to them,
+[SPEAKER_00]: get a sense of, hey, what are your pain points with what you're using right now?
+[SPEAKER_00]: What's not working?
+[SPEAKER_00]: what is working what do we need to change right
+[SPEAKER_00]: And I translate those conversations into
+[SPEAKER_00]: agile speak, which worked for you guys.
+[SPEAKER_00]: So, you know,
+[SPEAKER_00]: What are the user personas?
+[SPEAKER_00]: What are the epics?
+[SPEAKER_00]: What are the user stories in these epics?
+[SPEAKER_00]: What are the examples criteria?
+[SPEAKER_00]: Can you put together a UX and a markup of what
+[SPEAKER_00]: this thing should look like.
+[SPEAKER_00]: And then we
+[SPEAKER_00]: work together, you guys in the room and myself,
+[SPEAKER_00]: and we put them back to develop what these guys want.
+[SPEAKER_00]: And then what?
+[SPEAKER_00]: The word regular will keep coming up.
+[SPEAKER_00]: It's really key.
+[SPEAKER_00]: that gap between what they think they asked for and what they got.
+[SPEAKER_00]: That gap should not exist, and it really didn't.
+[SPEAKER_00]: keep coming up from time to time because people, if you have a conversation on day one,
+[SPEAKER_00]: And on day 45, you deliver something to these clients
+[SPEAKER_00]: that's a lot of days that have passed between
+[SPEAKER_00]: what they thought they wanted and what they think they're getting.
+[SPEAKER_00]: So that gap needs to reduce.
+[SPEAKER_00]: So what I mean by that is, okay,
+[SPEAKER_00]: If you do sprints, is it a two-week sprint, is it a week sprint, whatever it is,
+[SPEAKER_00]: coming up with an iterative development process where
+[SPEAKER_00]: Even if you haven't completely delivered all of the bells and whistles, all the buttons in the UI,
+[SPEAKER_00]: you at least give them
+[SPEAKER_00]: a UI that has the
+[SPEAKER_00]: major elements in it so that they can start looking at it
+[SPEAKER_00]: after the first week after the second week whatever it is and i'm talking to them
+[SPEAKER_00]: every week, let's say.
+[SPEAKER_00]: And so the best way to think of that is iterative versus incremental.
+[SPEAKER_00]: This is a classic, and if you Google it, you'll find it.
+[SPEAKER_00]: the Mona Lisa painting, there's two ways to develop the Mona Lisa painting.
+[SPEAKER_00]: One is the iterative process where you draw an outline of the entire
+[SPEAKER_00]: Mona Lisa in the painting.
+[SPEAKER_00]: And then that's the first prop
+[SPEAKER_00]: from the spring, first spring.
+[SPEAKER_00]: But then every subsequent spring you start to fill it out.
+[SPEAKER_00]: You put more colors in paintings and color the hair.
+[SPEAKER_00]: the face and all that stuff.
+[SPEAKER_00]: But the client
+[SPEAKER_00]: sees that initial drop from the first sprint and they're like,
+[SPEAKER_00]: There's no gap between what they thought they wanted versus what they're starting to get.
+[SPEAKER_00]: And so in each subsequent spread, you iterate through and you start building out the painting.
+[SPEAKER_00]: And at the end of it, they see what they've got.
+[SPEAKER_00]: Now, that's one approach.
+[SPEAKER_00]: The other approach is Iker Metal, where you tape the top left
+[SPEAKER_00]: of the Mona Lisa painting, you fill in all the details of, you know,
+[SPEAKER_00]: her face or maybe just the face, right?
+[SPEAKER_00]: In the first break.
+[SPEAKER_00]: but none of the other parts of the painting.
+[SPEAKER_00]: And then you show that to the client and they're like, wait a minute, this is not what I asked for.
+[SPEAKER_00]: So the gap starts to develop, right?
+[SPEAKER_00]: So that's my long-winded way of saying,
+[SPEAKER_00]: My role here will be to help you guys get some kind of a process
+[SPEAKER_00]: where we start to do an iterative process
+[SPEAKER_00]: delivery to these clients so that there is no gap or if there is a gap it is fairly quickly
+[SPEAKER_00]: fixed block.
+[SPEAKER_00]: That's the point.
+[SPEAKER_00]: from the initial conversation that may seem like the pain point in the process but you know
+[SPEAKER_00]: That's my value add here, so I'll stop talking.
+[SPEAKER_00]: Any thoughts or any reactions?
+[SPEAKER_03]: That sounds great, honestly.
+[SPEAKER_03]: We could definitely use some more structure like that.
+[SPEAKER_03]: I think the thing that I'm curious about most
+[SPEAKER_03]: is seeing how this will fit into our team
+[SPEAKER_03]: I think a lot of the teams here deal with this but like I think for ours it's
+[SPEAKER_03]: Worst is that we support, I guess,
+[SPEAKER_03]: probably like three or four main groups of users, which I guess
+[SPEAKER_03]: about the finance side of things, but we also deal with some of the HR stuff and sales.
+[SPEAKER_03]: I'm just kind of curious how that's gonna look with like sprints and stuff whenever we have
+[SPEAKER_03]: Lots of tiny little things to do on all these different apps and different
+[SPEAKER_03]: times versus working on one big feature or epic at a time?
+[SPEAKER_03]: I'm kind of curious, I guess.
+[SPEAKER_00]: So I think we want to start small.
+[SPEAKER_00]: So what I mean by that is if right now you're saying the finance and economy is
+[SPEAKER_00]: that client is
+[SPEAKER_00]: the most hopeful, let's say, the one that's had and that's been
+[SPEAKER_00]: make the most noise, let's start with acting, right?
+[SPEAKER_00]: focus on what their needs are or what their
+[SPEAKER_00]: are and focus on trying to
+[SPEAKER_00]: internally, our process
+[SPEAKER_00]: setting it up so that we can reduce this gap between what they think they ask for and what they
+[SPEAKER_00]: when they get it, what they think they have asked for.
+[SPEAKER_00]: That gap needs to
+[SPEAKER_00]: come back and we need to get rid of that gap.
+[SPEAKER_00]: And the way we're gonna do that is, well, I'm jumping ahead.
+[SPEAKER_00]: I have to value your process and all that stuff.
+[SPEAKER_00]: we need to get that gap reduced.
+[SPEAKER_00]: So let's start with that.
+[SPEAKER_00]: And yes, you're serving more than one client.
+[SPEAKER_00]: I'm going to just use the word client.
+[SPEAKER_00]: you know, user groups.
+[SPEAKER_00]: And then once we have this working
+[SPEAKER_00]: prove this as a proof point, this process that we're putting in place works.
+[SPEAKER_00]: this client.
+[SPEAKER_00]: Now let's then go find the next client.
+[SPEAKER_00]: and then refine.
+[SPEAKER_00]: So starting small would be the best way to do this.
+[SPEAKER_00]: And, you know, we'll find that we have to, each iteration, I don't know
+[SPEAKER_00]: So every sprint, we have a retrospective.
+[SPEAKER_00]: We stop and say, hey, what worked?
+[SPEAKER_00]: what did not work, what needs to change, right?
+[SPEAKER_00]: And what are we,
+[SPEAKER_00]: There's three questions we ask, and so we ask those questions.
+[SPEAKER_00]: of ourselves and then go around the room and just
+[SPEAKER_00]: take that feedback and tweak the process and go to the next spring.
+[SPEAKER_00]: that is going to be useful.
+[SPEAKER_00]: And so once we have something working for one
+[SPEAKER_00]: client, then we go off and
+[SPEAKER_00]: work with the next team, next team, next team.
+[SPEAKER_00]: roll this out.
+[SPEAKER_00]: In terms of
+[SPEAKER_00]: of the product management function.
+[SPEAKER_00]: I've mentioned this to Christopher as well.
+[SPEAKER_00]: I am one person and I have only so many hours with you guys.
+[SPEAKER_00]: We may bring in more faults, but let's first prove this as a process that it works.
+[SPEAKER_00]: Then we can look at rolling this out of other teams and other clients.
+[SPEAKER_00]: Does that make sense?
+[SPEAKER_00]: Yeah.
+[SPEAKER_07]: Just to add to that something that we're keeping in mind as a
+[SPEAKER_07]: an overall team, I say team,
+[SPEAKER_07]: I guess is better used for that.
+[SPEAKER_07]: The team structure is and has been
+[SPEAKER_07]: the way it has been for how many years now?
+[SPEAKER_07]: Four or five?
+[SPEAKER_07]: We're open-minded on if
+[SPEAKER_07]: the team structure the way it is currently
+[SPEAKER_07]: housed to where we have roughly four
+[SPEAKER_07]: I guess three or four guys on each team.
+[SPEAKER_07]: that will work on this group of applications.
+[SPEAKER_07]: If it makes more sense to do it a different way, whether it's
+[SPEAKER_07]: just blowing it all up and not have teams and just.
+[SPEAKER_07]: kind of give a project to a certain amount of people or developers or
+[SPEAKER_07]: it down into smaller teams to where they're focused more on certain things.
+[SPEAKER_07]: We're open to anything like that.
+[SPEAKER_07]: So just keep that in your mind if we're
+[SPEAKER_07]: if we get into talking about these things and you notice that
+[SPEAKER_07]: like the ones that are more vocal,
+[SPEAKER_07]: are always going to be the ones that get their applications worked on the most.
+[SPEAKER_07]: think about it a little bit different on the team side.
+[SPEAKER_07]: Absolutely.
+[SPEAKER_00]: the advantage of just doing this small approach is
+[SPEAKER_00]: you've got an existing, the analogy I use is,
+[SPEAKER_00]: You're on a cruise in the middle of the Pacific.
+[SPEAKER_00]: You're on a ship.
+[SPEAKER_00]: and you're trying to change an engine part because there's something not working on this.
+[SPEAKER_00]: But the ship needs to keep going.
+[SPEAKER_00]: So you cannot just stop the ship
+[SPEAKER_00]: replace the entire engine and then start again.
+[SPEAKER_00]: You have to keep cruising.
+[SPEAKER_00]: So you take a small part of that engine, you replace it, and then hopefully that
+[SPEAKER_00]: satisfies the people on deck that were complaining about that engine park.
+[SPEAKER_00]: You don't want to have to stop everything or start plugging things willy-nilly
+[SPEAKER_00]: where everybody on desktop is complaining.
+[SPEAKER_00]: So you don't want all your client teams
+[SPEAKER_00]: getting mad at you and let's just take a really small piece
+[SPEAKER_00]: and replace that engine in
+[SPEAKER_00]: the middle of your cruise, so.
+[SPEAKER_00]: Yeah, and that makes sense.
+[SPEAKER_00]: But but yeah, thank you that you can stand back once we have
+[SPEAKER_00]: one or two or three clients happy with whatever process we end up with.
+[SPEAKER_00]: then we can step back and say, is there a more efficient way to deliver
+[SPEAKER_00]: what these clients are asking for and maybe the
+[SPEAKER_00]: arrange the teams or broader process but that's
+[SPEAKER_00]: It's just like small.
+[SPEAKER_00]: That works.
+[SPEAKER_07]: Just going through some of the lists that you sent out in the meeting invite.
+[SPEAKER_07]: We are getting you an account set up and a VM to remote into to kind of look at
+[SPEAKER_07]: everything we have, so that'll be shortcoming.
+[SPEAKER_07]: The next one was walk through existing functionality and how people want to get into that.
+[SPEAKER_00]: Go ahead.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: I think this may have to wait for a little bit,
+[SPEAKER_00]: Basically, what I'm trying to do is get my arms around all of this stuff.
+[SPEAKER_00]: The people, the processes,
+[SPEAKER_00]: the technology, what you guys have built on, all that stuff.
+[SPEAKER_00]: Once I have the login, maybe you can, once I have the setup, maybe something.
+[SPEAKER_00]: even if you could walk me through what's, you know,
+[SPEAKER_00]: what they're using, the client, the accounting team?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: And then I also want to dive into the process that
+[SPEAKER_00]: your team is using, you know,
+[SPEAKER_00]: Adam, you mentioned you guys use Jira as well.
+[SPEAKER_00]: if i can get my content here i would look at uh you know
+[SPEAKER_07]: And then we also have it synced up to the DevOps side where these guys mainly work out of.
+[SPEAKER_05]: And we also have a Confluence knowledge base.
+[SPEAKER_05]: We have a confluence knowledge base that's tied into that as well.
+[SPEAKER_00]: And do the clients take a look at the confidence pages at all?
+[SPEAKER_07]: No, those are mostly internally for now.
+[SPEAKER_07]: Okay.
+[SPEAKER_07]: I don't know if we really have any KBs out there for that kind of stuff.
+[SPEAKER_07]: Yeah, those are mostly just internal for us as developers.
+[SPEAKER_00]: Okay, so in terms of community,
+[SPEAKER_00]: maybe this is diving into the process now, but
+[SPEAKER_00]: when you either you've got
+[SPEAKER_00]: certain set of features that economy wants now,
+[SPEAKER_00]: Could you talk a little bit about the process that exists now
+[SPEAKER_03]: Yeah, currently, usually what we'll do is
+[SPEAKER_03]: Most most of the time, you know the clients like reach out to me and
+[SPEAKER_03]: and they'll kind of explain what they want and we'll talk through it and stuff and then I will go
+[SPEAKER_03]: either onto JIRA, we've started using that more now,
+[SPEAKER_03]: or sometimes directly into DevOps, but we'll create the work items there like user stories or
+[SPEAKER_03]: issues, you know, depending on what it is.
+[SPEAKER_03]: I'll communicate, like, so our team, the finance team,
+[SPEAKER_03]: meet like every morning around I think 8.30 we kind of discuss like what we're working on currently and
+[SPEAKER_03]: what we did the day before.
+[SPEAKER_03]: that's usually when we'll kind of like figure out who's going to work on what and
+[SPEAKER_03]: We'll just put that into an iteration, but we don't have like a very,
+[SPEAKER_03]: I guess structured process.
+[SPEAKER_03]: We tried on our most recent project to follow something
+[SPEAKER_03]: more agile, like where we did sprints, like we did like one month sprints.
+[SPEAKER_03]: But typically we just kind of work on these as they come in and then we'll group.
+[SPEAKER_03]: group up a couple of like issues or user stories together into one release and then push it out and
+[SPEAKER_03]: Usually at that point we'll communicate either over teams or phone call with the users and let them know that that's out.
+[SPEAKER_00]: Just diving into the actual intake itself,
+[SPEAKER_00]: So the client folks know to contact you.
+[SPEAKER_00]: You're the point of contact for things that they want.
+[SPEAKER_03]: Yeah.
+[SPEAKER_00]: And so they just call you?
+[SPEAKER_00]: Not anymore.
+[SPEAKER_00]: I'm trying to get away from that.
+[SPEAKER_04]: Which that flow is part of like
+[SPEAKER_04]: What we were reaching out to you for like look at this
+[SPEAKER_04]: what Ethan described and that flow had been
+[SPEAKER_04]: I mean, detrimental might be an overstatement, but it really impacted
+[SPEAKER_04]: his personal workflow and his team's workflow.
+[SPEAKER_04]: We've been trying to move that up like what Adam has said Scott's been doing.
+[SPEAKER_04]: he and his team are triaging those calls, but a lot of the
+[SPEAKER_04]: migration to that hasn't been super smooth with the with the user base because they
+[SPEAKER_04]: they have this feeling that really Ethan's the only person they can talk to and so
+[SPEAKER_04]: so what's ended up happening a lot of times they'll call Scott and Scott will attempt to
+[SPEAKER_04]: troubleshoot the problem and at the end of the day they'll just say we need to talk to Ethan.
+[SPEAKER_04]: And just growing pains on knowledge.
+[SPEAKER_04]: So we're working on trying to like, and Scott's been doing a great job on
+[SPEAKER_04]: gathering as much information as he can to kind of
+[SPEAKER_04]: I guess prime Ethan for what's coming.
+[SPEAKER_04]: but we haven't quite made that transition yet to where
+[SPEAKER_04]: Ethan's not having to feel so much of that himself.
+[SPEAKER_00]: And Scott, how often do you meet with these folks, with the client team, the accounting folks?
+[SPEAKER_05]: You mean, oh, I haven't yet.
+[SPEAKER_07]: So you haven't?
+[SPEAKER_07]: It's basically when they're calling is when we're meeting them.
+[SPEAKER_05]: I don't really have a good working relationship with most of them.
+[SPEAKER_05]: I have been to some of the plants and some of the teams, but not all of them.
+[SPEAKER_00]: Okay.
+[SPEAKER_00]: The accounting folks specifically, how often do they...
+[SPEAKER_00]: Yes, they're the ones that are most vocal right now, but
+[SPEAKER_00]: How often do they vocalize?
+[SPEAKER_00]: I'm trying to get a sense of, you know,
+[SPEAKER_00]: the actual intake process in detail.
+[SPEAKER_00]: Do they just call you Ethan every day?
+[SPEAKER_00]: I mean, it's like.
+[SPEAKER_02]: how often they run into a problem.
+[SPEAKER_03]: They don't usually put in tickets as soon as they run into an issue.
+[SPEAKER_03]: call directly and ask to speak to me.
+[SPEAKER_03]: or sometimes Psy now, but
+[SPEAKER_03]: Yeah, I'd say it depends, but anywhere from
+[SPEAKER_03]: three to 20 times a week, it just really depends.
+[SPEAKER_03]: But yeah, sometimes it'll be seven or eight times in a single day.
+[SPEAKER_00]: And they won't use emails to communicate, right?
+[SPEAKER_00]: It's basically phone calls.
+[SPEAKER_00]: Yes, that's their preferred guess.
+[SPEAKER_05]: Yes, we're trying to get
+[SPEAKER_05]: them to go through me.
+[SPEAKER_05]: Right now they call one number
+[SPEAKER_05]: and it comes to Adam or I, and we get an issue put in,
+[SPEAKER_05]: if they'll explain it to us.
+[SPEAKER_05]: Many times it will be, I just need to talk to Ethan.
+[SPEAKER_05]: So I've been trying to keep notes on those types of things and
+[SPEAKER_05]: when I can ahead of time to keep a history of what's going on.
+[SPEAKER_04]: And for minors, those calls could be anything, too.
+[SPEAKER_04]: Yeah, absolutely.
+[SPEAKER_04]: It could be like almost a network down.
+[SPEAKER_04]: issue that they're experiencing that really needs to be looked at now.
+[SPEAKER_04]: It could be something they're thinking of on the current most recent release.
+[SPEAKER_04]: It could be
+[SPEAKER_04]: little thing that's bugging them or it could just be a hypothetical like hey
+[SPEAKER_04]: what if we decide to do this, is that doable?
+[SPEAKER_04]: I mean, it can range.
+[SPEAKER_04]: of any of those things.
+[SPEAKER_03]: Or even sometimes,
+[SPEAKER_03]: Just like, hey, can you write me a query, like a SQL query that will find this information?
+[SPEAKER_03]: Sure.
+Yeah.
+[SPEAKER_01]: Yeah, one time I had a call that was like,
+[SPEAKER_01]: Jordan literally just fixed it right as I answered the call, so it was great.
+[SPEAKER_02]: I mean that is
+[SPEAKER_02]: natural behavior to them i mean even for us if we have some credit card issue
+[SPEAKER_02]: that charge cord
+[SPEAKER_02]: by some reason we just want to get to the direct person and
+[SPEAKER_02]: get it resolved instead of writing emails or chatting through a customer.
+[SPEAKER_02]: Right.
+[SPEAKER_07]: We have that avenue, that's what they want.
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: They get requests through email, Teams, Slack.
+[SPEAKER_05]: There are various ways this happens.
+[SPEAKER_05]: it will bypass the initial triage intake.
+[SPEAKER_04]: I'll say that's been a hurdle for us like doing in-house
+[SPEAKER_04]: any in-house IT since as long as I've been here is that
+[SPEAKER_04]: Anytime I've tried to operate or do something like an IT shop would
+[SPEAKER_04]: do like a third party IT shop providing a service.
+[SPEAKER_04]: where we kind of set up the contractual guidelines and we define the flow.
+[SPEAKER_04]: It's been a struggle here because
+[SPEAKER_04]: I'm not saying we're not on the same team, we are all on the same team, but there's this tendency to believe that
+[SPEAKER_04]: any sort of structure or hierarchy we want to
+[SPEAKER_04]: put in is a roadblock to us really working together.
+[SPEAKER_04]: We all work for WW, so if the accounting team has a question, they should just be able to call
+[SPEAKER_04]: to any developer they want because we're all working
+[SPEAKER_04]: the same team, we have a team dedicated to them.
+[SPEAKER_04]: And so as soon as we put in any structure of like, well, you need to call this number or email this ticket in,
+[SPEAKER_04]: It's, well, no, that's impacting my workflow,
+[SPEAKER_04]: So I'm not going to do that because we're all on the same team here in Europe.
+[SPEAKER_04]: You see what I mean?
+[SPEAKER_04]: We've had trouble offering it.
+[SPEAKER_04]: operating as a software shop and I'm not saying we should
+[SPEAKER_04]: operate everything as if we're a third party.
+[SPEAKER_04]: We've hit resistance there in the past.
+[SPEAKER_00]: That is a big problem because it's not
+[SPEAKER_00]: Yes, it impacts the client's workflow,
+[SPEAKER_00]: On the flip side, it is affecting Ethan and all the delivery teams.
+[SPEAKER_00]: It's affecting your workflow if you are working on something and get interrupted, right?
+[SPEAKER_00]: It's not an optimal situation.
+[SPEAKER_00]: probably because we may have to take this offline to bubble this up.
+[SPEAKER_00]: This is a process change.
+[SPEAKER_00]: that will need to get signed up from
+[SPEAKER_04]: And that's what I would hope that at the end of the day, I feel like if we
+[SPEAKER_04]: If we do like what you described well and we build out this product
+[SPEAKER_04]: product management system well yeah i think that a lot of the other
+[SPEAKER_04]: Because, I mean, they're not hard enough.
+[SPEAKER_04]: to work with.
+[SPEAKER_04]: I mean they easily acknowledge that they want to be respectful of these guys time just as
+[SPEAKER_04]: So that they're not,
+[SPEAKER_04]: problematic in that sense, but I think that that gap in expectations you were talking about
+[SPEAKER_04]: I feel like if we can close that and really do product management well and customer service well, I think that it will
+[SPEAKER_04]: it will alleviate a lot of the other issues.
+[SPEAKER_04]: And like you said, the regular communication,
+[SPEAKER_04]: if they're being regularly heard and their needs are being addressed and questions being answered,
+[SPEAKER_04]: I think that a lot of the other stuff will slowly make itself not an issue anymore
+you
+[SPEAKER_00]: Absolutely.
+[SPEAKER_00]: So this, Scott, you're driving the free route too, right?
+[SPEAKER_00]: you
+[SPEAKER_00]: That is a really good idea because you want to separate out the
+[SPEAKER_00]: Network down versus, you know, network is up and running, but this button is not doing what it's supposed to do.
+[SPEAKER_00]: versus I want a new button.
+[SPEAKER_00]: You can split them up into three categories of
+[SPEAKER_00]: burning building, something that currently, the plumbing is broken, fix it right now.
+[SPEAKER_00]: versus you know so you know those
+[SPEAKER_00]: That is an absolutely critical part of the intake when we need them to
+[SPEAKER_00]: buy into that process.
+[SPEAKER_00]: It's great that you guys are already
+[SPEAKER_00]: think about that and put that in place.
+[SPEAKER_00]: So that process needs to
+[SPEAKER_00]: be adhered to it needs to not jump into hey get ethan on the phone that is
+[SPEAKER_00]: Ethan is not available anymore.
+[SPEAKER_00]: He's left the building.
+[SPEAKER_00]: That's gonna be difficult, but we'll get there, I think.
+[SPEAKER_00]: I'm joking.
+[SPEAKER_00]: Obviously, yeah.
+[SPEAKER_00]: That intake process is really key.
+[SPEAKER_00]: you need to free up Ethan and their team to have even more
+[SPEAKER_00]: rational list of, hey, here's all the stuff we priyaged it.
+[SPEAKER_00]: this brain, you gotta do this work, right?
+[SPEAKER_02]: Well, if Ethan left the building, who is that?
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Right?
+[SPEAKER_04]: Yeah, there's a lot of that.
+[SPEAKER_04]: That's why I like having triage and product management as these
+[SPEAKER_04]: like you said, with intake between the rest of the company, all the clients and the engineers
+[SPEAKER_04]: and the dev team.
+[SPEAKER_04]: I think if we implement that,
+[SPEAKER_04]: And and they're satisfied with what the deliverables are.
+[SPEAKER_04]: I don't think it will be.
+[SPEAKER_04]: I think it will move away from like, is Ethan here?
+[SPEAKER_04]: Oh, no, Ethan.
+[SPEAKER_04]: What about Cy?
+[SPEAKER_04]: What about Jacob?
+[SPEAKER_04]: I think that.
+[SPEAKER_04]: if they know that when they come into triage or product development,
+[SPEAKER_04]: they know they're cared for and they're going to get what they need, then they, I think it will take care of itself.
+[SPEAKER_04]: And maybe I'm too idealistic.
+[SPEAKER_02]: I would like to give a small input on this topic.
+[SPEAKER_02]: for what I have for seven good months.
+[SPEAKER_02]: I feel like what we are lacking is one service team.
+[SPEAKER_02]: because we have development team but their queries
+[SPEAKER_02]: if they can be addressed by a dedicated service team,
+[SPEAKER_02]: to answer those service calls, that would help our workflow a lot.
+[SPEAKER_05]: That's going to take some of that building that confluence in the haunch base out.
+[SPEAKER_05]: so that we can handle some more of those issues instead of
+[SPEAKER_05]: So I know there are things that come in that just need a script run.
+[SPEAKER_05]: If that can be taken care of in triage, that's going to help a lot.
+[SPEAKER_05]: And we've got priorities in there that we're starting to implement now as well, but I don't feel like
+[SPEAKER_05]: the users really get it.
+[SPEAKER_05]: They just feel like, okay, if I put everything in as high priority, it'll just get done fast.
+[SPEAKER_05]: Yeah.
+[SPEAKER_04]: Does that give you enough of a snapshot, Krishna, of like the workflow?
+[SPEAKER_00]: No, this is good.
+[SPEAKER_00]: So this is good.
+[SPEAKER_00]: I think what I would want to do is to
+[SPEAKER_00]: you know, value of the triage process as well as Scott.
+[SPEAKER_00]: And then with Ethan on the back end side,
+[SPEAKER_00]: detail about that, JIRA and all of that stuff, the systems.
+[SPEAKER_00]: But I am getting a good flavor of where the issues with problems
+[SPEAKER_00]: I appreciate that this was just so overwhelming.
+[SPEAKER_00]: So yeah.
+[SPEAKER_00]: But yeah, this is good.
+[SPEAKER_00]: I think this is a good discussion.
+[SPEAKER_00]: It's not just important for us in the delivery side to have a process.
+[SPEAKER_00]: It's very important for the clients to follow
+[SPEAKER_00]: It's communication, right?
+[SPEAKER_00]: Right now, it's a small company,
+[SPEAKER_00]: But it's not.
+[SPEAKER_00]: It's a fairly big team here, right?
+[SPEAKER_00]: and it's no longer the case that you can just pick up the phone, call Ethan and say, hey, this thing is broke.
+[SPEAKER_00]: We have to have some
+[SPEAKER_00]: rational processes that everybody follows and conveys.
+[SPEAKER_00]: if the conference, and I'm just throwing this out, before I, in accounting,
+[SPEAKER_00]: feel like calling Ethan, maybe I take a look at this conference page and do a little
+[SPEAKER_00]: diagnostic myself and say, hey, I'm seeing
+[SPEAKER_00]: This error message, let me check if there's something on the Confidence page that talks about that.
+[SPEAKER_00]: And so maybe I can help, self help.
+[SPEAKER_00]: Maybe I can fix my own problem.
+[SPEAKER_00]: Instead of having to call Ethan and say,
+[SPEAKER_00]: and see if there's any points out ahead.
+[SPEAKER_00]: This has already been documented in all this space here.
+[SPEAKER_00]: Go take a look at that.
+[SPEAKER_00]: So maybe that kind of a self-help process would be the first point.
+[SPEAKER_00]: for those classes of problems where network is down or
+[SPEAKER_00]: Uh...
+[SPEAKER_00]: you know, the plumbing is broke.
+[SPEAKER_00]: If it's an enhancement request, maybe
+[SPEAKER_00]: I in the accounting team just go to
+[SPEAKER_00]: and I submit an enhancement request, you know, maybe the form could be made fairly simple enough for me to,
+[SPEAKER_00]: Understand.
+[SPEAKER_00]: And so that work, that intake process, I'm sort of offloading it.
+[SPEAKER_00]: what Krishna is suggesting is, you know, sharing that responsibility with the client teams
+[SPEAKER_00]: giving them enough tools to diagnose themselves,
+[SPEAKER_00]: B submit requests themselves.
+[SPEAKER_00]: If that doesn't work, then maybe
+[SPEAKER_00]: Scott and the triage team might get on the phone with him.
+[SPEAKER_00]: But never call Ethan.
+[SPEAKER_00]: Don't bug Ethan.
+[SPEAKER_00]: He's in a sprint.
+[SPEAKER_00]: That's the God.
+[SPEAKER_00]: You know, once the sprint starts lockdown, they might let us even roll on our available.
+[SPEAKER_00]: Because the work has been identified for that spring, and that is all they're going to do.
+[SPEAKER_00]: maybe there's a very urgent request that maybe
+[SPEAKER_00]: changes the spring backlog, but once the spring backlog has been defined,
+[SPEAKER_00]: No more, no more, no more.
+[SPEAKER_00]: You're getting one of them.
+[SPEAKER_07]: Just told him that I got fired.
+[SPEAKER_07]: Just told him, yeah, we don't have a finance team anymore.
+[SPEAKER_03]: Will I go by aliases?
+[SPEAKER_03]: Yeah.
+[SPEAKER_00]: But you know, those are some ideas we need to explore,
+[SPEAKER_00]: Can we give these client teams some tools that a
+[SPEAKER_00]: have less than help themselves.
+[SPEAKER_00]: and be for burning situations, right?
+[SPEAKER_00]: And then B, if they want something in the future, like an enhancement request,
+[SPEAKER_00]: They submitted themselves and it goes to Scott and he looks at it and says,
+[SPEAKER_00]: you know, yeah, this is a valid and that's my request.
+[SPEAKER_00]: engages with the submitter to say, what do you mean?
+[SPEAKER_00]: by what you said, maybe.
+[SPEAKER_00]: And so we flesh that out as a user story,
+[SPEAKER_00]: build a mock-up based on whatever they're looking for.
+[SPEAKER_00]: And then we'd say, yeah,
+[SPEAKER_00]: There's this set of 10 announcement requests that have come in.
+[SPEAKER_00]: Now we've got to prioritize them for the next break.
+[SPEAKER_00]: So that's the kind of work me and you spot.
+[SPEAKER_00]: I'm looking at us both as the product management team, the product team,
+[SPEAKER_00]: who are going to be interfacing with the client teams.
+[SPEAKER_00]: Ethan Moller talks to the client teams.
+[SPEAKER_00]: being a little extreme here.
+[SPEAKER_00]: But the point is, once you
+[SPEAKER_00]: lockdown, Ethan and the team don't get interrupted.
+[SPEAKER_00]: Once the sprint is over, there's a small window where, yes,
+[SPEAKER_00]: Ethan takes a phone call or two but really we need to get away from that mindset of
+[SPEAKER_00]: get on the phone with Ethernet team, that's not going to work, right?
+[SPEAKER_00]: That's not going to scale.
+[SPEAKER_00]: And so maybe get on the phone with Scott.
+[SPEAKER_00]: but it all just have
+[SPEAKER_00]: getting on the phone should only be sort of last resort but
+[SPEAKER_00]: the network is down or something is just completely not working, then yeah, you call Scott because
+[SPEAKER_00]: I cannot email or I cannot, you know,
+[SPEAKER_00]: I send this live, team message or whatever it is.
+[SPEAKER_00]: But you know, and there is a regular cadence.
+[SPEAKER_00]: Scott meets with the client
+[SPEAKER_00]: We have folks every week, or however often he doesn't, right?
+[SPEAKER_00]: And that's when they tell them, here's all of this stuff that
+[SPEAKER_00]: it's not working i want new stuff whatever it is and every week we
+[SPEAKER_00]: look at the stuff that they've given us from the past week,
+[SPEAKER_00]: We organize it, categorize it.
+[SPEAKER_00]: feed into the spring backlog, and then we communicate back to the plant team and say,
+[SPEAKER_00]: This is what we heard from you guys.
+[SPEAKER_00]: This is our plan to address it.
+[SPEAKER_00]: look for this thing to come out in the next two weeks, whatever it is, right?
+[SPEAKER_00]: So that is the intake process.
+[SPEAKER_00]: to address the vocal clients who are
+[SPEAKER_00]: dissatisfied, but it would require change from both the
+[SPEAKER_00]: client site as well as for Skype.
+[SPEAKER_00]: But yeah, just getting on the phone a week in a manner of something is not working and team.
+[SPEAKER_00]: that's the thing that we need to break.
+[SPEAKER_00]: The triage thing is,
+[SPEAKER_00]: absolutely the step in the right direction.
+[SPEAKER_00]: But yeah, this is good.
+[SPEAKER_00]: I'm getting a sense of it.
+[SPEAKER_00]: This is supposed to be, in my mind, this is supposed to be an introduction.
+[SPEAKER_00]: You're getting a good intro.
+[SPEAKER_00]: We're actually planning a little bit.
+[SPEAKER_00]: So what I want to do is
+[SPEAKER_00]: Adam, you'll be setting me up with the accounts or someone will be setting me up with the accounts and stuff like that.
+[SPEAKER_00]: Yeah, they're working on that today.
+[SPEAKER_00]: Okay, great.
+[SPEAKER_00]: So then I can look forward to, you know,
+[SPEAKER_00]: one-on-one calls, Adam, Ethan, Scott,
+[SPEAKER_00]: that you want to pull in, but I want to stop the intake process
+[SPEAKER_00]: How's that working?
+[SPEAKER_00]: The triage process.
+[SPEAKER_00]: I want to go to the GR.
+[SPEAKER_00]: I want to understand the development
+[SPEAKER_00]: process itself i want to look at the actual requirements how they've been captured
+[SPEAKER_00]: You know, sometimes I can say I want a button or I want
+[SPEAKER_00]: something, an X, but in the way it's been translated into requirements made
+[SPEAKER_00]: need Ethan and team to build Y and X is not Y. And so I want to just
+[SPEAKER_00]: Connect the dots from
+[SPEAKER_00]: the words of the client teams to what Ethan receives.
+[SPEAKER_00]: And so that again contributes to gap in developing.
+[SPEAKER_07]: We'll kind of give you an idea of that with
+[SPEAKER_07]: Some of our most recent ones or most recent projects kind of like that.
+[SPEAKER_07]: The Chuck Smith one, I think is a good one to show.
+[SPEAKER_07]: how the process works and what we've gathered from them and
+[SPEAKER_07]: and we'll see if it all makes sense to you.
+[SPEAKER_00]: I'd like to first just start off with that list Adam you mentioned
+[SPEAKER_00]: who was in the meeting, who was in the team, what did you all...
+[SPEAKER_00]: Yeah, we can do that.
+[SPEAKER_00]: And so then I will also be documenting as we go along.
+[SPEAKER_00]: you know what i'm hearing from you each of you
+[SPEAKER_00]: various parts, the triage process, the intake process,
+[SPEAKER_00]: all of that stuff, I'll be putting that stuff in the slides,
+[SPEAKER_00]: Word doc or whatever it is.
+[SPEAKER_00]: And then, you know,
+[SPEAKER_00]: I imagine this week will be spent on meeting with each of you
+[SPEAKER_00]: separately just to get a sense of deep diving in each area.
+[SPEAKER_00]: and then I'll document all of them to a week and say, give me some time to,
+[SPEAKER_00]: So came back and said, but here's all the problems we have.
+[SPEAKER_00]: and here's some possible solutions.
+[SPEAKER_00]: It's great that you guys have already
+[SPEAKER_00]: gotten down this path of kriyat.
+[SPEAKER_00]: So now we need to figure out why it is that that's not
+[SPEAKER_07]: taking so and that's that's in an instant stage at this point too where.
+[SPEAKER_07]: When we started beginning of the year, close to it.
+[SPEAKER_07]: In the spring, maybe?
+[SPEAKER_05]: Well, this role itself is really two years old.
+[SPEAKER_05]: as of right now
+[SPEAKER_05]: Really just started working on the standard operating procedures, the
+[SPEAKER_05]: itself over the last couple of months, right?
+[SPEAKER_07]: Yeah.
+[SPEAKER_07]: The idea has been there.
+[SPEAKER_07]: Just getting it formalized and
+[SPEAKER_07]: Having it put in place to where everybody knows it, that's where we're at right now.
+[SPEAKER_00]: Awesome.
+[SPEAKER_00]: And then also,
+[SPEAKER_00]: At some point this week I want to dive into the actual
+[SPEAKER_00]: Adam, you heard talking about the tech stack and all that, the actual,
+[SPEAKER_00]: frameworks and you know, tools and how, you know,
+[SPEAKER_00]: databases and all that stuff.
+[SPEAKER_00]: I want to just get a full understanding of that as well.
+[SPEAKER_00]: But that's not
+[SPEAKER_00]: And the music priority, that's what will work out.
+[SPEAKER_00]: The list I think my teeny pigs are just...
+[SPEAKER_00]: Now that I've met you all, the next step for me really is to
+[SPEAKER_00]: get the account set up, log in and then have Ethan walk me through what is
+[SPEAKER_00]: what they're using, the accounting folks and the modules.
+[SPEAKER_00]: with all of that.
+[SPEAKER_00]: And then
+[SPEAKER_00]: Scott, meeting with you to understand
+[SPEAKER_00]: process, how that works.
+[SPEAKER_00]: I want to do this all and what I have a good understanding of our internal
+[SPEAKER_00]: People process technology stuff before I start engaging with the client itself.
+[SPEAKER_00]: When I engage with the client, I want to sort of, beyond just introductions,
+[SPEAKER_00]: Maybe the initial call is just in your production, but I want to also sort of
+[SPEAKER_00]: you know, have some slides and talks about, hey, this is the new world we're going to for intake.
+[SPEAKER_00]: No longer do you just call Ethan a team.
+[SPEAKER_00]: I'm being a little harsh, but this is what the intake process is going to look like.
+[SPEAKER_00]: maybe some forms for you to fill out when you have an idea of,
+[SPEAKER_00]: the new thing that you want, or maybe this is where you go to see if the system is down,
+[SPEAKER_00]: or those kinds of classes of
+[SPEAKER_00]: Issue the things that they can tools that we can give them to help themselves.
+[SPEAKER_00]: and then if nothing works, then yes, contact Scott.
+[SPEAKER_00]: or call this number, whatever it is.
+[SPEAKER_00]: And so that's,
+[SPEAKER_00]: I want to reach that point before we engage with the clients
+[SPEAKER_00]: Then separately I want to talk to them as well to get their side of
+[SPEAKER_00]: Why is it that, what is it that is not working for them?
+[SPEAKER_00]: And then,
+[SPEAKER_00]: Because now right now I'm hearing your side of what's not working.
+[SPEAKER_00]: i want to hear their cycle what's not working and then come up the boss there
+[SPEAKER_00]: And then we can come up with a proposal for how things should change.
+[SPEAKER_00]: and then start living that change, as they say.
+[SPEAKER_00]: But that's a little way so I don't.
+[SPEAKER_07]: So what's your idea on...
+[SPEAKER_07]: Like as far as your time goes, I don't know what your availability is, but
+[SPEAKER_07]: Like once we get you set up with access and everything we gotta walk you through that and then
+[SPEAKER_07]: Should we just create some calls for you to discuss?
+[SPEAKER_00]: Yes.
+[SPEAKER_00]: But my lease, once I have the account set up,
+[SPEAKER_00]: and I can log in and take a look at stuff.
+[SPEAKER_00]: I want to meet with Eaton
+[SPEAKER_00]: had him walk me through, hey, this is what the accounting folks are using right now.
+[SPEAKER_00]: Then I don't know who can walk me through the JIRA, you know, what are the
+[SPEAKER_00]: Issues that have already visited more specifically.
+[SPEAKER_00]: I want to understand that
+[SPEAKER_00]: Right now, I am...
+[SPEAKER_00]: scheduled to spend four hours a day with you guys.
+[SPEAKER_00]: And I have some flexibility in terms of
+[SPEAKER_00]: So I can work based on what your calendar looks like
+[SPEAKER_00]: in terms of eating with each of the folks.
+[SPEAKER_07]: And so... Yeah, we'll get a feeling about that whenever we start.
+[SPEAKER_07]: getting into talking.
+[SPEAKER_07]: Are you in Central Town where you're at?
+[SPEAKER_07]: I'm Mountain Tide.
+[SPEAKER_07]: Mountain Tide.
+[SPEAKER_00]: You know, 8 o'clock, your time, center time,
+[SPEAKER_00]: works for me, I can, you know, we can work
+[SPEAKER_00]: If we have a calendar that you all share,
+[SPEAKER_00]: and also block off times where I have to use and maybe stop.
+[SPEAKER_00]: where we're going with that.
+[SPEAKER_00]: You can set up my photos and that kind of stuff.
+[SPEAKER_07]: Okay.
+[SPEAKER_07]: Yeah, I know Ethan's got his daily meeting at 8.30 our time.
+[SPEAKER_07]: And then we've got weekly meetings with the team leads
+[SPEAKER_07]: 9 o'clock on Mondays and 9 o'clock on Thursdays in the morning.
+[SPEAKER_07]: but yeah other than that we can we can pretty much work around anything
+[SPEAKER_00]: Yeah, I tend to work the mornings
+[SPEAKER_00]: You're gonna have to go into the building and other stuff.
+[SPEAKER_07]: Yeah, that's fine with us.
+[SPEAKER_00]: Yeah, perfect.
+[SPEAKER_00]: Cooperate.
+[SPEAKER_00]: Excellent.
+[SPEAKER_00]: So I make the information on the accounts set up and all of that.
+[SPEAKER_00]: I don't know if you're gonna set me up with an internal email address.
+[SPEAKER_07]: I believe they are, yeah.
+[SPEAKER_07]: okay yeah what's that deal with an email account and like a team's account
+[SPEAKER_07]: stuff where you can IM if needed.
+[SPEAKER_00]: And I have a Mac machine,
+[SPEAKER_00]: Well,
+[SPEAKER_00]: that I use, I don't know.
+[SPEAKER_00]: We have others with Max.
+[SPEAKER_07]: Okay.
+[SPEAKER_07]: Not many, but...
+[SPEAKER_07]: They do need to just fall back.
+[SPEAKER_07]: Yeah, we'll set you up with a VM to where you can remote in and do all your work from there.
+[SPEAKER_07]: Good, that's good.
+[SPEAKER_00]: Okay, awesome.
+[SPEAKER_00]: So then I will look forward to hearing from you.
+[SPEAKER_00]: And then my next step will be to meet with Ethan.
+[SPEAKER_00]: starts I you know so I'll just work down
+[SPEAKER_07]: That'll work?
+[SPEAKER_07]: And I'll get you a list of who's who
+[SPEAKER_07]: I don't know if I have a picture next to him.
+[SPEAKER_07]: I'll get you who too.
+[SPEAKER_07]: Great.
+[SPEAKER_00]: Excellent.
+[SPEAKER_00]: Thank you.
+[SPEAKER_00]: This is awesome.
+[SPEAKER_00]: Really excited to
+[SPEAKER_00]: be working with you all.
+[SPEAKER_00]: It's going to be fun stuff.
+[SPEAKER_00]: Nice meeting with Krishnan.
+[SPEAKER_00]: Nice to meet you.
+[SPEAKER_07]: All right.
+[SPEAKER_07]: Thank you.
+[SPEAKER_07]: We'll talk to you soon.
+[SPEAKER_07]: Sounds good.
+[SPEAKER_07]: Thank you.
+[SPEAKER_07]: See ya.
+[SPEAKER_05]: Bye-bye.
+[SPEAKER_05]: Meeting's over.
+[SPEAKER_04]: I'm optimistic.
+[SPEAKER_04]: That's cool.
+[SPEAKER_04]: I think if he can help.
+[SPEAKER_04]: help us build that middle layer out like to actually be that
+[SPEAKER_04]: customer service, product management, product analysis, triage,
+[SPEAKER_04]: and actually be, at the end of the day,
+[SPEAKER_04]: serving like the end users well.
+[SPEAKER_04]: Not that we're not now, but like I said,
+[SPEAKER_04]: It is a big, it does create those gaps whenever
+[SPEAKER_04]: we do an initial and then we're not really
+[SPEAKER_04]: that customer service realm anymore we're just trying you or you guys are trying to code and develop and get it out the door
+[SPEAKER_04]: And then you're having to wear all the hats when you do get out the door.
+[SPEAKER_04]: with like what's a bug, what's a new feature, what's something we need to roll up.
+[SPEAKER_04]: into another iteration what's a brand new thing they want and then meanwhile you're trying to
+[SPEAKER_04]: code it all to figure out I think that
+[SPEAKER_07]: and just answer questions and call.
+[SPEAKER_07]: Like I said, in the past, it's...
+[SPEAKER_07]: kind of like we had to be in the beginning.
+[SPEAKER_07]: just because there was only so many people here to do it.
+[SPEAKER_07]: And now that we're big enough,
+[SPEAKER_06]: and we can still grow some more.
+[SPEAKER_06]: It sounds like his initial plan is to kind of be that
+[SPEAKER_06]: go between and then once he kind of gets a feel for what needs to happen,
+[SPEAKER_06]: start developing the treehouse just to move on.
+[SPEAKER_04]: I feel like, which I think he'll
+[SPEAKER_04]: I feel like what you're doing on the triage is exactly what we need.
+[SPEAKER_04]: I just think it needs to be, you guys keep developing and then we need to sell that to the users
+[SPEAKER_04]: but like I mean I would envision ever like intake wise like he was everything coming into triage in a tree
+[SPEAKER_04]: you're determining where it needs to be flow out from there.
+[SPEAKER_04]: maybe we end up having a support team at some point that's just
+[SPEAKER_04]: you just hand off to a support team that actually can answer questions, guide people through stuff.
+[SPEAKER_04]: to get them through using Confluence on their own, you might have a,
+[SPEAKER_04]: something rounded to testing.
+[SPEAKER_04]: Like if it seems like it's an actual bug, maybe maybe you need to triage something.
+[SPEAKER_04]: and then you would also have the product management that's really
+[SPEAKER_04]: the ultimate user interaction.
+[SPEAKER_05]: I've been doing a lot of that myself.
+[SPEAKER_05]: in the triaging part of this testing and reproducing things that
+[SPEAKER_05]: that they report and that seems to work pretty well.
+[SPEAKER_05]: Coming from testing, it's been pretty easy for me to do.
+[SPEAKER_04]: and see like every development piece we do,
+[SPEAKER_04]: even if it's a bug like you find going back through like that.
+[SPEAKER_04]: Product management piece and like the product manager or whatever we call it like analysis, whatever and
+[SPEAKER_04]: is always that user go-between.
+[SPEAKER_04]: They're the ones that like helping build out what the iterations
+[SPEAKER_04]: what the releases are, they're the ones doing the user communication.
+[SPEAKER_04]: and here's what we're delivering, here's what it's gonna be, what do you need.
+[SPEAKER_04]: And like even if you find a bug, kind of route back through them and say, hey,
+[SPEAKER_04]: changing this, is this what you're saying?
+[SPEAKER_04]: Let them be that go-between.
+[SPEAKER_04]: and kill off all the communication that comes directly to not just you but like
+[SPEAKER_04]: your team, Conrad's team, Andrew's team, it just, like, it all stops.
+[SPEAKER_04]: It all goes through that plug, because right now we just assign it to the team leads.
+[SPEAKER_03]: If there's a bug, we can just assign it to him.
+[SPEAKER_03]: Yeah.
+[SPEAKER_02]: And also, really we have this situation, like,
+[SPEAKER_02]: During development phase, we have big gap between user and
+[SPEAKER_02]: as developers when there is an issue
+[SPEAKER_02]: there's no gap at the immediate quality.
+[SPEAKER_02]: There has to be a gap and there has to be a removal of the gap.
+[SPEAKER_05]: I'm really interested to see what he thinks about the documents that we've got so far.
+[SPEAKER_05]: and what his suggestions would be.
+[SPEAKER_05]: So all that stuff is even
+[SPEAKER_05]: flowcharted out here, so.
+[SPEAKER_04]: Yeah, but I think he's,
+[SPEAKER_04]: He reckoned I mean he alluded to it in the call like he's just one person that he can't
+[SPEAKER_04]: do that for everyone, but like getting it off the ground here.
+[SPEAKER_04]: would be good and that's the one thing I'd like to see
+[SPEAKER_04]: the board like a big picture wise if we're looking at this intake of
+[SPEAKER_04]: flow that we talked about and there being a product management team we have to
+[SPEAKER_04]: that team and that that might mean people from other teams that like.
+[SPEAKER_04]: really feel like they're aligned with that.
+[SPEAKER_04]: They would love to talk to users.
+[SPEAKER_04]: They would love to be that
+[SPEAKER_04]: Analysts go between that might mean that we build a team
+[SPEAKER_04]: out of our other teams, out of people that really, cause I want people doing like what they love to do.
+[SPEAKER_04]: what they're good at doing, get people set up to win.
+[SPEAKER_04]: And like if there's people on our other teams
+[SPEAKER_04]: like to develop but they feel like this might be a niche then let's
+[SPEAKER_04]: let them come in and train and build that out, then we can
+[SPEAKER_04]: Again, I'd like to see a pipeline coming up of like
+[SPEAKER_04]: That's what I really like to have.
+[SPEAKER_04]: Developers are always kind of like you're doing.
+[SPEAKER_04]: Developers are coming up.
+[SPEAKER_04]: taking on roles that like fit them well and as we have other spots that fit
+[SPEAKER_04]: and get them in a place where they can really do well and succeed and help everyone.
+[SPEAKER_04]: so it might be that we have to piece together the analysis team
+[SPEAKER_04]: from people who would want to do it, would love to do it and do it well.
+[SPEAKER_04]: And then we start bringing up more developers
+[SPEAKER_04]: to fill those gaps.
+[SPEAKER_04]: I don't ever want to get to a spot to where we're like,
+[SPEAKER_04]: Say like I mean you coming in and working development wise I know you were fantastic and testing and
+[SPEAKER_04]: I don't want to ever be like, well, he'd be good in development, but we can't lose him in testing.
+[SPEAKER_04]: I don't want to be that.
+[SPEAKER_04]: I want to get people where they want to be and where they can really be.
+[SPEAKER_04]: be a star move, so yeah.
+[SPEAKER_07]: That's why I mentioned that in the beginning.
+[SPEAKER_07]: I'm like, we're not...
+[SPEAKER_07]: What we haven't set up now with the different teams and stuff.
+[SPEAKER_07]: It doesn't have to be what it is going forward.
+[SPEAKER_07]: Like you said, we want to think outside the box if we need to, just to make that process work the best.
+[SPEAKER_02]: There is no box.
+[SPEAKER_02]: We would need a service and information team like
+[SPEAKER_02]: Most of the calls we get from Jayak, it's like they want
+[SPEAKER_02]: information from that database or something that has to be
+[SPEAKER_02]: done on the database.
+[SPEAKER_02]: So it would be better to not
+[SPEAKER_02]: like separate from the development team have a service information team yeah
+[SPEAKER_02]: that could directly address Jeffs and Jordan's goal or any other team.
+[SPEAKER_04]: I think having that division between like
+[SPEAKER_04]: who's actually doing it and delivering it.
+[SPEAKER_04]: and the users is like a huge because I just got an email from Joe
+[SPEAKER_04]: before this meeting where he wants me to write a query
+[SPEAKER_04]: And he said, it has payroll data, so he's like, I know you'll end up having to run it, so can you just do it?
+[SPEAKER_04]: And some of that, I think.
+[SPEAKER_04]: It's like, he knows that like,
+[SPEAKER_04]: Ethan can do this.
+[SPEAKER_04]: So I'll just call Ethan.
+[SPEAKER_04]: Chris can do this.
+[SPEAKER_04]: I'll just call Chris.
+[SPEAKER_04]: Jacob can do this.
+[SPEAKER_04]: I'll just call Jacob.
+[SPEAKER_04]: I don't want that.
+[SPEAKER_04]: I want it to go through.
+[SPEAKER_04]: a funnel that's a team and like whoever's talking to like
+[SPEAKER_04]: is never the person to actually deliver.
+[SPEAKER_04]: I don't want Jeff to know who does what.
+[SPEAKER_04]: I want there to be a person or a team he talks to.
+[SPEAKER_04]: And I think that's just good across the board anyway, but that's how all this ends up.
+[SPEAKER_04]: In reality, he could have easily sent
+[SPEAKER_04]: this request to a triage team.
+[SPEAKER_04]: It could have gone through this
+[SPEAKER_04]: hand it off to the developer and even if there's not security to run it on production for the payroll stuff
+[SPEAKER_04]: It could just be like what you would normally do.
+[SPEAKER_04]: You would just send me a script and say, can you run this?
+[SPEAKER_04]: I've written everything.
+[SPEAKER_04]: Yeah.
+[SPEAKER_04]: Like, it doesn't have to come directly to me or directly to you.
+[SPEAKER_05]: I don't know how much...
+[SPEAKER_05]: We're talking about database, writing database queries and databases in general, and we've got two in over there that does
+[SPEAKER_05]: a fantastic job and she got more involved in it you know
+[SPEAKER_05]: A lot of those scripts that you end up writing just because you have access to it.
+[SPEAKER_05]: She's our database admin.
+[SPEAKER_05]: That'd be awesome.
+[SPEAKER_05]: And include her as part of the teams, as one of the teams.
+[SPEAKER_07]: And even if we had, like in these specific situations where,
+[SPEAKER_07]: like Ethan or whoever's writing these don't have access on production.
+[SPEAKER_07]: Can't we have something, I know we've talked about doing something
+[SPEAKER_07]: in the schism or whatever in the pipelines to where we can throw out
+[SPEAKER_07]: Stuff like that where maybe all you got to do is click approve and then it runs it
+[SPEAKER_02]: In the banking system we used to have this
+[SPEAKER_02]: where whenever we have an issue on production,
+[SPEAKER_02]: We, as a developer of our service, we raise a ticket
+[SPEAKER_02]: and the ticket directly goes to the in charge product owner
+[SPEAKER_02]: And when he approves, he will approve the session.
+[SPEAKER_02]: for a certain time, like one hour, half an hour, whatever the time.
+[SPEAKER_02]: that requires the job.
+[SPEAKER_02]: And once that is done,
+[SPEAKER_02]: We will also have logs that monitor our actions and
+[SPEAKER_02]: Whenever you want you can just see those logs like what this exact user has done.
+[SPEAKER_02]: Yeah
+[SPEAKER_02]: from the security point of view.
+[SPEAKER_04]: Something like that would be great to build out.
+[SPEAKER_04]: I mean that's another scalability thing that we're, what we're doing now isn't scalable, it's just what it's always been.
+[SPEAKER_05]: I don't know if this is the right place to ask or not, but I've just always been curious when you write a script like that.
+[SPEAKER_05]: and then you send it to somebody else to run, don't you kind of feel like you're flying blind a little bit?
+[SPEAKER_03]: Yeah, for sure.
+[SPEAKER_03]: Definitely.
+[SPEAKER_03]: like when we're dealing with like the employee or payroll data, it's
+[SPEAKER_03]: tricky to know if like my script is correct because
+[SPEAKER_03]: Jordan a lot of times knows roughly what number he's looking for than what I'm looking for.
+[SPEAKER_03]: or especially with payroll data is like millions of dollars different because it's all scrambled, you know.
+[SPEAKER_07]: I kind of like that idea though, that you were talking about where it,
+[SPEAKER_07]: you approve like a window of time and then just kind of
+[SPEAKER_02]: After that it just expires and again you have to price another ticket for that.
+[SPEAKER_04]: And we had a project years ago called like data extract that never got out the door.
+[SPEAKER_04]: I do remember that.
+[SPEAKER_04]: Yeah, but that was the idea of it too, was that
+[SPEAKER_04]: like you could just connect to this, and which it's still,
+[SPEAKER_04]: the end goal of it is still or the the first iteration still kind of living out there but
+[SPEAKER_04]: the users could connect to that service from Excel and just pull like
+[SPEAKER_04]: specific views we had written on SQL and they could just load an Excel sheet and manipulate it and then make their own.
+[SPEAKER_04]: export files or whatever they needed to do.
+[SPEAKER_04]: The idea of that was that like a developer could just write a function or a view
+[SPEAKER_04]: let it get deployed and then the user does their own thing if they need
+[SPEAKER_02]: And also I thought of one more project like
+[SPEAKER_02]: have a service that runs on the production side.
+[SPEAKER_02]: where it just tracks the user actions.
+[SPEAKER_02]: Like for example,
+[SPEAKER_02]: Jeff has done some action like he went to Jack Smith.
+[SPEAKER_02]: He did click on this.
+[SPEAKER_02]: and this, this, and that.
+[SPEAKER_02]: And he came and rose and I don't know.
+[SPEAKER_02]: When he calls us, he'll be explaining the whole thing.
+[SPEAKER_02]: Instead of him explaining those what he has done we can just go to the server log and
+[SPEAKER_02]: and just make those logs.
+[SPEAKER_06]: And that would help a little bit with communication too.
+[SPEAKER_06]: People are trying to explain what they've done to produce a bug.
+[SPEAKER_06]: They miss a couple of things.
+[SPEAKER_06]: And they can't replicate the bug anymore.
+[SPEAKER_05]: In a limited sense, some of that's...
+[SPEAKER_05]: was done in the database where you would have changed by certain
+[SPEAKER_07]: But it's kind of like that confirmation thing we've been chasing.
+[SPEAKER_07]: What are we missing that she's been doing?
+[SPEAKER_05]: It doesn't catch everything.
+[SPEAKER_05]: It just checks, OK, this data cell got changed.
+[SPEAKER_05]: the state of a row got changed by this person at this time.
+[SPEAKER_05]: You don't really know much fun on that.
+[SPEAKER_05]: But it is helpful.
+[SPEAKER_05]: You can at least see, oh, okay, well, I see when the last time the record was changed and by who.
+[SPEAKER_05]: Now we can go back and ask them what they were doing.
+[SPEAKER_05]: This way, like you're talking about, we wouldn't necessarily have to do that.
+[SPEAKER_05]: They have a record of it.
+[SPEAKER_04]: Make notes of all those things, like the SQL access times.
+[SPEAKER_04]: the deployment approaches and the like the stack tracing and user step like logging
+[SPEAKER_04]: All that stuff's good, just take note of it.
+[SPEAKER_04]: Especially as we go through this with
+[SPEAKER_04]: we kind of build out what we want our intake and flow to look like.
+[SPEAKER_04]: if there's pieces like that that may not be directly part of the flow but we need to add in like we need to
+[SPEAKER_04]: note that and remember it.
+[SPEAKER_03]: I kind of feel like that's something he'll
+[SPEAKER_03]: probably identify like if you're talking about with the logging and stuff like that's somewhere where we're kind of lacking and I feel like
+[SPEAKER_03]: maybe that's something he'll bring up that'll help us a ton with like being able to communicate with the users if we can actually see
+[SPEAKER_03]: what's going wrong, where the errors happen and stuff.
+[SPEAKER_03]: A lot of times,
+[SPEAKER_03]: I feel like at least our team, our process is kind of
+[SPEAKER_03]: I wouldn't say haphazard, but you know, we don't have like a ton of structure with it.
+[SPEAKER_03]: we don't have like very specific requirements for how components should be.
+[SPEAKER_03]: implement and stuff, so I write it a little bit differently.
+[SPEAKER_03]: So on this page, we may have good error handling on this one.
+[SPEAKER_03]: We may not, or we may forget to add logging here.
+[SPEAKER_04]: stuff and that's been that's been bittersweet over the years it's been cool because it's it's
+[SPEAKER_04]: It's granted a lot of flexibility for teams and developers
+[SPEAKER_04]: try new things so like we haven't learned hamstrung people on certain technologies but the other time other side of it
+[SPEAKER_04]: we ended up having kind of a wild west of technology approach.
+[SPEAKER_04]: It's opened up doors for like
+[SPEAKER_04]: learning new things that we wouldn't have learned otherwise but it's also made
+[SPEAKER_04]: a lot of problems too.
+[SPEAKER_05]: So are you talking about standardizing how apps are written?
+[SPEAKER_05]: Where everything has to be more on the structure.
+[SPEAKER_05]: and everything has to have a tri-catch and everything has to have
+[SPEAKER_05]: Or are you talking more like minting or things like that?
+[SPEAKER_03]: Yeah, I feel like having better coding standards might
+[SPEAKER_03]: where it doesn't really matter what language you're in, but making sure that like, you know,
+[SPEAKER_03]: If you're writing a service or whatever, you need to have like error handled
+[SPEAKER_03]: at each step or logging it needs to be in each thing.
+[SPEAKER_03]: I don't know.
+[SPEAKER_02]: Yeah, like for example logging it seems like a
+[SPEAKER_02]: product like we could take over and implement into the apps but
+[SPEAKER_02]: It's not as easy as we think.
+[SPEAKER_02]: Sometimes we might have to rewrite the whole app as well.
+[SPEAKER_02]: because the app was never written to be
+[SPEAKER_02]: or to include any logging system into it so yeah it's like
+[SPEAKER_02]: Every user control has to be really good WPF and
+[SPEAKER_02]: all these different platforms out there that don't talk to each other well.
+[SPEAKER_02]: Yeah, which again if you talk to someone, like some developer,
+[SPEAKER_02]: If we had to rewrite this whole app, they would not agree.
+[SPEAKER_02]: I mean, they would agree, but it's just like, yeah.
+[SPEAKER_02]: it feels like a big workout a big project and once we
+[SPEAKER_02]: uh step into that project again if we are getting calls from jeff
+[SPEAKER_02]: It will break the mold flow.
+[SPEAKER_05]: You're going to have somebody to fry in that for you.
+[SPEAKER_05]: For sure.
+[SPEAKER_04]: very optimistic though yeah i love it
+[SPEAKER_04]: I think Zach got the user set up.
+[SPEAKER_04]: You're probably good to get that phone and whatnot.
+[SPEAKER_06]: Still talks.
+[SPEAKER_06]: You can ask about the log and everything.

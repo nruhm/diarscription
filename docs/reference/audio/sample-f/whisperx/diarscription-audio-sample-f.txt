@@ -1,0 +1,375 @@
+I'm going to be in there.
+until I got here.
+[SPEAKER_00]: this open water that I've had on my desk for probably two weeks now.
+[SPEAKER_00]: It kind of tastes like pencil shavings.
+[SPEAKER_00]: You drank that?
+[SPEAKER_00]: Yeah, because it's just water.
+[SPEAKER_00]: It can't rot or anything.
+[SPEAKER_00]: Just stay, I'll be fine.
+[SPEAKER_00]: It has some floating office line in it.
+Right.
+Yeah.
+[SPEAKER_08]: It tastes like, at least they don't put lead in pencils anymore, right?
+[SPEAKER_08]: It's graphite now.
+[SPEAKER_08]: When I was a kid I think they actually had lead in your pencils.
+[SPEAKER_08]: May account for why I'm kind of crazy.
+[SPEAKER_08]: Because I used to chew on my pencils.
+[SPEAKER_06]: Who didn't you own the pencils?
+[SPEAKER_00]: I still have a piece of my pencil from seventh grade in my finger.
+[SPEAKER_00]: I got a piece right here.
+[SPEAKER_00]: It's like a little tattoo.
+[SPEAKER_00]: I just sharpened my pencil.
+[SPEAKER_00]: and like somebody bumped me and now I've had this for like 30 years.
+[SPEAKER_00]: 20 something.
+[SPEAKER_05]: Conrad, Jason.
+[SPEAKER_05]: Chris is here.
+[SPEAKER_06]: We have our own metronome now.
+[SPEAKER_06]: I think they're coming back tomorrow.
+[SPEAKER_05]: I heard, wait, I heard Wednesday.
+[SPEAKER_06]: I know they were going to come today.
+[SPEAKER_05]: Maybe that's what it was.
+[SPEAKER_05]: I think Si said, I think, that they're coming back.
+[SPEAKER_05]: tomorrow but they're going to be getting in late so it would probably be off Wednesday too.
+[SPEAKER_05]: Maybe that's what it was.
+[SPEAKER_06]: I'll find out when I sent a message.
+[SPEAKER_06]: Okay, quick meeting, however,
+[SPEAKER_06]: You guys start today?
+[SPEAKER_06]: That's all they invite.
+[SPEAKER_06]: So, we'll just...
+[SPEAKER_06]: That one's just to kind of get her feet wet, see what his expectations are.
+[SPEAKER_06]: We'll talk about what we want to try and get out of and
+[SPEAKER_06]: and then start getting the wheel turned.
+[SPEAKER_06]: So he's gonna be focused on the finance team to start.
+[SPEAKER_06]: But it's, he's gonna be a pro, what do I call him?
+[SPEAKER_06]: It's product manager.
+[SPEAKER_06]: He said product manager.
+[SPEAKER_06]: That's right.
+[SPEAKER_06]: I still don't know what the difference is between product and project.
+[SPEAKER_06]: Product, I guess, is more...
+[SPEAKER_06]: I don't know.
+[SPEAKER_06]: But he's going to be kind of our...
+[SPEAKER_06]: Kind of like what I did, only a lot better.
+[SPEAKER_06]: Whenever I started.
+[SPEAKER_06]: So he's going to give us more direction on
+[SPEAKER_06]: the in between the user perspective.
+[SPEAKER_06]: us and kind of take that off our plate.
+[SPEAKER_07]: It's what I've always called the analysis phase of the project.
+[SPEAKER_07]: Yeah, taking it into like a project management room too.
+[SPEAKER_06]: So he'll know Canada.
+[SPEAKER_06]: Come up with a plan, get some mock-ups drawn, get it all.
+[SPEAKER_06]: okayed by the users week off of that today
+[SPEAKER_06]: for a day.
+[SPEAKER_06]: That's what we're doing.
+[SPEAKER_06]: Yeah, he'll help with a lot of things, just...
+[SPEAKER_06]: process-wise, I think, and give us some more
+[SPEAKER_06]: feedback on what we could do better which i think is good
+[SPEAKER_06]: Uh...
+[SPEAKER_06]: We did have a cabin order.
+[SPEAKER_06]: Did you get all those?
+[SPEAKER_06]: Yeah, that's good.
+Okay.
+[SPEAKER_06]: Hopefully not let anything else come through before Conrad gets back.
+[SPEAKER_06]: Do we have anything else to go out?
+[SPEAKER_06]: Jack Smith 1.0.0.
+[SPEAKER_05]: Nice, nice.
+[SPEAKER_05]: In production.
+[SPEAKER_05]: Yep.
+[SPEAKER_05]: He's what Jordan thinks.
+[SPEAKER_05]: It's cool.
+[SPEAKER_05]: I think it looks pretty slick.
+[SPEAKER_06]: Okay, so he's using it, or he's going to use it.
+[SPEAKER_06]: He's going to use it, yeah.
+[SPEAKER_05]: Phase 1 went out at the beginning of July.
+[SPEAKER_05]: deposit stuff and you'll use that sound like it worked great so
+[SPEAKER_05]: Hopefully we have the same success with the reconciler.
+[SPEAKER_05]: That's a win if all goes well.
+[SPEAKER_05]: I delivered like a week later, but also Matt was on sales stuff the whole time, so yeah.
+[SPEAKER_06]: Uh...
+[SPEAKER_06]: Did you have a chance to look at those...
+[SPEAKER_06]: those employees that dropped off the file for like
+[SPEAKER_06]: No, did you get the list of those?
+[SPEAKER_06]: i think they were in the original or not the original but the the previous email that i had sent
+[SPEAKER_06]: where they had the results from the last time.
+[SPEAKER_06]: I think those 28 are in there, but I'll check.
+[SPEAKER_06]: okay yeah if we get those verified that they're not
+Bye.
+[SPEAKER_06]: needing it anymore then I think we're good.
+[SPEAKER_06]: That'd be great.
+[SPEAKER_06]: The whole thing I gotta give him...
+[SPEAKER_06]: like an email group or...
+[SPEAKER_06]: a list of emails to send if there are issues, kind of like what we do with SMS.
+[SPEAKER_06]: So are you on those by chance?
+[SPEAKER_06]: I didn't think so.
+[SPEAKER_06]: I know it's me and April and probably Jeff too.
+[SPEAKER_06]: I'll just, I'll grab and see who we send S and S to and put the same thing on there.
+[SPEAKER_06]: You got that ticket this morning.
+[SPEAKER_06]: Did I figure that out?
+[SPEAKER_01]: We're still working on it.
+[SPEAKER_01]: They changed the IPs, yeah, so.
+[SPEAKER_01]: I think he's going to restart the service at nine, so we'll see how that looks at it.
+[SPEAKER_02]: Anything else coming out this week?
+[SPEAKER_02]: Well, I'm still trying to get Application Hub to consolidate.
+[SPEAKER_02]: Okay, application hub versus app hub.
+[SPEAKER_02]: Yes, they may switch and it may just be App Hub, but for right now it's going to be Application Hub.
+[SPEAKER_02]: to do testing and see how it works.
+[SPEAKER_06]: It could be.
+[SPEAKER_06]: Like App Hub 2 that we've had for years.
+[SPEAKER_06]: Or a motor.
+[SPEAKER_06]: Or something.
+[SPEAKER_06]: at least accounting is accounting now, right?
+[SPEAKER_05]: Yeah.
+[SPEAKER_05]: We renamed it across some issues.
+[SPEAKER_06]: Yeah.
+[SPEAKER_06]: I know.
+[SPEAKER_06]: Anything else coming up this week that you know of?
+[SPEAKER_06]: Uh, anything in touch here or nothing?
+[SPEAKER_06]: No, I'll just check something.
+[SPEAKER_06]: Everything's looking good so far.
+[SPEAKER_05]: a benefit broker we're working on that right now i don't know if we'll do like a couple of small releases or just
+[SPEAKER_05]: group it all into one.
+[SPEAKER_05]: There's some things that
+[SPEAKER_05]: has been making it more difficult for April to use.
+[SPEAKER_06]: Something else I want to throw in the list if it's not in there already is
+[SPEAKER_06]: the file transfer.
+[SPEAKER_06]: Like whenever they create a new file, where it actually throws it in the FTP.
+[SPEAKER_06]: automatically when we do SNS.
+[SPEAKER_06]: Just because...
+[SPEAKER_06]: I don't mind to do it at all, if it's not here.
+[SPEAKER_06]: And it doesn't get sent out on Friday.
+[SPEAKER_05]: to get out on time.
+[SPEAKER_05]: It'd be more secure, too, that way we don't have to get teams or get team help.
+[SPEAKER_07]: And Portion Foundry too.
+[SPEAKER_07]: a more pressing line because I think that started when you were out and then Jacob looked at stuff and then Jacob was out.
+[SPEAKER_06]: It's something we can talk about, maybe that's one that we could
+[SPEAKER_06]: Can we start with that one?
+[SPEAKER_06]: With Krishna?
+[SPEAKER_07]: I mean, he's got pretty much everything he needs.
+[SPEAKER_07]: Yeah, I had the idea from Jacob that it was basically done just waiting on like that.
+[SPEAKER_07]: the ACH business and yeah I found the thing and he found the
+[SPEAKER_07]: thing that he was looking at that he liked so i think he was gonna set up a demo
+[SPEAKER_07]: So that one might not require as much.
+[SPEAKER_06]: But that's something to keep in mind.
+[SPEAKER_06]: With Krishna going forward we can...
+[SPEAKER_06]: Start thinking about what we want to start with or what we want to get our feet wet with.
+[SPEAKER_07]: And it wouldn't have to be a finance one.
+[SPEAKER_07]: That's kind of what we went with.
+[SPEAKER_07]: We want to help bridge that gap between development and
+[SPEAKER_07]: user base and take a lot of that load off of the developers and the team leads.
+[SPEAKER_07]: and the analysis load and it just seemed like
+[SPEAKER_07]: Your team is supposed to become a painful one.
+[SPEAKER_07]: for difficult users and also pulling you, pulling your time out.
+[SPEAKER_07]: So I figured that might be a good test bed.
+[SPEAKER_07]: Yeah.
+[SPEAKER_07]: I think so.
+[SPEAKER_05]: You know.
+[SPEAKER_05]: We'll discuss.
+[SPEAKER_05]: I'm just curious to kind of see
+[SPEAKER_05]: Like, what his opinion on, like, just...
+[SPEAKER_05]: like i've read a little bit about agile and scrum and stuff and to me like
+[SPEAKER_05]: It makes sense to me how that works, I think.
+[SPEAKER_05]: on like if we just had like one big
+[SPEAKER_05]: you know app that we work on and various pieces of it but to me it's like I
+[SPEAKER_05]: I find it hard to figure out how to fit that framework over where all of our teams have
+[SPEAKER_05]: 16 different apps that are, you know, slightly connected, but not really.
+[SPEAKER_05]: It's like, how do you
+[SPEAKER_05]: playing sprints and stuff around, just like fixing like one little thing here, going a little bit here.
+[SPEAKER_06]: So we can tell them about that.
+[SPEAKER_06]: Because I want to accept it.
+[SPEAKER_06]: I think that would be that's my biggest
+[SPEAKER_06]: issue with what, like when he was given his
+[SPEAKER_06]: Interview.
+[SPEAKER_06]: The way they do things.
+[SPEAKER_06]: it's all based off of one application.
+[SPEAKER_06]: So when you throw a hundred plus
+[SPEAKER_06]: End of the night.
+[SPEAKER_06]: How do you, how do you manage that?
+[SPEAKER_07]: our approach made sense at one time or maybe it makes would make more sense with the
+[SPEAKER_07]: So to consolidate things differently now, I don't know.
+[SPEAKER_06]: This will be good.
+[SPEAKER_06]: Good.
+[SPEAKER_06]: way to just throw things at him and say, hey, have you ever seen this before?
+[SPEAKER_06]: How would you
+[SPEAKER_06]: deal with this, go from there.
+[SPEAKER_06]: Yeah, today's meeting is just to get our feet wet.
+[SPEAKER_06]: We'll get to Amora going forward.
+[SPEAKER_06]: I'm assuming he's going to be rote, obviously.
+[SPEAKER_06]: Does he know, timing-wise, how much
+[SPEAKER_06]: he's going to be available.
+[SPEAKER_07]: I think he's available quite a bit, but I think that we can utilize him
+[SPEAKER_07]: However we want, okay?
+[SPEAKER_07]: And I think that he had like a 40-hour capacity.
+[SPEAKER_07]: We just didn't... I told the...
+[SPEAKER_07]: the people that we would be thinking like a 10 to 12 maybe.
+[SPEAKER_07]: Just to get started and see, just to learn it.
+[SPEAKER_07]: But if we need more that's okay and if we need less we can flesh that out.
+[SPEAKER_07]: Okay.
+[SPEAKER_07]: It was the other guy we talked to that had less capacity.
+[SPEAKER_07]: The guy that reminded me of Kyle?
+[SPEAKER_07]: Yes.
+[SPEAKER_06]: From a different country.
+[SPEAKER_06]: Yeah I guess.
+[SPEAKER_06]: Hello.
+[SPEAKER_06]: I'm assuming we'll give him his own email and everything.
+[SPEAKER_06]: Just like he's here.
+Okay.
+[SPEAKER_06]: So we'll set him up with a BN2, then we just got some place to tie to.
+[SPEAKER_06]: Somebody work on that.
+[SPEAKER_06]: All right.
+[SPEAKER_06]: Oh, um...
+[SPEAKER_06]: So we can't talk about the new stuff that we talked about late Thursday.
+[SPEAKER_08]: You and I will have to get together and
+[SPEAKER_08]: flesh out how how we want that board to look in the meetings and
+[SPEAKER_08]: what we want to focus on.
+[SPEAKER_06]: We'll talk about that before Thursday.
+[SPEAKER_06]: And then the other guys that come back will just be there for the ride.
+[SPEAKER_08]: That'd be great.
+Yeah.
+[SPEAKER_08]: Yeah, that's just like...
+[SPEAKER_08]: You've all seen the boards, the board that we had for our meetings that we were using for a while.
+[SPEAKER_08]: We're just going to try and make that a little more focused.
+[SPEAKER_08]: It's grown and
+[SPEAKER_08]: I guess, scope or whatever you want to say.
+[SPEAKER_04]: Yeah.
+So...
+[SPEAKER_08]: Try and narrow that down a little bit so we're not jumping around so much.
+[SPEAKER_06]: Yeah, so I wanna keep the meetings.
+[SPEAKER_06]: I'm short to the point, but we gotta find that point.
+[SPEAKER_08]: Right.
+[SPEAKER_06]: Alright, Andrew, you got anything fun?
+[SPEAKER_06]: No downers today.
+[SPEAKER_00]: I don't have any downers but I also don't have anything fun.
+[SPEAKER_08]: That's always fun.
+[SPEAKER_00]: I have three...
+[SPEAKER_00]: vaguely ant-related facts.
+[SPEAKER_00]: One, I don't know if you've seen
+[SPEAKER_00]: but like those little like cone things.
+[SPEAKER_00]: Those are, do you know what I'm talking about?
+[SPEAKER_00]: It's like in the dust or sand.
+[SPEAKER_00]: There will be an indentation that looks like a little cone.
+[SPEAKER_00]: At the bottom of that is a little thing about that big called an antlion.
+[SPEAKER_00]: and it will basically get the ants to fall in there
+[SPEAKER_00]: and it will eat them.
+[SPEAKER_00]: I'm assuming that was probably the inspiration for the
+[SPEAKER_00]: The Star Wars thing and then the
+[SPEAKER_00]: in the Wrath of Khan movie, the ear thing they put in is basically like
+[SPEAKER_00]: a very large scale.
+[SPEAKER_00]: That's what they look like, but they're smaller.
+[SPEAKER_00]: They're actually like tiny.
+[SPEAKER_06]: So are you saying that the cones that are on the ground
+[SPEAKER_06]: Are not made by the hands where they are?
+[SPEAKER_06]: Are not.
+[SPEAKER_06]: They're made by anyone else.
+[SPEAKER_06]: That's what I thought.
+[SPEAKER_08]: Now the cones look like volcanoes or the ants.
+[SPEAKER_08]: yeah and the cones the the depression depressions are the alliance and they make these little
+[SPEAKER_08]: traps for the ants to go into.
+[SPEAKER_08]: And my brother and I used to play with those things.
+[SPEAKER_08]: We would feed them.
+[SPEAKER_08]: Just the ant land would come up out of there.
+[SPEAKER_08]: Yep.
+[SPEAKER_08]: Doesn't he have a little red marking or something on his back?
+[SPEAKER_00]: I'm not sure.
+[SPEAKER_08]: I think he does.
+[SPEAKER_08]: The ones that I looked at, the ones we had, were
+[SPEAKER_08]: larger than normal ants.
+[SPEAKER_00]: Then there are a class, I'm only aware of one of them, but I know there are multiple.
+[SPEAKER_00]: called ant mimics, which are things that look like ants.
+[SPEAKER_00]: to try and not be eaten.
+[SPEAKER_00]: And there's one I see every once in a while.
+[SPEAKER_00]: It's a little fly that we have in
+[SPEAKER_00]: Missouri, but it like walks around in its body and its wings.
+[SPEAKER_00]: that are kind of shaped like an ant.
+[SPEAKER_00]: That looks like tremors.
+[SPEAKER_05]: Yeah.
+[SPEAKER_08]: That does not look like the ant line that I'm used to seeing, though.
+[SPEAKER_05]: I don't remember.
+[SPEAKER_08]: Seems like I remember them being a little bigger and having a red mark on their back.
+[SPEAKER_05]: It looks like the flying monsters that attack you.
+[SPEAKER_00]: The last fact, this may be controversial, but I'm 99%.
+[SPEAKER_00]: that it is correct, but is fire ants aren't red.
+[SPEAKER_00]: Most people think fire ants are red.
+[SPEAKER_00]: Fire ants are black and cause a burning sensation.
+[SPEAKER_00]: And so that's why they're called fire ants.
+[SPEAKER_00]: What are the red ants?
+[SPEAKER_00]: Other ants.
+[SPEAKER_00]: Just ants.
+[SPEAKER_00]: Other ants.
+[SPEAKER_00]: Other kinds of ants.
+[SPEAKER_00]: I don't know what they're called.
+[SPEAKER_00]: But yeah, I...
+[SPEAKER_00]: That made me very mad a couple years ago when I read that.
+[SPEAKER_00]: My whole life was a lie.
+[SPEAKER_00]: Thank you.
+[SPEAKER_00]: I thought they were called fire ants because they were those orange ones.
+[SPEAKER_03]: What are those big old red and black?
+[SPEAKER_00]: Oh, those unofficially called cow killers?
+[SPEAKER_00]: Um,
+[SPEAKER_00]: velvet ants, is that what you're talking about?
+[SPEAKER_00]: They're female
+[SPEAKER_00]: wingless wasps and they can sting.
+[SPEAKER_00]: So they're not technically ants.
+[SPEAKER_00]: but they're supposed to be terribly painful because they're actually wasps.
+[SPEAKER_00]: and their stinger isn't like
+[SPEAKER_00]: just on the end, but it's like they shoot it
+[SPEAKER_00]: and it's like actually long, so it would probably hurt to be stunned by one of those.
+[SPEAKER_08]: That sounds more like what I thought those lion ants were.
+[SPEAKER_08]: Maybe we were messing around with something we should have been messing with.
+[SPEAKER_00]: The female or the males actually have wings and they fly around and they look like normal
+[SPEAKER_00]: Like, yeah, if you see something
+[SPEAKER_00]: I think there are blue ones, but I've only ever seen red ones walking around.
+[SPEAKER_00]: I don't miss.
+[SPEAKER_06]: It wasn't too bad.
+[SPEAKER_06]: Okay.
+[SPEAKER_06]: 10.30 next meeting.
+[SPEAKER_06]: Whoever is on.
+[SPEAKER_06]: We'll bring everybody else in eventually.
+[SPEAKER_06]: We don't want to overwhelm him.
+[SPEAKER_00]: Is this a remote employee?
+[SPEAKER_00]: Yes.
+[SPEAKER_06]: I think he's based out of Texas.
+[SPEAKER_06]: That's what his resume always said.
+[SPEAKER_08]: Where was the other guy based out of in the other country?
+[SPEAKER_07]: New York.
+[SPEAKER_07]: New York?
+[SPEAKER_07]: Yeah, poor Kyle's from New York.
+[SPEAKER_08]: Boren Kyle is from New York, but he's not in another country.
+[SPEAKER_07]: He has the opposite of what
+[SPEAKER_07]: Our U.S.
+[SPEAKER_07]: Kyle does.
+[SPEAKER_07]: U.S.
+[SPEAKER_07]: Kyle goes to foreign countries.
+[SPEAKER_07]: Foreign Kyle comes to the U.S.
+[SPEAKER_07]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Have you heard from Kyle?
+[SPEAKER_00]: You heard from Kyle?
+[SPEAKER_00]: No.
+[SPEAKER_00]: Last I heard, he lives in
+[SPEAKER_00]: He lives roughly 100% of his time in Puerto Rico.
+[SPEAKER_00]: He was coming back every once in a while because
+[SPEAKER_00]: They had a house that they were trying to sell in Florida and then he has parents in
+[SPEAKER_00]: That's Carolina, I think.
+[SPEAKER_04]: Thanks, guys.
+[SPEAKER_04]: Oh, the 28th.
+[SPEAKER_04]: I think that's the last Thursday.
+[SPEAKER_04]: That's when we're going to have our food day.
+[SPEAKER_04]: Oh, nice week.
+[SPEAKER_04]: I think we're going to get Ronnie Smack Fire.
+[SPEAKER_04]: That's good.
+[SPEAKER_04]: Yeah, it was good.
+[SPEAKER_04]: Do not object.
+[SPEAKER_06]: You know what I had on Saturday?
+[SPEAKER_06]: A shrimp boil.
+[SPEAKER_06]: It was really good actually.
+[SPEAKER_08]: I think the only thing close to a shrimp will...
+[SPEAKER_08]: that I enjoyed more maybe, I don't know, it's a close tie, is crawfish.
+[SPEAKER_06]: The boil that we had was at a restaurant and you could pick what kind of seafood you wanted in it.
+[SPEAKER_06]: You can put clams or... The crab shack.
+[SPEAKER_03]: Joe's.
+[SPEAKER_03]: Joe's Crab Shack.
+[SPEAKER_03]: Joe's Crab Shack?
+[SPEAKER_03]: Yeah.
+[SPEAKER_03]: The one we went to was a Cajun Crab House, I think it was.
+you
+[SPEAKER_01]: And I'm just going to say,
+[SPEAKER_08]: Probably.

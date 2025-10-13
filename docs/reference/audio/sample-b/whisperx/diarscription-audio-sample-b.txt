@@ -1,0 +1,307 @@
+That's a mess over there.
+[SPEAKER_01]: It's not as bad as it was when I went looking the other weekend.
+[SPEAKER_01]: It's funny how when you get old, your hair doesn't cover everything anymore.
+[SPEAKER_01]: I'll lean forward to that.
+[SPEAKER_00]: My Facebook page is getting filled up with hair restoration.
+[SPEAKER_00]: ads now.
+[SPEAKER_01]: I'm not gonna put lotion in my head.
+[SPEAKER_01]: Or maybe you should, I don't know.
+[SPEAKER_01]: I gotta look it up.
+[SPEAKER_01]: I either gotta just shave it off and then, you know, throw some...
+[SPEAKER_01]: I don't know.
+[SPEAKER_00]: There are all kinds of them out there.
+[SPEAKER_00]: They all claim to be wonder drugs.
+[SPEAKER_00]: Biotin.
+[SPEAKER_00]: All these different health food type things they throw in their...
+[SPEAKER_00]: Spartan's the one that keeps bombing me.
+[SPEAKER_00]: Spartan hair restoration for men.
+[SPEAKER_00]: It's supposed to be the end-all be-all of hair restoration.
+[SPEAKER_01]: I keep getting Spartan ads for racing.
+[SPEAKER_00]: Oh really?
+[SPEAKER_00]: I wonder if it's a different thing though.
+[SPEAKER_02]: They have SPART exercise equipment and stuff, but I don't know if they do the shampoo.
+[SPEAKER_02]: Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: I also get ads for the Spartan races, weirdly enough.
+[SPEAKER_01]: so you know
+[SPEAKER_01]: Some of that's from softball, too, apparently.
+[SPEAKER_01]: So probably made an all-star team, so my softball season has not ended.
+[SPEAKER_01]: It was supposed to be over a month ago.
+[SPEAKER_01]: All-star team has what?
+[SPEAKER_01]: First?
+[SPEAKER_01]: Second?
+[SPEAKER_01]: First?
+[SPEAKER_01]: Third?
+[SPEAKER_01]: Fifth?
+[SPEAKER_01]: This is our first one just because we never do it.
+[SPEAKER_01]: Not only at what grade.
+[SPEAKER_01]: How old?
+[SPEAKER_01]: Should we go down to fourth?
+[SPEAKER_01]: Yeah, that's exactly what I said.
+[SPEAKER_02]: Oh, my number I did not say.
+[SPEAKER_01]: Yeah, and we're going, so I won't be here Friday.
+[SPEAKER_01]: We've got a softball tournament in Paris.
+[SPEAKER_01]: Tennessee, yeah.
+[SPEAKER_01]: I will not be doing the Branson trip either, so I'll be here.
+[SPEAKER_00]: It's like Paris, Texas, Paris, Tennessee, Paris, everywhere.
+[SPEAKER_01]: Um...
+[SPEAKER_01]: Ethan's out all week.
+[SPEAKER_01]: Conrad is here, but at home.
+[SPEAKER_01]: Andrew is the same.
+[SPEAKER_01]: Jacob, same.
+[SPEAKER_01]: I know Ethan's got a release for...
+[SPEAKER_01]: The Lincoln...
+[SPEAKER_01]: And we're going to try and push up another test file forward.
+[SPEAKER_01]: Conrad, we did several things while you were gone.
+[SPEAKER_02]: I was trying to get caught up on that.
+[SPEAKER_02]: Sounds like we'll have the small cabinet order release for a year short goal.
+[SPEAKER_02]: Yeah.
+[SPEAKER_01]: Yeah, they sent in another small report request I guess this morning.
+[SPEAKER_01]: But I guess the main thing...
+[SPEAKER_01]: was we had some more fields in customer service.
+[SPEAKER_01]: just for stuff or header options that Eclipse didn't have anywhere that they could look at.
+[SPEAKER_01]: and then we're getting them cut off from
+[SPEAKER_01]: in that special instruction field.
+[SPEAKER_01]: So they added like six fields, I think, in customer service.
+[SPEAKER_01]: That hit the trash can.
+[SPEAKER_01]: That's what I was trying to figure out.
+[SPEAKER_00]: Yeah, the dripping.
+[SPEAKER_00]: I believe the dripping is hitting the trash can.
+[SPEAKER_00]: I don't know if it's going in the trash can.
+[SPEAKER_00]: Heh heh.
+[SPEAKER_01]: So.
+[SPEAKER_00]: Just wait until the people on the third floor start complaining about their ceiling tiles going in.
+[SPEAKER_02]: It sounded like he was hitting something flat.
+[SPEAKER_01]: Uh, so...
+[SPEAKER_01]: Yeah, they were able to put the fields in the main
+[SPEAKER_01]: I guess in customer service, but they're, I guess wanted to add those to the reports also.
+[SPEAKER_01]: I don't know if that ever made a ticket or not.
+[SPEAKER_02]: I saw the only customer service
+[SPEAKER_02]: Unless I missed it, the only customer service ticket I saw was like a rounding issue.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: I might have missed it though.
+[SPEAKER_01]: I don't think they did throw one in.
+[SPEAKER_01]: That one kind of came in.
+[SPEAKER_01]: It came in as another issue from
+[SPEAKER_01]: Jason and one of the shop guys.
+[SPEAKER_01]: Just asking for more feels.
+[SPEAKER_01]: They got that one done, but we'll probably want to put another one in for the reports.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: But is it already on?
+[SPEAKER_01]: Did they run a script?
+[SPEAKER_01]: Yeah, it was just a sequel thing that Blake ran.
+[SPEAKER_01]: So that's already out.
+[SPEAKER_01]: The new fields are, yes.
+[SPEAKER_01]: The reports still have to be done.
+[SPEAKER_01]: Okay.
+[SPEAKER_00]: It seems like I remember something for customer service related to that.
+[SPEAKER_00]: Could be wrong.
+[SPEAKER_01]: It could be in Blake's corner.
+[SPEAKER_01]: He doesn't see.
+[SPEAKER_01]: I don't know.
+[SPEAKER_02]: What did you say?
+[SPEAKER_02]: i could see the one i was looking for the signs of life too so okay um
+[SPEAKER_02]: There's another one that had something to do with like a rounding issue.
+[SPEAKER_02]: That was new in customer service.
+[SPEAKER_02]: Okay.
+[SPEAKER_01]: yeah those are the biggies that came last week
+[SPEAKER_01]: So we'll let you get caught up.
+[SPEAKER_01]: Was there anything on your side as far as those fields go that we needed to worry about?
+[SPEAKER_01]: You're able to get everything you need?
+[SPEAKER_01]: Or you're already getting it?
+[SPEAKER_00]: Yeah, those Power BI reports, those are the ones you were talking about with the added fields, right?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Because I know I passed one like that over to you.
+[SPEAKER_01]: Well, there's another Power BI issue that had to do with Duke's Kid.
+[SPEAKER_01]: Oh, right.
+[SPEAKER_01]: Good idea of these.
+[SPEAKER_01]: Yeah, that was a weird morning.
+[SPEAKER_01]: There were several issues that came up and they were all different.
+[SPEAKER_00]: Yeah, the one that I sent to Greg
+[SPEAKER_00]: where the Power BI and the columns initially went to again.
+[SPEAKER_00]: And then Tuyen says she didn't have access to change the report.
+[SPEAKER_00]: And it turns out Greg was working on something similar anyway.
+[SPEAKER_00]: He took it.
+[SPEAKER_00]: So yeah, that one played ping pong a minute.
+[SPEAKER_00]: But it was like...
+[SPEAKER_00]: Five minutes, it was figured out.
+[SPEAKER_01]: I think I sent you a text.
+[SPEAKER_01]: Um...
+[SPEAKER_01]: Those reports that went to RSI, the load reports.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah.
+[SPEAKER_01]: I think it went out just fine.
+[SPEAKER_01]: They just didn't see it yet or it went to their junk.
+[SPEAKER_01]: I don't know.
+[SPEAKER_01]: Yeah, that would make sense.
+[SPEAKER_01]: Ken never
+[SPEAKER_01]: replied after I said that it looked like it went.
+[SPEAKER_01]: We looked through SendGrid.
+[SPEAKER_01]: Everything looked good there, looked like it had been delivered, just not opened.
+[SPEAKER_01]: So I think that one's a non-issue.
+[SPEAKER_01]: at this point.
+[SPEAKER_01]: I went in and found that
+[SPEAKER_01]: It's on the email and the messaging server or the messaging database and got the file.
+[SPEAKER_01]: to send it in manually if we needed to.
+[SPEAKER_01]: And I sent it to him, but I don't know if he actually had to use it or not.
+[SPEAKER_01]: So no, we didn't have to do anything.
+[SPEAKER_01]: That makes sense because it hasn't failed in a long time.
+[SPEAKER_01]: Right, that's what I said.
+[SPEAKER_01]: Sounds like we haven't looked at this in a long time.
+[SPEAKER_00]: I don't think we can get to those files
+[SPEAKER_00]: From our network, we have to go into the production VM and get it from there, right?
+[SPEAKER_00]: Okay, so I tried that and I was, wait, there's nothing in here.
+[SPEAKER_00]: from this year.
+[SPEAKER_00]: Yeah.
+[SPEAKER_01]: Our Prada Fest is a different Prada Fest.
+[SPEAKER_01]: Right.
+[SPEAKER_01]: Anything going to production this week or anything going to testing this week?
+[SPEAKER_01]: At least wise.
+[SPEAKER_01]: You got anything interesting?
+[SPEAKER_01]: I don't think we have anything interesting.
+[SPEAKER_01]: Have you gotten any word from battles on monitors?
+[SPEAKER_01]: They may want to wait and move you guys after we get the server room moved.
+[SPEAKER_01]: did they get access points put in over there
+[SPEAKER_01]: you.
+[SPEAKER_00]: Let's walk over there.
+[SPEAKER_01]: Look around.
+[SPEAKER_01]: That was the main issue.
+[SPEAKER_01]: We didn't move you over there.
+[SPEAKER_01]: after we knew the Wi-Fi was working,
+[SPEAKER_01]: Once you get around that wall, you don't get anything from over here.
+[SPEAKER_01]: So we had to put one over there.
+[SPEAKER_00]: Once you guys get moved over there, I'm gonna lose my chill chair.
+[SPEAKER_00]: Yeah, the one that's way back there in the corner, that's next to the window.
+[SPEAKER_00]: So when I take my breaks, I go over and sit in that chair and look out the window.
+[SPEAKER_01]: I'll still be there.
+[SPEAKER_00]: Yeah, but they'll be there.
+[SPEAKER_00]: I don't want to mess with them, and I don't want them to mess with me.
+[SPEAKER_01]: Yeah, that's true.
+[SPEAKER_01]: Right.
+[SPEAKER_00]: I'll find another place.
+[SPEAKER_01]: Like I said, I'll be on Friday.
+[SPEAKER_01]: Ethan's out all week.
+[SPEAKER_01]: Hopefully no big goals this week.
+[SPEAKER_00]: So Ethan is, he's going to be out all week.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: The rest of the team is prepared.
+[SPEAKER_00]: So Dustin Hodges that works with
+[SPEAKER_01]: in accounting down there?
+[SPEAKER_01]: Dustin actually does the sales stuff.
+[SPEAKER_00]: Right.
+[SPEAKER_00]: He preached at our church this weekend.
+[SPEAKER_01]: Oh, really?
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: That was pretty cool.
+[SPEAKER_00]: I know you from somewhere.
+[SPEAKER_00]: And he said, yeah, I know you work at WWM.
+[SPEAKER_00]: We had the whole conversation.
+[SPEAKER_00]: That was kind of a, one of those
+[SPEAKER_00]: coincidence sort of things.
+Interesting.
+[SPEAKER_01]: Like I said I'll be out Friday.
+[SPEAKER_01]: I'm going to be out next week.
+[SPEAKER_01]: Greg's out next week.
+[SPEAKER_01]: Anybody else out coming up before?
+[SPEAKER_01]: Summer ends.
+[SPEAKER_01]: It's got the whole death cotton thing coming out.
+[SPEAKER_01]: That's right.
+[SPEAKER_01]: I mean, what was it?
+[SPEAKER_02]: August.
+[SPEAKER_02]: Is that the first week of August?
+[SPEAKER_02]: It's like the
+[SPEAKER_02]: Well, technically the August 1st is a Friday
+[SPEAKER_02]: It'll be like a week after that.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: It's the official dates.
+[SPEAKER_01]: Yeah, they're out there.
+[SPEAKER_01]: I think it's like the first Tuesday
+[SPEAKER_01]: Okay.
+[SPEAKER_02]: Yeah.
+[SPEAKER_02]: Flying back that next Monday.
+[SPEAKER_02]: I thought we were flying back that Sunday.
+[SPEAKER_02]: But apparently we're flying back that Monday.
+[SPEAKER_01]: Okay.
+[SPEAKER_01]: All right.
+[SPEAKER_01]: Andrew, you got any facts?
+[SPEAKER_01]: Can you hear me?
+[SPEAKER_01]: Yep.
+[SPEAKER_03]: All right.
+[SPEAKER_03]: I have one fact.
+[SPEAKER_03]: I may have used it, but it was a while ago if I did.
+[SPEAKER_03]: I still think this is a cool concept, but China's the only
+[SPEAKER_03]: country in the world with giant pandas and they have what they call panda
+[SPEAKER_03]: diplomacy, which is basically if they're on good terms with
+[SPEAKER_03]: they will lend you a panda to have in your zoo and if they
+[SPEAKER_03]: your country does something that they do not like.
+[SPEAKER_03]: they will recall the pandas and ship them back to China.
+[SPEAKER_03]: Currently there are four in the United States in various cities.
+[SPEAKER_03]: And there are at least 25 zoos worldwide.
+[SPEAKER_03]: that have Chinese pandas.
+[SPEAKER_03]: Look, doesn't St.
+[SPEAKER_03]: Louis still have one?
+They used to.
+I think so.
+[SPEAKER_03]: Yeah, I think so.
+[SPEAKER_03]: I saw on the Wikipedia page it mentioned St.
+[SPEAKER_03]: Louis as one of the first zoos to have one.
+[SPEAKER_00]: It doesn't seem like that would be a very strong diplomatic
+[SPEAKER_00]: leveraging point, you know?
+[SPEAKER_00]: You better recall those tariffs and we're going to take our pandas back.
+[SPEAKER_03]: Thank you.
+[SPEAKER_03]: Well, I think it's just supposed to keep it in the news.
+[SPEAKER_03]: Right.
+[SPEAKER_03]: where I was like, is not happy about something.
+[SPEAKER_01]: I wonder that like you got all these different species that live everywhere
+[SPEAKER_01]: What's keeping other countries from
+[SPEAKER_01]: starting their own population, though.
+[SPEAKER_03]: That would be a major scandal if we started...
+[SPEAKER_03]: breeding operations.
+[SPEAKER_01]: Yeah, our own panda population.
+[SPEAKER_00]: Maybe China controls it.
+[SPEAKER_00]: We're only going to send you boy pandas.
+[SPEAKER_00]: Yeah.
+[SPEAKER_03]: I think
+[SPEAKER_03]: I know that there have been babies born in American zoos,
+[SPEAKER_03]: but I think per the agreement they belong to China,
+[SPEAKER_03]: so they may let us keep them, but they can still take them back.
+you
+[SPEAKER_01]: Alright.
+[SPEAKER_01]: Nice.
+[SPEAKER_00]: Maybe it'll be a quiet week.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: Yeah, no releases going out, so.
+[SPEAKER_00]: Right.
+[SPEAKER_01]: Alright, thanks guys.
+[SPEAKER_03]: Alright, bye.
+[SPEAKER_03]: Oh, yeah.
+[SPEAKER_00]: Vacation Bible School.
+[SPEAKER_01]: They redid the school's sound system in the gym.
+[SPEAKER_01]: So it's a lot easier.
+[SPEAKER_00]: but I don't have anything.
+[SPEAKER_00]: Yeah.
+[SPEAKER_00]: We have a little small church and our gym is in the parking lot and it has a broken basketball goal.
+[SPEAKER_00]: Bye.
+[SPEAKER_01]: and it goes through all the speakers.
+[SPEAKER_01]: Cool.
+[SPEAKER_00]: We've got a distribution amp, but we don't use it really.
+[SPEAKER_00]: It's got all these different channels on it.
+[SPEAKER_00]: control like you can make the sound come out of wherever you want it to come out of but
+[SPEAKER_00]: We only have two speakers.
+[SPEAKER_00]: So I don't even know why they bought it to put it in.
+[SPEAKER_00]: I think actually, I think it was all donated.
+[SPEAKER_01]: Yeah, that's cool.
+Yeah.
+[SPEAKER_00]: So we're like, well, it's donated.
+[SPEAKER_00]: Let's go ahead and put it in.
+[SPEAKER_00]: It took me a while to figure that one out.
+[SPEAKER_00]: I was like, where's the sound?
+[SPEAKER_00]: Turn this thing on.
+[SPEAKER_00]: Yeah, ours is really simple.
+[SPEAKER_00]: We have a 16 channel
+[SPEAKER_00]: Mix Master, Heath Allen, and that's pretty much the only thing you have to deal with.
+[SPEAKER_00]: Do you know how to turn on the amp in the back and turn on the different channels?
+[SPEAKER_00]: That's all you need to know.
+[SPEAKER_01]: to it or whatever you're plugging into it it's all built on the screen
+[SPEAKER_00]: Yeah, but it's a lot more compact to a big mix of lines like.
+[SPEAKER_00]: Yeah.

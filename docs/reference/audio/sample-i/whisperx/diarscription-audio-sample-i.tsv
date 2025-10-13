@@ -1,0 +1,550 @@
+start	end	text
+301	3105	YESTERDAY AND IT'S KIND OF TODAY TALKING TO YOU GUYS
+3338	6852	where we put everything that we think will fit into
+9363	10935	in the spring.
+11217	14783	And so we had two weeks actually developing the spring
+14763	17871	and then we'll have one week afterwards where
+17851	23254	you know, testing is going to be hammering it and we'll be going back and forth with them to make sure everything's right.
+23234	29093	and then once that one week hard experience over we'll release it um and so
+29073	33953	The way it works is, I think, which
+34507	40062	I think there will be some overlap between the hardening and the next sprint.
+40042	42377	Like we might go ahead and start working on the next sprint.
+42477	44550	The vial testing is running through everything.
+44530	48718	But this is like the timelines that he has for the ones that we're currently
+48698	50794	working on or, you know, getting ready.
+50854	53595	So starting Monday is when this next spring
+53575	57763	We'll start, we got the two weeks, and then they'll end on October 3rd.
+57743	61510	So I guess then hardening starts and then that will be done.
+62992	68108	October 10th and then release and then we'll start the next sprint.
+68088	73828	And so then this is everything that we had deemed
+73808	77490	would fit into this sprint.
+77470	79210	I see you have a question on here.
+79230	81152	I just wanted to check with you guys, like is this list
+81132	82358	Does this work for you guys?
+82378	83563	Is this like the priority?
+83945	86738	So what you would like to see go into this and if not,
+86718	92728	We can kind of look at it again I guess and see if we need to make any changes or not.
+92708	98719	I think we got that ready if you want to jump into that now
+98699	100327	wait till after the slide.
+100347	101915	You know, I think that this is pretty much it.
+101935	104507	Like this is the reason I had some.
+106613	111966	Okay, so the number one thing that we had down was just...
+111946	117163	I'm 100% sure we're good on all of the fidelity stuff.
+118848	121686	okay we're going to send the census this week
+121987	125828	I think we're working on the money file, should have all that ready.
+125909	127980	We just wanna make sure we have everything prepared
+127960	129272	Yeah.
+129293	132604	And so we- 9 of 26, right, is the-
+132584	134233	is the last transmission.
+134393	138595	It's going to be this week today or tomorrow.
+138575	143488	Yeah, and we're kind of allotting for time for that during all this.
+143468	148213	So we made sure we left some hours available for if there's any
+148193	151268	high priority issues that come up.
+151248	155470	and stuff like that, generating these census files if there's any changes needed.
+155450	161308	we have like kind of some time buffer within this to do all that stuff okay so that was number one
+162166	167535	Number two, it says DevTicket 1103.
+167515	171754	I need that deployed to make 926.
+172966	174930	Which one was that?
+175011	176226	Second from the bottom.
+176206	181710	Yeah.
+181690	185457	Yeah, so that actually,
+185437	188779	That's probably a five-minute deal.
+188799	190873	That's probably a... Yeah, that one...
+190853	192325	Yeah, that one.
+193520	195498	shouldn't be to trigger a problem.
+195922	197961	David, can you say you needed that virus?
+197941	201775	because that Monday is like,
+202632	206247	that Monday would be a payroll cycle that's applicable to this.
+206227	209993	You know, I'm just going to try to look back and I needed to look forward.
+209973	213756	You need to buy 926.
+218697	221248	Yeah, 926.
+222646	227053	Which I guess, so that's before the food plan release of everything.
+227033	232707	I don't know, we can take a look, maybe see if we can just like throw that in with the payroll release that's
+232687	236520	And that's the only payroll issue out there, right?
+236500	237809	Yeah.
+238010	242038	When do we have to switch over payroll to the 401k separate?
+242018	245734	When's the first date you're going to generate a money file for that?
+245714	249987	The first money file is October 2nd.
+250810	254998	Okay, I'm trying to think of a way that we could...
+254978	256207	We'll have those together.
+256248	258323	But we need
+259147	265157	So that means the 29th, whenever I run payroll, I need the fidelity file on there.
+265137	269781	You know, whenever I create that money file, it's got to read fidelity.
+270132	272515	So what is it, September 29th?
+274216	276738	Okay, so what day would you be running payroll?
+276758	277746	September 29th?
+277726	281661	And then we're uploading the contributions
+281641	284344	on the second with that Michael Koshner.
+284881	288327	Okay, so 29.
+289167	294452	But the 29th, whenever I run payroll, I need that to refill 20 months.
+296862	301101	The 22nd is the last one that we are uploading to you.
+301756	304948	You came from here.
+305249	308486	I guess I'm a little confused.
+308506	310315	So in the 9th, 26th then,
+311527	314042	The 926, so that's on Friday.
+314083	315833	So that will be actually the 926.
+315813	319967	payroll that you're going to be running for the night?
+319947	322683	We're talking about two separate things.
+322703	324152	Two separate things.
+324132	326124	I'm trying to get the data straight on those.
+326205	330008	I'm just trying to see if there's a way that we can do those in the same release.
+331118	334142	So like the...
+334122	338530	the 11-03 pay-to-date thing for the health care checks.
+338510	340707	He said that's up by 926.
+340747	343407	So would that mean that you're going to be running the payroll on 929?
+343387	345921	Yeah, you can throw both of them.
+345961	347208	So the money file change?
+347831	348233	Yeah.
+348601	350052	can go in at 946.
+351079	352671	Great, okay, yeah, let me get it in.
+352651	356063	Because I'm going to run the payroll at 29.
+356043	359404	And then that money file is for you fidelity.
+359384	362965	because I have a meeting scheduled with Michael on the 2nd.
+362945	364578	to upload those contributions.
+364820	367118	That's our first upload of fidelity.
+367138	367723	Okay.
+367703	369352	Okay, good.
+369452	373714	There's going to be some things in there, Ethan, that you're not going to do.
+373694	377005	We're not going to be able to...
+377339	379712	Love them with Christmas playing here.
+379852	382084	You know, it's got to change.
+383836	385290	You know what I mean?
+386350	386955	Yeah.
+387338	391028	I know we're trying to make all the business plans, but like that little thing there,
+391008	391592	Yeah.
+391612	395415	So I got the five-inch job for you to switch that date on those.
+396273	398889	I don't feel like that.
+398909	401625	Well, the thing is that we also have to run through testing
+401605	405118	and other stuff, but yeah, I guess we're trying to get it to,
+405098	410215	I guess a process where we can kind of like
+410195	416205	plan out two weeks of work and just you know we've got to disappear for those two weeks unless like something super urgent comes up
+416185	419378	just hammer that all out and then release it all.
+419358	424609	Yeah, I know that's a good, I like the structure, I think we should do that better.
+424589	426533	I still think there's going to be
+426783	431038	There's still big things in there like this.
+431018	432995	It's no different.
+433015	434548	We're just going to be on that one.
+434528	435194	Yeah.
+435214	438666	And they kind of get to the point where we can kind of
+438646	443830	figure these out way in advance and then we can kind of
+443810	449314	get to it in a manner of like, you know, a time where, you know, we have plenty of time to get to it and it's not urgent.
+449294	452852	But yeah, I understand that every step like that comes out.
+452873	453398	We do.
+453378	458089	keep that in mind whenever we're scheduling or not scheduling whenever we're
+458069	463658	planning out all these spreads to like we're leaving time in there to do these.
+464228	466144	And so we're square on that.
+466245	468585	I'd like to have on 926,
+468565	472939	with pay date changes and then also we're flipping from
+472919	476249	Transamerica to a Fidelity Contribution Fund.
+476269	477782	Yeah.
+477762	482153	Number three, I had dev ticket 1106.
+482133	484365	That 1095 discrepancy?
+484948	485410	Yep.
+485431	487401	I want to send that file on 10.1.
+488495	489564	because I have a 1015.
+489705	493898	I've got to give them time to review that file.
+494755	496564	AND I THINK IT'S NOT
+498147	503297	review any changes or if there's any discrepancies.
+503277	504322	Yeah.
+504343	509288	And we're going to have a meeting scheduled 10-15.
+509268	512663	Which one was that?
+513250	517865	It's 1106 and 95 discrepancy.
+518087	518147	Go.
+519342	524577	which their file, it's been right, so I don't know what changed.
+531830	535274	It'd be kind of nice when you look at that to see what did change.
+535395	537368	I mean, we ran that thing for months.
+537348	539861	A couple, maybe a year and a half a year.
+540243	542515	Yeah, something doesn't change.
+543001	548455	Yeah, that one's still kind of an enigma, so I was probably not really sure what's happened there either.
+548435	553315	So next thing I had,
+553295	557905	I don't know that they're big 1095, the break,
+558323	559432	Kind of over my head.
+560359	561891	Is that the inventory management one?
+562375	563524	Yeah, I'm not sure what that is.
+563504	567456	Yes, he said that, and we realized afterwards that that's kind of out of our court.
+567436	570848	Greg actually already sorted that out.
+571267	576231	The number...
+577561	583572	So I had 1031, starting to get into that GCHP.
+583552	585277	Welcome.
+586100	590254	And then the only thing I had after that was
+590234	593815	All the check fits together.
+593795	598405	Dev ticket 741, we closed.
+599077	603130	Diff Ticket 553, we can close.
+603498	606131	741, we can close.
+606433	609508	741, 553.
+609488	612428	We can close 695.
+614416	619228	And I made a comment on 801.
+619208	621122	That the first part of that is done.
+621686	622975	I read my...
+622955	627953	I'm running my balance sheet with the earnings piece on 801.
+628220	631285	I can't recall any of that.
+631306	633302	I can't remember our issue.
+633282	638415	We're getting one mountain from one place and one in the other, but I can't recreate it.
+638395	641689	So if we want to go ahead until I can find a dream to see.
+641669	643643	I'm okay at the moment.
+643663	646684	With that one, I think the plan was we talked about
+646664	652472	having balance sheet actually call the same bit of code that retained earnings report does.
+652452	658227	because I think balance sheet is kind of recalculating everything itself, and that's what it is.
+658207	662530	discrepancies, so I think it would still be a worthwhile improvement.
+662510	667121	Okay, but the first part of that thing, that's the only thing I'm missing.
+667363	667947	Yeah.
+667927	671652	Yeah, and we noted that we kind of cleared that like in our estimate on the time on that.
+671672	673363	I saw that you commented on there.
+673343	679354	Going back to the Dev 553 though, that one I didn't think had ever been worked on.
+679334	684248	I just got off the phone with Kevin and
+684228	685922	I said, is it relevant?
+686527	687938	Have you had any other issues?
+687959	689007	And he said no.
+689442	694913	And so he's unable, he can't think of any examples since.
+695787	699739	because they put in that ticket in like January and so
+699719	703030	I don't know, it's one of those things where for Pops to begin,
+703010	704633	Prioritize the ticket.
+705323	706033	I may take a look
+706013	709813	at it because I remember I had the exact steps to reproduce that
+709793	714589	It was something that didn't come up very often, but it was basically
+714569	718555	If you went to go edit a sale where
+718535	722672	because I think it's where they can like change the ship to the customer or
+722652	726014	Basically, the Shift 2 on the sale isn't one that can be found anymore.
+726557	727785	It would just default.
+727765	733776	to whatever their current ship to is, and then it would recalculate all the tax and mess everything up.
+733756	738720	It was cold on Kevin.
+740168	744087	because we were trying to to recall what that was and
+744775	747563	But okay, it sounds like you've got a lead on that.
+748420	752052	Yeah, it was one that came up twice maybe, and then it was like,
+752032	754956	It's hard to track down, kind of screwed everything up with the sales tax.
+755460	756186	Okay.
+757330	760354	We haven't had any flags on it.
+760334	765720	I would throw that ahead of probably the ACH and the Jack Smith piece then.
+765700	767391	Because that's kind of
+768012	769440	Well, I'm happy they hurt Cindy.
+769742	772317	They would call out on Cindy, like she would get the flag.
+772719	772941	Yeah.
+772961	773685	They don't match.
+773665	779490	The one example that Kevin had, we were able to get a resale certificate on.
+779470	781406	So it kind of became a non-issue.
+781487	784553	I don't think it is an issue either.
+786794	792619	So looking at this list that we have here, I think that pretty much everything that you've mentioned is in here.
+792599	798407	the only thing that out of the list that we did send you I think there's really only one thing that we
+798387	803115	didn't think would fit in the sprint, and that was like all the missing checksmith reports.
+803095	806845	we were kind of thinking that that would be unless we have you know
+806825	812835	we might end up being into the 401k stuff but for the next sprint but if not then like the Chex Smith report
+812815	816885	would be good to work on there but we still were gonna like fix all the bugs and
+816865	822319	Like all the feedback and stuff, you guys had them checked in on this upcoming room.
+822890	824008	uh,
+826417	831313	So everything we have mentioned here, we should be...
+832508	835971	I think that 11, 12,
+836980	838533	I think that's done.
+838553	841135	I asked Marley yesterday.
+842431	847564	11, 12.
+848354	850109	There's no number or order.
+850129	852610	I think that's done.
+852590	856339	What you guys did was reset all the PNC customers.
+856792	861385	He wiped out their information, so they had to re-verify the accounts.
+861365	865097	Yeah, that was the one that Matt did.
+865077	868101	But they didn't get that sorted out.
+868942	873855	I don't know if DNC did or strike, but I think as far as we're concerned.
+875050	876842	We are done with that.
+877109	878743	Okay.
+879833	881770	I'm just in the order that
+881952	884436	I don't know if you're on that or not.
+884720	886689	That email with Krishna.
+887914	890325	I just printed it out and kind of wrote on it.
+890305	892367	I'll put in that finance team.
+903265	908854	I mean like looking at this compared to like what we have on the plan here I think
+908834	910796	everything lines up.
+910817	912718	I mean, building through here, we got the
+912698	915596	That first one, 741, you said we could close.
+915938	917629	The 1031 is the
+917609	919930	which that's the biggest chunk of this.
+919950	921645	We're thinking that's gonna take up
+921625	925307	the majority of this sprint and then
+925287	929172	You know, we got that 553 at SafeSail being changed.
+929152	930421	That shouldn't be too bad.
+930441	933120	The 1095 thing,
+933455	936196	and then the retained earnings report change.
+936256	939077	That should also be a pretty quick, easy thing.
+939057	945034	Really the only other bigger part of it would be like the checksmith bones and stuff.
+945385	947301	But does that all sound good to you guys?
+947382	948612	Yeah, it's not for idiots.
+948592	953252	like the jack smith thing or the ach that's just kind of like i would push it to the end
+953232	958095	Make sure we get everything else done, and then if we have time, work goes in.
+958075	962477	Yeah, I think the list, like the order here is kind of the priority we were planning on going.
+962498	963985	So from the top down,
+963965	965984	So the ACA is going to be the first thing.
+966509	967680	I will move it down.
+968352	972321	because I need the I'd like to have like you need the payroll
+972301	978126	I need that payroll thing, and then I need that 1095, so that needs to be above.
+978106	979072	Okay.
+979172	981627	I've got them ordered actually in the sprint now.
+981647	981928	Ethan.
+982170	982733	Okay.
+982713	983759	Okay.
+985369	987964	Because I know it's just kind of like,
+989075	993297	Just trying to check down the list.
+993277	999287	but that's the list that i need just because i have dates on those yeah yeah okay
+999267	1004687	Yeah, so I just went and reordered them as we were going.
+1004667	1007691	and his friends, so it should be one night.
+1007671	1013563	So it's going to change the priority to highest.
+1013729	1014938	I wonder if they looked at it.
+1015019	1017478	Based on this, Ethan, so
+1017458	1021495	If that's the two weeks, Brent, you're looking for something for the next.
+1021475	1024498	I wish.
+1024478	1027003	I guess that'll be something we can kind of talk about later.
+1027205	1028397	But yeah, the next one.
+1028377	1033746	I don't know if it's going to be like the next phase of the 401k or if that would be the checksmith reports.
+1033726	1036294	Or if there's anything else.
+1036544	1041947	That's kind of what I was thinking is like, we would have a two week dedicated spread
+1041927	1044101	Jake Smith, it's his own baby.
+1045007	1046959	And you know, like we can knock that.
+1046939	1051077	Yeah, I'm trying to knock a big chunk of that out.
+1051057	1054755	which i know it's hard to dedicate two weeks to a project
+1054988	1056383	See what we can get on.
+1056403	1056544	Yeah.
+1056565	1057333	And I've got another.
+1058121	1058788	I've got this.
+1058768	1060622	sales manager IBM.
+1060944	1062234	I'm trying to work out a little bit.
+1062536	1064712	Maybe I can have that ready in the next two weeks.
+1065063	1066292	Following that.
+1066614	1069977	After this, I'll push mine like...
+1069957	1072904	into October, because it doesn't need to be anything.
+1072925	1074398	It's just like a new project.
+1075255	1079124	That would button up everything for us.
+1079144	1080051	I think so too.
+1081617	1085248	Yeah, you can scope that out with Krishna in the meantime.
+1085228	1088370	Yeah, I'm sure they'll be reaching out to kind of
+1088873	1093804	gather what's coming up and figure out, plan everything out.
+1093784	1098765	But this this sprint was kind of mainly to address all the high priority stuff that we had and
+1098745	1104418	And then anything else that we can kind of squeeze in there with it is what we kind of did.
+1104398	1106680	Yeah.
+1108128	1113919	I would just make sure we have everything else completed before we jump into any ACH or checklist.
+1114861	1117885	And we're going to test that file area there as well.
+1117865	1121783	As soon as he gives us a new, or they put those in and they hold them out.
+1121763	1125144	We're going to try that in that sense as well.
+1125165	1127318	I have permission to run that now.
+1127298	1131148	So whenever you guys are ready for it, just send me a message and I can...
+1131128	1132476	Pop on production.
+1132617	1135958	Probably sometime this afternoon.
+1135938	1138303	What time are you leaving?
+1138739	1143042	I'll shoot for like 3 o'clock or so if you don't care, just send me that.
+1143143	1144530	I'll have everything buttoned down here.
+1144510	1149677	Okay, and towards the end of the day, and because we have the fidelity meeting at 2.30,
+1149657	1154102	And so I should be done by three and I can just hop off and sit in.
+1154364	1155651	And you probably have to,
+1155631	1161642	i might have been with us all we did that well if you wouldn't send that to him now because that's not really going to change
+1161622	1165077	Okay.
+1165639	1167447	We'll holler at this afternoon anytime.
+1167427	1169318	Okay, sounds good.
+1169359	1172256	I'll be going to talk to you and pick up my daughter from school.
+1172236	1174035	three, but I'll be back right after that.
+1174520	1176238	The fourth three is fine.
+1176218	1180710	I'll be buttoned up after lunch, so they send it to me sometime after lunch.
+1180690	1183984	Okay, sounds good.
+1183964	1185798	I'm already there.
+1186020	1187713	I'm putting in now.
+1187693	1191662	So that's why if you give me until after lunch, after 12, I'll be done.
+1191929	1192535	Okay.
+1192555	1193505	And then you should be good.
+1193525	1196353	And then I'll get that followed by Rand, and then we'll get with you.
+1196333	1198107	Yeah, okay.
+1198329	1199982	Anything else or is that Ed?
+1199962	1200927	I think that's it.
+1201650	1203238	I have an extra slide on here.
+1203258	1205770	I don't know if you guys have any other questions or anything.
+1205750	1211760	Do you think that's the best idea to ask about
+1211740	1214764	Air and stuff, just to plan, I heard.
+1214744	1220248	Like after this couple of sprints, like sprint three and four.
+1220228	1223961	just to focus on that figure and stuff.
+1223941	1228990	We'll knock this one out and have him follow back up on the board.
+1228970	1234727	Right now put a thought into the head.
+1234707	1236722	It's either going to be one of the two.
+1236742	1240650	It sounds like, well, I guess the sales manager thing, if we can come up with that.
+1240630	1243654	It'll either be the checks minutes or
+1243634	1249273	Yeah, just because it'll take two weeks for sure to knock all that out.
+1249253	1250964	Right, that's what we were kind of planning to do.
+1251749	1254910	And so that's why I'm saying like if this is a pretty solid,
+1254890	1258116	I don't know if you have to correct me, but I feel like a pretty solid two weeks.
+1258096	1263786	yesterday we all got together and we kind of looked through all these items that
+1263766	1267735	that Krishna sent you and we kind of put estimates on each thing and then
+1267715	1272004	and then kind of figured out what we could fit into two weeks.
+1271984	1275261	It should work out pretty smooth.
+1275241	1281252	following two weeks then we gotta check for the ACH thing if that kind of bleeds over so I mean I feel like
+1281232	1283787	We got a good four weeks here of work.
+1283848	1287208	We're going to need some in this transition.
+1287188	1290600	Yeah.
+1290817	1294110	While I got you this curiosity,
+1294090	1296103	I know you and Matt were working on something.
+1296405	1298076	Is that closed or no?
+1298360	1304370	I think Matt's been hitting a lot of snags with it.
+1304350	1309163	So I'm still not really sure how much longer that's going to be.
+1309143	1313109	We've kind of got like the prototype, but it's just getting the numbers to line up right.
+1313411	1314900	It's kind of having trouble with.
+1314880	1318815	But it was some kind of like where I
+1318795	1321108	Basically, I need access to a database, right?
+1321148	1323220	I'm able to pull all the supports myself.
+1323200	1326291	Yeah, everyone's going to spoil it too much.
+1326271	1327225	kind of cool to see.
+1327286	1329295	But yeah, essentially we're wanting to give you
+1329275	1334290	go into the reports and see the data that gives the number on the reports.
+1335063	1336433	just for our visibility.
+1337562	1337884	Yeah.
+1338005	1339133	It'd be nice.
+1339518	1344803	Yeah, I'm not sure when we can expect
+1345171	1345857	that yet.
+1346965	1348296	But I mean, it's
+1348276	1353308	It's close, but it's also been close for like a week just because we're going to get the numbers.
+1353288	1358117	Tell me Christmas is around the corner.
+1358097	1359765	Okay.
+1360087	1361132	Okay, sounds good.
+1361595	1362077	All right.
+1362178	1364007	Thanks, guys.
+1364358	1365256	Mm hmm.
+1371513	1373431	I think I went well.
+1373694	1375228	Other than they
+1375208	1380527	The only part that I wish Christian was here for was...
+1380507	1383531	So you have to push back, putting that
+1383511	1386535	date that he needs, which I get.
+1386515	1390230	If he's got stuff that he's got to get out for a certain day, then
+1390210	1393234	We have to do as much as we can to do that.
+1393214	1399157	yeah i wasn't sure how to handle that because you just tell them no because they do need it especially the payroll what they need by
+1399137	1400274	Right.
+1400822	1402161	Although,
+1402141	1403247	I thought about it afterwards.
+1403267	1404473	I mean, they do have a workaround.
+1404493	1408152	It's not like we can't just run a SQL script and fix it after the fact.
+1408132	1411662	It would be almost just the same amount of work to just
+1411642	1416184	do that into payroll and push it out on time.
+1417092	1421517	We can talk with Christian about that on how we...
+1421497	1424520	deal with things like that.
+1424500	1427608	Yeah, for the future you can just come on.
+1427588	1430764	If they tell us what we have to come up with.
+1430744	1435084	I feel like the further in we get with this,
+1435064	1438088	the more they're gonna think ahead of time.
+1438068	1442543	Yeah, that's what I was asking.
+1442523	1447116	Can we just put an idea for them, like think about here and stuff?
+1447096	1451858	I feel like we've got two or three sprints.
+1451838	1453772	kind of in the waiting.
+1454275	1457578	We didn't know about this sales manager thing, but
+1457558	1461932	Yeah, that was an action to like this kind of kind of like
+1461912	1466185	iterating through this, like building up to what we eventually want.
+1466165	1470555	And I imagine like once we get to like quarter one of, you know,
+1470535	1475550	2026 that's kind of what we'll do like the full thing because you just want this, you know, right.
+1475530	1478333	to plan out a whole quarter's worth of work from the beginning.
+1480188	1480309	Right.
+1480289	1484680	And so I just don't see I don't know how
+1484660	1488055	Jeff and Jordan can think that far ahead.
+1488035	1493893	I feel like there's a lot of stuff that they need right now.
+1494498	1497195	And it might even just be kind of like, well, here's the thing.
+1497316	1500154	I think the way I kind of see it is like,
+1500134	1505672	the first sprint is like here's all the stuff that we for sure know that we you know need to do now but then
+1505652	1511275	maybe the second sprint, we're wanting to do this, and the third sprint, we're going to do this.
+1511255	1514257	But that's, you know, it can be changed if needed.
+1514639	1516573	Yeah, maybe something that we just build out...
+1516553	1521282	sprints based off of ideas they have or what they
+1521262	1525348	know they're going to need at some point, but then depending on where the
+1525328	1528253	Priorities lie, those friends can shift around too.
+1529161	1529685	Yeah.
+1529665	1534309	And also we need to come up with new stuff like
+1534289	1538646	Maintainability of old apps is getting decreased.
+1538626	1542156	We'll probably have to come up with that.
+1542136	1546003	Because that's not something they're going to think about.
+1545983	1549935	It sounds like, too, that'd be something from, like, you know,
+1549915	1553715	get through a sprint and we underestimated you know we
+1553695	1558558	or overestimated, I mean like we have extra time and we can work on some of that
+1558538	1563672	But I guess for the bigger things, like the logging idea, that would probably be like its own sprint.
+1563652	1569291	yeah or the rewrite of so
+1569271	1572835	That's going to be like a whole year sprint.
+1573405	1574470	Sorry, Jeff.
+1574591	1579011	We won't be here in 2026.
+1579936	1581289	Okay.
+1581309	1582158	Yeah, it's pretty smooth.
+1583268	1583854	Yeah.
+1585724	1591735	This process will make it easier to do things like that if we decide we want to rewrite when it's in.
+1591715	1596257	like to actually break it up into small chunks where we can
+1596237	1599261	Yeah, in my...
+1599241	1602923	Like he was kind of saying with that checks and this stuff,
+1603780	1609791	If we have time to fit that one in after this sprint, then we fit that one in for the next sprint.
+1609771	1613579	If not, we'll push it off another string or whatever.
+1613600	1613942	Yeah.
+1616808	1620112	Do you guys have access to the sprints now?
+1620575	1621300	I think so, yeah.
+1621280	1623645	You got it now, right?
+1624739	1627021	Yeah, I think so.
+1627081	1628151	Well, why have you guys?
+1628131	1632977	We were kind of talking about it a little bit yesterday and I wanted to see what your guys' thoughts were.
+1632957	1637905	but I was kind of thinking about reworking the release pipelines a little bit.
+1637885	1642748	to where, like the way we're gonna be working on each of these items is we'll each
+1642728	1645752	Like on the code side, we're each going to take
+1645732	1649430	one of these items and we're going to like make a branch for it and
+1649410	1654948	do all the work on that and then we'll do a pull request to merge it into like the main branch
+1654928	1658442	And so what I was thinking about setting it up to do is that
+1658422	1661732	Every time we do a floor request and that gets completed.
+1661712	1666997	it'll automatically kick off the build and release straight to DevQC.
+1666977	1670001	instead of waiting until the end of this two-week period
+1669981	1675688	and grouping everything for each app together and then doing one release and then you guys testing it and then coming back
+1675668	1678984	This way you guys can kind of test each thing as it comes out.
+1679004	1681155	I don't know how you guys feel about that.
+1682350	1683568	I'm fine with it.
+1684075	1685374	I'm fine with that.
+1685354	1686460	We would have to add.
+1686480	1691365	Maybe that would be more just like for the manual testing side of things and they could do like one day.
+1691345	1693898	run through like the regression test at the end.
+1693918	1694501	I don't know.
+1694983	1697254	Or a lot of people want to run regression.
+1697234	1698802	Anytimes or whatever.
+1699124	1702300	Can we just do one run through the regression test at the end of this?
+1702280	1705303	I don't know what would be best, but...
+1705283	1708258	I mean, either way would be fine just because I would set up.
+1708359	1711294	The only downside is right now they're set up to where, like,
+1711274	1716643	you have one run going it's waiting on approval and if you did another release it wouldn't start that
+1716623	1718105	until this one got approval.
+1718754	1719647	Yeah.
+1719627	1721415	I was thinking I kind of have to rework it a little bit.
+1721455	1725553	I might have to split up the pipelines to where DevQC is its own.
+1725533	1729295	but then we can trigger the production release from there.
+1729858	1730582	I'm not sure.
+1730562	1734066	I was going to look at that a little bit, see if there's a better way to do it.
+1734086	1735999	Because I feel like with this,
+1735979	1739003	Like new process
+1738983	1743930	we would be we want to be testing while we're developing so every time we push something
+1743910	1747947	and then you guys can start going through it.
+1747927	1750950	instead of just everything all at once at the end.
+1750930	1752237	I think that would be fine.
+1752257	1756941	Yeah, that way it's fresher in your mind too if I find something
+1756921	1759141	Yeah, yeah, true.
+1759585	1761885	And then we don't just have that bottleneck at the end where
+1761865	1764889	We're done with everything, but then you guys have to go through it.
+1764869	1770880	everything, you know, this way it'll be kind of more, once we get to the end, like you just have to test whatever the last thing is, then we're going to go.
+1770860	1771976	activities.
+1773620	1773883	If I
+1773863	1778777	may ask how the architecture for this pipeline is set right now.
+1779432	1781950	What is that?
+1781970	1783722	How is this pipeline set?
+1784815	1789257	The way that it works right now is, so development system,
+1789237	1790001	pipeline.
+1790061	1794606	So once the builds happen, development is set to automatically just release those builds
+1794586	1797981	for pretty much any branch development, but then for
+1797961	1800985	testing, we have to go manually trigger or release.
+1800965	1804242	And so as a WQC environment, it deploys to
+1804222	1807296	And then Matt and
+1807276	1808909	Chris get notified of that.
+1808929	1811267	They can go through and kick off all the tests for that.
+1811307	1812375	And once they're done,
+1812355	1818163	then we go through and we manually deploy it to QC and approve it to go to production after that.
+1819915	1824373	But I think it's best to just have DevQC kind of an automatic thing every time
+1824353	1830364	you know, a pull request is completed into like, I don't know if it would be the development branch or how we decide to start
+1830344	1833283	on the code side of things, but...
+1838393	1844370	But I'll kind of look at that and I want you guys to know what I come up with.
+1845177	1850867	I'll also try to do some research if Roy can come up with an efficient rate.
+1850847	1852619	What was that?
+1852639	1855660	I will also try to do some research about this.
+1855640	1856687	A little bit.
+1856707	1860553	I haven't looked into our Azure pipelines apart of now.
+1860533	1863625	But yeah, I will do some research as well.
+1863773	1865904	They're voting in their paintings.
+1865925	1866797	Oh, yeah.
+1866777	1872653	I never dealt with Azure, I dealt with AWS and yeah.
+1872633	1876336	Pretty much they should be the same.
+1876356	1878610	Let's see.
+1886605	1887967	Thank you.
+1888597	1889308	See you later.
