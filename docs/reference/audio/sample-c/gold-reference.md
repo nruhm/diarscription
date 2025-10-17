@@ -1,15 +1,6 @@
-# Speaker 0: Adam
-# Speaker 1: Conrad 
-# Speaker 2: Jacob
-# Speaker 3: Scott
-# Speaker 4: Ethan
-# Speaker 5: Chris W. 
-# Speaker 6: Andrew
-
 1
-# This did not happen 
 00:00:14,527 --> 00:00:15,273
-[SPEAKER_00]: He's saying...
+[SPEAKER_00]: Each inning...
 
 2
 00:00:15,877 --> 00:00:20,824
@@ -45,10 +36,9 @@
 
 10
 00:00:41,620 --> 00:00:42,829
-[SPEAKER_01]: Start throwing ???
+[SPEAKER_01]: Start throwing heaters
 
 11
-# A lot of laughter in the room that did not get picked up
 00:00:42,809 --> 00:00:48,567
 [SPEAKER_00]: That's what I mean. 
 [SPEAKER_00]: You're throwing to your own team, so.
@@ -59,7 +49,6 @@
 
 13
 00:00:54,166 --> 00:01:00,177
-# A lot of laughter, half of this had to be manual
 [SPEAKER_02]: Did you throw with a little more pizzazz? 
 [SPEAKER_00]: No, I didn't try to but when it happened I was like, okay.
 
@@ -72,7 +61,6 @@
 [SPEAKER_00]: But yeah, it was a long, long day.
 
 16
-# 16-18 are people on Zoom talking so it is a bit unrecognizable
 00:01:13,707 --> 00:01:14,030
 [SPEAKER_00]: Hello.
 
@@ -83,7 +71,6 @@
 18
 00:01:16,938 --> 00:01:17,220
 [SPEAKER_00]: Hello.
-#
 
 19
 00:01:17,960 --> 00:01:19,768
@@ -142,7 +129,7 @@
 
 32
 00:01:55,910 --> 00:01:59,408
-[SPEAKER_01]: I do need to make Mabel an appointment for this week sometime.
+[SPEAKER_01]: I do need to make Mabel an appointment for this week sometime, she's due.
 
 33
 00:01:59,388 --> 00:02:03,222
@@ -186,7 +173,7 @@
 
 43
 00:02:23,890 --> 00:02:25,620
-[SPEAKER_01]: and the dog likes to sleep.
+[SPEAKER_01]: The dog likes to sleep.
 
 44
 00:02:25,640 --> 00:02:26,123
@@ -206,7 +193,7 @@
 
 48
 00:02:32,535 --> 00:02:34,423
-[SPEAKER_02]: They have to leave all the time.
+[SPEAKER_02]: They have to leave like all the time and go.
 
 49
 00:02:34,403 --> 00:02:36,074
@@ -214,11 +201,11 @@
 
 50
 00:02:36,276 --> 00:02:39,840
-[SPEAKER_01]: A lot of times I gotta work like in the morning
+[SPEAKER_01]: A lot of times I work like in the morning and
 
 51
 00:02:39,820 --> 00:02:44,080
-[SPEAKER_01]: go home with lunch and take her out.
+[SPEAKER_01]: go home for lunch and take her out.
 
 52
 00:02:44,100 --> 00:02:45,426
@@ -300,7 +287,6 @@
 [SPEAKER_00]: Do you have any releases?
 
 71
-# All of this was manual 
 00:03:57,046 --> 00:03:59,406
 [SPEAKER_01]: We'll get a cabinet order I think we're
 [SPEAKER_00]: Gonna push it?
@@ -373,7 +359,7 @@
 
 88
 00:05:05,452 --> 00:05:07,128
-[SPEAKER_03]: So it's now something we'll have to do here?
+[SPEAKER_03]: So it's not something we'll have to do here?
 
 89
 00:05:07,734 --> 00:05:08,158
@@ -398,7 +384,7 @@
 
 94
 00:05:19,762 --> 00:05:21,250
-[SPEAKER_03]: So if it deals with paychecks
+[SPEAKER_03]: If it deals with paychecks and stuff
 
 95
 00:05:21,230 --> 00:05:23,730
@@ -406,7 +392,7 @@
 
 96
 00:05:24,284 --> 00:05:27,409
-[SPEAKER_00]: and it is the sets of data
+[SPEAKER_00]: and it is sensitive data
 
 97
 00:05:27,389 --> 00:05:29,364
@@ -474,7 +460,7 @@
 
 113
 00:05:54,844 --> 00:05:55,793
-[SPEAKER_00]: You know about this.
+[SPEAKER_00]: You know about this?
 
 114
 00:05:56,178 --> 00:05:57,164
@@ -507,7 +493,7 @@
 
 121
 00:06:11,652 --> 00:06:13,883
-[SPEAKER_02]: He said they strokef out, I assume died.
+[SPEAKER_02]: He said they stroked out, I assume died.
 
 122
 00:06:14,318 --> 00:06:15,806
@@ -539,11 +525,11 @@
 
 129
 00:06:34,481 --> 00:06:37,963
-[SPEAKER_02]: He's like, because he was like, life insurance ended up being badly.
+[SPEAKER_02]: He's like, because he was like, life insurance ended up being bad.
 
 130
 00:06:37,943 --> 00:06:40,967
-[SPEAKER_02]: three or four, I think he said four.
+[SPEAKER_02]: We had like three or four, I think he said four.
 
 131
 00:06:40,947 --> 00:06:45,439
@@ -563,7 +549,8 @@
 
 135
 00:06:58,409 --> 00:06:59,698
-[SPEAKER_03]: I was like I won't do that again
+[SPEAKER_02]: I was like 
+[SPEAKER_03]: I won't do that again
 
 136
 00:06:59,678 --> 00:07:02,702
@@ -743,7 +730,7 @@
 
 180
 00:09:12,704 --> 00:09:16,403
-[SPEAKER_02]: I'm just trying to do a transfer.
+[SPEAKER_02]: Just trying to do a transfer.
 
 181
 00:09:16,383 --> 00:09:20,537
@@ -759,15 +746,15 @@
 
 184
 00:09:31,840 --> 00:09:36,028
-[SPEAKER_02]: or you can do transactions from accounts that you own
+[SPEAKER_02]: Where you can do transactions from accounts that you own
 
 185
 00:09:36,008 --> 00:09:41,142
-[SPEAKER_02]: And I was looking more into that on Friday, Jordan.
+[SPEAKER_02]: And I was looking more into that on Friday.
 
 186
 00:09:41,122 --> 00:09:45,107
-[SPEAKER_02]: kept calling so I didn't get 100% into it but it does look
+[SPEAKER_02]: And Jordan kept calling so I didn't get 100% into it but it does look
 
 187
 00:09:45,087 --> 00:09:49,410
@@ -864,7 +851,7 @@
 
 210
 00:11:10,323 --> 00:11:14,562
-[SPEAKER_02]: generated ACH file behind the scenes via there.
+[SPEAKER_02]: generated ACH file behind the scenes via their...
 
 211
 00:11:14,542 --> 00:11:18,898
@@ -886,6 +873,7 @@
 215
 00:11:29,729 --> 00:11:34,592
 [SPEAKER_05]: Like if they couldn't do what Fortune Foundry is doing,
+[SPEAKER_02]: It might,
 
 216
 00:11:34,572 --> 00:11:37,782
@@ -901,7 +889,7 @@
 
 219
 00:11:46,267 --> 00:11:49,965
-[SPEAKER_05]: but like a bit with you it looked like you could set up
+[SPEAKER_05]: but like if it would do, it looked like you could set up
 
 220
 00:11:49,945 --> 00:11:54,522
@@ -929,7 +917,7 @@
 
 226
 00:12:11,663 --> 00:12:17,033
-[SPEAKER_02]: I was looking into it and then Jordan called back and I was like, hey, how's this ACH transfer thing going?
+[SPEAKER_02]: Looking into it and then Jordan called back and I was like, hey, how's this ACH transfer thing going?
 
 227
 00:12:17,013 --> 00:12:21,302
@@ -945,19 +933,19 @@
 
 230
 00:12:30,142 --> 00:12:33,368
-[SPEAKER_05]: I know Ethan has that on the list.
+[SPEAKER_05]: What we'll have to, I know Ethan has that on the list.
 
 231
 00:12:33,348 --> 00:12:36,861
-[SPEAKER_05]: like getting fortune foundry out and finished at some point.
+[SPEAKER_05]: like getting fortune foundry out and finished in some fashion.
 
 232
 00:12:36,841 --> 00:12:41,569
-[SPEAKER_05]: I think we'll have to like expedite that probably more than what he did.
+[SPEAKER_05]: But I think we'll have to like expedite that probably more than what he.
 
 233
 00:12:41,549 --> 00:12:47,475
-[SPEAKER_05]: was planning like the vibe of getting down there where they're getting really tired like especially in this
+[SPEAKER_05]: was planning like the vibe of getting down there is that they're getting really tired like especially in this
 
 234
 00:12:47,455 --> 00:12:48,761
@@ -969,7 +957,7 @@
 
 236
 00:12:53,142 --> 00:12:58,545
-[SPEAKER_05]: and then like getting like 15 checks and 15 deposits dumped out with different banks
+[SPEAKER_05]: and then like getting like 15 checks and 15 deposit slips dumped out with different banks
 
 237
 00:12:58,525 --> 00:13:04,536
@@ -1027,7 +1015,7 @@
 
 250
 00:14:01,402 --> 00:14:04,425
-[SPEAKER_00]: This side, project, finance, hand.
+[SPEAKER_00]: This side, project, finance, team.
 
 251
 00:14:04,405 --> 00:14:08,307
@@ -1052,7 +1040,7 @@
 
 256
 00:14:18,361 --> 00:14:20,980
-[SPEAKER_02]: Carried it into Friday and now it's carrying it into Monday.
+[SPEAKER_02]: Carried it into Friday and now it's carried into Monday.
 
 257
 00:14:21,484 --> 00:14:24,203
@@ -1060,11 +1048,11 @@
 
 258
 00:14:24,183 --> 00:14:30,193
-[SPEAKER_03]: could put stuff in there like Jordan called and it just sends you a team's message and send you an email and
+[SPEAKER_03]: I could put stuff in there like Jordan called and it just sends you a team's message and send you an email and
 
 259
 00:14:30,173 --> 00:14:32,027
-[SPEAKER_03]: And it's all good.
+[SPEAKER_03]: It's all good.
 
 260
 00:14:32,168 --> 00:14:33,619
@@ -1073,10 +1061,12 @@
 261
 00:14:33,599 --> 00:14:36,859
 [SPEAKER_03]: him on there as a stakeholder so he doesn't get bombed.
+[SPEAKER_02]: And...
 
 262
 00:14:37,042 --> 00:14:38,712
 [SPEAKER_03]: It's great.
+[SPEAKER_02]: I uhh... 
 
 263
 00:14:39,557 --> 00:14:41,871
@@ -1084,7 +1074,7 @@
 
 264
 00:14:41,851 --> 00:14:45,600
-[SPEAKER_02]: They just wanted to generate a file and they called it like...
+[SPEAKER_02]: They just wanted to generate a file and they called in at like...
 
 265
 00:14:45,580 --> 00:14:48,297
@@ -1092,7 +1082,7 @@
 
 266
 00:14:48,357 --> 00:14:50,933
-[SPEAKER_02]: And I was like, oh yes, I actually do a pull.
+[SPEAKER_02]: And I was like, oh yeah, an actual doable pull
 
 267
 00:14:50,913 --> 00:14:54,915
@@ -1140,7 +1130,7 @@
 
 278
 00:15:22,013 --> 00:15:26,505
-[SPEAKER_00]: I don't know if CK has talked to you at all, Chris, but he was
+[SPEAKER_00]: I don't know if CK has talked to you at all, Chris, but he was gonna, well...
 
 279
 00:15:26,485 --> 00:15:29,796
@@ -1180,7 +1170,7 @@
 
 288
 00:15:52,726 --> 00:15:56,138
-[SPEAKER_00]: Probably not this year, but yeah.
+[SPEAKER_00]: Probably not this year, but...
 
 289
 00:15:56,118 --> 00:15:57,065
@@ -1255,7 +1245,7 @@
 
 306
 00:16:52,397 --> 00:16:54,272
-[SPEAKER_06]: I could not think of it as a big one.
+[SPEAKER_06]: I could not think of a big one.
 
 307
 00:16:54,623 --> 00:16:59,757
@@ -1311,11 +1301,11 @@
 
 320
 00:17:43,628 --> 00:17:49,352
-[SPEAKER_06]: that has white, black, yellow, and red stripes on the back.
+[SPEAKER_06]: that has white, black, yellow, and red like stripes on the back.
 
 321
 00:17:49,332 --> 00:17:53,301
-[SPEAKER_06]: Probably a male black widow spider.
+[SPEAKER_06]: It's a probably a male black widow spider.
 
 322
 00:17:53,281 --> 00:17:55,741
@@ -1331,7 +1321,7 @@
 
 325
 00:18:02,343 --> 00:18:05,940
-[SPEAKER_06]: It would be depressing if they weren't just ants and termites,
+[SPEAKER_06]: It would be depressing if they weren't just ants and termites, but.
 
 326
 00:18:05,920 --> 00:18:08,944
@@ -1351,7 +1341,7 @@
 
 330
 00:18:21,682 --> 00:18:26,460
-[SPEAKER_06]: Well, if one amp loops back through the original trail
+[SPEAKER_06]: Well, if one ant loops back through the original trail
 
 331
 00:18:26,862 --> 00:18:32,620
@@ -1403,7 +1393,7 @@
 
 343
 00:19:15,968 --> 00:19:18,688
-[SPEAKER_06]: you can get them in pet stores
+[SPEAKER_06]: So you can get them in pet stores
 
 344
 00:19:18,972 --> 00:19:23,785
@@ -1411,7 +1401,7 @@
 
 345
 00:19:23,984 --> 00:19:28,307
-[SPEAKER_06]: I'm assuming it's like bullet ants, which are like really
+[SPEAKER_06]: I think that, I'm assuming it's like bullet ants, which are like really
 
 346
 00:19:28,287 --> 00:19:33,167
@@ -1434,9 +1424,7 @@
 [SPEAKER_00]: Was it bullet ants?
 
 351 
-# This should not be here 
 00:19:46,123 --> 00:19:46,907
-[SPEAKER_00]: Bullet ants?
 
 352
 00:19:46,927 --> 00:19:49,603
@@ -1448,7 +1436,7 @@
 
 354
 00:19:54,595 --> 00:19:58,328
-[SPEAKER_00]: Yeah, I've seen videos at the bullet ants.
+[SPEAKER_00]: Yeah, I've seen videos of those bullet ants.
 
 355
 00:19:58,308 --> 00:20:01,905
@@ -1456,7 +1444,7 @@
 
 356
 00:20:01,885 --> 00:20:05,363
-[SPEAKER_06]: For our cruise, we saw one of those bullpen ants.
+[SPEAKER_06]: For our cruise, we saw one of those bullet ants.
 
 357
 00:20:05,423 --> 00:20:06,549
@@ -1476,12 +1464,12 @@
 
 361
 00:20:19,368 --> 00:20:25,176
-[SPEAKER_03]: maybe you could you can put it somewhere and make them go somewhere that would be
+[SPEAKER_03]: maybe you could you can put it somewhere and make them go somewhere that would be interesting
 
 362
 00:20:25,797 --> 00:20:28,355
 [SPEAKER_06]: You know...
-[SPEAKER_03]: way to control your hands in your house?
+[SPEAKER_03]: A way to control your hands in your house?
 
 363
 00:20:28,737 --> 00:20:30,610
@@ -1504,9 +1492,7 @@
 [SPEAKER_06]: I don't remember what he was doing, but he tried to use their own pheromones to rob them, but he said it didn't work.
 
 368 
-# This was never said. 
 00:20:45,372 --> 00:20:46,928
-[SPEAKER_01]: America.
 
 369
 00:20:53,573 --> 00:20:54,859
@@ -1543,7 +1529,9 @@
 377
 00:21:10,025 --> 00:21:13,523
 [SPEAKER_05]: I invited Ethan too because I thought he'd be back. 
-[SPEAKER_00]: Yeah. Yeah.
+[SPEAKER_00]: Yeah.
+[SPEAKER_05]: But because he's not.
+[SPEAKER_00]: Yeah.
 
 378
 00:21:13,503 --> 00:21:19,513
@@ -1577,4 +1565,8 @@
 385
 00:21:33,511 --> 00:21:33,773
 [SPEAKER_00]: Thanks, guys.
+
+386
+00:21:36,311 --> 00:21:36,875
+[SPEAKER_05]: See ya.
 

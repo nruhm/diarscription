@@ -1,13 +1,3 @@
-# SPEAKER_00: Scott
-# SPEAKER_01: Jacob
-# SPEAKER_02: Stacey
-# SPEAKER_03: Andrew
-# SPEAKER_04: Ethan
-# SPEAKER_05: Conrad 
-# SPEAKER_06: Greg
-# SPEAKER_07: CK
-# SPEAKER_08: Jordan
-
 1
 00:00:11,253 --> 00:00:12,300
 [SPEAKER_00]: Well, it's quiet.
@@ -17,13 +7,11 @@
 [SPEAKER_00]: Everything's stopped.
 
 3 
-# This was never said. 
 00:00:16,552 --> 00:00:17,383
-[SPEAKER_05]: Thank you.
 
 4
 00:00:19,117 --> 00:00:20,609
-[SPEAKER_01]: It's all Stacy's fault.
+[SPEAKER_01]: It's all Stacey's fault.
 
 5
 00:00:20,629 --> 00:00:21,112
@@ -69,7 +57,7 @@
 
 15
 00:00:43,636 --> 00:00:48,364
-[SPEAKER_03]: calendar and so Xenia Optical like did a snake
+[SPEAKER_03]: calendar and so Zenni Optical like did a snake
 
 16
 00:00:48,344 --> 00:00:52,937
@@ -110,7 +98,7 @@
 
 25
 00:01:15,296 --> 00:01:17,305
-[SPEAKER_03]: But supposedly they said like
+[SPEAKER_03]: But supposedly they said it like
 
 26
 00:01:17,285 --> 00:01:20,410
@@ -132,7 +120,6 @@
 00:01:28,093 --> 00:01:28,780
 [SPEAKER_04]: Hi, Chris.
 [SPEAKER_01]: I think you muted him when you signed in. 
-# Speaker 00 spoke in the middle of Speaker 01 here
 [SPEAKER_00]: Oh is he muted? Oh, okay.
 
 31
@@ -151,7 +138,7 @@
 
 34
 00:01:43,323 --> 00:01:45,655
-[SPEAKER_04]: I tried to help you.
+[SPEAKER_04]: It tried to unmute
 [SPEAKER_01]: Gotcha.
 
 35
@@ -184,7 +171,7 @@
 
 42
 00:02:16,432 --> 00:02:22,172
-[SPEAKER_00]: I'm just sitting over there taking notes and routing phone calls.
+[SPEAKER_00]: I'm kind of just sitting over there taking notes and routing phone calls.
 
 43
 00:02:22,152 --> 00:02:27,792
@@ -212,12 +199,11 @@
 
 49
 00:02:49,810 --> 00:02:54,893
-[SPEAKER_05]: I think most of the common issues is what we're going to.
+[SPEAKER_05]: I think like most of the common issues is what we're going to.
 
 50
 00:03:00,712 --> 00:03:05,997
 [SPEAKER_05]: Probably look at bigger release with designer and cabin order and the builder service.
-# The vegas comment was not picked up 
 [SPEAKER_05]: Probably a week after we get back here from Vegas 
 
 51
@@ -237,7 +223,6 @@
 [SPEAKER_02]: Who's all going?
 
 55
-# Only Jake was picked up in this sentence
 00:03:18,093 --> 00:03:23,142
 [SPEAKER_01]: Me, Conrad, Shane, Jake, Stevie, and Natalie. 
 
@@ -312,7 +297,7 @@
 
 72
 00:04:25,947 --> 00:04:28,038
-[SPEAKER_00]: Don't mask out their faces.
+[SPEAKER_00]: It'll mask out their faces.
 
 73
 00:04:28,561 --> 00:04:30,993
@@ -337,7 +322,7 @@
 
 78
 00:04:40,156 --> 00:04:42,270
-[SPEAKER_01]: Yeah, he has an episode of Dark Knight Diaries.
+[SPEAKER_01]: Yeah, he has an episode of Darknet Diaries.
 
 79
 00:04:42,290 --> 00:04:45,289
@@ -345,7 +330,7 @@
 
 80
 00:04:45,269 --> 00:04:49,018
-[SPEAKER_01]: basically he worked for this healthcare like
+[SPEAKER_01]: basically he worked for this healthcare like, thing.
 
 81
 00:04:49,252 --> 00:04:54,267
@@ -361,7 +346,7 @@
 
 84
 00:05:01,216 --> 00:05:05,353
-[SPEAKER_01]: know if he was even IT, but he just found a way to get into their server
+[SPEAKER_01]: I don't know if he was even IT, but he just found a way to get into their server
 
 85
 00:05:05,333 --> 00:05:10,568
@@ -369,7 +354,7 @@
 
 86
 00:05:10,548 --> 00:05:14,584
-[SPEAKER_01]: The Fed guy, he like posted on him.
+[SPEAKER_01]: The Fed guy, he like posted on...
 
 87
 00:05:14,564 --> 00:05:20,575
@@ -377,12 +362,11 @@
 
 88
 00:05:20,555 --> 00:05:25,789
-[SPEAKER_01]: This fed agent was trying to make a name for itself, so they threw the hammer.
-[SPEAKER_00]: Yeah.
+[SPEAKER_01]: This fed agent was trying to make a name for himself, so they threw the hammer at him. 
 
 89
 00:05:25,769 --> 00:05:30,514
-[SPEAKER_01]: and all he was really doing was remoting into something on prim.
+[SPEAKER_01]: and all he was really doing was remoting into something on prem.
 [SPEAKER_00]: Right.
 
 90
@@ -418,7 +402,6 @@
 [SPEAKER_04]: with less for murder.
 
 97
-# "Everybody agrees"
 00:05:51,646 --> 00:05:52,250
 [SPEAKER_04]: Yeah.
 [SPEAKER_00]: Yeah.
@@ -430,11 +413,11 @@
 
 99
 00:05:54,667 --> 00:05:55,472
-[SPEAKER_04]: Yeah, you really got it.
+[SPEAKER_04]: Yeah, he really got...
 
 100
 00:05:56,718 --> 00:05:59,556
-[SPEAKER_01]: You can't get the best end of the stick.
+[SPEAKER_01]: Didn't get the best end of the stick.
 [SPEAKER_00]: Yeah.
 
 101
@@ -466,9 +449,7 @@
 [SPEAKER_06]: Oh, yeah.
 
 108
-# Never said
 00:06:11,956 --> 00:06:12,669
-[SPEAKER_02]: So,
 
 109
 00:06:13,492 --> 00:06:15,829
@@ -493,8 +474,7 @@
 114
 00:06:29,455 --> 00:06:30,404
 [SPEAKER_02]: Awesome, sounds good.
-# Speaker 06's line was never recorded 
-[SPEAKER_06]: I think that's it. Just those two
+[SPEAKER_06]: I think that's about it. Just those two
 
 115
 00:06:34,923 --> 00:06:37,947
@@ -554,7 +534,7 @@
 
 129
 00:07:19,669 --> 00:07:22,243
-[SPEAKER_05]: That's pretty dull on their part, because the cash.
+[SPEAKER_05]: That's pretty dumb on their part, because their cash volume has to be like.
 
 130
 00:07:22,223 --> 00:07:27,154
@@ -570,7 +550,7 @@
 
 133
 00:07:35,909 --> 00:07:37,517
-[SPEAKER_01]: I'm sure they just group at all.
+[SPEAKER_01]: I'm sure they just group it all.
 
 134
 00:07:38,623 --> 00:07:41,920
@@ -599,7 +579,7 @@
 
 140
 00:08:01,884 --> 00:08:04,482
-[SPEAKER_01]: There's actually a payment bill at DEF CON
+[SPEAKER_01]: There's actually a payment village at DEF CON
 
 141
 00:08:04,462 --> 00:08:08,110
@@ -607,7 +587,7 @@
 
 142
 00:08:08,090 --> 00:08:11,788
-[SPEAKER_01]: anybody has tips on good secure payment methods 
+[SPEAKER_01]: anybody has tips on good secure payment things 
 
 143
 00:08:12,190 --> 00:08:18,167
@@ -673,7 +653,7 @@
 
 158
 00:08:55,492 --> 00:09:01,502
-[SPEAKER_01]: Chandler like right on the cusp of being able to release this thing we've been working on for like a month and a half too
+[SPEAKER_01]: Chandler like right on the cusp of being able to release this thing we've been working on for like a month and a half, too.
 
 159
 00:09:01,482 --> 00:09:06,227
@@ -693,7 +673,7 @@
 
 163
 00:09:11,438 --> 00:09:16,572
-[SPEAKER_01]: Multiplayer, it's like right there, just like finally.
+[SPEAKER_01]: Where it's kind of like multiplayer, it's like right there, just like finally.
 
 164
 00:09:16,552 --> 00:09:17,626
@@ -714,6 +694,7 @@
 168
 00:09:25,586 --> 00:09:29,177
 [SPEAKER_01]: So each time something happens it will refresh from the API.
+[SPEAKER_00]: Nice
 
 169
 00:09:29,157 --> 00:09:34,425
@@ -721,7 +702,7 @@
 
 170
 00:09:34,405 --> 00:09:38,813
-[SPEAKER_01]: where Jason explains it, I don't know exactly, but...
+[SPEAKER_01]: when Jason explains it, I don't know exactly, but...
 
 171
 00:09:38,793 --> 00:09:41,851
@@ -765,7 +746,7 @@
 
 180
 00:10:08,611 --> 00:10:11,533
-[SPEAKER_01]: That's kind of what I figured the logistics has.
+[SPEAKER_01]: That's kind of what I figured.
 
 181
 00:10:11,783 --> 00:10:16,360
@@ -773,7 +754,7 @@
 
 182
 00:10:16,677 --> 00:10:19,515
-[SPEAKER_05]: if one person moves an order into the load,
+[SPEAKER_05]: Where like, if one person moves an order into the load,
 
 183
 00:10:20,693 --> 00:10:26,586
@@ -842,12 +823,11 @@
 
 199
 00:11:22,473 --> 00:11:27,488
-[SPEAKER_03]: So maybe this week we could have a release in that.
+[SPEAKER_03]: So maybe this week we could have a release.
 
 200
-# Never said 
 00:11:27,468 --> 00:11:28,670
-[SPEAKER_01]: It depends on that course.
+[SPEAKER_03]: It just depends how that goes. 
 
 201
 00:11:34,150 --> 00:11:37,849
@@ -871,7 +851,7 @@
 
 206
 00:11:53,168 --> 00:11:54,577
-[SPEAKER_03]: But I see if they're in here.
+[SPEAKER_03]: But I think they're prepared.
 
 207
 00:11:55,322 --> 00:11:55,604
@@ -887,11 +867,11 @@
 
 210
 00:12:06,972 --> 00:12:12,983
-[SPEAKER_00]: It might be interesting to create some kind of a diagram where this hooks to this, hooks to this,
+[SPEAKER_00]: It might be interesting to create some kind of a diagram where this hooks to this, hooks to this, hooks to this.
 
 211
 00:12:12,963 --> 00:12:15,801
-[SPEAKER_00]: So this is, you know, between
+[SPEAKER_00]: So, you know, between.
 
 212
 00:12:16,355 --> 00:12:19,648
@@ -899,7 +879,7 @@
 
 213
 00:12:19,966 --> 00:12:22,647
-[SPEAKER_00]: order entry, how all those talk to each other.
+[SPEAKER_00]: And order entry, and how all those talk to each other.
 
 214
 00:12:22,667 --> 00:12:24,643
@@ -935,7 +915,7 @@
 
 222
 00:12:43,863 --> 00:12:48,252
-[SPEAKER_01]: Like one of those, what's the guy from the TV show that has like the wall?
+[SPEAKER_01]: Like one of those, what's the guy from the TV show that has like the wall web?
 
 223
 00:12:48,232 --> 00:12:50,813
@@ -967,7 +947,7 @@
 
 230
 00:13:04,533 --> 00:13:10,510
-[SPEAKER_03]: there was a leak, I suspect that they did it themselves,
+[SPEAKER_03]: One, there was a leak, I suspect that they did it themselves,
 
 231
 00:13:10,490 --> 00:13:14,998
@@ -1014,9 +994,7 @@
 [SPEAKER_00]: I read something this morning about Apple working on their own AI.
 
 242
-# What is this? Not said
 00:13:58,702 --> 00:13:58,978
-you
 
 243
 00:13:59,512 --> 00:14:01,964
@@ -1076,16 +1054,14 @@ you
 
 257
 00:14:41,359 --> 00:14:43,575
-[SPEAKER_01]: Yeah, even Snapchat has an A on it.
+[SPEAKER_01]: Yeah, even Snapchat has an AI on it.
 
 258
-# Never said. 
 00:14:43,555 --> 00:14:44,841
-[SPEAKER_05]: Thank you.
 
 259
 00:14:47,538 --> 00:14:51,979
-[SPEAKER_02]: So Blake's here, and you all are gone.
+[SPEAKER_02]: So Blake's here, and you all are gone. Is he in charge?
 
 260
 00:14:52,381 --> 00:14:57,784
@@ -1134,11 +1110,12 @@ you
 
 271
 00:15:31,345 --> 00:15:32,913
-[SPEAKER_05]: I always forget the name of that.
+[SPEAKER_00]: I always forget the name of that.
+[SPEAKER_05]: I did too. 
 
 272
 00:15:34,944 --> 00:15:37,356
-[SPEAKER_00]: I've copied the
+[SPEAKER_00]: I've got, I've copied the
 
 273
 00:15:37,336 --> 00:15:41,355
@@ -1154,7 +1131,7 @@ you
 
 276
 00:15:48,941 --> 00:15:52,543
-[SPEAKER_00]: So I've got those contacts in there so I know where they are so I don't have to go hunting
+[SPEAKER_00]: So I've got those contacts in there so I know where they are so I don't have to go hunting in
 
 277
 00:15:52,523 --> 00:15:55,463
@@ -1218,7 +1195,7 @@ you
 
 292
 00:16:34,255 --> 00:16:38,865
-[SPEAKER_00]: Is anybody else going to be out just well?
+[SPEAKER_00]: Is anybody else going to be out just, just well?
 
 293
 00:16:38,845 --> 00:16:42,460
@@ -1234,11 +1211,12 @@ you
 
 296
 00:16:51,518 --> 00:16:56,230
-[SPEAKER_03]: If something were to happen, I might be out, but I don't think anything will happen.
+[SPEAKER_03]: So if something were to happen, I might be out, but I don't think anything will happen.
 
 297
 00:16:56,210 --> 00:16:59,875
 [SPEAKER_00]: I'll throw a few prayers your way too.
+[SPEAKER_03]: Thank you.
 
 298
 00:16:59,855 --> 00:17:02,890
@@ -1246,7 +1224,7 @@ you
 
 299
 00:17:02,910 --> 00:17:05,342
-[SPEAKER_02]: I don't know if he's still leaving it off.
+[SPEAKER_02]: I don't know if he's still leaving or not.
 
 300
 00:17:05,322 --> 00:17:07,316
@@ -1278,11 +1256,11 @@ you
 
 307
 00:17:18,016 --> 00:17:20,209
-[SPEAKER_02]: She was on the treadmill for like 10 days.
+[SPEAKER_02]: She was on the treadmill for like 10 seconds.
 
 308
 00:17:20,189 --> 00:17:24,968
-[SPEAKER_02]: seconds and they saw stuff rushed her to the ER she had a triple bypass
+[SPEAKER_02]: They saw stuff rushed her to the ER she had a triple bypass
 
 309
 00:17:24,948 --> 00:17:25,412
@@ -1302,11 +1280,11 @@ you
 
 313
 00:17:30,112 --> 00:17:33,220
-[SPEAKER_02]: So he has a stress test today at 9.30.
+[SPEAKER_02]: So he has a stress test today at 9:30.
 
 314
 00:17:33,200 --> 00:17:35,601
-[SPEAKER_02]: and then he's supposed to meet with the doctor at 12 o'clock.
+[SPEAKER_02]: and then he's supposed to meet with the doctor at 12:30
 
 315
 00:17:35,924 --> 00:17:38,164
@@ -1320,11 +1298,11 @@ you
 00:17:40,378 --> 00:17:43,277
 [SPEAKER_02]: They think that's what it is, high blood pressure.
 [SPEAKER_01]: I thought he was already on something.
-[SPEAKER_02]: He doesn't take his medicine. 
+[SPEAKER_02]: He don't take his medicine. 
 
 318
 00:17:45,569 --> 00:17:49,456
-[SPEAKER_01]: You gotta take blood pressure.
+[SPEAKER_01]: You gotta take blood pressure medicine.
 
 319
 00:17:49,476 --> 00:17:49,758
@@ -1336,7 +1314,7 @@ you
 
 321
 00:17:51,290 --> 00:17:55,697
-[SPEAKER_02]: So if they do find stuff, then they'll start doing another test.
+[SPEAKER_02]: So if they do find stuff, then they'll start doing other tests.
 
 322
 00:17:57,297 --> 00:17:58,381
@@ -1344,7 +1322,7 @@ you
 
 323
 00:17:58,613 --> 00:18:00,849
-[SPEAKER_02]: I'll update everybody by here.
+[SPEAKER_02]: I'll update everybody here.
 
 324
 00:18:01,111 --> 00:18:02,520
@@ -1364,7 +1342,7 @@ you
 
 328
 00:18:10,342 --> 00:18:13,888
-[SPEAKER_01]: What was his blood pressure, Stacy?
+[SPEAKER_01]: What was his blood pressure, Stacey?
 
 329
 00:18:13,868 --> 00:18:15,517
@@ -1372,7 +1350,7 @@ you
 
 330
 00:18:15,537 --> 00:18:19,879
-[SPEAKER_02]: Before he went to the video on Friday, he said that the bottom line was 9-9.
+[SPEAKER_02]: Before he went to the video on Friday, he said that the bottom line was 99, I forgot what the top one was.
 
 331
 00:18:19,859 --> 00:18:23,912
@@ -1384,7 +1362,7 @@ you
 
 333
 00:18:28,465 --> 00:18:30,981
-[SPEAKER_01]: Mine was like a hundred and something a day.
+[SPEAKER_01]: Mine was like a hundred and something that day.
 
 334
 00:18:31,001 --> 00:18:31,162

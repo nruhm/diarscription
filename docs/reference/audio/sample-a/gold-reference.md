@@ -2,13 +2,11 @@
 00:00:00,537 --> 00:00:06,312
 [SPEAKER_00]: Okay, so there was something that caused it to not go down far enough.
 
-# Speaker 2 lightly says "Uh-huh" in between this. 
 2
-00:00:06,983
+00:00:06,983 --> 00:00:11,169
 [SPEAKER_00]: to actually, there's some kind of
 [SPEAKER_01]: Oh to grab
 [SPEAKER_00]: situation.
---> 00:00:11,169
 
 3
 00:00:11,793 --> 00:00:12,960
@@ -36,12 +34,10 @@
 [SPEAKER_00]: And I don't remember what caused.
 
 9
-00:00:28,330 
-# Speaker 2 comments in the middle of Speaker 0's sentence 
+00:00:28,330 --> 00:00:31,708
 [SPEAKER_00]: It's very, very rare,
 [SPEAKER_01]: Yeah,
-[SPEAKER_00]: but some caused it.
---> 00:00:31,708
+[SPEAKER_00]: but something caused it.
 
 10
 00:00:32,228 --> 00:00:34,721
@@ -54,7 +50,7 @@
 
 12
 00:00:38,506 --> 00:00:42,154
-[SPEAKER_00]: and pull the other sheet on top of it.
+[SPEAKER_00]: and pulled the other sheet on top of it.
 [SPEAKER_01]: Oh
 
 13
@@ -82,7 +78,6 @@
 [SPEAKER_00]: And then what happened?
 
 18
-# Speaker 1 makes three comments in between Speaker 0's sentence 
 00:00:58,874 --> 00:01:04,885
 [SPEAKER_00]: Is it started to cut the next program
 [SPEAKER_01]: Yeah 
@@ -96,9 +91,8 @@
 [SPEAKER_00]: So it was burying the collet.
 
 20
-# Speaker 2 comments after the sentence about fire
 00:01:09,286 --> 00:01:15,212
-[SPEAKER_00]: Or you know, the uh, spindle head and just pulling like catching things on fire.
+[SPEAKER_00]: Or you know, the uh, the spindle head and just pulling like catching things on fire.
 [SPEAKER_02]: Oh
 [SPEAKER_00]: It was bad. 
 
@@ -124,13 +118,11 @@
 
 26
 00:01:34,053 --> 00:01:36,492
-[SPEAKER_00]: I guess the office people are just dying of fire.
+[SPEAKER_00]: I guess the office people will just die in a fire.
 
 27
 00:01:37,147 --> 00:01:42,077
-# Incoherent 
 [SPEAKER_00]: Cause ain't no one trippin' before I mark two to people who haven't had enough.
-#
 
 28
 00:01:42,344 --> 00:01:45,841
@@ -139,9 +131,9 @@
 29
 00:01:46,043 --> 00:01:46,144
 [SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah, that was a weird day.
 
 30
-# Before this somebody spoke very lightly, it might be picked up 
 00:01:51,980 --> 00:01:52,356
 [SPEAKER_00]: Yep.
 

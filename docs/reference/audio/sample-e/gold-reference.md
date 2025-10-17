@@ -1,14 +1,6 @@
-# SPEAKER_00: Adam
-# SPEAKER_01: Andrew
-# SPEAKER_02: Scott
-# SPEAKER_03: Ethan
-# SPEAKER_04: Greg
-# SPEAKER_05: CK
-# SPEAKER_06: Stacey 
-
 1
 00:00:00,031 --> 00:00:04,050
-[SPEAKER_00]: No Jacob, no Chris.
+[SPEAKER_00]: No Conrad, no Jacob, no Chris.
 
 2
 00:00:05,093 --> 00:00:08,235
@@ -24,7 +16,7 @@
 
 5
 00:00:14,172 --> 00:00:18,394
-[SPEAKER_00]: You've been talking to Jordan on some stuff.
+[SPEAKER_00]: I know you've been talking to Jordan on some stuff.
 
 6
 00:00:18,374 --> 00:00:23,119
@@ -68,7 +60,7 @@
 
 16
 00:00:58,773 --> 00:01:04,497
-[SPEAKER_00]: pushed him out and then I guess made another change on the security side to
+[SPEAKER_00]: And pushed him out and then I guess made another change on the security side to
 
 17
 00:01:04,477 --> 00:01:06,010
@@ -76,7 +68,7 @@
 
 18
 00:01:06,051 --> 00:01:08,310
-[SPEAKER_00]: It was quarantining.
+[SPEAKER_00]: He was quarantining.
 
 19
 00:01:08,290 --> 00:01:12,867
@@ -84,7 +76,7 @@
 
 20
 00:01:13,538 --> 00:01:18,351
-[SPEAKER_00]: Or is it orders at www.inc.com?
+[SPEAKER_00]: Or is it orders at wwwinc.com?
 
 21
 00:01:18,331 --> 00:01:22,587
@@ -116,7 +108,7 @@
 
 28
 00:01:44,993 --> 00:01:50,188
-[SPEAKER_03]: Well, you can spoof emails and you can fake what your address is.
+[SPEAKER_03]: Well, you can like spoof emails and you can like fake what your address is and send emails.
 
 29
 00:01:50,268 --> 00:01:50,852
@@ -168,7 +160,7 @@
 
 41
 00:02:22,357 --> 00:02:23,370
-[SPEAKER_00]: It doesn't really...
+[SPEAKER_00]: It doesn't really make sense to me. 
 
 42
 00:02:24,312 --> 00:02:26,674
@@ -182,7 +174,6 @@
 00:02:27,805 --> 00:02:33,816
 [SPEAKER_02]: It doesn't make any sense.
 [SPEAKER_00]: It doesn't make sense to me either. 
-# Everything else under 44 was not picked up, added manually
 [SPEAKER_03]: So is it the orders at WW inc?
 [SPEAKER_00]: Yeah.
 
@@ -197,7 +188,7 @@
 
 47
 00:02:37,063 --> 00:02:38,575
-[SPEAKER_00]: I think it was just this.
+[SPEAKER_00]: I think it was...
 
 48
 00:02:38,555 --> 00:02:40,625
@@ -225,7 +216,7 @@
 
 54
 00:02:54,890 --> 00:02:59,230
-[SPEAKER_01]: That does make sense because basically
+[SPEAKER_01]: Yeah, that does make sense because basically
 
 55
 00:02:59,210 --> 00:03:05,220
@@ -241,7 +232,7 @@
 
 58
 00:03:13,435 --> 00:03:17,677
-[SPEAKER_01]: and what their email address is, but they're not actually sending them email.
+[SPEAKER_01]: and what their email address is, but they're not actually sending them emails.
 
 59
 00:03:17,697 --> 00:03:19,446
@@ -253,7 +244,7 @@
 
 61
 00:03:23,138 --> 00:03:26,601
-[SPEAKER_01]: If we send an email, we're putting their address
+[SPEAKER_01]: When we send an email, we're putting their address
 
 62
 00:03:26,581 --> 00:03:30,415
@@ -269,7 +260,7 @@
 
 65
 00:03:36,198 --> 00:03:37,266
-[SPEAKER_00]: It's like a hoax.
+[SPEAKER_00]: Spoof is like a hoax.
 
 66
 00:03:37,415 --> 00:03:38,987
@@ -289,7 +280,7 @@
 
 70
 00:03:52,113 --> 00:03:55,862
-[SPEAKER_02]: Ed McMahon, you want a million dollars?
+[SPEAKER_02]: Ed McMahon, you won a million dollars!
 
 71
 00:03:58,795 --> 00:04:03,304
@@ -316,9 +307,7 @@
 [SPEAKER_00]: So I think it's fixed.
 
 77
-# Not said
 00:04:23,956 --> 00:04:24,669
-[SPEAKER_00]: Thank you.
 
 78
 00:04:26,757 --> 00:04:31,553
@@ -334,7 +323,7 @@
 
 81
 00:04:41,692 --> 00:04:44,715
-[SPEAKER_00]: And then the one thing I really have to get
+[SPEAKER_00]: And then the one thing I really have to get done...
 
 82
 00:04:44,695 --> 00:04:46,674
@@ -395,7 +384,7 @@
 
 96
 00:05:38,932 --> 00:05:44,672
-[SPEAKER_03]: Which that works differently for just not like how it is with the medical where we just set that date and
+[SPEAKER_03]: Which that works differently for just not like how it is with the medical where we just set that date
 
 97
 00:05:44,652 --> 00:05:50,089
@@ -419,7 +408,7 @@
 
 102
 00:06:06,218 --> 00:06:07,424
-[SPEAKER_03]: has not finalized it.
+[SPEAKER_03]: It has not finalized it.
 
 103
 00:06:07,444 --> 00:06:12,229
@@ -455,7 +444,7 @@
 
 111
 00:06:27,278 --> 00:06:31,483
-[SPEAKER_00]: So we can look back and see what the closest line is if we want to do that.
+[SPEAKER_00]: So we can look back and see what the closest one is if we want to do that.
 
 112
 00:06:32,240 --> 00:06:34,318
@@ -561,7 +550,7 @@
 
 137
 00:08:04,394 --> 00:08:07,671
-[SPEAKER_04]: Oh, yeah, I think they've got a couple.
+[SPEAKER_04]: Fans, oh yeah, I think they've got a couple.
 
 138
 00:08:07,651 --> 00:08:10,945
@@ -602,7 +591,7 @@
 
 147
 00:08:33,368 --> 00:08:38,198
-[SPEAKER_04]: InformaCast and Label and Eclipse.
+[SPEAKER_04]: InformaCast and labelled it Eclipse.
 
 148
 00:08:39,089 --> 00:08:41,204
@@ -631,7 +620,7 @@
 
 154
 00:08:51,310 --> 00:08:53,622
-[SPEAKER_00]: Because eventually an aspect of it, right?
+[SPEAKER_00]: Because eventually Aspect is moving, right?
 
 155
 00:08:53,602 --> 00:08:55,677
@@ -671,7 +660,6 @@
 [SPEAKER_04]: We'll see.
 
 164
-# Unidentified
 00:09:27,436 --> 00:09:31,540
 [SPEAKER_01]: We should just go with like building, bigger building, bigger building.
 
@@ -693,11 +681,11 @@
 
 169
 00:09:49,289 --> 00:09:55,165
-[SPEAKER_05]: Yeah, I tested the changes he did and everything seemed good, so I'm just running the rest of the tests to make sure nothing else
+[SPEAKER_05]: Yeah, I tested the changes he did and everything seemed good, so I'm just running the rest of the tests to make sure nothing else is broken.
 
 170
 00:09:55,145 --> 00:09:59,400
-[SPEAKER_00]: Yeah, we pushed that one out at two yesterday and everything seemed fine.
+[SPEAKER_00]: Yeah, we pushed that one out at 2 yesterday and everything seemed fine.
 
 171
 00:10:00,798 --> 00:10:06,252
@@ -713,7 +701,7 @@
 
 174
 00:10:10,636 --> 00:10:16,647
-[SPEAKER_03]: got an actual bank statement file from Jordan and we ran it through both side by side and everything worked.
+[SPEAKER_03]: We got an actual bank statement file from Jordan and we ran it through both side by side and everything worked.
 
 175
 00:10:16,627 --> 00:10:17,436
@@ -725,7 +713,7 @@
 
 177
 00:10:20,288 --> 00:10:24,645
-[SPEAKER_00]: Did we all, did we figure out the whole like new ACH?
+[SPEAKER_00]: Did we all, did we figure out the whole like new ACH issue?
 
 178
 00:10:24,625 --> 00:10:29,640
@@ -749,7 +737,7 @@
 
 183
 00:10:43,559 --> 00:10:48,169
-[SPEAKER_03]: the bank that they're working with had reached out to like another
+[SPEAKER_03]: the bank that they're working with had reached out to like another bank
 
 184
 00:10:48,723 --> 00:10:53,485
@@ -770,6 +758,7 @@
 188
 00:11:03,640 --> 00:11:06,512
 [SPEAKER_03]: I haven't heard anything, it's been like a week.
+[SPEAKER_00]: Okay.
 
 189
 00:11:07,454 --> 00:11:11,932
@@ -781,7 +770,7 @@
 
 191
 00:11:12,517 --> 00:11:15,760
-[SPEAKER_03]: We're going to have to make a change
+[SPEAKER_03]: We're going to have to make a change in payroll
 
 192
 00:11:15,740 --> 00:11:19,776
@@ -805,7 +794,7 @@
 
 197
 00:11:31,366 --> 00:11:34,390
-[SPEAKER_03]: I don't know if they'll need a one-time
+[SPEAKER_03]: I don't know if they'll need a one-time thing
 
 198
 00:11:34,370 --> 00:11:38,112
@@ -822,7 +811,7 @@
 201
 00:11:45,760 --> 00:11:48,582
 [SPEAKER_03]: which means...
-[SPEAKER_00]: I'm sure it'll be alright. 
+[SPEAKER_00]: I'm sure they'll call us.
 
 202
 00:11:52,325 --> 00:11:53,830
@@ -927,14 +916,17 @@
 227
 00:13:36,173 --> 00:13:37,221
 [SPEAKER_02]: I'm happy to do it.
+[SPEAKER_00]: Right.
 
 228
 00:13:37,584 --> 00:13:41,695
 [SPEAKER_02]: We've got like over 200 issues out there now.
+[SPEAKER_00]: Yep.
 
 229
 00:13:42,147 --> 00:13:44,305
 [SPEAKER_02]: Really all we're trying to do is keep it from getting stale.
+[SPEAKER_00]: Yep.
 
 230
 00:13:45,131 --> 00:13:46,200
@@ -946,7 +938,9 @@
 
 232
 00:13:52,171 --> 00:13:57,625
-[SPEAKER_00]: Like the ones that have been over a year, that just haven't been touched yet.
+[SPEAKER_00]: Like the ones that have been over a year
+[SPEAKER_02]: Yep.
+[SPEAKER_00]: that just haven't been touched yet.
 
 233
 00:13:57,605 --> 00:14:02,552
@@ -998,6 +992,7 @@
 
 245
 00:14:50,626 --> 00:14:53,717
+[SPEAKER_00]: If it's not closed.
 [SPEAKER_02]: if it's not closed, resolved,
 
 246
@@ -1014,11 +1009,11 @@
 
 249
 00:15:08,648 --> 00:15:14,659
-[SPEAKER_00]: But so we can mess around with some of the statuses too and that monitoring status
+[SPEAKER_00]: But so we've been messing around with some of the statuses too and that monitoring status
 
 250
 00:15:14,639 --> 00:15:16,701
-[SPEAKER_00]: that we have in Jura.
+[SPEAKER_00]: that we have in Jira.
 
 251
 00:15:17,373 --> 00:15:22,388
@@ -1147,7 +1142,7 @@
 
 282
 00:17:19,953 --> 00:17:20,702
-[SPEAKER_03]: Can't really help.
+[SPEAKER_03]: Can't really help it.
 
 283
 00:17:20,722 --> 00:17:21,127
@@ -1175,7 +1170,7 @@
 
 289
 00:17:42,222 --> 00:17:44,678
-[SPEAKER_00]: We need a new one.
+[SPEAKER_00]: I need to send you a new one. 
 [SPEAKER_02]: Yeah, I need a new one.
 
 290
@@ -1236,7 +1231,7 @@
 
 304
 00:18:43,197 --> 00:18:48,617
-[SPEAKER_01]: they will be like solid blue and apparently it gives them green tea too.
+[SPEAKER_01]: they will be like solid blue and apparently it gives them green pee too.
 
 305
 00:18:48,597 --> 00:18:50,153
@@ -1260,7 +1255,7 @@
 
 310
 00:18:59,228 --> 00:19:04,497
-[SPEAKER_01]: just morphine, which is an anti-clodian agent that people take.
+[SPEAKER_01]: just warfarin, which is an anti-clodian agent that people take.
 
 311
 00:19:04,814 --> 00:19:10,572
@@ -1292,7 +1287,7 @@
 
 318
 00:19:34,126 --> 00:19:40,137
-[SPEAKER_01]: And the semi-exciting fact is the CHAP GBT-5 is supposed to be released
+[SPEAKER_01]: And the semi-exciting fact is the CHAP GPT-5 is supposed to be released
 
 319
 00:19:40,117 --> 00:19:46,127
@@ -1308,7 +1303,7 @@
 
 322
 00:19:54,044 --> 00:19:57,788
-[SPEAKER_02]: I used ChetGPT yesterday to
+[SPEAKER_02]: I used ChatGPT yesterday to
 
 323
 00:19:57,768 --> 00:19:59,320
@@ -1337,6 +1332,7 @@
 329
 00:20:14,727 --> 00:20:20,738
 [SPEAKER_02]: That's pretty good, it's recognizing what a person does.
+[SPEAKER_01]: It's learning.
 
 330
 00:20:20,718 --> 00:20:24,045
@@ -1356,7 +1352,7 @@
 
 334
 00:20:36,074 --> 00:20:37,976
-[SPEAKER_02]: The GPT is able to explain it.
+[SPEAKER_02]: But GPT is able to explain it.
 
 335
 00:20:38,967 --> 00:20:39,756
@@ -1401,7 +1397,7 @@
 
 345
 00:21:10,516 --> 00:21:14,434
-[SPEAKER_00]: So I get there and
+[SPEAKER_00]: So I get there and they...
 
 346
 00:21:15,106 --> 00:21:21,066
@@ -1464,9 +1460,7 @@
 [SPEAKER_00]: Nuclear, whatever.
 
 361
-# This was not said.
 00:22:15,509 --> 00:22:16,011
-Stay closed.
 
 362
 00:22:15,991 --> 00:22:20,415
@@ -1474,7 +1468,7 @@ Stay closed.
 
 363
 00:22:20,800 --> 00:22:25,191
-[SPEAKER_00]: Next fact, I want to know more about this nuclear die.
+[SPEAKER_00]: So next fact, I want to know more about this nuclear dye.
 
 364
 00:22:25,525 --> 00:22:27,964
@@ -1490,7 +1484,7 @@ Stay closed.
 
 367
 00:22:34,942 --> 00:22:36,606
-[SPEAKER_00]: She was an old lady.
+[SPEAKER_00]: It was an old lady.
 
 368
 00:22:36,768 --> 00:22:37,965
@@ -1562,11 +1556,11 @@ Stay closed.
 
 385
 00:23:34,861 --> 00:23:37,112
-[SPEAKER_02]: Yeah, did they do the chemicals?
+[SPEAKER_02]: Yeah, did they do the chemicals.
 
 386
 00:23:37,092 --> 00:23:38,144
-[SPEAKER_02]: stress test on her.
+[SPEAKER_02]: stress test on her?
 
 387
 00:23:38,164 --> 00:23:40,774

@@ -1,14 +1,5 @@
-# Speaker 0: Scott
-# Speaker 1: Adam 
-# Speaker 2: Jacob
-# Speaker 3: Conrad 
-# Speaker 4: Greg
-# Speaker 5: CK
-# Speaker 6: Andrew
-
 1
 00:00:34,844 --> 00:00:39,302
-# Scott was not properly identified in the beginning + his comment on the ceiling 
 [SPEAKER_00]: That's a mess over there.
 [SPEAKER_00]: The ceiling collapsed 
 
@@ -32,7 +23,8 @@
 
 6
 00:01:00,578 --> 00:01:04,530
-[SPEAKER_00]: ads now.
+[SPEAKER_00]: Um, ads now.
+[SPEAKER_01]: Yeah.
 
 7
 00:01:05,894 --> 00:01:09,745
@@ -98,7 +90,7 @@
 
 22
 00:01:59,607 --> 00:02:05,618
-[SPEAKER_02]: They have SPART exercise equipment and stuff, but I don't know if they do the shampoo. It's probably different.
+[SPEAKER_02]: They have Spartan exercise equipment and stuff, but I don't know if they do the shampoo. It's probably somebody different.
 
 23
 00:02:05,598 --> 00:02:06,390
@@ -122,7 +114,7 @@
 
 28
 00:02:28,767 --> 00:02:34,761
-[SPEAKER_01]: So ??? made an all-star team, so my softball season has not ended.
+[SPEAKER_01]: So she made the all-star team, so my softball season has not ended.
 
 29
 00:02:34,994 --> 00:02:36,988
@@ -130,7 +122,7 @@
 
 30
 00:02:38,639 --> 00:02:40,754
-[SPEAKER_02]: All-star team has what?
+[SPEAKER_02]: All-star team as what?
 
 31
 00:02:41,540 --> 00:02:41,983
@@ -174,7 +166,7 @@
 
 41
 00:02:56,421 --> 00:02:58,538
-[SPEAKER_02]: Oh, my number I did not say.
+[SPEAKER_02]: Oh, the number I did not say.
 
 42
 00:03:01,471 --> 00:03:04,208
@@ -212,7 +204,7 @@
 
 50
 00:03:40,756 --> 00:03:44,910
-[SPEAKER_01]: Andrew is the same.
+[SPEAKER_01]: Um, Andrew is the same.
 
 51
 00:03:44,890 --> 00:03:50,563
@@ -220,11 +212,11 @@
 
 52
 00:03:51,472 --> 00:03:55,727
-[SPEAKER_01]: I know Ethan's got a release for...
+[SPEAKER_01]: Um, I know Ethan's got a release for...
 
 53
 00:03:56,770 --> 00:04:00,790
-[SPEAKER_01]: The Lincoln file.
+[SPEAKER_01]: The, um, Lincoln file.
 
 54
 00:04:00,770 --> 00:04:04,806
@@ -268,7 +260,7 @@
 
 64
 00:04:51,479 --> 00:04:53,237
-[SPEAKER_01]: in that special instruction field.
+[SPEAKER_01]: in that special instructions field.
 
 65
 00:04:55,816 --> 00:04:59,649
@@ -472,7 +464,7 @@
 
 115
 00:07:57,678 --> 00:08:02,052
-[SPEAKER_01]: Well, there's another Power BI (API?) issue that had to do with # ??? Duke's Kid.
+[SPEAKER_01]: Well, there's another Power BI issue that had to do with.
 
 116
 00:08:02,892 --> 00:08:04,938
@@ -480,7 +472,7 @@
 
 117
 00:08:04,958 --> 00:08:05,950
-[SPEAKER_01]: ??? Good idea of these.
+[SPEAKER_01]: Good idea of these.
 
 118
 00:08:07,533 --> 00:08:09,162
@@ -488,7 +480,7 @@
 
 119
 00:08:09,887 --> 00:08:13,105
-[SPEAKER_01]: There were several issues that came up and they were all different.
+[SPEAKER_01]: There was several issues that came up and they were all different.
 
 120
 00:08:13,085 --> 00:08:17,003
@@ -508,7 +500,7 @@
 
 124
 00:08:29,757 --> 00:08:30,301
-[SPEAKER_00]: He took it.
+[SPEAKER_00]: So, he took it.
 
 125
 00:08:30,322 --> 00:08:34,435
@@ -572,7 +564,7 @@
 
 140
 00:09:19,336 --> 00:09:24,807
-[SPEAKER_01]: Everything looked good there, looked like it had been delivered, just not opened.
+[SPEAKER_01]: Everything looked good there, it looked like it had been delivered, just not opened.
 
 141
 00:09:24,787 --> 00:09:28,890
@@ -638,7 +630,7 @@
 
 156
 00:10:14,084 --> 00:10:17,440
-[SPEAKER_01]: Our Prada Fest is a different Prada Fest.
+[SPEAKER_01]: Our Prod FS is a different Prod FS.
 
 157
 00:10:18,365 --> 00:10:19,567
@@ -658,13 +650,12 @@
 
 161
 00:10:36,623 --> 00:10:42,263
-# Unknown speaker
 [SPEAKER_04]: I don't think we have anything in testing.
 [SPEAKER_01]: Okay. 
 
 162
 00:10:45,112 --> 00:10:50,295
-[SPEAKER_01]: Have you gotten any word from battles(??) on monitors?
+[SPEAKER_01]: Have you gotten any word from Battles on monitors?
 
 163
 00:10:52,452 --> 00:10:58,362
@@ -823,7 +814,7 @@
 
 201
 00:12:49,106 --> 00:12:49,348
-[SPEAKER_??]: Interesting.
+[SPEAKER_01]: Interesting.
 
 202
 00:12:51,100 --> 00:12:55,609
@@ -840,11 +831,11 @@
 
 205
 00:13:07,480 --> 00:13:11,100
-[SPEAKER_01]: Anybody else out coming up before?
+[SPEAKER_01]: Anybody else out coming up before...
 
 206
 00:13:12,059 --> 00:13:12,703
-[SPEAKER_01]: Summer ends.
+[SPEAKER_01]: Summer ends?
 
 207
 00:13:14,976 --> 00:13:16,888
@@ -1023,7 +1014,6 @@
 [SPEAKER_00]: You better recall those tariffs and we're going to take our pandas back.
 
 251
-# This did not happen 
 00:15:19,212 --> 00:15:21,831
 [SPEAKER_03]: Thank you.
 
@@ -1090,12 +1080,10 @@
 
 267
 00:16:11,947 --> 00:16:17,957
-[SPEAKER_06]: so they may let us keep them, but they can still take them back.
+[SPEAKER_06]: so they may let us keep them, but like they can still take them back.
 
 268
-# Empty air 
 00:16:17,937 --> 00:16:18,146
-you
 
 269
 00:16:24,130 --> 00:16:25,282
@@ -1119,7 +1107,8 @@ you
 
 274
 00:16:34,225 --> 00:16:34,731
-[SPEAKER_01]: Right.
+[SPEAKER_01]: We'll see.
+[SPEAKER_00]: Right.
 
 275
 00:16:35,892 --> 00:16:39,751
@@ -1128,8 +1117,8 @@ you
 276
 00:16:39,831 --> 00:16:40,215
 [SPEAKER_06]: Alright, bye.
-
-# This was not noted
+[SPEAKER_01]: Bible school tonight. 
+[SPEAKER_00]: Hm?
 [SPEAKER_01]: Bible school tonight. 
 
 277
@@ -1161,9 +1150,7 @@ you
 [SPEAKER_00]: We have a little small church and our gym is in the parking lot and it has a broken basketball goal.
 
 284
-# This was not said, also unrecognizable sentences were said for a second or two. 
 00:17:20,138 --> 00:17:20,300
-[SPEAKER_00]: Bye.
 
 285
 00:17:32,069 --> 00:17:36,963
@@ -1183,7 +1170,7 @@ you
 
 289
 00:17:43,257 --> 00:17:48,525
-[SPEAKER_00]: control like you can make the sound come out of wherever you want it to come out of but
+[SPEAKER_00]: You can control like you can make the sound come out of wherever you want it to come out of but
 
 290
 00:17:49,248 --> 00:17:52,331
@@ -1224,7 +1211,6 @@ you
 299
 00:18:13,126 --> 00:18:16,251
 [SPEAKER_00]: Turn this thing on.
-# Adam (SPEAKER_01) talks after this but it is too quiet/unrecognizable
 
 300
 00:18:19,673 --> 00:18:22,994
@@ -1248,8 +1234,7 @@ you
 
 305
 00:18:47,973 --> 00:18:53,292
-# Adam talks again but it is too quiet/unrecognizable before this text
-[SPEAKER_01]: Too many knobs for me to it or whatever you're plugging into it it's all built on the screen
+[SPEAKER_01]: Too many knobs for me once you hook up or connect the mics to it or whatever you plug into it, it's already built-in. 
 [SPEAKER_00]: Cool. 
 
 306
