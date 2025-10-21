@@ -1,10 +1,8 @@
 1
 00:00:01,364 --> 00:00:02,279
-Thank you.
 
 2
 00:00:16,028 --> 00:00:18,951
-Are you entirely able to use production materials or something?
 
 3
 00:00:34,625 --> 00:00:37,648
@@ -12,7 +10,7 @@ Are you entirely able to use production materials or something?
 
 4
 00:00:38,715 --> 00:00:40,146
-[SPEAKER_01]: Yeah, a little off.
+[SPEAKER_01]: Yeah, it's a little off.
 
 5
 00:00:42,978 --> 00:00:44,533
@@ -26,6 +24,7 @@ Are you entirely able to use production materials or something?
 7
 00:00:53,626 --> 00:00:56,920
 [SPEAKER_02]: So the pastor gets done quicker.
+[SPEAKER_00]: There you go.
 
 8
 00:00:58,132 --> 00:01:00,075
@@ -44,7 +43,6 @@ Are you entirely able to use production materials or something?
 [SPEAKER_00]: Is it?
 
 12
-# A speaker was not assigned here 
 00:01:09,863 --> 00:01:09,964
 [SPEAKER_03]: Yeah.
 
@@ -54,7 +52,7 @@ Are you entirely able to use production materials or something?
 
 14
 00:01:13,252 --> 00:01:13,553
-[SPEAKER_03]: Kind of.
+[SPEAKER_02]: On Zoom? 
 
 15
 00:01:13,875 --> 00:01:16,046
@@ -73,7 +71,7 @@ Are you entirely able to use production materials or something?
 [SPEAKER_00]: There's a big gap between five and six, six and the seven
 
 19
-00:01:29,165 --> 00:01:32,188
+00:01:29,165 --> 00:01:32,188 
 [SPEAKER_06]: Maybe we should have bought a better clock.
 
 20
@@ -82,7 +80,7 @@ Are you entirely able to use production materials or something?
 
 21
 00:01:34,167 --> 00:01:36,508
-[SPEAKER_04]: Because of the word clock at the top middle.
+[SPEAKER_06]: Because of the word clock at the top middle.
 
 22
 00:01:36,488 --> 00:01:41,098
@@ -106,7 +104,7 @@ Are you entirely able to use production materials or something?
 
 27
 00:01:52,942 --> 00:01:56,624
-[SPEAKER_02]: Just discussing that.
+[SPEAKER_02]: We were just discussing that.
 
 28
 00:01:56,644 --> 00:01:57,670
@@ -114,7 +112,7 @@ Are you entirely able to use production materials or something?
 
 29
 00:01:57,650 --> 00:02:01,180
-[SPEAKER_01]: Hello Krishna, everyone.
+[SPEAKER_01]: Hello Krishna, everyone. Everyone, Krishna. 
 
 30
 00:02:01,160 --> 00:02:02,994
@@ -125,9 +123,8 @@ Are you entirely able to use production materials or something?
 [SPEAKER_07]: Nice to meet you.
 
 32
-# Not said 
 00:02:05,915 --> 00:02:06,681
-[SPEAKER_05]: What?
+[SPEAKER_05]: You as well.
 
 33
 00:02:06,661 --> 00:02:10,815
@@ -171,11 +168,11 @@ Are you entirely able to use production materials or something?
 
 43
 00:02:37,036 --> 00:02:40,836
-[SPEAKER_01]: So I hope...
+[SPEAKER_01]: So I help...
 
 44
 00:02:40,816 --> 00:02:44,886
-[SPEAKER_01]: lead the development team here in the CAPE office.
+[SPEAKER_01]: lead the development team here in the Cape office.
 
 45
 00:02:44,866 --> 00:02:49,257
@@ -196,6 +193,7 @@ Are you entirely able to use production materials or something?
 49
 00:02:59,750 --> 00:03:05,406
 [SPEAKER_01]: And then Ethan is leader of Sai.
+[SPEAKER_05]: Ok.
 
 50
 00:03:05,386 --> 00:03:10,182
@@ -211,7 +209,7 @@ Are you entirely able to use production materials or something?
 
 53
 00:03:16,861 --> 00:03:20,661
-[SPEAKER_01]: leading our triage team slash
+[SPEAKER_01]: He's leading our triage team slash
 
 54
 00:03:20,641 --> 00:03:24,964
@@ -227,7 +225,7 @@ Are you entirely able to use production materials or something?
 
 57
 00:03:30,462 --> 00:03:36,287
-[SPEAKER_01]: And then Chris Kelly at the end of the table is leading our automation
+[SPEAKER_01]: And then Chris Kelley at the end of the table is leading our automation
 
 58
 00:03:36,267 --> 00:03:38,565
@@ -252,11 +250,11 @@ Are you entirely able to use production materials or something?
 
 63
 00:03:44,789 --> 00:03:49,585
-[SPEAKER_01]: he's gonna start focusing on the finance guys
+[SPEAKER_01]: he's gonna start focusing on the finance guy's programs mainly. 
 
 64
 00:03:49,565 --> 00:03:54,563
-[SPEAKER_01]: programs and then Matt Hendricks on the call also is
+[SPEAKER_01]: And then Matt Hendricks on the call also is
 
 65
 00:03:54,543 --> 00:03:59,035
@@ -264,7 +262,7 @@ Are you entirely able to use production materials or something?
 
 66
 00:03:59,015 --> 00:04:04,857
-[SPEAKER_05]: Oh. 
+[SPEAKER_05]: Ok. 
 [SPEAKER_01]: Him and Chris work heavily together on the testing side of things.
 
 67
@@ -289,7 +287,7 @@ Are you entirely able to use production materials or something?
 
 72
 00:04:15,029 --> 00:04:16,740
-[SPEAKER_05]: And what do you guys do?
+[SPEAKER_05]: And what do you guys do.
 
 73
 00:04:16,760 --> 00:04:19,538
@@ -321,7 +319,7 @@ Are you entirely able to use production materials or something?
 
 80
 00:04:42,198 --> 00:04:43,333
-[SPEAKER_05]: through science masters.
+[SPEAKER_05]: Where I finished my computer science master's.
 
 81
 00:04:43,414 --> 00:04:45,441
@@ -333,7 +331,7 @@ Are you entirely able to use production materials or something?
 
 83
 00:04:49,184 --> 00:04:53,946
-[SPEAKER_05]: back then, you know, practices that had learned in grad school and all that.
+[SPEAKER_05]: back then, you know, practices that I learned in grad school and all that.
 
 84
 00:04:54,398 --> 00:04:57,017
@@ -357,7 +355,7 @@ Are you entirely able to use production materials or something?
 
 89
 00:05:18,293 --> 00:05:22,195
-[SPEAKER_05]: figure out what the pain points are, and then you
+[SPEAKER_05]: You figure out what the pin points are, and then you
 
 90
 00:05:22,175 --> 00:05:25,975
@@ -365,7 +363,7 @@ Are you entirely able to use production materials or something?
 
 91
 00:05:25,955 --> 00:05:27,409
-[SPEAKER_05]: the requirements.
+[SPEAKER_05]: Here's the requirements.
 
 92
 00:05:27,450 --> 00:05:29,772
@@ -389,7 +387,7 @@ Are you entirely able to use production materials or something?
 
 97
 00:05:49,782 --> 00:05:51,238
-[SPEAKER_05]: many different things to do.
+[SPEAKER_05]: many different things to
 
 98
 00:05:51,622 --> 00:05:56,569
@@ -417,11 +415,11 @@ Are you entirely able to use production materials or something?
 
 104
 00:06:15,382 --> 00:06:19,485
-[SPEAKER_05]: your attorney team, as well as your clients that you serve.
+[SPEAKER_05]: internal team, as well as your clients that you serve.
 
 105
 00:06:19,465 --> 00:06:21,860
-[SPEAKER_05]: finance in a company, one client.
+[SPEAKER_05]: finance is probably one client. 
 
 106
 00:06:22,061 --> 00:06:25,341
@@ -437,11 +435,11 @@ Are you entirely able to use production materials or something?
 
 109
 00:06:33,370 --> 00:06:38,790
-[SPEAKER_05]: that we had last time, it seems like there's a little frustration in the minds of
+[SPEAKER_05]: that we had last time, it seems like there's a little frustration in the minds of finance
 
 110
 00:06:38,770 --> 00:06:44,663
-[SPEAKER_05]: in terms of what they are getting versus what they thought they asked
+[SPEAKER_05]: in terms of what they are getting versus what they thought they asked for.
 
 111
 00:06:44,643 --> 00:06:47,579
@@ -453,7 +451,7 @@ Are you entirely able to use production materials or something?
 
 113
 00:06:50,313 --> 00:06:53,539
-[SPEAKER_05]: experience prior.
+[SPEAKER_05]: experienced prior, and on
 
 114
 00:06:53,519 --> 00:06:56,830
@@ -477,7 +475,7 @@ Are you entirely able to use production materials or something?
 
 119
 00:07:14,512 --> 00:07:18,498
-[SPEAKER_05]: get a sense of, hey, what are your pain points with what you're using right now?
+[SPEAKER_05]: get a sense of, hey, what are your pin points with what you're using right now?
 
 120
 00:07:18,518 --> 00:07:19,645
@@ -553,7 +551,7 @@ Are you entirely able to use production materials or something?
 
 138
 00:08:11,009 --> 00:08:16,885
-[SPEAKER_05]: keep coming up from time to time because people, if you have a conversation on day one,
+[SPEAKER_05]: It kept coming up from time to time because people, if you have a conversation on day one,
 
 139
 00:08:16,865 --> 00:08:22,875
@@ -605,7 +603,7 @@ Are you entirely able to use production materials or something?
 
 151
 00:09:05,872 --> 00:09:07,324
-[SPEAKER_05]: And I'm talking to them.
+[SPEAKER_05]: And I'm talking to them.  
 
 152
 00:09:07,743 --> 00:09:10,800
@@ -633,11 +631,11 @@ Are you entirely able to use production materials or something?
 
 158
 00:09:31,819 --> 00:09:33,514
-[SPEAKER_05]: And then that's the first
+[SPEAKER_05]: And then that's the first prop
 
 159
 00:09:33,494 --> 00:09:36,518
-[SPEAKER_05]: from this brick, first brick.
+[SPEAKER_05]: from this sprint, first sprint.
 
 160
 00:09:36,498 --> 00:09:40,146
@@ -657,7 +655,7 @@ Are you entirely able to use production materials or something?
 
 164
 00:09:49,357 --> 00:09:54,912
-[SPEAKER_05]: sees that initial drop from the first sprint and they're like,
+[SPEAKER_05]: sees that initial drop from the first sprint and they're like, okay
 
 165
 00:09:54,892 --> 00:10:00,042
@@ -677,7 +675,7 @@ Are you entirely able to use production materials or something?
 
 169
 00:10:10,571 --> 00:10:15,094
-[SPEAKER_05]: The other approach is IKRA metal where you tape the top left corner of the Mona Lisa paint
+[SPEAKER_05]: The other approach is incremental where you tape the top left corner of the Mona Lisa paint
 
 170
 00:10:15,074 --> 00:10:17,997
@@ -685,7 +683,7 @@ Are you entirely able to use production materials or something?
 
 171
 00:10:18,213 --> 00:10:22,232
-[SPEAKER_05]: her face, or maybe just the face, right, in the first break.
+[SPEAKER_05]: her face, or maybe just the face, right, in the first sprint.
 
 172
 00:10:22,212 --> 00:10:25,708
@@ -717,7 +715,7 @@ Are you entirely able to use production materials or something?
 
 179
 00:10:51,845 --> 00:10:54,123
-[SPEAKER_05]: fixed block.
+[SPEAKER_05]: fixed and blocked.
 
 180
 00:10:54,143 --> 00:10:55,493
@@ -725,7 +723,7 @@ Are you entirely able to use production materials or something?
 
 181
 00:10:55,473 --> 00:11:01,433
-[SPEAKER_05]: from the initial conversation that may seem like the pain point in the process, but I don't know.
+[SPEAKER_05]: from the initial conversation that may seem like the pin point in the process, but I don't know.
 
 182
 00:11:01,413 --> 00:11:06,073
@@ -753,15 +751,15 @@ Are you entirely able to use production materials or something?
 
 188
 00:11:27,282 --> 00:11:33,073
-[SPEAKER_07]: I think a lot of the teams here deal with this but like I think for ours it's
+[SPEAKER_07]: I think a lot of the teams here deal with this but like I think for ours it's worse.
 
 189
 00:11:33,053 --> 00:11:36,398
-[SPEAKER_07]: Worst is that we support, I guess,
+[SPEAKER_07]: Is that we support, I guess,
 
 190
 00:11:36,378 --> 00:11:40,566
-[SPEAKER_07]: probably like three or four main groups of users which I guess
+[SPEAKER_07]: probably like three or four main groups of users which I guess you guys know 
 
 191
 00:11:40,546 --> 00:11:46,371
@@ -785,7 +783,7 @@ Are you entirely able to use production materials or something?
 
 196
 00:12:00,194 --> 00:12:02,875
-[SPEAKER_05]: So I think we want to start small.
+[SPEAKER_05]: Right, so I think we want to start small.
 
 197 ###
 00:12:02,855 --> 00:12:08,207
@@ -801,7 +799,7 @@ Are you entirely able to use production materials or something?
 
 200
 00:12:16,321 --> 00:12:18,889
-[SPEAKER_05]: make the most noise, let's start with acting, right?
+[SPEAKER_05]: make the most noise, let's start with that team, right?
 
 201
 00:12:19,072 --> 00:12:24,137
@@ -809,15 +807,15 @@ Are you entirely able to use production materials or something?
 
 202
 00:12:24,117 --> 00:12:29,908
-[SPEAKER_05]: points are and focus on trying to
+[SPEAKER_05]: pin points are and focus on trying to
 
 203
 00:12:29,888 --> 00:12:34,988
-[SPEAKER_05]: internally our process, setting it up so that we can
+[SPEAKER_05]: internalize our process, setting it up so that we can
 
 204
 00:12:34,968 --> 00:12:39,021
-[SPEAKER_05]: you know, reduce this gap between what they think they ask for
+[SPEAKER_05]: you know, reduce this gap between what they think they ask for and
 
 205
 00:12:39,001 --> 00:12:41,427
@@ -841,7 +839,7 @@ Are you entirely able to use production materials or something?
 
 210
 00:12:55,212 --> 00:12:56,402
-[SPEAKER_05]: So let's start with that.
+[SPEAKER_05]: So let's start with that team.
 
 211
 00:12:56,382 --> 00:12:59,442
@@ -857,7 +855,7 @@ Are you entirely able to use production materials or something?
 
 214
 00:13:04,311 --> 00:13:06,966
-[SPEAKER_05]: And then once we have this working
+[SPEAKER_05]: And then once we have this working and we
 
 215
 00:13:06,946 --> 00:13:12,957
@@ -881,7 +879,7 @@ Are you entirely able to use production materials or something?
 
 220
 00:13:23,298 --> 00:13:28,414
-[SPEAKER_05]: And you'll find that we have to, each iteration, I don't know
+[SPEAKER_05]: And you'll find that we have to, each iteration, I don't know if
 
 221
 00:13:29,407 --> 00:13:32,937
@@ -913,7 +911,7 @@ Are you entirely able to use production materials or something?
 
 228
 00:13:55,192 --> 00:13:58,090
-[SPEAKER_05]: that is going to be useful.
+[SPEAKER_05]: And so, that is going to be useful.
 
 229
 00:13:58,170 --> 00:14:01,168
@@ -929,7 +927,7 @@ Are you entirely able to use production materials or something?
 
 232
 00:14:08,708 --> 00:14:09,923
-[SPEAKER_05]: roll this out.
+[SPEAKER_05]: Just so we can roll this out.
 
 233
 00:14:10,875 --> 00:14:12,171
@@ -949,7 +947,7 @@ Are you entirely able to use production materials or something?
 
 237
 00:14:20,538 --> 00:14:25,924
-[SPEAKER_05]: We may bring in more faults, but let's first prove this as a process that it works.
+[SPEAKER_05]: We may bring in more folks, but let's first prove this as a process that it works.
 
 238
 00:14:26,292 --> 00:14:31,780
@@ -1061,7 +1059,7 @@ Are you entirely able to use production materials or something?
 
 265
 00:16:13,347 --> 00:16:18,987
-[SPEAKER_05]: and you're trying to change an engine part because there's something not working with.
+[SPEAKER_05]: and you're trying to change an engine part because there's something not working with it.
 
 266
 00:16:19,743 --> 00:16:22,638
@@ -1085,7 +1083,7 @@ Are you entirely able to use production materials or something?
 
 271
 00:16:35,065 --> 00:16:40,587
-[SPEAKER_05]: satisfies the people on deck that were complaining about that engine park.
+[SPEAKER_05]: satisfies the people on deck that were complaining about that engine part.
 
 272
 00:16:40,567 --> 00:16:45,919
@@ -1093,7 +1091,7 @@ Are you entirely able to use production materials or something?
 
 273
 00:16:45,899 --> 00:16:48,359
-[SPEAKER_05]: where everybody on desktop is complaining.
+[SPEAKER_05]: where everybody on desktop starts complaining.
 
 274
 00:16:48,380 --> 00:16:50,880
@@ -1133,15 +1131,15 @@ Are you entirely able to use production materials or something?
 
 283
 00:17:20,459 --> 00:17:25,204
-[SPEAKER_05]: what these clients are asking for and maybe the
+[SPEAKER_05]: what these clients are asking for and maybe we
 
 284
 00:17:25,184 --> 00:17:30,351
-[SPEAKER_05]: arrange the teams or broader process, but that's.
+[SPEAKER_05]: arrange the teams or broaden the process, but that's.
 
 285
 00:17:30,533 --> 00:17:33,073
-[SPEAKER_05]: Got a zest, you know, it's like small.
+[SPEAKER_05]: Got a zest, you know, start small.
 
 286
 00:17:33,094 --> 00:17:33,658
@@ -1193,7 +1191,7 @@ Are you entirely able to use production materials or something?
 
 298
 00:18:18,728 --> 00:18:21,752
-[SPEAKER_05]: even if you could walk me through what's, you know,
+[SPEAKER_05]: Ethan if you could walk me through what's, you know,
 
 299
 00:18:21,732 --> 00:18:26,306
@@ -1217,7 +1215,7 @@ Are you entirely able to use production materials or something?
 
 304
 00:18:37,662 --> 00:18:42,880
-[SPEAKER_05]: if i can get my content here i would look at uh
+[SPEAKER_05]: if i can get an account on Jira i would look at uh
 
 305
 00:18:43,147 --> 00:18:49,157
@@ -1229,11 +1227,11 @@ Are you entirely able to use production materials or something?
 
 307
 00:18:55,128 --> 00:19:00,092
-[SPEAKER_02]: We have a confluence knowledge base that's tied into that as well.
+[SPEAKER_02]: We have a Confluence knowledge base that's tied into that as well.
 
 308
 00:19:00,460 --> 00:19:04,902
-[SPEAKER_05]: And do the clients take a look at the conference pages at all?
+[SPEAKER_05]: And do the clients take a look at the Confluence pages at all?
 
 309
 00:19:04,882 --> 00:19:07,420
@@ -1242,6 +1240,7 @@ Are you entirely able to use production materials or something?
 310
 00:19:07,480 --> 00:19:09,998
 [SPEAKER_05]: Okay.
+[SPEAKER_01]: They're...
 
 311
 00:19:11,378 --> 00:19:16,090
@@ -1257,7 +1256,7 @@ Are you entirely able to use production materials or something?
 
 314
 00:19:25,705 --> 00:19:29,303
-[SPEAKER_05]: maybe this is diving into the process now, but
+[SPEAKER_05]: So maybe this is diving into the process now, but
 
 315
 00:19:30,110 --> 00:19:33,741
@@ -1297,11 +1296,11 @@ Are you entirely able to use production materials or something?
 
 324
 00:20:07,150 --> 00:20:11,423
-[SPEAKER_07]: I'll communicate, like, so our team, the finance team,
+[SPEAKER_07]: And then I'll communicate, like, so our team, the finance team,
 
 325
 00:20:11,403 --> 00:20:17,413
-[SPEAKER_07]: meet like every morning around I think 8.30 we kind of discuss like what we're working on currently and
+[SPEAKER_07]: We meet like every morning around I think 8:30 we kind of discuss like what we're working on currently and y'know
 
 326
 00:20:17,393 --> 00:20:20,738
@@ -1325,7 +1324,7 @@ Are you entirely able to use production materials or something?
 
 331
 00:20:35,028 --> 00:20:38,305
-[SPEAKER_07]: more agile like where we did sprints like we did like one month sprints
+[SPEAKER_07]: more agile like where we did sprints like we did like one month sprints on it.
 
 332
 00:20:38,285 --> 00:20:42,979
@@ -1345,7 +1344,7 @@ Are you entirely able to use production materials or something?
 
 336
 00:20:58,855 --> 00:21:03,820
-[SPEAKER_05]: So the client folks know to contact you.
+[SPEAKER_05]: So you, so the client folks know to contact you.
 
 337
 00:21:03,800 --> 00:21:06,892
@@ -1362,6 +1361,7 @@ Are you entirely able to use production materials or something?
 340
 00:21:09,831 --> 00:21:11,008
 [SPEAKER_01]: Not anymore.
+[SPEAKER_05]: Not anymore? Ok. 
 
 341
 00:21:10,988 --> 00:21:16,105
@@ -1373,7 +1373,7 @@ Are you entirely able to use production materials or something?
 
 343
 00:21:19,173 --> 00:21:22,821
-[SPEAKER_06]: What we were reaching out to you for like look at this
+[SPEAKER_06]: What we were reaching out to you for like looking at this
 
 344
 00:21:22,801 --> 00:21:25,926
@@ -1393,7 +1393,7 @@ Are you entirely able to use production materials or something?
 
 348
 00:21:38,005 --> 00:21:43,999
-[SPEAKER_06]: he and his team are triaging those calls, but a lot of the
+[SPEAKER_06]: he and his team are taking or triaging those calls, but a lot of the
 
 349
 00:21:43,979 --> 00:21:49,990
@@ -1441,7 +1441,8 @@ Are you entirely able to use production materials or something?
 
 360
 00:22:31,938 --> 00:22:34,200
-[SPEAKER_02]: Oh, I haven't yet.
+[SPEAKER_02]: You mean, oh, I haven't yet.
+[SPEAKER_01]: Yeah, I mean it's...
 
 361
 00:22:35,291 --> 00:22:36,058
@@ -1485,11 +1486,12 @@ Are you entirely able to use production materials or something?
 
 371
 00:23:06,757 --> 00:23:09,690
-[SPEAKER_05]: How do they just call you Ethan every day?
+[SPEAKER_05]: How do they just call you Ethan every day? Every hour?
+[SPEAKER_07]: I mean...
 
 372
 00:23:09,670 --> 00:23:12,880
-[SPEAKER_03]: I mean, it's like.
+[SPEAKER_03]: It's like.
 
 373
 00:23:12,860 --> 00:23:17,841
@@ -1521,7 +1523,7 @@ Are you entirely able to use production materials or something?
 
 380
 00:23:41,800 --> 00:23:44,966
-[SPEAKER_05]: And they want to use emails to communicate, right?
+[SPEAKER_05]: And they won't to use emails to communicate, right?
 
 381
 00:23:44,986 --> 00:23:46,478
@@ -1633,7 +1635,7 @@ Are you entirely able to use production materials or something?
 
 408
 00:24:59,746 --> 00:25:03,597
-[SPEAKER_03]: I mean that is
+[SPEAKER_03]: I mean that is like a
 
 409
 00:25:03,577 --> 00:25:09,115
@@ -1641,7 +1643,7 @@ Are you entirely able to use production materials or something?
 
 410
 00:25:09,095 --> 00:25:10,836
-[SPEAKER_03]: that charge cord
+[SPEAKER_03]: that charge could
 
 411
 00:25:11,761 --> 00:25:16,911
@@ -1665,11 +1667,11 @@ Are you entirely able to use production materials or something?
 
 416
 00:25:31,572 --> 00:25:34,917
-[SPEAKER_02]: it will bypass the initial triage intake.
+[SPEAKER_02]: And it will bypass the initial triage intake.
 
 417
 00:25:34,897 --> 00:25:38,832
-[SPEAKER_06]: I'll say that's been a hurdle for us like doing in house
+[SPEAKER_06]: I'll say that's been a hurdle for us like doing in-house
 
 418
 00:25:38,812 --> 00:25:43,219
@@ -1677,7 +1679,7 @@ Are you entirely able to use production materials or something?
 
 419
 00:25:43,975 --> 00:25:48,855
-[SPEAKER_06]: Anytime I've tried to operate or do something like an IT shop would
+[SPEAKER_06]: Anytime I've tried to operate or do something like an IT shop would do 
 
 420
 00:25:48,835 --> 00:25:52,062
@@ -1741,11 +1743,11 @@ Are you entirely able to use production materials or something?
 
 435
 00:26:44,312 --> 00:26:45,100
-[SPEAKER_06]: We've had trouble offering.
+[SPEAKER_06]: We've had trouble operating
 
 436
 00:26:45,080 --> 00:26:48,559
-[SPEAKER_06]: operating as a software shop and I'm not saying we should
+[SPEAKER_06]: As a software shop and I'm not saying we should
 
 437
 00:26:48,539 --> 00:26:51,647
@@ -1753,7 +1755,7 @@ Are you entirely able to use production materials or something?
 
 438
 00:26:51,627 --> 00:26:54,988
-[SPEAKER_06]: We've hit resistance there in the past.
+[SPEAKER_06]: But we've hit resistance there in the past.
 
 439
 00:26:55,390 --> 00:26:58,887
@@ -1777,7 +1779,7 @@ Are you entirely able to use production materials or something?
 
 444
 00:27:18,543 --> 00:27:23,659
-[SPEAKER_05]: probably because we may have to take this offline to bubble this up.
+[SPEAKER_05]: This is probably because we may have to take this offline to bubble this up, higher up.
 
 445
 00:27:23,639 --> 00:27:27,793
@@ -1785,7 +1787,7 @@ Are you entirely able to use production materials or something?
 
 446
 00:27:27,773 --> 00:27:30,797
-[SPEAKER_05]: that will need to get signed off for
+[SPEAKER_05]: that will need to get signed off from
 
 447
 00:27:30,777 --> 00:27:34,662
@@ -1842,9 +1844,7 @@ Are you entirely able to use production materials or something?
 [SPEAKER_06]: I think that a lot of the other stuff will slowly make itself not an issue anymore
 
 460
-# This was not said 
 00:28:23,140 --> 00:28:23,287
-you
 
 461
 00:28:23,782 --> 00:28:24,425
@@ -1855,9 +1855,8 @@ you
 [SPEAKER_05]: So this, Scott, you're driving the triage team, right?
 
 463
-# Not said 
 00:28:29,772 --> 00:28:30,000
-[SPEAKER_05]: you
+[SPEAKER_05]: You're, you're...
 
 464
 00:28:30,751 --> 00:28:36,205
@@ -1918,7 +1917,7 @@ you
 
 478
 00:29:24,222 --> 00:29:26,965
-[SPEAKER_05]: I'm just .
+[SPEAKER_05]: I'm just...
 [SPEAKER_02]: Obviously. 
 
 479
@@ -1927,15 +1926,16 @@ you
 
 480
 00:29:30,387 --> 00:29:35,301
-[SPEAKER_05]: you need to free up Ethan and their team to have even more
+[SPEAKER_05]: you need to free up Ethan and their team to have a more
 
 481
 00:29:35,990 --> 00:29:40,228
-[SPEAKER_05]: rational list of, hey, here's all this stuff, we priaged it,
+[SPEAKER_05]: rational list of, hey, here's all this stuff, we triaged it,
 
 482
 00:29:40,208 --> 00:29:43,317
-[SPEAKER_05]: this brain, you gotta do this work, right?
+[SPEAKER_05]: this sprint, you're gonna do this work
+[SPEAKER_02]: Right, right.
 
 483
 00:29:43,297 --> 00:29:47,130
@@ -1955,7 +1955,7 @@ you
 
 487
 00:29:57,235 --> 00:30:01,963
-[SPEAKER_06]: as these buffers between, like you said, with intake between the rest of the
+[SPEAKER_06]: as these buffers between, like you said, with intake between the rest of the company,
 
 488
 00:30:01,943 --> 00:30:05,608
@@ -1963,7 +1963,7 @@ you
 
 489
 00:30:05,588 --> 00:30:11,548
-[SPEAKER_06]: I think if we implement that and they're satisfied with what the deliverables are, I don't think it will
+[SPEAKER_06]: I think if we implement that and they're satisfied with what the deliverables are, I don't think it will be a
 
 490
 00:30:11,528 --> 00:30:14,839
@@ -1991,7 +1991,7 @@ you
 
 496
 00:30:33,803 --> 00:30:36,827
-[SPEAKER_03]: for what I have for seven good months.
+[SPEAKER_03]: for what I have worked for seven good months.
 
 497
 00:30:36,807 --> 00:30:40,793
@@ -1999,7 +1999,7 @@ you
 
 498
 00:30:40,773 --> 00:30:45,079
-[SPEAKER_03]: because we have development team but their queries
+[SPEAKER_03]: because we have a development team but their queries can be entered
 
 499
 00:30:45,059 --> 00:30:49,821
@@ -2020,6 +2020,7 @@ you
 503
 00:31:05,697 --> 00:31:09,835
 [SPEAKER_02]: So I know there are things that come in that just need a script run.
+[SPEAKER_03]: Yeah.
 
 504
 00:31:09,815 --> 00:31:15,285
@@ -2040,7 +2041,8 @@ you
 
 508
 00:31:27,736 --> 00:31:33,595
-[SPEAKER_06]: so does that give you enough of a snapshot krishna, the workflow? 
+[SPEAKER_06]: so does that give you enough of a snapshot Krishna, the workflow? 
+[SPEAKER_05]: This is good.
 
 509
 00:31:33,575 --> 00:31:35,211
@@ -2052,7 +2054,7 @@ you
 
 511
 00:31:37,979 --> 00:31:41,070
-[SPEAKER_05]: you know, value of the triage process as it's done.
+[SPEAKER_05]: you know, dive into the triage process as it's own stuff.
 
 512
 00:31:41,050 --> 00:31:45,137
@@ -2060,19 +2062,19 @@ you
 
 513
 00:31:46,265 --> 00:31:51,718
-[SPEAKER_05]: detail about the app, you know, JIRA and all of that stuff, the systems and
+[SPEAKER_05]: More detail about the app, you know, JIRA and all of that stuff, the systems and
 
 514
 00:31:51,698 --> 00:31:57,642
-[SPEAKER_05]: But I am getting a good flavor of where the issues with problems
+[SPEAKER_05]: But I am getting a good flavor of where the issues with problems are
 
 515
 00:31:57,622 --> 00:32:01,050
-[SPEAKER_05]: My piece of dishes is so overloaded.
+[SPEAKER_05]: Making sure the issues aren't overloaded. 
 
 516
 00:32:01,030 --> 00:32:02,730
-[SPEAKER_05]: But yeah, this is good.
+[SPEAKER_05]: But yeah, but yeah, this is good.
 
 517
 00:32:02,810 --> 00:32:04,611
@@ -2112,11 +2114,11 @@ you
 
 526
 00:32:33,413 --> 00:32:37,433
-[SPEAKER_05]: rational processes that everybody follows and conveys.
+[SPEAKER_05]: rational processes that everybody follows and obeys.
 
 527
 00:32:37,413 --> 00:32:42,985
-[SPEAKER_05]: if the conference, and I'm just throwing this out, before I, in accounting,
+[SPEAKER_05]: Maybe if the Confluence, and I'm just throwing this out, before I, in accounting,
 
 528
 00:32:42,965 --> 00:32:48,486
@@ -2128,11 +2130,11 @@ you
 
 530
 00:32:51,875 --> 00:32:56,907
-[SPEAKER_05]: This error message, let me check if there's something on the Confidence page that talks about that.
+[SPEAKER_05]: This error message, let me check if there's something on the Confluence page that talks about that.
 
 531
 00:32:57,275 --> 00:32:59,637
-[SPEAKER_05]: And so maybe I can help, self help.
+[SPEAKER_05]: And so maybe I can help, self help this.
 
 532
 00:32:59,657 --> 00:33:01,918
@@ -2140,15 +2142,15 @@ you
 
 533
 00:33:01,898 --> 00:33:07,335
-[SPEAKER_05]: Instead of having Ethan, instead of having to call Ethan and say,
+[SPEAKER_05]: Instead of having Ethan, instead of having to call Ethan and say, hey,
 
 534
 00:33:07,315 --> 00:33:09,087
-[SPEAKER_05]: and see if there's any points out ahead.
+[SPEAKER_05]: and see if there's any points up ahead.
 
 535
 00:33:09,107 --> 00:33:11,563
-[SPEAKER_05]: This has already been documented by Knowledge Base Sphere.
+[SPEAKER_05]: This has already been documented by Knowledge Base systems.
 
 536
 00:33:11,926 --> 00:33:13,073
@@ -2172,7 +2174,7 @@ you
 
 541
 00:33:29,218 --> 00:33:31,129
-[SPEAKER_05]: If it's an enhancement request,
+[SPEAKER_05]: If it's an enhancement request, maybe,
 
 542
 00:33:31,109 --> 00:33:33,913
@@ -2196,7 +2198,7 @@ you
 
 547
 00:33:48,625 --> 00:33:53,320
-[SPEAKER_05]: what Krishna is suggesting is sharing that responsibility with the client teams
+[SPEAKER_05]: what I, Krishna, is suggesting is sharing that responsibility with the client teams and
 
 548
 00:33:53,300 --> 00:33:58,078
@@ -2216,7 +2218,7 @@ you
 
 552
 00:34:07,762 --> 00:34:09,612
-[SPEAKER_05]: But never call it Ethan.
+[SPEAKER_05]: But never call Ethan.
 
 553
 00:34:09,632 --> 00:34:10,858
@@ -2232,7 +2234,7 @@ you
 
 556
 00:34:13,432 --> 00:34:18,463
-[SPEAKER_05]: You know, once the sprint starts lockdown, they might let us even no longer available.
+[SPEAKER_05]: You know, once the sprint starts lockdown, they might let us be even no longer available.
 
 557
 00:34:18,443 --> 00:34:23,745
@@ -2268,11 +2270,11 @@ you
 
 565
 00:34:43,638 --> 00:34:47,507
-[SPEAKER_07]: While we go by aliases.
+[SPEAKER_07]: We'll all go by aliases.
 
 566
 00:34:47,749 --> 00:34:48,535
-[SPEAKER_01]: Yeah.
+[SPEAKER_05]: Yeah.
 
 567
 00:34:48,515 --> 00:34:54,171
@@ -2284,11 +2286,11 @@ you
 
 569
 00:34:59,635 --> 00:35:01,444
-[SPEAKER_05]: have less than help themselves.
+[SPEAKER_05]: have lets them help themselves.
 
 570
 00:35:01,846 --> 00:35:05,798
-[SPEAKER_05]: and be for burning situations, right?
+[SPEAKER_05]: and B for burning situations, right?
 
 571
 00:35:05,778 --> 00:35:10,860
@@ -2296,7 +2298,7 @@ you
 
 572
 00:35:11,212 --> 00:35:15,771
-[SPEAKER_05]: They submitted themselves and it goes to Scott and he looks at it and says,
+[SPEAKER_05]: They submit it themselves and it goes to Scott and he looks at it and says,
 
 573
 00:35:16,780 --> 00:35:21,559
@@ -2304,7 +2306,7 @@ you
 
 574
 00:35:21,539 --> 00:35:25,305
-[SPEAKER_05]: engages with the submitter to say, what do you mean?
+[SPEAKER_05]: And it engages with the submitter to say, what do you mean?
 
 575
 00:35:25,285 --> 00:35:27,380
@@ -2348,7 +2350,7 @@ you
 
 585
 00:35:59,610 --> 00:36:01,384
-[SPEAKER_05]: But, you know, the point is once
+[SPEAKER_05]: But, you know, the point is once you
 
 586
 00:36:01,364 --> 00:36:04,388
@@ -2365,7 +2367,7 @@ you
 
 589
 00:36:12,721 --> 00:36:16,290
-[SPEAKER_05]: get on the phone with Ethernet team, that's not going to work, right?
+[SPEAKER_05]: get on the phone with Ethan and team, that's not going to work, right?
 
 590
 00:36:16,310 --> 00:36:17,500
@@ -2397,7 +2399,7 @@ you
 
 597
 00:36:43,349 --> 00:36:47,114
-[SPEAKER_05]: But, you know, and there is a regular cadence.
+[SPEAKER_05]: But, you know, and there is a regular occurence.
 
 598
 00:36:47,134 --> 00:36:49,107
@@ -2413,7 +2415,7 @@ you
 
 601
 00:36:58,705 --> 00:36:59,772
-[SPEAKER_05]: It's not working.
+[SPEAKER_05]: Is not working.
 
 602
 00:37:00,014 --> 00:37:02,068
@@ -2433,7 +2435,7 @@ you
 
 606
 00:37:11,041 --> 00:37:16,613
-[SPEAKER_05]: feed into the sprint backlog, and then we communicate back to the plant team and say,
+[SPEAKER_05]: We feed into the sprint backlog, and then we communicate back to the client team and say,
 
 607
 00:37:17,251 --> 00:37:19,066
@@ -2461,15 +2463,15 @@ you
 
 613
 00:37:39,948 --> 00:37:44,794
-[SPEAKER_05]: client site as well as for the site.
+[SPEAKER_05]: client site as well as for our site.
 
 614
 00:37:45,213 --> 00:37:50,515
-[SPEAKER_05]: But yeah, just getting on the phone with Ethan or something is not working, his team and Sai. 
+[SPEAKER_05]: But yeah, again just getting on the phone with Ethan or something is not working, his team and Sai, or whohever else is on the team. 
 
 615
 00:37:50,495 --> 00:37:56,100
-[SPEAKER_05]: that's the thing that we need to break.
+[SPEAKER_05]: Is that's the thing that we need to break.
 
 616
 00:37:56,519 --> 00:37:59,998
@@ -2485,7 +2487,7 @@ you
 
 619
 00:38:09,277 --> 00:38:12,790
-[SPEAKER_05]: This is supposed to be, in my mind, this is supposed to be an introduction.
+[SPEAKER_05]: This is supposed to be, in my mind, this is supposed to be an introductory call.
 
 620
 00:38:12,770 --> 00:38:16,249
@@ -2517,11 +2519,11 @@ you
 
 627
 00:38:36,698 --> 00:38:41,123
-[SPEAKER_05]: one-on-one columns, Adam, Ethan, and Scott,
+[SPEAKER_05]: one-on-one calls, Adam, Ethan, and Scott, Sai, whoever it is 
 
 628
 00:38:41,103 --> 00:38:45,780
-[SPEAKER_05]: that you want to pull in, but I want to stop the intake process
+[SPEAKER_05]: that you want to pull in, but I want to start the intake process
 
 629
 00:38:45,760 --> 00:38:46,909
@@ -2565,15 +2567,15 @@ you
 
 639
 00:39:17,671 --> 00:39:23,580
-[SPEAKER_05]: the words of the client teams to what Ethan receives.
+[SPEAKER_05]: the words of the client teams to what Ethan receives and builds himself
 
 640
 00:39:23,560 --> 00:39:29,200
-[SPEAKER_05]: And so that again contributes to gap in developing.
+[SPEAKER_05]: And that again contributes to gap in developing.
 
 641
 00:39:29,180 --> 00:39:31,456
-[SPEAKER_05]: Mission is a good thing.
+[SPEAKER_05]: Missions is a good thing.
 
 642
 00:39:31,698 --> 00:39:34,296
@@ -2597,7 +2599,7 @@ you
 
 647
 00:39:51,202 --> 00:39:55,542
-[SPEAKER_05]: I'd like to first just start off with, you know, that list Adam you mentioned
+[SPEAKER_05]: Great. I'd like to first just start off with, you know, that list Adam you mentioned
 
 648
 00:39:55,522 --> 00:39:59,406
@@ -2625,7 +2627,7 @@ you
 
 654
 00:40:20,142 --> 00:40:21,472
-[SPEAKER_05]: or whatever it is.
+[SPEAKER_05]: or Word Doc, or whatever it is.
 
 655
 00:40:21,492 --> 00:40:24,313
@@ -2641,11 +2643,11 @@ you
 
 658
 00:40:36,089 --> 00:40:39,687
-[SPEAKER_05]: And then I'll document all of them to a week and say, give me some type of circle back.
+[SPEAKER_05]: And then I'll document all of the weaknesses, give me some type of circle back.
 
 659
 00:40:39,667 --> 00:40:43,669
-[SPEAKER_05]: So I came back and said, but here's all the problems we have.
+[SPEAKER_05]: So I came back and said, and say here's all the problems we have.
 
 660
 00:40:43,649 --> 00:40:45,300
@@ -2687,7 +2689,8 @@ you
 
 669
 00:41:15,644 --> 00:41:20,399
-[SPEAKER_02]: itself over the last couple of months, right?
+[SPEAKER_02]: itself over the last couple of months
+[SPEAKER_01]: Right.
 
 670
 00:41:20,419 --> 00:41:21,064
@@ -2735,7 +2738,7 @@ you
 
 681
 00:41:58,355 --> 00:42:01,868
-[SPEAKER_05]: The main priority, that's sort of what worked out.
+[SPEAKER_05]: The main priority, that's sort of what wer're working out.
 
 682
 00:42:02,236 --> 00:42:04,618
@@ -2787,11 +2790,11 @@ you
 
 694
 00:42:54,042 --> 00:42:59,766
-[SPEAKER_05]: you know, have some slides and talks about, hey, this is the new world we're going to for intake,
+[SPEAKER_05]: you know, have some slides and talks about, hey, this is the new road we're going to for intake,
 
 695
 00:42:59,746 --> 00:43:03,175
-[SPEAKER_05]: No longer do you just call Ethan a team.
+[SPEAKER_05]: No longer do you just call Ethan and team.
 
 696
 00:43:03,155 --> 00:43:07,798
@@ -2811,7 +2814,7 @@ you
 
 700
 00:43:22,274 --> 00:43:26,952
-[SPEAKER_05]: Issue the things that they can tools that we can give them to help themselves.
+[SPEAKER_05]: Issue the things that they can, tools that we can give them to help themselves.
 
 701
 00:43:27,286 --> 00:43:30,985
@@ -2851,7 +2854,7 @@ you
 
 710
 00:44:06,588 --> 00:44:09,932
-[SPEAKER_05]: and then start living that change, as they say.
+[SPEAKER_05]: and then we'll start living that change, as they say.
 
 711
 00:44:10,604 --> 00:44:12,536
@@ -2895,15 +2898,15 @@ you
 
 721
 00:44:43,544 --> 00:44:48,053
-[SPEAKER_05]: Then I don't know who can walk me through the JIRA.
+[SPEAKER_05]: Then I don't know who can walk me through the Jira.
 
 722
 00:44:48,033 --> 00:44:51,531
-[SPEAKER_05]: Issues that are more specific more specifically.
+[SPEAKER_05]: What are the issues that are more specific, more specifically,
 
 723
 00:44:51,551 --> 00:44:53,622
-[SPEAKER_05]: I want to understand that
+[SPEAKER_05]: I want to understand that.
 
 724
 00:44:53,602 --> 00:44:56,811
@@ -2932,7 +2935,7 @@ you
 
 730
 00:45:21,088 --> 00:45:22,782
-[SPEAKER_01]: Are you in Central Town where you're at?
+[SPEAKER_01]: Are you in Central Time where you're at?
 
 731
 00:45:22,762 --> 00:45:24,623
@@ -2956,11 +2959,11 @@ you
 
 736
 00:45:37,493 --> 00:45:43,167
-[SPEAKER_05]: and I can also block off times where I have to use and maybe stop.
+[SPEAKER_05]: that I can also block off times where I have to use and maybe stop.
 
 737
 00:45:43,687 --> 00:45:47,757
-[SPEAKER_05]: work on that, like instead of my working hours and that kind of stuff.
+[SPEAKER_05]: work on that, like instead of my working hours and that kind of stuff so.
 
 738
 00:45:47,737 --> 00:45:48,681
@@ -2973,7 +2976,7 @@ you
 
 740
 00:45:53,643 --> 00:45:59,046
-[SPEAKER_01]: And then we've got weekly meetings with the team leads
+[SPEAKER_01]: And then we've got weekly meetings with the team leads at
 
 741
 00:45:59,026 --> 00:46:03,197
@@ -3054,11 +3057,11 @@ you
 
 760
 00:46:52,553 --> 00:46:55,577
-[SPEAKER_01]: They do need to just follow that.
+[SPEAKER_01]: They do need to just remote.
 
 761
 00:46:55,557 --> 00:47:00,235
-[SPEAKER_01]: Yeah, we'll set you up with a VM to where you can remote in and do all your work from there.
+[SPEAKER_01]: Yeah, we'll set you up with a VM to where you can remote in and do all your work from in there.
 
 762
 00:47:00,215 --> 00:47:01,770
@@ -3105,7 +3108,6 @@ you
 [SPEAKER_05]: Excellent.
 
 773
-# Lol he called Adam Chris 
 00:47:24,790 --> 00:47:25,395
 [SPEAKER_05]: Thank you, Chris.
 
@@ -3183,7 +3185,7 @@ you
 
 792
 00:48:01,100 --> 00:48:02,029
-[SPEAKER_06]: That's cool.
+[SPEAKER_06]: That sounds cool.
 
 793
 00:48:02,049 --> 00:48:04,714
@@ -3203,7 +3205,7 @@ you
 
 797
 00:48:17,215 --> 00:48:19,110
-[SPEAKER_06]: serving like the end user as well.
+[SPEAKER_06]: serving like the end user's well.
 
 798
 00:48:19,170 --> 00:48:20,863
@@ -3251,11 +3253,13 @@ you
 
 809
 00:48:56,602 --> 00:48:59,625
-[SPEAKER_01]: kind of like we had to be in the beginning.
+[SPEAKER_01]: It's kind of like we had to be in the beginning.
 
 810
 00:48:59,605 --> 00:49:04,587
-[SPEAKER_01]: just because there was only so many people here to do it yeah and now that we're big enough
+[SPEAKER_01]: just because there was only so many people here to do it 
+[SPEAKER_06]: Yeah.
+[SPEAKER_01]: and now that we're big enough
 
 811
 00:49:04,567 --> 00:49:07,877
@@ -3267,7 +3271,7 @@ you
 
 813
 00:49:11,502 --> 00:49:16,028
-[SPEAKER_04]: go between and then once he kind of gets a feel for what needs to happen then it can
+[SPEAKER_04]: go between and then once he kind of gets a feel for what needs to happen then he can
 
 814
 00:49:16,008 --> 00:49:19,048
@@ -3277,7 +3281,7 @@ you
 00:49:19,028 --> 00:49:23,723
 [SPEAKER_02]: Yeah, 
 [SPEAKER_01]: I'd be a mix of... 
-[SPEAKER_06]: I feel like, which I think he'll...
+[SPEAKER_06]: I feel like, which I think he'll weigh in on
 
 816
 00:49:23,703 --> 00:49:28,110
@@ -3321,7 +3325,7 @@ you
 
 826
 00:50:06,633 --> 00:50:09,394
-[SPEAKER_06]: the ultimate user interaction.
+[SPEAKER_06]: the ultimate like user interaction.
 
 827
 00:50:09,475 --> 00:50:11,732
@@ -3354,7 +3358,7 @@ you
 
 834
 00:50:38,425 --> 00:50:43,643
-[SPEAKER_06]: always that user go between they're the ones that like helping build out what the iterations are what
+[SPEAKER_06]: always that user go between they're the ones that like helping build out what the iterations are what releases
 
 835
 00:50:43,623 --> 00:50:46,731
@@ -3378,11 +3382,11 @@ you
 
 840
 00:51:02,084 --> 00:51:06,019
-[SPEAKER_06]: your team, Conrad's team, Andrew's team, it just, like, it all stopped.
+[SPEAKER_06]: your team, Conrad's team, Andrew's team, it just, like, it all stops.
 
 841
 00:51:05,999 --> 00:51:12,010
-[SPEAKER_06]: It all goes through that plug, 
+[SPEAKER_06]: It all goes through that flow, 
 [SPEAKER_00]: because right now we just assign it to the team leads if there's a bug, we can just assign it to him.
 
 842
@@ -3395,7 +3399,7 @@ you
 
 844
 00:51:21,085 --> 00:51:24,480
-[SPEAKER_03]: as developers when there is an issue.
+[SPEAKER_03]: us developers when there is an issue.
 
 845
 00:51:24,460 --> 00:51:29,155
@@ -3439,7 +3443,7 @@ you
 
 855
 00:52:01,484 --> 00:52:05,048
-[SPEAKER_06]: across the board like a big picture wise if we're looking at this intake of
+[SPEAKER_06]: across the board like a big picture wise if we're looking at this intake 
 
 856
 00:52:05,028 --> 00:52:08,676
@@ -3463,7 +3467,7 @@ you
 
 861
 00:52:17,144 --> 00:52:20,353
-[SPEAKER_06]: Analysts go between that might mean that we build a team
+[SPEAKER_06]: Analyst go between that might mean that we build a team
 
 862
 00:52:20,333 --> 00:52:26,142
@@ -3531,7 +3535,7 @@ you
 
 878
 00:53:12,663 --> 00:53:17,712
-[SPEAKER_06]: Say like I mean you coming in and working development wise I know you were fantastic and testing and
+[SPEAKER_06]: Say like I mean you coming in and working development wise I know you were fantastic in testing and
 
 879
 00:53:17,692 --> 00:53:22,133
@@ -3612,7 +3616,7 @@ you
 
 898
 00:54:30,811 --> 00:54:34,712
-[SPEAKER_06]: and the users is like a huge because I just got an email from Joe
+[SPEAKER_06]: and the users is like a huge because I just got an email from Jeff
 
 899
 00:54:34,692 --> 00:54:39,100
@@ -3692,11 +3696,11 @@ you
 
 918
 00:55:20,542 --> 00:55:22,198
-[SPEAKER_06]: It could have gone through this
+[SPEAKER_06]: It could have gone through this flow and it could've been
 
 919
 00:55:22,178 --> 00:55:27,598
-[SPEAKER_06]: hand it off to the developer, and even if there's not security to run it on production for the payroll stuff,
+[SPEAKER_06]: handed off to the developer, and even if there's not security to run it on production for the payroll stuff,
 
 920
 00:55:27,578 --> 00:55:29,689
@@ -3736,11 +3740,11 @@ you
 
 929
 00:55:55,912 --> 00:55:58,935
-[SPEAKER_02]: She's our database admin.
+[SPEAKER_02]: She's our database admin, so
 
 930
 00:55:58,915 --> 00:56:00,001
-[SPEAKER_02]: That'd be awesome.
+[SPEAKER_02]: that'd be awesome.
 
 931
 00:56:00,664 --> 00:56:04,082
@@ -3829,7 +3833,7 @@ you
 
 952
 00:57:23,375 --> 00:57:28,947
-[SPEAKER_02]: and then you send it to somebody else to run, don't you kind of feel like you're flying blind a little bit?
+[SPEAKER_02]: and then you send it to somebody else to run it, don't you kind of feel like you're flying blind a little bit?
 
 953
 00:57:28,927 --> 00:57:30,246
@@ -3845,7 +3849,7 @@ you
 
 956
 00:57:35,947 --> 00:57:39,747
-[SPEAKER_07]: tricky to know if my script is correct because
+[SPEAKER_07]: it's tricky to know if my script is correct because
 
 957
 00:57:39,727 --> 00:57:43,695
@@ -3857,7 +3861,7 @@ you
 
 959
 00:57:54,172 --> 00:57:57,617
-[SPEAKER_01]: I kind of like that idea, though, that you were talking about, to wear it.
+[SPEAKER_01]: I kind of like that idea, though, that you were talking about, to where it.
 
 960
 00:57:57,597 --> 00:58:01,330
@@ -3865,8 +3869,9 @@ you
 
 961
 00:58:01,310 --> 00:58:07,101
-[SPEAKER_03]: After that it just expires and again you have to price another ticket for that.
+[SPEAKER_03]: After that it just expires and again you have to raise another ticket for that.
 [SPEAKER_01]: And it keeps track of everything that's been done. 
+[SPEAKER_03]: Yeah.
 
 962
 00:58:07,081 --> 00:58:12,771
@@ -3902,7 +3907,7 @@ you
 
 970
 00:58:40,628 --> 00:58:45,610
-[SPEAKER_06]: The idea of that was that like a developer could just write a function or a view
+[SPEAKER_06]: And that was the idea of that was that like a developer could just write a function or a view
 
 971
 00:58:45,590 --> 00:58:49,035
@@ -3934,7 +3939,7 @@ you
 
 978
 00:59:08,782 --> 00:59:10,855
-[SPEAKER_03]: And he came and frozen.
+[SPEAKER_03]: And he came across an error.
 
 979
 00:59:10,835 --> 00:59:15,259
@@ -3954,7 +3959,7 @@ you
 
 983
 00:59:25,347 --> 00:59:28,170
-[SPEAKER_04]: People are trying to explain what they've done to produce a bug.
+[SPEAKER_04]: Sometimes people are trying to explain what they've done to produce a bug.
 
 984
 00:59:28,210 --> 00:59:29,299
@@ -4036,7 +4041,7 @@ you
 
 1003
 01:00:29,033 --> 01:00:32,057
-[SPEAKER_06]: build out what we want our intake and flow to look like.
+[SPEAKER_06]: And we kind of build out what we want our intake and flow to look like.
 
 1004
 01:00:32,037 --> 01:00:36,647
@@ -4060,7 +4065,7 @@ you
 
 1009
 01:00:50,296 --> 01:00:55,227
-[SPEAKER_07]: What's going wrong over the years happen and stuff walking we a lot of times like
+[SPEAKER_07]: What's going wrong over the years happened and stuff walking we a lot of times like
 
 1010
 01:00:55,207 --> 01:01:01,217
@@ -4072,11 +4077,11 @@ you
 
 1012
 01:01:05,230 --> 01:01:08,946
-[SPEAKER_07]: we don't have very specific requirements for how components should be.
+[SPEAKER_07]: And so we don't have very specific requirements for how components should be.
 
 1013
 01:01:08,926 --> 01:01:13,485
-[SPEAKER_07]: you know implement and stuff so i write is a little bit differently so on this page we may have good error handling on this one
+[SPEAKER_07]: you know, implement and stuff, so everybody does it  a little bit differently so on this page we may have good error handling on this one
 
 1014
 01:01:13,465 --> 01:01:16,489
@@ -4089,7 +4094,7 @@ you
 
 1016
 01:01:21,059 --> 01:01:24,083
-[SPEAKER_06]: It's granted a lot of flexibility for teams and developers
+[SPEAKER_06]: It's granted a lot of flexibility for teams and developers to
 
 1017
 01:01:24,063 --> 01:01:30,073
@@ -4097,7 +4102,7 @@ you
 
 1018
 01:01:30,053 --> 01:01:33,164
-[SPEAKER_06]: we ended up having kind of the wild west of technology.
+[SPEAKER_06]: we ended up having kind of the wild west of technology approach.
 
 1019
 01:01:33,508 --> 01:01:34,174
@@ -4147,7 +4152,7 @@ you
 
 1030
 01:02:05,542 --> 01:02:08,683
-[SPEAKER_07]: If you're writing a service or whatever, you need to have like error handled
+[SPEAKER_07]: If you're writing a service or whatever, you need to have like error handling
 
 1031
 01:02:08,663 --> 01:02:11,711
@@ -4224,7 +4229,7 @@ you
 
 1049
 01:03:11,756 --> 01:03:14,496
-[SPEAKER_02]: You're going to have somebody to try that in for you. 
+[SPEAKER_02]: You're going to have somebody to fry that in for you. 
 
 1050
 01:03:14,476 --> 01:03:15,914
@@ -4248,7 +4253,7 @@ you
 
 1055
 01:03:27,453 --> 01:03:33,193
-[SPEAKER_06]: You're probably as good to get the user's phone and whatnot from.
+[SPEAKER_06]: You're probably good to get the user's phone and whatnot from.
 
 1056
 01:03:33,342 --> 01:03:36,906

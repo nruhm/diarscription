@@ -1,16 +1,11 @@
 1
-# 1-3 are unidentified as speakers were being identified 
 00:00:00,301 --> 00:00:03,105
-YESTERDAY AND IT'S KIND OF TODAY TALKING TO YOU GUYS
 
 2
 00:00:03,338 --> 00:00:06,852
-where we put everything that we think will fit into
 
 3
 00:00:09,363 --> 00:00:10,935
-in the sprint.
-#
 
 4
 00:00:11,217 --> 00:00:14,783
@@ -22,15 +17,15 @@ in the sprint.
 
 6
 00:00:17,851 --> 00:00:23,254
-[SPEAKER_00]: you know, testing is going to be hammering it and we'll be going back and forth with them to make sure everything's right.
+[SPEAKER_00]: you know, testing can be hammering it and we'll be going back and forth with them to make sure everything's right.
 
 7
 00:00:23,234 --> 00:00:29,093
-[SPEAKER_00]: and then once that one week hard experience over we'll release it um and so
+[SPEAKER_00]: and then once that one week hardening sprint is over we'll release it um and so
 
 8
 00:00:29,073 --> 00:00:33,953
-[SPEAKER_00]: The way it works is, I think, which
+[SPEAKER_00]: The way it works is, I think, which Krishna might be able to answer this for me but 
 
 9
 00:00:34,507 --> 00:00:40,062
@@ -42,7 +37,7 @@ in the sprint.
 
 11
 00:00:42,477 --> 00:00:44,550
-[SPEAKER_00]: The vial testing is running through everything.
+[SPEAKER_00]: While testing is running through everything.
 
 12
 00:00:44,530 --> 00:00:48,718
@@ -102,7 +97,7 @@ in the sprint.
 
 26
 00:01:32,708 --> 00:01:38,719
-[SPEAKER_01]: I think we got that ready if you want to jump into that now
+[SPEAKER_01]: I think we got that ready if you want to jump into that now or if you want to 
 
 27
 00:01:38,699 --> 00:01:40,327
@@ -114,7 +109,7 @@ in the sprint.
 
 29
 00:01:41,935 --> 00:01:44,507
-[SPEAKER_00]: Like this is the reason I had some.
+[SPEAKER_00]: Like this is all I had.
 
 30
 00:01:46,613 --> 00:01:51,966
@@ -126,7 +121,7 @@ in the sprint.
 
 32
 00:01:58,848 --> 00:02:01,686
-[SPEAKER_00]: okay 
+[SPEAKER_00]: Ok. 
 [SPEAKER_01]: we're going to send the census this week
 
 33
@@ -135,7 +130,7 @@ in the sprint.
 
 34
 00:02:05,909 --> 00:02:07,980
-[SPEAKER_01]: We just wanna make sure we have everything prepared
+[SPEAKER_01]: We just wanna make sure we have everything prepared for that.
 
 35
 00:02:07,960 --> 00:02:09,272
@@ -160,7 +155,7 @@ in the sprint.
 
 40
 00:02:23,468 --> 00:02:28,213
-[SPEAKER_00]: So we made sure we left some hours available for if there's any
+[SPEAKER_00]: So we made sure we left some hours available for if there's any, you know
 
 41
 00:02:28,193 --> 00:02:31,268
@@ -168,7 +163,7 @@ in the sprint.
 
 42
 00:02:31,248 --> 00:02:35,470
-[SPEAKER_00]: and stuff like that, generating these census files if there's any changes needed.
+[SPEAKER_00]: and stuff like that, while generating these census files if there's any changes needed.
 
 43
 00:02:35,450 --> 00:02:41,308
@@ -231,15 +226,15 @@ in the sprint.
 
 57
 00:03:26,227 --> 00:03:29,993
-[SPEAKER_01]: You know, I'm just going to try to look back and I needed to look forward.
+[SPEAKER_01]: You know, It's going to try to look back and I need it to look forward.
 
 58
 00:03:29,973 --> 00:03:33,756
-[SPEAKER_02]: You need to buy 926.
+[SPEAKER_02]: You need to buy 9/26.
 
 59
 00:03:38,697 --> 00:03:41,248
-[SPEAKER_01]: Yeah, 926.
+[SPEAKER_01]: Yeah, 9/26.
 
 60
 00:03:42,646 --> 00:03:47,053
@@ -259,11 +254,11 @@ in the sprint.
 
 64
 00:03:58,010 --> 00:04:02,038
-[SPEAKER_00]: When do we have to switch over payroll to the 401k separate?
+[SPEAKER_00]: When do we have to switch over payroll to the 401k separate fidelity?
 
 65
 00:04:02,018 --> 00:04:05,734
-[SPEAKER_00]: When's the first date you're going to generate a money file for that?
+[SPEAKER_00]: Like when's the first date you're going to generate a money file for that?
 
 66
 00:04:05,714 --> 00:04:09,987
@@ -275,7 +270,8 @@ in the sprint.
 
 68
 00:04:14,978 --> 00:04:16,207
-[SPEAKER_00]: We'll have those together.
+[SPEAKER_01]: But we... 
+[SPEAKER_00]: Lump those together.
 
 69
 00:04:16,248 --> 00:04:18,323
@@ -299,7 +295,7 @@ in the sprint.
 
 74
 00:04:36,758 --> 00:04:37,746
-[SPEAKER_01]: September 29th?
+[SPEAKER_01]: Like September 29th?
 
 75
 00:04:37,726 --> 00:04:41,661
@@ -307,11 +303,11 @@ in the sprint.
 
 76
 00:04:41,641 --> 00:04:44,344
-[SPEAKER_01]: on the second with that Michael Koshner.
+[SPEAKER_01]: on the 2nd with Michael Koshner.
 
 77
 00:04:44,881 --> 00:04:48,327
-[SPEAKER_02]: Okay, so 29.
+[SPEAKER_02]: Okay, so 29th.
 
 78
 00:04:49,167 --> 00:04:54,452
@@ -319,7 +315,7 @@ in the sprint.
 
 79
 00:04:56,862 --> 00:05:01,101
-[SPEAKER_01]: The 22nd is the last one that we are uploading to.
+[SPEAKER_01]: The 22nd is the last one that we are uploading to Bank of America.
 
 80
 00:05:01,756 --> 00:05:04,948
@@ -332,15 +328,15 @@ in the sprint.
 
 82
 00:05:08,506 --> 00:05:10,315
-[SPEAKER_00]: So in the 9th, 26th then,
+[SPEAKER_00]: So in the 9/26 then,
 
 83
 00:05:11,527 --> 00:05:14,042
-[SPEAKER_00]: The 926, so that's on Friday.
+[SPEAKER_00]: The 9/26, so that's on Friday.
 
 84
 00:05:14,083 --> 00:05:15,833
-[SPEAKER_00]: So that will be actually the 922.
+[SPEAKER_00]: So that will be actually the 9/22.
 
 85
 00:05:15,813 --> 00:05:19,967
@@ -357,7 +353,7 @@ in the sprint.
 
 88
 00:05:24,132 --> 00:05:26,124
-[SPEAKER_00]: I'm trying to get the date straight on those.
+[SPEAKER_00]: Yeah, sorry I'm trying to get the date straight on those.
 
 89
 00:05:26,205 --> 00:05:30,008
@@ -369,19 +365,19 @@ in the sprint.
 
 91
 00:05:34,122 --> 00:05:38,530
-[SPEAKER_00]: the 11-03 pay-to-date thing for the health care checks.
+[SPEAKER_00]: The 11/03 pay-to-date thing for the health care checks.
 
 92
 00:05:38,510 --> 00:05:40,707
-[SPEAKER_00]: He said that's up by 926.
+[SPEAKER_00]: He said that's up by 9/26.
 
 93
 00:05:40,747 --> 00:05:43,407
-[SPEAKER_00]: So would that mean that you're going to be running the payroll on 929?
+[SPEAKER_00]: So would that mean that you're going to be running the payroll on 9/29?
 
 94
 00:05:43,387 --> 00:05:45,921
-[SPEAKER_01]: Yeah, you can throw both of them.
+[SPEAKER_01]: Yeah, you can throw both of them in.
 
 95
 00:05:45,961 --> 00:05:47,208
@@ -393,19 +389,19 @@ in the sprint.
 
 97
 00:05:48,601 --> 00:05:50,052
-[SPEAKER_01]: can go in at 926.
+[SPEAKER_01]: can go in at 9/26 release.
 
 98
 00:05:51,079 --> 00:05:52,671
-[SPEAKER_00]: Great, okay, yeah, let me get it in.
+[SPEAKER_00]: Great, okay, yeah, let me get that in.
 
 99
 00:05:52,651 --> 00:05:56,063
-[SPEAKER_01]: Because I'm going to run the payroll at 29.
+[SPEAKER_01]: Because I'm going to run the payroll on the 29th.
 
 100
 00:05:56,043 --> 00:05:59,404
-[SPEAKER_01]: And then that money file is for you fidelity.
+[SPEAKER_01]: And then that money file is through fidelity.
 
 101
 00:05:59,384 --> 00:06:02,965
@@ -429,7 +425,7 @@ in the sprint.
 
 106
 00:06:09,452 --> 00:06:13,714
-[SPEAKER_01]: There's going to be some things in there, Ethan, that you're not going to do.
+[SPEAKER_01]: There's going to be some things in there, Ethan, that you're not going to be able to do.
 
 107
 00:06:13,694 --> 00:06:17,005
@@ -437,7 +433,7 @@ in the sprint.
 
 108
 00:06:17,339 --> 00:06:19,712
-[SPEAKER_01]: 
+[SPEAKER_01]: Blow up on Krishna's plan here
 
 109
 00:06:19,852 --> 00:06:22,084
@@ -461,7 +457,7 @@ in the sprint.
 
 114
 00:06:31,612 --> 00:06:35,415
-[SPEAKER_01]: So I got the five-inch job for you to switch that date on those.
+[SPEAKER_01]: I feel like that's a five-minute job for you to switch that date on those things.
 
 115
 00:06:36,273 --> 00:06:38,889
@@ -469,7 +465,7 @@ in the sprint.
 
 116
 00:06:38,909 --> 00:06:41,625
-[SPEAKER_01]: Well, the thing is that we also have to run through testing
+[SPEAKER_01]: Well, the thing is that we also have to run it through testing
 
 117
 00:06:41,605 --> 00:06:45,118
@@ -481,7 +477,7 @@ in the sprint.
 
 119
 00:06:50,195 --> 00:06:56,205
-[SPEAKER_01]: plan out two weeks of work and just you know we've got to disappear for those two weeks unless like something super urgent comes up
+[SPEAKER_01]: plan out two weeks of work and just you know we kind of disappear for those two weeks unless like something super urgent comes up
 
 120
 00:06:56,185 --> 00:06:59,378
@@ -525,7 +521,7 @@ in the sprint.
 
 130
 00:07:29,294 --> 00:07:32,852
-[SPEAKER_00]: But yeah, I understand that every step like that comes out.
+[SPEAKER_00]: But yeah, I understand that there will be stuff like that coming up.
 
 131
 00:07:32,873 --> 00:07:33,398
@@ -537,7 +533,7 @@ in the sprint.
 
 133
 00:07:38,069 --> 00:07:43,658
-[SPEAKER_02]: planning out all these spreads to like we're leaving time in there to do these.
+[SPEAKER_02]: planning out all these spints, too, like we're leaving time in there to do these.
 
 134
 00:07:44,228 --> 00:07:46,144
@@ -545,7 +541,7 @@ in the sprint.
 
 135
 00:07:46,245 --> 00:07:48,585
-[SPEAKER_01]: I'd like to have on 926,
+[SPEAKER_01]: I'd like to have on 9/26,
 
 136
 00:07:48,565 --> 00:07:52,939
@@ -584,9 +580,8 @@ in the sprint.
 [SPEAKER_01]: I've got to give them time to review that file.
 
 145
-# This was never said 
 00:08:14,755 --> 00:08:16,564
-[SPEAKER_00]: AND I THINK IT'S NOT
+[SPEAKER_01]: Um...
 
 146
 00:08:18,147 --> 00:08:23,297
@@ -598,7 +593,7 @@ in the sprint.
 
 148
 00:08:24,343 --> 00:08:29,288
-[SPEAKER_01]: And we're going to have a meeting scheduled 10-15.
+[SPEAKER_01]: And we're going to have a meeting scheduled 10/15.
 
 149
 00:08:29,268 --> 00:08:32,663
@@ -634,7 +629,7 @@ in the sprint.
 
 157
 00:09:03,001 --> 00:09:08,455
-[SPEAKER_00]: Yeah, that one's still kind of an enigma, so I was probably not really sure what's happened there either.
+[SPEAKER_00]: Yeah, that one's still kind of an enigma to us, not really sure what's happened there either. That's weird.
 
 158
 00:09:08,435 --> 00:09:13,315
@@ -642,7 +637,7 @@ in the sprint.
 
 159
 00:09:13,295 --> 00:09:17,905
-[SPEAKER_01]: I don't know that they're big 1095, the break,
+[SPEAKER_01]: I don't know that they had for 1095, with Rick,
 
 160
 00:09:18,323 --> 00:09:19,432
@@ -666,11 +661,11 @@ in the sprint.
 
 165
 00:09:31,267 --> 00:09:36,231
-[SPEAKER_01]: The number...
+[SPEAKER_01]: The number 4... 
 
 166
 00:09:37,561 --> 00:09:43,572
-[SPEAKER_01]: So I had 1031, starting to get into that GCHP.
+[SPEAKER_01]: So I had 1031, starting to get into that HCHP.
 
 167
 00:09:43,552 --> 00:09:45,277
@@ -682,7 +677,7 @@ in the sprint.
 
 169
 00:09:50,234 --> 00:09:53,815
-[SPEAKER_00]: All the check fits together.
+[SPEAKER_00]: All the Checksmith stuff lumped together.
 [SPEAKER_02]: Mhm. 
 
 170
@@ -735,7 +730,7 @@ in the sprint.
 
 182
 00:10:38,395 --> 00:10:41,689
-[SPEAKER_01]: So if we want to go ahead until I can find a dream to see.
+[SPEAKER_01]: So if we want to go ahead until I can monitor it to see.
 
 183
 00:10:41,669 --> 00:10:43,643
@@ -803,11 +798,11 @@ in the sprint.
 
 199
 00:11:39,719 --> 00:11:43,030
-[SPEAKER_01]: I don't know, it's one of those things where for Pops to begin,
+[SPEAKER_01]: I don't know, it's one of those things where if it pops up again,
 
 200
 00:11:43,010 --> 00:11:44,633
-[SPEAKER_01]: Prioritize the ticket.
+[SPEAKER_01]: We'll prioritize the ticket.
 
 201
 00:11:45,323 --> 00:11:46,033
@@ -819,7 +814,7 @@ in the sprint.
 
 203
 00:11:49,793 --> 00:11:54,589
-[SPEAKER_00]: It was something that didn't come up very often, but it was basically
+[SPEAKER_00]: And it was something that didn't come up very often, but it was basically
 
 204
 00:11:54,569 --> 00:11:58,555
@@ -827,11 +822,11 @@ in the sprint.
 
 205
 00:11:58,535 --> 00:12:02,672
-[SPEAKER_00]: because I think it's where they can like change the ship to the customer or
+[SPEAKER_00]: because I think it's where they can like change the ship to of the customer or
 
 206
 00:12:02,652 --> 00:12:06,014
-[SPEAKER_00]: Basically, the Shift 2 on the sale isn't one that can be found anymore.
+[SPEAKER_00]: Basically, the ship to on the sale isn't one that can be found anymore.
 
 207
 00:12:06,557 --> 00:12:07,785
@@ -859,7 +854,7 @@ in the sprint.
 
 213
 00:12:32,032 --> 00:12:34,956
-[SPEAKER_00]: It's hard to track down, kind of screwed everything up with the sales tax.
+[SPEAKER_00]: Hard to track down, kind of screwed everything up with the sales tax.
 
 214
 00:12:35,460 --> 00:12:36,186
@@ -871,7 +866,7 @@ in the sprint.
 
 216
 00:12:40,334 --> 00:12:45,720
-[SPEAKER_01]: I would throw that ahead of probably the ACH and the Jack Smith piece then.
+[SPEAKER_01]: I would throw that ahead of probably the ACH and the Checksmith piece then.
 
 217
 00:12:45,700 --> 00:12:47,391
@@ -879,7 +874,7 @@ in the sprint.
 
 218
 00:12:48,012 --> 00:12:49,440
-[SPEAKER_01]: Well, I'm happy they hurt Cindy.
+[SPEAKER_01]: Well, I'm happy they heard Cindy.
 
 219
 00:12:49,742 --> 00:12:52,317
@@ -895,7 +890,7 @@ in the sprint.
 
 222
 00:12:53,665 --> 00:12:59,490
-[SPEAKER_01]: The one example that Kevin had, we were able to get a resale certificate on.
+[SPEAKER_01]: The only example that Kevin had, we were able to get a resale certificate on.
 
 223
 00:12:59,470 --> 00:13:01,406
@@ -923,7 +918,7 @@ in the sprint.
 
 229
 00:13:26,825 --> 00:13:32,835
-[SPEAKER_00]: we might end up being into the 401k stuff but for the next sprint but if not then like the Chex Smith report
+[SPEAKER_00]: we might end up being into the 401k stuff but for the next sprint but if not then like the Checksmith report
 
 230
 00:13:32,815 --> 00:13:36,885
@@ -932,6 +927,7 @@ in the sprint.
 231
 00:13:36,865 --> 00:13:42,319
 [SPEAKER_00]: Like all the feedback and stuff, you guys had them checked in on this upcoming room.
+[SPEAKER_01]: Ok.
 
 232
 00:13:42,890 --> 00:13:44,008
@@ -967,7 +963,7 @@ in the sprint.
 
 240
 00:14:12,590 --> 00:14:16,339
-[SPEAKER_01]: What you guys did was reset all the PNC customers.
+[SPEAKER_01]: I think what you guys did was reset all the PNC customers.
 
 241
 00:14:16,792 --> 00:14:21,385
@@ -976,10 +972,11 @@ in the sprint.
 242
 00:14:21,365 --> 00:14:25,097
 [SPEAKER_00]: Yeah, that was the one that Matt did.
+[SPEAKER_02]: Yeah, I figured.
 
 243
 00:14:25,077 --> 00:14:28,101
-[SPEAKER_00]: But they didn't get that sorted out.
+[SPEAKER_00]: They didn't get that sorted out.
 
 244
 00:14:28,942 --> 00:14:33,855
@@ -995,7 +992,7 @@ in the sprint.
 
 247
 00:14:39,833 --> 00:14:41,770
-[SPEAKER_01]: I'm just in the order that
+[SPEAKER_01]: I just didn't know that, 
 
 248
 00:14:41,952 --> 00:14:44,436
@@ -1011,7 +1008,7 @@ in the sprint.
 
 251
 00:14:50,305 --> 00:14:52,367
-[SPEAKER_01]: I'll put in that finance team.
+[SPEAKER_01]: I'll put that in finance team.
 
 252
 00:15:03,265 --> 00:15:08,854
@@ -1023,7 +1020,7 @@ in the sprint.
 
 254
 00:15:10,817 --> 00:15:12,718
-[SPEAKER_00]: I mean, building through here, we got the
+[SPEAKER_00]: I mean, billing through here, we got the
 
 255
 00:15:12,698 --> 00:15:15,596
@@ -1031,7 +1028,7 @@ in the sprint.
 
 256
 00:15:15,938 --> 00:15:17,629
-[SPEAKER_00]: The 1031 is the
+[SPEAKER_00]: The 1031 is the ACH
 
 257
 00:15:17,609 --> 00:15:19,930
@@ -1067,7 +1064,7 @@ in the sprint.
 
 265
 00:15:39,057 --> 00:15:45,034
-[SPEAKER_00]: Really the only other bigger part of it would be like the checksmith bones and stuff.
+[SPEAKER_00]: Really the only other bigger part of it would be like the Checksmith bones and stuff.
 
 266
 00:15:45,385 --> 00:15:47,301
@@ -1075,11 +1072,11 @@ in the sprint.
 
 267
 00:15:47,382 --> 00:15:48,612
-[SPEAKER_01]: Yeah, it's not for the end.
+[SPEAKER_01]: Yeah, it's not bad
 
 268
 00:15:48,592 --> 00:15:53,252
-[SPEAKER_01]: like the check smith thing or the ach that's just kind of like i would push it to the end
+[SPEAKER_01]: like the Checksmith thing or the ACH that's just kind of like i would push it to the end
 
 269
 00:15:53,232 --> 00:15:58,095
@@ -1095,11 +1092,11 @@ in the sprint.
 
 272
 00:16:03,965 --> 00:16:05,984
-[SPEAKER_00]: So the ACA is going to be the first thing.
+[SPEAKER_00]: So the ACH is going to be the first thing.
 
 273
 00:16:06,509 --> 00:16:07,680
-[SPEAKER_01]: I will move it down.
+[SPEAKER_01]: I would move it down.
 
 274
 00:16:08,352 --> 00:16:12,321
@@ -1123,7 +1120,7 @@ in the sprint.
 
 279
 00:16:22,170 --> 00:16:22,733
-[SPEAKER_01]: Okay.
+[SPEAKER_00]: Okay.
 
 280
 00:16:22,713 --> 00:16:23,759
@@ -1139,7 +1136,9 @@ in the sprint.
 
 283
 00:16:33,277 --> 00:16:39,287
-[SPEAKER_01]: but that's the list that i need just because i have dates on those yeah yeah okay
+[SPEAKER_01]: but that's the list that i need just because i have dates on those 
+[SPEAKER_00]: Yeah.
+[SPEAKER_02]: Okay
 
 284
 00:16:39,267 --> 00:16:44,687
@@ -1147,7 +1146,7 @@ in the sprint.
 
 285
 00:16:44,667 --> 00:16:47,691
-[SPEAKER_02]: and his sprint, so it should be good now.
+[SPEAKER_02]: and the sprint, so it should be good now.
 
 286
 00:16:47,671 --> 00:16:53,563
@@ -1156,7 +1155,7 @@ in the sprint.
 
 287
 00:16:53,729 --> 00:16:54,938
-[SPEAKER_01]: I wonder if they looked at it.
+[SPEAKER_01]: Thanks.
 
 288
 00:16:55,019 --> 00:16:57,478
@@ -1164,11 +1163,11 @@ in the sprint.
 
 289
 00:16:57,458 --> 00:17:01,495
-[SPEAKER_01]: If that's the two weeks, Brent, you're looking for something for the next.
+[SPEAKER_01]: If that's the two weeks sprint, you're looking for something for the next.
 
 290
 00:17:01,475 --> 00:17:04,498
-[SPEAKER_00]: I wish.
+[SPEAKER_00]: Gotcha.
 
 291
 00:17:04,478 --> 00:17:07,003
@@ -1184,19 +1183,19 @@ in the sprint.
 
 294
 00:17:13,726 --> 00:17:16,294
-[SPEAKER_02]: Or if there's anything else.
+[SPEAKER_00]: Or if there's anything else.
 
 295
 00:17:16,544 --> 00:17:21,947
-[SPEAKER_01]: That's kind of what I was thinking is like, we would have a two week dedicated spread
+[SPEAKER_01]: That's kind of what I was thinking is like, we would have a two week dedicated sprint to
 
 296
 00:17:21,927 --> 00:17:24,101
-[SPEAKER_01]: Check smith, as it's own thing.
+[SPEAKER_01]: Checksmith, as it's own thing.
 
 297
 00:17:25,007 --> 00:17:26,959
-[SPEAKER_01]: And you know, we can knock.
+[SPEAKER_01]: And you know, we can knock that.
 
 298
 00:17:26,939 --> 00:17:31,077
@@ -1252,7 +1251,7 @@ in the sprint.
 
 311
 00:17:55,255 --> 00:17:59,124
-[SPEAKER_01]: That would button up everything for us.
+[SPEAKER_01]: That would line up everything for us.
 
 312
 00:17:59,144 --> 00:18:00,051
@@ -1284,7 +1283,7 @@ in the sprint.
 
 319
 00:18:28,128 --> 00:18:33,919
-[SPEAKER_01]: I would just make sure we have everything else completed before we jump into any ACH or checklist.
+[SPEAKER_01]: I would just make sure we have everything else completed before we jump into any ACH or Checksmith stuff.
 
 320
 00:18:34,861 --> 00:18:37,885
@@ -1292,11 +1291,11 @@ in the sprint.
 
 321
 00:18:37,865 --> 00:18:41,783
-[SPEAKER_03]: As soon as he gives us a new, or they put those in and they hold them out.
+[SPEAKER_03]: As soon as he gives us a new, or they put those new ones in and the old ones out.
 
-322
+322s
 00:18:41,763 --> 00:18:45,144
-[SPEAKER_03]: We're going to try that in that sense as well.
+[SPEAKER_03]: We're going to try that in that consensus file. 
 
 323
 00:18:45,165 --> 00:18:47,318
@@ -1308,7 +1307,7 @@ in the sprint.
 
 325
 00:18:51,128 --> 00:18:52,476
-[SPEAKER_00]: Pop on production.
+[SPEAKER_00]: Hop on production.
 
 326
 00:18:52,617 --> 00:18:55,958
@@ -1328,11 +1327,12 @@ in the sprint.
 
 330
 00:19:04,510 --> 00:19:09,677
-[SPEAKER_01]: Okay, and towards the end of the day, and because we have the fidelity meeting at 2.30,
+[SPEAKER_01]: Okay, and towards the end of the day, and because we have the fidelity meeting at 2:30,
+[SPEAKER_00]: Okay.
 
 331
 00:19:09,657 --> 00:19:14,102
-[SPEAKER_01]: And so I should be done by three and I can just hop off and sit in.
+[SPEAKER_01]: And so I should be done by three and I can just hop off and send that in.
 
 332
 00:19:14,364 --> 00:19:15,651
@@ -1340,7 +1340,7 @@ in the sprint.
 
 333
 00:19:15,631 --> 00:19:21,642
-[SPEAKER_01]: i might have been with us all we did that well if you wouldn't send that to him now because that's not really going to change
+[SPEAKER_01]: i might have been with us all we did that well if you could send that to him now because that's not really going to change
 
 334
 00:19:21,622 --> 00:19:25,077
@@ -1356,7 +1356,7 @@ in the sprint.
 
 337
 00:19:29,359 --> 00:19:32,256
-[SPEAKER_00]: I'll be going to talk to you and pick up my daughter from school.
+[SPEAKER_00]: I'll be going to pick up my daughter from school around
 
 338
 00:19:32,236 --> 00:19:34,035
@@ -1364,11 +1364,11 @@ in the sprint.
 
 339
 00:19:34,520 --> 00:19:36,238
-[SPEAKER_01]: The fourth three is fine.
+[SPEAKER_01]: Before 3 is fine, 
 
 340
 00:19:36,218 --> 00:19:40,710
-[SPEAKER_01]: I'll be buttoned up after lunch, so they send it to me sometime after lunch.
+[SPEAKER_01]: I'll be buttoned up after lunch, so send it to me sometime after lunch.
 
 341
 00:19:40,690 --> 00:19:43,984
@@ -1396,7 +1396,7 @@ in the sprint.
 
 347
 00:19:53,525 --> 00:19:56,353
-[SPEAKER_00]: And then I'll get that followed by Rand, and then we'll get with you.
+[SPEAKER_00]: And then I'll get that file ran, and then we'll get with you.
 
 348
 00:19:56,333 --> 00:19:58,107
@@ -1404,7 +1404,7 @@ in the sprint.
 
 349
 00:19:58,329 --> 00:19:59,982
-[SPEAKER_01]: Anything else or is that Ed?
+[SPEAKER_01]: Anything else or is that it?
 
 350
 00:19:59,962 --> 00:20:00,927
@@ -1424,7 +1424,7 @@ in the sprint.
 
 354
 00:20:11,740 --> 00:20:14,764
-[SPEAKER_04]: Air and stuff, just to plan, I heard.
+[SPEAKER_04]: figure and stuff, just to plan, I heard.
 
 355
 00:20:14,744 --> 00:20:20,248
@@ -1436,7 +1436,7 @@ in the sprint.
 
 357
 00:20:23,941 --> 00:20:28,990
-[SPEAKER_02]: We'll knock this one out and have him follow back up on the board.
+[SPEAKER_02]: We'll knock this one out and have him follow back up around 3 or 4.
 
 358
 00:20:28,970 --> 00:20:34,727
@@ -1452,11 +1452,11 @@ in the sprint.
 
 361
 00:20:40,630 --> 00:20:43,654
-[SPEAKER_02]: It'll either be the check smith or
+[SPEAKER_02]: It'll either be the Checksmith or
 
 362
 00:20:43,634 --> 00:20:49,273
-[SPEAKER_01]: Yeah, check smith will take two weeks for sure to knock all that out.
+[SPEAKER_01]: Yeah, Checksmith will take two weeks for sure to knock all that out.
 
 363
 00:20:49,253 --> 00:20:50,964
@@ -1484,11 +1484,11 @@ in the sprint.
 
 369
 00:21:11,984 --> 00:21:15,261
-[SPEAKER_00]: It should work out pretty smooth.
+[SPEAKER_00]: If it all works alright it should work out pretty smooth.
 
 370
 00:21:15,241 --> 00:21:21,252
-[SPEAKER_01]: following two weeks then we gotta check for the ACH thing if that kind of bleeds over so I mean I feel like
+[SPEAKER_01]: following two weeks then we Checksmith or the ACH thing if that kind of bleeds over so I mean I feel like
 
 371
 00:21:21,232 --> 00:21:23,787
@@ -1496,11 +1496,11 @@ in the sprint.
 
 372
 00:21:23,848 --> 00:21:27,208
-[SPEAKER_03]: We're going to need some in this transition.
+[SPEAKER_03]: We're going to need some time in this transition.
 
 373
 00:21:27,188 --> 00:21:30,600
-[SPEAKER_01]: Yeah.
+[SPEAKER_01]: Yeah. 
 
 374
 00:21:30,817 --> 00:21:34,110
@@ -1544,15 +1544,15 @@ in the sprint.
 
 384
 00:22:03,200 --> 00:22:06,291
-[SPEAKER_00]: Yeah, everyone's going to spoil it too much.
+[SPEAKER_00]: Yeah, I won't spoil it too much.
 
 385
 00:22:06,271 --> 00:22:07,225
-[SPEAKER_00]: kind of cool to see.
+[SPEAKER_00]: It'll kind of cool to see.
 
 386
 00:22:07,286 --> 00:22:09,295
-[SPEAKER_00]: But yeah, essentially we're wanting to give you
+[SPEAKER_00]: But yeah, essentially we're wanting to give youa way to
 
 387
 00:22:09,275 --> 00:22:14,290
@@ -1620,11 +1620,11 @@ in the sprint.
 
 403
 00:22:55,208 --> 00:23:00,527
-[SPEAKER_02]: The only part that I wish Christian was here for was...
+[SPEAKER_02]: The only part that I wish Krishna was here for was...
 
 404
 00:23:00,507 --> 00:23:03,531
-[SPEAKER_02]: So you have to push back, putting that
+[SPEAKER_02]: Pushing back putting that
 
 405
 00:23:03,511 --> 00:23:06,535
@@ -1640,7 +1640,7 @@ in the sprint.
 
 408
 00:23:13,214 --> 00:23:19,157
-[SPEAKER_00]: yeah i wasn't sure how to handle that because you just tell them no because they do need it especially the payroll what they need by
+[SPEAKER_00]: yeah i wasn't sure how to handle that because you  can't just tell them no because they do need it especially the payroll what they need by
 
 409
 00:23:19,137 --> 00:23:20,274
@@ -1660,7 +1660,7 @@ in the sprint.
 
 413
 00:23:24,493 --> 00:23:28,152
-[SPEAKER_00]: It's not like we can't just run a SQL script and fix it after the fact.
+[SPEAKER_00]: It's not like we can't just run an SQL script and fix it after the fact.
 
 414
 00:23:28,132 --> 00:23:31,662
@@ -1672,7 +1672,7 @@ in the sprint.
 
 416
 00:23:37,092 --> 00:23:41,517
-[SPEAKER_02]: We can talk with Christian about that on how we...
+[SPEAKER_02]: We can talk with Krishna about that on how we...
 
 417
 00:23:41,497 --> 00:23:44,520
@@ -1680,11 +1680,11 @@ in the sprint.
 
 418
 00:23:44,500 --> 00:23:47,608
-[SPEAKER_03]: Yeah, for the future you can just come on.
+[SPEAKER_04]: Yeah, for the future you can just come on.
 
 419
 00:23:47,588 --> 00:23:50,764
-[SPEAKER_03]: If they tell us what we have to come up with.
+[SPEAKER_04]: If they tell us what we have to come up with.
 
 420
 00:23:50,744 --> 00:23:55,084
@@ -1697,11 +1697,11 @@ in the sprint.
 
 422
 00:23:58,068 --> 00:24:02,543
-[SPEAKER_03]: Yeah, that's what I was asking.
+[SPEAKER_04]: Yeah, that's what I was asking.
 
 423
 00:24:02,523 --> 00:24:07,116
-[SPEAKER_03]: Can we just put an idea for them, like think about here and stuff?
+[SPEAKER_04]: Can we just put an idea for them, like think about here and stuff?
 
 424
 00:24:07,096 --> 00:24:11,858
@@ -1721,7 +1721,7 @@ in the sprint.
 
 428
 00:24:21,912 --> 00:24:26,185
-[SPEAKER_00]: iterate through this, like building up to what we eventually want.
+[SPEAKER_00]: iterating through this, like building up to what we eventually want.
 
 429
 00:24:26,165 --> 00:24:30,555
@@ -1818,7 +1818,7 @@ in the sprint.
 
 452
 00:25:53,695 --> 00:25:58,558
-[SPEAKER_00]: or overestimated, I mean like we have extra time and we can work on some of that
+[SPEAKER_00]: or overestimated, I mean like we have extra time and we can work on some of that tech I guess.
 
 453
 00:25:58,538 --> 00:26:03,672
@@ -1826,7 +1826,7 @@ in the sprint.
 
 454
 00:26:03,652 --> 00:26:09,291
-[SPEAKER_02]: yeah or the rewrite of so
+[SPEAKER_02]: yeah or the rewrite of Point of Sale 
 
 455
 00:26:09,271 --> 00:26:12,835
@@ -1858,7 +1858,7 @@ in the sprint.
 
 462
 00:26:31,715 --> 00:26:36,257
-[SPEAKER_00]: like to actually break it up into small chunks where we can
+[SPEAKER_00]: like to actually break it up into small chunks where we can work through it
 
 463
 00:26:36,237 --> 00:26:39,261
@@ -1866,7 +1866,7 @@ in the sprint.
 
 464
 00:26:39,241 --> 00:26:42,923
-[SPEAKER_02]: Like he was kind of saying with that checks smith stuff,
+[SPEAKER_02]: Like he was kind of saying with that Checksmith stuff,
 
 465
 00:26:43,780 --> 00:26:49,791
@@ -1874,7 +1874,7 @@ in the sprint.
 
 466
 00:26:49,771 --> 00:26:53,579
-[SPEAKER_02]: If not, we'll push it off another string or whatever.
+[SPEAKER_02]: If not, we'll push it off another sprint or whatever.
 
 467
 00:26:53,600 --> 00:26:53,942
@@ -1930,7 +1930,7 @@ in the sprint.
 
 480
 00:27:38,422 --> 00:27:41,732
-[SPEAKER_00]: Every time we do a floor request and that gets completed.
+[SPEAKER_00]: Every time we do a pull request and that gets completed.
 
 481
 00:27:41,712 --> 00:27:46,997
@@ -1962,11 +1962,11 @@ in the sprint.
 
 488
 00:28:05,354 --> 00:28:06,460
-[SPEAKER_00]: We would have to add.
+[SPEAKER_05]: We would have to add.
 
 489
 00:28:06,480 --> 00:28:11,365
-[SPEAKER_00]: Maybe that would be more just like for the manual testing side of things and they could do like one day.
+[SPEAKER_00]: Maybe that would be more just like for the manual testing side of things and they could do like one big.
 
 490
 00:28:11,345 --> 00:28:13,898
@@ -1986,7 +1986,7 @@ in the sprint.
 
 494
 00:28:19,124 --> 00:28:22,300
-[SPEAKER_00]: Can we just do one run through the regression test at the end of this?
+[SPEAKER_00]: Can we just do one run through the regression test at the end of this sprint?
 
 495
 00:28:22,280 --> 00:28:25,303
@@ -1994,7 +1994,7 @@ in the sprint.
 
 496
 00:28:25,283 --> 00:28:28,258
-[SPEAKER_05]: I mean, either way would be fine just because I would set up.
+[SPEAKER_05]: I mean, either way would be fine just because how it would be set up.
 
 497
 00:28:28,359 --> 00:28:31,294
@@ -2002,7 +2002,7 @@ in the sprint.
 
 498
 00:28:31,274 --> 00:28:36,643
-[SPEAKER_05]: you have one run going it's waiting on approval and if you did another release it wouldn't start that
+[SPEAKER_05]: you have one run going it's waiting on approval and if you did another release it wouldn't start that run
 
 499
 00:28:36,623 --> 00:28:38,105
@@ -2058,7 +2058,7 @@ in the sprint.
 
 512
 00:29:12,257 --> 00:29:16,941
-[SPEAKER_00]: Yeah, that way it's fresher in your mind too if I find something
+[SPEAKER_06]: Yeah, that way it's fresher in your mind too if I find something
 
 513
 00:29:16,921 --> 00:29:19,141
@@ -2077,17 +2077,16 @@ in the sprint.
 [SPEAKER_00]: everything, you know, this way it'll be kind of more, once we get to the end, like you just have to test whatever the last thing is, then we're going to go.
 
 517
-# Never said 
 00:29:30,860 --> 00:29:31,976
-[SPEAKER_00]: activities.
+[SPEAKER_04]: Actually, Ethan.
 
 518
 00:29:33,620 --> 00:29:33,883
-[SPEAKER_03]: If I
+[SPEAKER_04]: If I
 
 519
 00:29:33,863 --> 00:29:38,777
-[SPEAKER_03]: may ask how the architecture for this pipeline is set right now.
+[SPEAKER_04]: may ask how the architecture for this pipeline is set right now. What is...
 
 520
 00:29:39,432 --> 00:29:41,950
@@ -2095,7 +2094,7 @@ in the sprint.
 
 521
 00:29:41,970 --> 00:29:43,722
-[SPEAKER_03]: How is this pipeline set?
+[SPEAKER_04]: How is this pipeline set?
 
 522
 00:29:44,815 --> 00:29:49,257
@@ -2115,7 +2114,7 @@ in the sprint.
 
 526
 00:29:57,961 --> 00:30:00,985
-[SPEAKER_00]: testing, we have to go manually trigger or release.
+[SPEAKER_00]: testing, we have to go manually trigger our release.
 
 527
 00:30:00,965 --> 00:30:04,242
@@ -2159,7 +2158,7 @@ in the sprint.
 
 537
 00:30:45,177 --> 00:30:50,867
-[SPEAKER_03]: I'll also try to do some research if we can come up with an efficient rate.
+[SPEAKER_04]: I'll also try to do some research if we can come up with an efficient rate.
 
 538
 00:30:50,847 --> 00:30:52,619
@@ -2167,43 +2166,43 @@ in the sprint.
 
 539
 00:30:52,639 --> 00:30:55,660
-[SPEAKER_03]: I will also try to do some research about this.
+[SPEAKER_04]: I will also try to do some research about this.
 
 540
 00:30:55,640 --> 00:30:56,687
-[SPEAKER_03]: A little bit.
+[SPEAKER_04]: A little bit.
 
 541
 00:30:56,707 --> 00:31:00,553
-[SPEAKER_03]: I haven't looked into our Azure pipelines apart of now.
+[SPEAKER_04]: I haven't looked into our Azure pipelines apart of now.
 
 542
 00:31:00,533 --> 00:31:03,625
-[SPEAKER_03]: But yeah, I will do some research as well.
+[SPEAKER_04]: But yeah, I will do some research as well.
 
 543
 00:31:03,773 --> 00:31:05,904
-[SPEAKER_00]: They're voting in their paintings.
+[SPEAKER_00]: A warning, they're a pain in the neck. 
 
 544
 00:31:05,925 --> 00:31:06,797
-[SPEAKER_03]: Oh, yeah.
+[SPEAKER_04]: Oh, yeah.
 
 545
 00:31:06,777 --> 00:31:12,653
-[SPEAKER_03]: I never dealt with Azure, I dealt with AWS and yeah.
+[SPEAKER_04]: I never dealt with Azure, I dealt with AWS and yeah.
 
 546
 00:31:12,633 --> 00:31:16,336
-[SPEAKER_03]: Pretty much they should be the same.
+[SPEAKER_04]: Pretty much they should be the same, though.
 
 547
 00:31:16,356 --> 00:31:18,610
-[SPEAKER_03]: Let's see.
+[SPEAKER_04]: Let's see.
 
 548
 00:31:26,605 --> 00:31:27,967
-[SPEAKER_01]: Thank you.
+[SPEAKER_06]: Thank you.
 
 549
 00:31:28,597 --> 00:31:29,308

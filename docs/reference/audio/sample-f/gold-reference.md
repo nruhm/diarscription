@@ -1,21 +1,9 @@
-# SPEAKER_00: Andrew
-# SPEAKER_01: Stacey 
-# SPEAKER_02: Adam
-# SPEAKER_03: Scott
-# SPEAKER_04: Ethan
-# SPEAKER_05: Chris W
-# SPEAKER_06: Greg ?
-# SPEAKER_07: CK
-
 1
-# 1 and 2 is just people walking in, can ignore. 
 00:00:11,624 --> 00:00:15,002
-I'm going to be in there.
 
 2
 00:00:30,170 --> 00:00:31,051
-until I got here.
-#
+[SPEAKER_02]: My back didn't hurt nearly as bad until I got here.
 
 3
 00:00:45,155 --> 00:00:49,140
@@ -39,7 +27,7 @@ until I got here.
 
 8
 00:00:59,127 --> 00:01:02,488
-[SPEAKER_00]: Just stale, I'll be fine.
+[SPEAKER_00]: It's just stale, I'll be fine.
 
 9
 00:01:03,042 --> 00:01:06,862
@@ -92,7 +80,7 @@ until I got here.
 
 21
 00:01:36,758 --> 00:01:42,263
-[SPEAKER_00]: I just sharpened my pencil.
+[SPEAKER_00]: I just sharpened my pencil and I was twirling it.
 
 22
 00:01:44,048 --> 00:01:49,603
@@ -104,7 +92,7 @@ until I got here.
 
 24
 00:02:03,438 --> 00:02:05,749
-[SPEAKER_02]: This is everybody, right? Conrad, Jason.
+[SPEAKER_02]: This is everybody, right? Conrad, Jacob?
 
 25
 00:02:05,790 --> 00:02:06,580
@@ -116,7 +104,7 @@ until I got here.
 
 27
 00:02:09,884 --> 00:02:12,115
-[SPEAKER_02]: I think they're coming back tomorrow.
+[SPEAKER_02]: I think they're coming back tomorrow, I think. Right?
 
 28
 00:02:15,082 --> 00:02:21,075
@@ -124,7 +112,7 @@ until I got here.
 
 29
 00:02:23,637 --> 00:02:27,319
-[SPEAKER_02]: I know they were going to come today.
+[SPEAKER_02]: Stevie said, I know they were going to come back today.
 
 30
 00:02:29,493 --> 00:02:30,500
@@ -132,11 +120,11 @@ until I got here.
 
 31
 00:02:30,521 --> 00:02:34,288
-[SPEAKER_04]: I think Si said, I think, that they're coming back.
+[SPEAKER_04]: I think Sai said, I think, that they're coming back.
 
 32
 00:02:34,268 --> 00:02:38,116
-[SPEAKER_04]: tomorrow but they're going to be getting in late so it would probably be off Wednesday too.
+[SPEAKER_04]: tomorrow but they're going to be getting in late so it would probably be out Wednesday too.
 
 33
 00:02:38,680 --> 00:02:40,009
@@ -164,15 +152,15 @@ until I got here.
 
 39
 00:02:57,286 --> 00:03:03,229
-[SPEAKER_02]: That one's just to kind of get her feet wet, see what his expectations are.
+[SPEAKER_02]: That one's just to kind of get our feet wet, see what his expectations are.
 
 40
 00:03:03,209 --> 00:03:07,195
-[SPEAKER_02]: We'll talk about what we want to try and get out of and
+[SPEAKER_02]: We'll talk about what we want to try and get out of him
 
 41
 00:03:07,175 --> 00:03:10,789
-[SPEAKER_02]: and then start getting the wheel turned.
+[SPEAKER_02]: and then start getting the wheels turned.
 [SPEAKER_00]: What team? 
 
 42
@@ -225,11 +213,11 @@ until I got here.
 
 54
 00:03:44,620 --> 00:03:50,310
-[SPEAKER_02]: the in between the user perspective.
+[SPEAKER_02]: the in between user perspective.
 
 55
 00:03:50,290 --> 00:03:53,415
-[SPEAKER_02]: us and kind of take that off our plate.
+[SPEAKER_02]: And us and kind of take that off our plate.
 
 56
 00:03:53,395 --> 00:03:57,685
@@ -237,7 +225,8 @@ until I got here.
 
 57
 00:03:57,665 --> 00:04:02,022
-[SPEAKER_05]: Yeah, taking it into like a project management room too.
+[SPEAKER_02]: Yeah.
+[SPEAKER_05]: Taking it into like a project management room too.
 
 58
 00:04:02,002 --> 00:04:05,025
@@ -297,7 +286,7 @@ until I got here.
 
 72
 00:04:48,408 --> 00:04:50,386
-[SPEAKER_02]: Do we have anything else to go out?
+[SPEAKER_02]: Did we have anything else go out?
 
 73
 00:04:51,011 --> 00:04:53,271
@@ -317,7 +306,7 @@ until I got here.
 
 77
 00:04:57,762 --> 00:04:59,392
-[SPEAKER_04]: He's what Jordan thinks.
+[SPEAKER_04]: See what Jordan thinks.
 
 78
 00:04:59,412 --> 00:04:59,795
@@ -341,7 +330,7 @@ until I got here.
 
 83
 00:05:20,200 --> 00:05:23,730
-[SPEAKER_04]: deposit stuff and you'll use that sound like it worked great so
+[SPEAKER_04]: deposit stuff and you'll use that, seemed like it worked great so
 
 84
 00:05:23,710 --> 00:05:28,438
@@ -349,11 +338,11 @@ until I got here.
 
 85
 00:05:28,418 --> 00:05:32,252
-[SPEAKER_02]: That's a win if all goes well.
+[SPEAKER_02]: Sweet, that's a win if all goes well.
 
 86
 00:05:32,772 --> 00:05:38,563
-[SPEAKER_04]: I delivered like a week later, but also Matt was on sales stuff the whole time, so yeah.
+[SPEAKER_04]: I delivered like a week late, but also Matt was on sales stuff the whole time, so yeah.
 
 87
 00:05:39,488 --> 00:05:41,500
@@ -369,7 +358,7 @@ until I got here.
 
 90
 00:05:52,364 --> 00:05:56,569
-[SPEAKER_04]: No, did you get the list of those?
+[SPEAKER_04]: No, did you get like the list of those?
 
 91
 00:05:56,549 --> 00:06:02,087
@@ -385,12 +374,10 @@ until I got here.
 
 94
 00:06:07,214 --> 00:06:13,225
-[SPEAKER_02]: okay yeah if we get those verified that they're not
+[SPEAKER_02]: Because yeah if we get those verified that they're not
 
 95
-# Never said 
 00:06:13,205 --> 00:06:13,498
-Bye.
 
 96
 00:06:14,420 --> 00:06:19,502
@@ -426,7 +413,7 @@ Bye.
 
 104
 00:06:42,584 --> 00:06:47,953
-[SPEAKER_02]: I'll just, I'll grab and see who we send S and S to and put the same thing on there.
+[SPEAKER_02]: I'll just, I'll grab and see who we send SMS to and put the same thing on there.
 
 105
 00:06:51,730 --> 00:06:56,001
@@ -434,7 +421,7 @@ Bye.
 
 106
 00:06:56,021 --> 00:06:56,948
-[SPEAKER_02]: Did I figure that out?
+[SPEAKER_02]: Did you figure that out?
 
 107
 00:06:56,928 --> 00:06:59,024
@@ -446,7 +433,7 @@ Bye.
 
 109
 00:07:02,058 --> 00:07:07,815
-[SPEAKER_06]: I think he's going to restart the service at nine, so we'll see how that looks at it.
+[SPEAKER_06]: I think he's going to restart the service at nine, so we'll see how that looks then.
 [SPEAKER_02]: Okay.
 
 110
@@ -475,7 +462,7 @@ Bye.
 
 116
 00:07:34,222 --> 00:07:39,405
-[SPEAKER_02]: Like App Hub 2 that we've had for years.
+[SPEAKER_02]: Like App Hub 2 that we've had for ever for Cabinet Order.
 
 117
 00:07:39,385 --> 00:07:40,755
@@ -502,9 +489,8 @@ Bye.
 [SPEAKER_02]: Yeah.
 
 123
-# Never said 
 00:07:52,750 --> 00:07:54,306
-[SPEAKER_02]: I know.
+[SPEAKER_02]: Alright.
 
 124
 00:07:55,282 --> 00:07:58,947
@@ -524,7 +510,7 @@ Bye.
 
 128
 00:08:09,625 --> 00:08:14,758
-[SPEAKER_04]: a benefit broker we're working on that right now i don't know if we'll do like a couple of small releases or just
+[SPEAKER_04]: We might have a benefit broker we're working on that right now i don't know if we'll do like a couple of small releases or just
 
 129
 00:08:14,738 --> 00:08:15,792
@@ -556,13 +542,12 @@ Bye.
 
 136
 00:08:40,749 --> 00:08:41,995
-[SPEAKER_02]: Just because...
-# SPEAKER_04 entered manually 
-[SPEAKER_04]: I'm sure it's a little tedious to have to transfer the files every time 
+[SPEAKER_02]: Just because I'm doing it right now.
+[SPEAKER_04]: I'm sure it's a little tedious to have to have to transfer the files every time 
 
 137
 00:08:45,046 --> 00:08:51,057
-[SPEAKER_02]: I don't mind to do it at all, if it's not here.
+[SPEAKER_02]: I don't mind to do it at all, if not here.
 
 138
 00:08:51,037 --> 00:08:55,393
@@ -574,11 +559,12 @@ Bye.
 
 140
 00:08:58,520 --> 00:09:02,802
-[SPEAKER_04]: It'd be more secure, too, that way we don't have to get teams or get team help.
+[SPEAKER_04]: It'd be more secure, too, that way we don't have to get teams or anything involved.
+[SPEAKER_02]: Right.
 
 141
 00:09:02,782 --> 00:09:05,704
-[SPEAKER_05]: And Portion Foundry too.
+[SPEAKER_05]: And Fortune Foundry too.
 
 142
 00:09:06,443 --> 00:09:12,403
@@ -606,7 +592,9 @@ Bye.
 
 148
 00:09:28,516 --> 00:09:33,514
-[SPEAKER_05]: the ACH business and yeah I found the thing and he found the
+[SPEAKER_05]: the ACH business and  
+[SPEAKER_02]: Yeah.
+[SPEAKER_05]: I found the thing and he found the
 
 149
 00:09:33,494 --> 00:09:39,032
@@ -654,7 +642,7 @@ Bye.
 
 160
 00:10:19,242 --> 00:10:25,152
-[SPEAKER_05]: for difficult users and also pulling you, pulling your time out.
+[SPEAKER_05]: for like difficult users and also pulling you, pulling your time out.
 
 161
 00:10:25,132 --> 00:10:27,266
@@ -669,9 +657,8 @@ Bye.
 [SPEAKER_04]: I think so.
 
 164
-# Never said 
 00:10:30,809 --> 00:10:30,990
-[SPEAKER_05]: You know.
+[SPEAKER_02]: Yeah.
 
 165
 00:10:31,325 --> 00:10:32,600
@@ -707,7 +694,7 @@ Bye.
 
 173
 00:11:00,383 --> 00:11:04,611
-[SPEAKER_04]: 16 different apps that are, you know, slightly connected, but not really.
+[SPEAKER_04]: 16 different apps that are all, you know, slightly connected, but not really.
 
 174
 00:11:04,652 --> 00:11:05,618
@@ -715,7 +702,7 @@ Bye.
 
 175
 00:11:05,918 --> 00:11:11,203
-[SPEAKER_04]: playing sprints and stuff around, just like fixing like one little thing here, going a little bit here.
+[SPEAKER_04]: plan sprints and stuff around, just like fixing like one little thing here, going a little bit here.
 
 176
 00:11:11,183 --> 00:11:16,527
@@ -739,7 +726,7 @@ Bye.
 
 181
 00:11:31,108 --> 00:11:33,445
-[SPEAKER_02]: The way they do things.
+[SPEAKER_02]: On the way they do things.
 
 182
 00:11:33,762 --> 00:11:36,821
@@ -763,7 +750,7 @@ Bye.
 
 187
 00:11:50,131 --> 00:11:55,467
-[SPEAKER_05]: So to consolidate things differently now, I don't know.
+[SPEAKER_05]: Teams so to consolidate things differently now, I don't know.
 
 188
 00:11:55,447 --> 00:11:57,445
@@ -775,7 +762,7 @@ Bye.
 
 190
 00:11:59,125 --> 00:12:03,633
-[SPEAKER_02]: way to just throw things at him and say, hey, have you ever seen this before?
+[SPEAKER_02]: Good way to just throw things at him and say, hey, have you ever seen this before?
 
 191
 00:12:03,653 --> 00:12:04,478
@@ -856,12 +843,11 @@ Bye.
 
 210
 00:12:57,023 --> 00:13:02,157
-[SPEAKER_02]: Kyle is from a different country too, I guess.
+[SPEAKER_02]: Although Kyle is from a different country too, I guess.
 
 211
-# Never said 
 00:13:04,060 --> 00:13:05,195
-[SPEAKER_02]: Hello.
+[SPEAKER_02]: Um.
 
 212
 00:13:10,827 --> 00:13:12,940
@@ -877,11 +863,11 @@ Bye.
 
 215
 00:13:17,459 --> 00:13:22,187
-[SPEAKER_02]: So we'll set him up with a VM, that way he has some place to connect to. 
+[SPEAKER_02]: So we'll set him up with a VM too, that way he has some place to connect to. 
 
 216
 00:13:30,385 --> 00:13:34,258
-[SPEAKER_02]: Somebody work on that.
+[SPEAKER_02]: We'll have somebody work on that.
 
 217
 00:13:34,278 --> 00:13:34,641
@@ -938,7 +924,7 @@ Bye.
 
 230
 00:14:27,558 --> 00:14:29,923
-[SPEAKER_03]: It's grown and
+[SPEAKER_03]: It's grown in
 
 231
 00:14:32,013 --> 00:14:34,634
@@ -949,9 +935,7 @@ Bye.
 [SPEAKER_02]: Yeah.
 
 233
-# Never said 
 00:14:36,691 --> 00:14:36,792
-So...
 
 234
 00:14:36,772 --> 00:14:40,723
@@ -959,11 +943,11 @@ So...
 
 235
 00:14:41,092 --> 00:14:43,120
-[SPEAKER_02]: Yeah, so I wanna keep the meetings.
+[SPEAKER_02]: Yeah, still want to keep the meetings short and to the point.
 
 236
 00:14:43,910 --> 00:14:47,436
-[SPEAKER_02]: I'm short to the point, but we gotta find that point.
+[SPEAKER_02]: But we gotta find that point.
 
 237
 00:14:48,121 --> 00:14:48,705
@@ -995,7 +979,7 @@ So...
 
 244
 00:15:06,886 --> 00:15:09,377
-[SPEAKER_00]: One, I don't know if you've seen
+[SPEAKER_00]: One, I don't know if you've seen in the dirt
 
 245
 00:15:09,357 --> 00:15:13,191
@@ -1003,7 +987,7 @@ So...
 
 246
 00:15:13,171 --> 00:15:17,106
-[SPEAKER_00]: Those are, do you know what I'm talking about?
+[SPEAKER_00]: Those are ant, do you know what I'm talking about?
 
 247
 00:15:17,086 --> 00:15:21,038
@@ -1072,7 +1056,7 @@ So...
 
 263
 00:16:10,512 --> 00:16:13,620
-[SPEAKER_03]: Now the cones look like volcanoes or the ants.
+[SPEAKER_03]: Now the cones that look like volcanoes are the ants.
 
 264
 00:16:13,600 --> 00:16:19,611
@@ -1095,7 +1079,7 @@ So...
 
 268
 00:16:27,387 --> 00:16:30,657
-[SPEAKER_03]: Just the ant land would come up out of there.
+[SPEAKER_03]: Just the antlion would come up out of there.
 [SPEAKER_00]: Antlion. 
 
 269
@@ -1148,7 +1132,7 @@ So...
 
 281
 00:17:09,912 --> 00:17:11,901
-[SPEAKER_00]: that are kind of shaped like an ant.
+[SPEAKER_00]: Are kind of shaped like an ant.
 
 282
 00:17:13,206 --> 00:17:15,737
@@ -1177,7 +1161,7 @@ So...
 
 288
 00:17:36,322 --> 00:17:41,117
-[SPEAKER_00]: The last fact, this may be controversial, but I'm 99%.
+[SPEAKER_00]: The last fact, this may be controversial, but I'm 99% positive.
 
 289
 00:17:41,097 --> 00:17:45,640
@@ -1232,9 +1216,7 @@ So...
 [SPEAKER_00]: My whole life was a lie.
 
 302
-# Never said 
 00:18:09,025 --> 00:18:10,395
-[SPEAKER_00]: Thank you.
 
 303
 00:18:11,152 --> 00:18:14,277
@@ -1278,7 +1260,7 @@ So...
 
 313
 00:18:45,003 --> 00:18:48,027
-[SPEAKER_00]: just on the end, but it's like they shoot it
+[SPEAKER_00]: just on the end, but it's like they shoot it out
 
 314
 00:18:48,007 --> 00:18:53,190
@@ -1287,6 +1269,7 @@ So...
 315
 00:18:53,170 --> 00:18:56,363
 [SPEAKER_03]: That sounds more like what I thought those lion ants were.
+[SPEAKER_00]: And...
 
 316
 00:18:56,343 --> 00:19:00,295
@@ -1313,9 +1296,7 @@ So...
 [SPEAKER_02]: It wasn't too bad.
 
 322
-# Not said 
 00:19:25,081 --> 00:19:26,631
-[SPEAKER_02]: Okay.
 
 323
 00:19:26,652 --> 00:19:28,484
@@ -1403,7 +1384,7 @@ So...
 
 344
 00:20:03,185 --> 00:20:05,197
-[SPEAKER_02]: Have you heard from Kyle?
+[SPEAKER_02]: Has anybody heard from Kyle?
 
 345
 00:20:05,257 --> 00:20:05,659
@@ -1431,7 +1412,7 @@ So...
 
 351
 00:20:24,802 --> 00:20:26,492
-[SPEAKER_00]: North Carolina, I think.
+[SPEAKER_00]: North Carolina, I think somewhere.
 
 352
 00:20:31,585 --> 00:20:32,674
@@ -1467,7 +1448,7 @@ So...
 
 360
 00:20:42,790 --> 00:20:44,900
-[SPEAKER_04]: Do not object.
+[SPEAKER_04]: I do not object.
 
 361
 00:20:44,920 --> 00:20:46,990
@@ -1483,7 +1464,7 @@ So...
 
 364
 00:20:52,662 --> 00:20:57,002
-[SPEAKER_03]: I think the only thing close to a shrimp will...
+[SPEAKER_03]: I think the only thing close to a shrimp boil...
 
 365
 00:20:56,982 --> 00:21:02,385
@@ -1516,16 +1497,15 @@ So...
 
 372
 00:21:17,806 --> 00:21:21,606
-[SPEAKER_02]: The one we went to was a Cajun Crab House, I think it was.
+[SPEAKER_02]: The one we went to was a Cajun Crab House, I think it was called?
 
 373
 00:21:21,586 --> 00:21:21,687
 [SPEAKER_02]: Yeah, it was good. 
 
 374
-# 374-375 is background noise, everybody left 
 00:21:32,487 --> 00:21:34,633
-[SPEAKER_01]: And I'm just going to say,
+[SPEAKER_05]: And I'm just going to say.
 
 375
 00:21:46,831 --> 00:21:47,493
