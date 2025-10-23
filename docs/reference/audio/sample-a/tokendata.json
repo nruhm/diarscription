@@ -1,0 +1,1115 @@
+[
+    {
+        "token": "Okay",
+        "id": 0,
+        "speaker": 0,
+        "start": 0,
+        "end": 0.004
+    },
+    {
+        "token": ",",
+        "id": 1,
+        "speaker": 0,
+        "start": 0.004,
+        "end": 0.008
+    },
+    {
+        "token": " so",
+        "id": 2,
+        "speaker": 0,
+        "start": 0.008,
+        "end": 0.011
+    },
+    {
+        "token": " there",
+        "id": 3,
+        "speaker": 0,
+        "start": 0.011,
+        "end": 0.015
+    },
+    {
+        "token": " was",
+        "id": 4,
+        "speaker": 0,
+        "start": 0.015,
+        "end": 0.019
+    },
+    {
+        "token": " something",
+        "id": 5,
+        "speaker": 0,
+        "start": 0.019,
+        "end": 0.023
+    },
+    {
+        "token": " that",
+        "id": 6,
+        "speaker": 0,
+        "start": 0.023,
+        "end": 0.026
+    },
+    {
+        "token": " caused",
+        "id": 7,
+        "speaker": 0,
+        "start": 0.026,
+        "end": 0.03
+    },
+    {
+        "token": " it",
+        "id": 8,
+        "speaker": 0,
+        "start": 0.03,
+        "end": 0.034
+    },
+    {
+        "token": " to",
+        "id": 9,
+        "speaker": 0,
+        "start": 0.034,
+        "end": 0.038
+    },
+    {
+        "token": " not",
+        "id": 10,
+        "speaker": 0,
+        "start": 0.038,
+        "end": 0.041
+    },
+    {
+        "token": " go",
+        "id": 11,
+        "speaker": 0,
+        "start": 0.041,
+        "end": 0.045
+    },
+    {
+        "token": " down",
+        "id": 12,
+        "speaker": 0,
+        "start": 0.045,
+        "end": 0.049
+    },
+    {
+        "token": " far",
+        "id": 13,
+        "speaker": 0,
+        "start": 0.049,
+        "end": 0.053
+    },
+    {
+        "token": " enough",
+        "id": 14,
+        "speaker": 0,
+        "start": 0.053,
+        "end": 0.056
+    },
+    {
+        "token": ".",
+        "id": 15,
+        "speaker": 0,
+        "start": 0.056,
+        "end": 0.06
+    },
+    {
+        "token": "to",
+        "id": 16,
+        "speaker": 0,
+        "start": 0.07,
+        "end": 0.07
+    },
+    {
+        "token": " actually",
+        "id": 17,
+        "speaker": 0,
+        "start": 0.07,
+        "end": 0.07
+    },
+    {
+        "token": ",",
+        "id": 18,
+        "speaker": 0,
+        "start": 0.08,
+        "end": 0.08
+    },
+    {
+        "token": " there",
+        "id": 19,
+        "speaker": 0,
+        "start": 0.08,
+        "end": 0.08
+    },
+    {
+        "token": "'s'",
+        "id": 20,
+        "speaker": 0,
+        "start": 0.08,
+        "end": 0.08
+    },
+    {
+        "token": " some",
+        "id": 21,
+        "speaker": 0,
+        "start": 0.09,
+        "end": 0.09
+    },
+    {
+        "token": " kind",
+        "id": 22,
+        "speaker": 0,
+        "start": 0.09,
+        "end": 0.09
+    },
+    {
+        "token": " of",
+        "id": 23,
+        "speaker": 0,
+        "start": 0.09,
+        "end": 0.09
+    },
+    {
+        "token": " Oh",
+        "id": 24,
+        "speaker": 1,
+        "start": 0.09,
+        "end": 0.1
+    },
+    {
+        "token": " to",
+        "id": 25,
+        "speaker": 1,
+        "start": 0.1,
+        "end": 0.1
+    },
+    {
+        "token": " grab",
+        "id": 26,
+        "speaker": 1,
+        "start": 0.1,
+        "end": 0.11
+    },
+    {
+        "token": "situation",
+        "id": 27,
+        "speaker": 0,
+        "start": 0.11,
+        "end": 0.11
+    },
+    {
+        "token": " Well",
+        "id": 28,
+        "speaker": 0,
+        "start": 0.11,
+        "end": 0.12
+    },
+    {
+        "token": ",",
+        "id": 29,
+        "speaker": 0,
+        "start": 0.12,
+        "end": 0.12
+    },
+    {
+        "token": " it",
+        "id": 30,
+        "speaker": 0,
+        "start": 0.12,
+        "end": 0.12
+    },
+    {
+        "token": "'s",
+        "id": 31,
+        "speaker": 0,
+        "start": 0.12,
+        "end": 0.12
+    },
+    {
+        "token": " a",
+        "id": 32,
+        "speaker": 0,
+        "start": 0.12,
+        "end": 0.12
+    },
+    {
+        "token": " push",
+        "id": 33,
+        "speaker": 0,
+        "start": 0.12,
+        "end": 0.12
+    },
+    {
+        "token": " bar",
+        "id": 34,
+        "speaker": 0,
+        "start": 0.12,
+        "end": 0.12
+    },
+    {
+        "token": ".",
+        "id": 35,
+        "speaker": 0,
+        "start": 0.12,
+        "end": 0.12
+    },
+    {
+        "token": "Okay",
+        "id": 36,
+        "speaker": 1,
+        "start": 0.12,
+        "end": 0.13
+    },
+    {
+        "token": ".",
+        "id": 37,
+        "speaker": 1,
+        "start": 0.13,
+        "end": 0.13
+    },
+    {
+        "token": "So",
+        "id": 38,
+        "speaker": 0,
+        "start": 0.13,
+        "end": 0.13
+    },
+    {
+        "token": " like",
+        "id": 39,
+        "speaker": 0,
+        "start": 0.13,
+        "end": 0.13
+    },
+    {
+        "token": " a",
+        "id": 40,
+        "speaker": 0,
+        "start": 0.13,
+        "end": 0.13
+    },
+    {
+        "token": " push",
+        "id": 41,
+        "speaker": 0,
+        "start": 0.13,
+        "end": 0.14
+    },
+    {
+        "token": " bar",
+        "id": 42,
+        "speaker": 0,
+        "start": 0.14,
+        "end": 0.14
+    },
+    {
+        "token": " comes",
+        "id": 43,
+        "speaker": 0,
+        "start": 0.14,
+        "end": 0.14
+    },
+    {
+        "token": " down",
+        "id": 44,
+        "speaker": 0,
+        "start": 0.14,
+        "end": 0.14
+    },
+    {
+        "token": " just",
+        "id": 45,
+        "speaker": 0,
+        "start": 0.14,
+        "end": 0.14
+    },
+    {
+        "token": " like",
+        "id": 46,
+        "speaker": 0,
+        "start": 0.14,
+        "end": 0.15
+    },
+    {
+        "token": " a",
+        "id": 47,
+        "speaker": 0,
+        "start": 0.15,
+        "end": 0.15
+    },
+    {
+        "token": " bowling",
+        "id": 48,
+        "speaker": 0,
+        "start": 0.15,
+        "end": 0.15
+    },
+    {
+        "token": " alley",
+        "id": 49,
+        "speaker": 0,
+        "start": 0.15,
+        "end": 0.15
+    },
+    {
+        "token": ".",
+        "id": 50,
+        "speaker": 0,
+        "start": 0.15,
+        "end": 0.15
+    },
+    {
+        "token": "Yeah",
+        "id": 51,
+        "speaker": 1,
+        "start": 0.16,
+        "end": 0.16
+    },
+    {
+        "token": ".",
+        "id": 52,
+        "speaker": 1,
+        "start": 0.16,
+        "end": 0.16
+    },
+    {
+        "token": "And",
+        "id": 53,
+        "speaker": 0,
+        "start": 0.16,
+        "end": 0.16
+    },
+    {
+        "token": " then",
+        "id": 54,
+        "speaker": 0,
+        "start": 0.16,
+        "end": 0.16
+    },
+    {
+        "token": ",",
+        "id": 55,
+        "speaker": 0,
+        "start": 0.16,
+        "end": 0.16
+    },
+    {
+        "token": " but",
+        "id": 56,
+        "speaker": 0,
+        "start": 0.16,
+        "end": 0.17
+    },
+    {
+        "token": " that",
+        "id": 57,
+        "speaker": 0,
+        "start": 0.17,
+        "end": 0.17
+    },
+    {
+        "token": " push",
+        "id": 58,
+        "speaker": 0,
+        "start": 0.17,
+        "end": 0.18
+    },
+    {
+        "token": " bar",
+        "id": 59,
+        "speaker": 0,
+        "start": 0.18,
+        "end": 0.18
+    },
+    {
+        "token": " is",
+        "id": 60,
+        "speaker": 0,
+        "start": 0.18,
+        "end": 0.18
+    },
+    {
+        "token": " something",
+        "id": 61,
+        "speaker": 0,
+        "start": 0.18,
+        "end": 0.19
+    },
+    {
+        "token": " that",
+        "id": 62,
+        "speaker": 0,
+        "start": 0.19,
+        "end": 0.19
+    },
+    {
+        "token": " tri",
+        "id": 63,
+        "speaker": 0,
+        "start": 0.19,
+        "end": 0.19
+    },
+    {
+        "token": "pped",
+        "id": 64,
+        "speaker": 0,
+        "start": 0.19,
+        "end": 0.19
+    },
+    {
+        "token": " the",
+        "id": 65,
+        "speaker": 0,
+        "start": 0.19,
+        "end": 0.19
+    },
+    {
+        "token": " machine",
+        "id": 66,
+        "speaker": 0,
+        "start": 0.19,
+        "end": 0.2
+    },
+    {
+        "token": ".",
+        "id": 67,
+        "speaker": 0,
+        "start": 0.2,
+        "end": 0.2
+    },
+    {
+        "token": "to",
+        "id": 68,
+        "speaker": 0,
+        "start": 0.2,
+        "end": 0.2
+    },
+    {
+        "token": " where",
+        "id": 69,
+        "speaker": 0,
+        "start": 0.2,
+        "end": 0.21
+    },
+    {
+        "token": " it",
+        "id": 70,
+        "speaker": 0,
+        "start": 0.21,
+        "end": 0.21
+    },
+    {
+        "token": " wasn",
+        "id": 71,
+        "speaker": 0,
+        "start": 0.21,
+        "end": 0.22
+    },
+    {
+        "token": "'t",
+        "id": 72,
+        "speaker": 0,
+        "start": 0.22,
+        "end": 0.22
+    },
+    {
+        "token": " all",
+        "id": 73,
+        "speaker": 0,
+        "start": 0.22,
+        "end": 0.22
+    },
+    {
+        "token": " the",
+        "id": 74,
+        "speaker": 0,
+        "start": 0.23,
+        "end": 0.23
+    },
+    {
+        "token": " way",
+        "id": 75,
+        "speaker": 0,
+        "start": 0.23,
+        "end": 0.23
+    },
+    {
+        "token": " flush",
+        "id": 76,
+        "speaker": 0,
+        "start": 0.24,
+        "end": 0.24
+    },
+    {
+        "token": ".",
+        "id": 77,
+        "speaker": 0,
+        "start": 0.24,
+        "end": 0.24
+    },
+    {
+        "token": "And",
+        "id": 78,
+        "speaker": 0,
+        "start": 0.25,
+        "end": 0.25
+    },
+    {
+        "token": " I",
+        "id": 79,
+        "speaker": 0,
+        "start": 0.25,
+        "end": 0.25
+    },
+    {
+        "token": " don",
+        "id": 80,
+        "speaker": 0,
+        "start": 0.25,
+        "end": 0.25
+    },
+    {
+        "token": "'t",
+        "id": 81,
+        "speaker": 0,
+        "start": 0.25,
+        "end": 0.26
+    },
+    {
+        "token": " remember",
+        "id": 82,
+        "speaker": 0,
+        "start": 0.26,
+        "end": 0.26
+    },
+    {
+        "token": " what",
+        "id": 83,
+        "speaker": 0,
+        "start": 0.26,
+        "end": 0.26
+    },
+    {
+        "token": " caused",
+        "id": 84,
+        "speaker": 0,
+        "start": 0.26,
+        "end": 0.27
+    },
+    {
+        "token": ".",
+        "id": 85,
+        "speaker": 0,
+        "start": 0.27,
+        "end": 0.27
+    },
+    {
+        "token": "It",
+        "id": 86,
+        "speaker": 0,
+        "start": 0.28,
+        "end": 0.28
+    },
+    {
+        "token": "'s",
+        "id": 87,
+        "speaker": 0,
+        "start": 0.28,
+        "end": 0.28
+    },
+    {
+        "token": " very",
+        "id": 88,
+        "speaker": 0,
+        "start": 0.28,
+        "end": 0.28
+    },
+    {
+        "token": ",",
+        "id": 89,
+        "speaker": 0,
+        "start": 0.28,
+        "end": 0.28
+    },
+    {
+        "token": " very",
+        "id": 90,
+        "speaker": 0,
+        "start": 0.29,
+        "end": 0.29
+    },
+    {
+        "token": " rare",
+        "id": 91,
+        "speaker": 0,
+        "start": 0.29,
+        "end": 0.29
+    },
+    {
+        "token": ",",
+        "id": 92,
+        "speaker": 0,
+        "start": 0.29,
+        "end": 0.29
+    },
+    {
+        "token": "Yeah",
+        "id": 93,
+        "speaker": 1,
+        "start": 0.29,
+        "end": 0.29
+    },
+    {
+        "token": ".",
+        "id": 94,
+        "speaker": 1,
+        "start": 0.29,
+        "end": 0.29
+    },
+    {
+        "token": " but",
+        "id": 95,
+        "speaker": 0,
+        "start": 0.3,
+        "end": 0.3
+    },
+    {
+        "token": " something",
+        "id": 96,
+        "speaker": 0,
+        "start": 0.3,
+        "end": 0.3
+    },
+    {
+        "token": " caused",
+        "id": 97,
+        "speaker": 0,
+        "start": 0.3,
+        "end": 0.3
+    },
+    {
+        "token": " it",
+        "id": 98,
+        "speaker": 0,
+        "start": 0.31,
+        "end": 0.31
+    },
+    {
+        "token": " .",
+        "id": 99,
+        "speaker": 0,
+        "start": 0.31,
+        "end": 0.31
+    },
+    {
+        "token": "And",
+        "id": 100,
+        "speaker": 0,
+        "start": 0.32,
+        "end": 0.32
+    },
+    {
+        "token": " then",
+        "id": 101,
+        "speaker": 0,
+        "start": 0.32,
+        "end": 0.32
+    },
+    {
+        "token": ",",
+        "id": 102,
+        "speaker": 0,
+        "start": 0.32,
+        "end": 0.32
+    },
+    {
+        "token": " the",
+        "id": 103,
+        "speaker": 0,
+        "start": 0.32,
+        "end": 0.32
+    },
+    {
+        "token": " whole",
+        "id": 104,
+        "speaker": 0,
+        "start": 0.32,
+        "end": 0.32
+    },
+    {
+        "token": "Just",
+        "id": 105,
+        "speaker": 1,
+        "start": 0.33,
+        "end": 0.33
+    },
+    {
+        "token": " some",
+        "id": 106,
+        "speaker": 1,
+        "start": 0.33,
+        "end": 0.33
+    },
+    {
+        "token": " scrap",
+        "id": 107,
+        "speaker": 1,
+        "start": 0.33,
+        "end": 0.33
+    },
+    {
+        "token": " or",
+        "id": 108,
+        "speaker": 1,
+        "start": 0.33,
+        "end": 0.33
+    },
+    {
+        "token": " something",
+        "id": 109,
+        "speaker": 1,
+        "start": 0.33,
+        "end": 0.33
+    },
+    {
+        "token": " could",
+        "id": 110,
+        "speaker": 1,
+        "start": 0.33,
+        "end": 0.33
+    },
+    {
+        "token": " have",
+        "id": 111,
+        "speaker": 1,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": " been",
+        "id": 112,
+        "speaker": 1,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": " in",
+        "id": 113,
+        "speaker": 1,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": " the",
+        "id": 114,
+        "speaker": 1,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": " way",
+        "id": 115,
+        "speaker": 1,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": ".",
+        "id": 116,
+        "speaker": 1,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": "Well",
+        "id": 117,
+        "speaker": 0,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": " it",
+        "id": 118,
+        "speaker": 0,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": " floated",
+        "id": 119,
+        "speaker": 0,
+        "start": 0.34,
+        "end": 0.35
+    },
+    {
+        "token": " over",
+        "id": 120,
+        "speaker": 0,
+        "start": 0.35,
+        "end": 0.35
+    },
+    {
+        "token": ",",
+        "id": 121,
+        "speaker": 0,
+        "start": 0.35,
+        "end": 0.35
+    },
+    {
+        "token": " the",
+        "id": 122,
+        "speaker": 0,
+        "start": 0.35,
+        "end": 0.36
+    },
+    {
+        "token": " push",
+        "id": 123,
+        "speaker": 0,
+        "start": 0.36,
+        "end": 0.36
+    },
+    {
+        "token": " bar",
+        "id": 124,
+        "speaker": 0,
+        "start": 0.36,
+        "end": 0.37
+    },
+    {
+        "token": " floated",
+        "id": 125,
+        "speaker": 0,
+        "start": 0.37,
+        "end": 0.37
+    },
+    {
+        "token": " over",
+        "id": 126,
+        "speaker": 0,
+        "start": 0.37,
+        "end": 0.38
+    },
+    {
+        "token": ".",
+        "id": 127,
+        "speaker": 0,
+        "start": 0.38,
+        "end": 0.38
+    },
+    {
+        "token": " and",
+        "id": 128,
+        "speaker": 0,
+        "start": 0.38,
+        "end": 0.38
+    },
+    {
+        "token": " pulled",
+        "id": 129,
+        "speaker": 0,
+        "start": 0.38,
+        "end": 0.38
+    },
+    {
+        "token": " the",
+        "id": 130,
+        "speaker": 0,
+        "start": 0.38,
+        "end": 0.39
+    },
+    {
+        "token": " other",
+        "id": 131,
+        "speaker": 0,
+        "start": 0.39,
+        "end": 0.39
+    },
+    {
+        "token": " sheet",
+        "id": 132,
+        "speaker": 0,
+        "start": 0.39,
+        "end": 0.39
+    },
+    {
+        "token": " on",
+        "id": 133,
+        "speaker": 0,
+        "start": 0.4,
+        "end": 0.4
+    },
+    {
+        "token": " top",
+        "id": 134,
+        "speaker": 0,
+        "start": 0.4,
+        "end": 0.4
+    },
+    {
+        "token": " of",
+        "id": 135,
+        "speaker": 0,
+        "start": 0.41,
+        "end": 0.41
+    },
+    {
+        "token": " it",
+        "id": 136,
+        "speaker": 0,
+        "start": 0.41,
+        "end": 0.41
+    },
+    {
+        "token": ".",
+        "id": 137,
+        "speaker": 0,
+        "start": 0.41,
+        "end": 0.42
+    },
+    {
+        "token": "Oh",
+        "id": 138,
+        "speaker": 1,
+        "start": 0.42,
+        "end": 0.42
+    },
+    {
+        "token": ".",
+        "id": 139,
+        "speaker": 1,
+        "start": 0.42,
+        "end": 0.42
+    },
+    {
+        "token": "So",
+        "id": 140,
+        "speaker": 0,
+        "start": 0.42,
+        "end": 0.42
+    },
+    {
+        "token": " there",
+        "id": 141,
+        "speaker": 0,
+        "start": 0.42,
+        "end": 0.42
+    },
+    {
+        "token": " was",
+        "id": 142,
+        "speaker": 0,
+        "start": 0.43,
+        "end": 0.43
+    },
+    {
+        "token": " two",
+        "id": 143,
+        "speaker": 0,
+        "start": 0.43,
+        "end": 0.43
+    },
+    {
+        "token": " sheets",
+        "id": 144,
+        "speaker": 0,
+        "start": 0.43,
+        "end": 0.43
+    },
+    {
+        "token": ".",
+        "id": 145,
+        "speaker": 1,
+        "start": 0.43,
+        "end": 0.43
+    },
+    {
+        "token": "two",
+        "id": 146,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": " sheets",
+        "id": 147,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": "Uh",
+        "id": 148,
+        "speaker": 2,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": ".",
+        "id": 149,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": " oh",
+        "id": 150,
+        "speaker": 2,
+        "start": 0.44,
+        "end": 0.42
+    },
+    {
+        "token": ".",
+        "id": 151,
+        "speaker": 2,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": "And",
+        "id": 152,
+        "speaker": 0,
+        "start": 0.45,
+        "end": 0.45
+    },
+    {
+        "token": " the",
+        "id": 153,
+        "speaker": 0,
+        "start": 0.45,
+        "end": 0.45
+    },
+    {
+        "token": " operator",
+        "id": 154,
+        "speaker": 0,
+        "start": 0.45,
+        "end": 0.46
+    },
+    {
+        "token": " was",
+        "id": 155,
+        "speaker": 0,
+        "start": 0.46,
+        "end": 0.46
+    },
+    {
+        "token": " not",
+        "id": 156,
+        "speaker": 0,
+        "start": 0.46,
+        "end": 0.46
+    },
+    {
+        "token": " there",
+        "id": 157,
+        "speaker": 0,
+        "start": 0.47,
+        "end": 0.47
+    },
+    {
+        "token": ".",
+        "id": 158,
+        "speaker": 0,
+        "start": 0.479,
+        "end": 0.479
+    }
+]
