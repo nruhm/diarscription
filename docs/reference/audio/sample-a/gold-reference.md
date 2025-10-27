@@ -51,11 +51,11 @@
 12
 00:00:38,506 --> 00:00:42,154
 [SPEAKER_00]: and pulled the other sheet on top of it.
-[SPEAKER_01]: Oh
+[SPEAKER_01]: Oh.
 
 13
 00:00:42,134 --> 00:00:44,753
-[SPEAKER_00]: So there was two sheets, 
+[SPEAKER_00]: So there was two sheets.
 [SPEAKER_01]: two sheets.
 [SPEAKER_02]: Uh oh. 
 
@@ -65,13 +65,13 @@
 
 15
 00:00:49,323 --> 00:00:55,249
-[SPEAKER_00]: It was, It was break time, but he was the one supposed to be on it,
+[SPEAKER_00]: It was, it was break time, but he was the one supposed to be on it,
 [SPEAKER_01]: Right. 
 [SPEAKER_00]: and he was in the bathroom.
 
 16
 00:00:55,229 --> 00:00:56,417
-[SPEAKER_01]: Do they let him run?
+[SPEAKER_01]: Did they let him run?
 
 17
 00:00:56,457 --> 00:00:58,894
@@ -81,8 +81,8 @@
 00:00:58,874 --> 00:01:04,885
 [SPEAKER_00]: Is it started to cut the next program
 [SPEAKER_01]: Yeah 
-[SPEAKER_00]: with an inch and a half of material 
-[SPEAKER_01]: Extra 
+[SPEAKER_00]: with an inch and a half of material
+[SPEAKER_01]: Extra
 [SPEAKER_00]: on the table.
 [SPEAKER_01]: Yeah
 
@@ -92,13 +92,15 @@
 
 20
 00:01:09,286 --> 00:01:15,212
-[SPEAKER_00]: Or you know, the uh, the spindle head and just pulling like catching things on fire.
+[SPEAKER_00]: Or you know, the uh, the spindle head
+[SPEAKER_01]: Right.
+[SPEAKER_00]: and just pulling like catching things on fire.
 [SPEAKER_02]: Oh
 [SPEAKER_00]: It was bad. 
 
 21
 00:01:16,660 --> 00:01:20,106
-[SPEAKER_02]: It doesn't sound good
+[SPEAKER_02]: That doesn't sound good
 
 22
 00:01:20,626 --> 00:01:26,029
@@ -110,11 +112,11 @@
 
 24
 00:01:27,439 --> 00:01:31,227
-[SPEAKER_00]: I was sitting there like... I was like...
+[SPEAKER_00]: I was sitting there like... I was like... 
 
 25
 00:01:31,493 --> 00:01:34,013
-[SPEAKER_00]: Where are all those people walking outside for?
+[SPEAKER_00]: What are all those people walking outside for?
 
 26
 00:01:34,053 --> 00:01:36,492
@@ -122,14 +124,14 @@
 
 27
 00:01:37,147 --> 00:01:42,077
-[SPEAKER_00]: Cause ain't no one trippin' before I mark two to people who haven't had enough.
+[SPEAKER_00]: Cause ain't nobody trippin' before I chewed some people out
 
 28
 00:01:42,344 --> 00:01:45,841
 [SPEAKER_00]: That's the only time that I remember that we ever really needed it.
 
 29
-00:01:46,043 --> 00:01:46,144
+00:01:46,043 --> 00:01:48,144
 [SPEAKER_01]: Yeah.
 [SPEAKER_01]: Yeah, that was a weird day.
 
