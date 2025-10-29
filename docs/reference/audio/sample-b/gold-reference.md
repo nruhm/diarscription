@@ -1,11 +1,11 @@
 1
 00:00:34,844 --> 00:00:39,302
 [SPEAKER_00]: That's a mess over there.
-[SPEAKER_00]: The ceiling collapsed 
+[SPEAKER_00]: The ceiling collapsed. 
 
 2
 00:00:39,282 --> 00:00:44,972
-[SPEAKER_01]: It's not as bad as it was when I went looking the other weekend, but yeah. 
+[SPEAKER_01]: It's not as bad as it was when I went looking the other weekend, but yeah.
 
 3
 00:00:44,952 --> 00:00:50,136
@@ -106,7 +106,7 @@
 
 26
 00:02:15,622 --> 00:02:20,890
-[SPEAKER_01]: so you know
+[SPEAKER_01]: So you know
 
 27
 00:02:22,473 --> 00:02:27,336
@@ -150,7 +150,7 @@
 
 37
 00:02:48,983 --> 00:02:50,313
-[SPEAKER_02]: No, I meant what grade
+[SPEAKER_02]: No, I meant what grade.
 
 38
 00:02:50,656 --> 00:02:51,946
@@ -158,7 +158,7 @@
 
 39
 00:02:52,067 --> 00:02:53,357
-[SPEAKER_01]: Should be going into fourth?
+[SPEAKER_01]: She'll be going into fourth.
 
 40
 00:02:53,337 --> 00:02:55,353
@@ -166,7 +166,7 @@
 
 41
 00:02:56,421 --> 00:02:58,538
-[SPEAKER_02]: Oh, the number I did not say.
+[SPEAKER_02]: The only number I did not say, actually.
 
 42
 00:03:01,471 --> 00:03:04,208

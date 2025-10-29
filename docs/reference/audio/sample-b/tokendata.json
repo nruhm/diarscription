@@ -1,0 +1,5028 @@
+[
+    {
+        "token": "That",
+        "id": 0,
+        "speaker": 0,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": "'s",
+        "id": 1,
+        "speaker": 0,
+        "start": 0.34,
+        "end": 0.34
+    },
+    {
+        "token": " a",
+        "id": 2,
+        "speaker": 0,
+        "start": 0.35,
+        "end": 0.35
+    },
+    {
+        "token": " mess",
+        "id": 3,
+        "speaker": 0,
+        "start": 0.35,
+        "end": 0.35
+    },
+    {
+        "token": " over",
+        "id": 4,
+        "speaker": 0,
+        "start": 0.36,
+        "end": 0.36
+    },
+    {
+        "token": " there",
+        "id": 5,
+        "speaker": 0,
+        "start": 0.36,
+        "end": 0.36
+    },
+    {
+        "token": ".",
+        "id": 6,
+        "speaker": 0,
+        "start": 0.36,
+        "end": 0.36
+    },
+    {
+        "token": " The",
+        "id": 7,
+        "speaker": 0,
+        "start": 0.38,
+        "end": 0.38
+    },
+    {
+        "token": " ceiling",
+        "id": 8,
+        "speaker": 0,
+        "start": 0.39,
+        "end": 0.39
+    },
+    {
+        "token": " collapsed",
+        "id": 9,
+        "speaker": 0,
+        "start": 0.39,
+        "end": 0.39
+    },
+    {
+        "token": ".",
+        "id": 10,
+        "speaker": 0,
+        "start": 0.39,
+        "end": 0.39
+    },
+    {
+        "token": " It",
+        "id": 11,
+        "speaker": 1,
+        "start": 0.39,
+        "end": 0.39
+    },
+    {
+        "token": "'s",
+        "id": 12,
+        "speaker": 1,
+        "start": 0.39,
+        "end": 0.40
+    },
+    {
+        "token": " not",
+        "id": 13,
+        "speaker": 1,
+        "start": 0.40,
+        "end": 0.40
+    },
+    {
+        "token": " as",
+        "id": 14,
+        "speaker": 1,
+        "start": 0.40,
+        "end": 0.41
+    },
+    {
+        "token": " bad",
+        "id": 15,
+        "speaker": 1,
+        "start": 0.41,
+        "end": 0.41
+    },
+    {
+        "token": " as",
+        "id": 16,
+        "speaker": 1,
+        "start": 0.41,
+        "end": 0.42
+    },
+    {
+        "token": " it",
+        "id": 17,
+        "speaker": 1,
+        "start": 0.42,
+        "end": 0.42
+    },
+    {
+        "token": " was",
+        "id": 18,
+        "speaker": 1,
+        "start": 0.42,
+        "end": 0.42
+    },
+    {
+        "token": " when",
+        "id": 19,
+        "speaker": 1,
+        "start": 0.42,
+        "end": 0.43
+    },
+    {
+        "token": " I",
+        "id": 20,
+        "speaker": 1,
+        "start": 0.43,
+        "end": 0.43
+    },
+    {
+        "token": " went",
+        "id": 21,
+        "speaker": 1,
+        "start": 0.43,
+        "end": 0.43
+    },
+    {
+        "token": " looking",
+        "id": 22,
+        "speaker": 1,
+        "start": 0.43,
+        "end": 0.43
+    },
+    {
+        "token": " the",
+        "id": 23,
+        "speaker": 1,
+        "start": 0.43,
+        "end": 0.44
+    },
+    {
+        "token": " other",
+        "id": 24,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": " weekend",
+        "id": 25,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": ",",
+        "id": 26,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": " but",
+        "id": 27,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": " yeah",
+        "id": 28,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": ".",
+        "id": 29,
+        "speaker": 1,
+        "start": 0.44,
+        "end": 0.44
+    },
+    {
+        "token": " I",
+        "id": 30,
+        "speaker": 2,
+        "start": 0.51,
+        "end": 0.51
+    },
+    {
+        "token": "'m",
+        "id": 31,
+        "speaker": 2,
+        "start": 0.51,
+        "end": 0.51
+    },
+    {
+        "token": " looking",
+        "id": 32,
+        "speaker": 2,
+        "start": 0.51,
+        "end": 0.52
+    },
+    {
+        "token": " forward",
+        "id": 33,
+        "speaker": 2,
+        "start": 0.52,
+        "end": 0.52
+    },
+    {
+        "token": " to",
+        "id": 34,
+        "speaker": 2,
+        "start": 0.52,
+        "end": 0.52
+    },
+    {
+        "token": " that",
+        "id": 35,
+        "speaker": 2,
+        "start": 0.52,
+        "end": 0.53
+    },
+    {
+        "token": ".",
+        "id": 36,
+        "speaker": 2,
+        "start": 0.53,
+        "end": 0.53
+    },
+    {
+        "token": " M",
+        "id": 37,
+        "speaker": 1,
+        "start": 0.53,
+        "end": 0.53
+    },
+    {
+        "token": "hm",
+        "id": 38,
+        "speaker": 1,
+        "start": 0.53,
+        "end": 0.53
+    },
+    {
+        "token": ".",
+        "id": 39,
+        "speaker": 1,
+        "start": 0.53,
+        "end": 0.53
+    },
+    {
+        "token": " Maybe",
+        "id": 40,
+        "speaker": 2,
+        "start": 0.53,
+        "end": 0.53
+    },
+    {
+        "token": " I",
+        "id": 41,
+        "speaker": 2,
+        "start": 0.53,
+        "end": 0.54
+    },
+    {
+        "token": " just",
+        "id": 42,
+        "speaker": 2,
+        "start": 0.54,
+        "end": 0.54
+    },
+    {
+        "token": " won",
+        "id": 43,
+        "speaker": 2,
+        "start": 0.54,
+        "end": 0.54
+    },
+    {
+        "token": "'t",
+        "id": 44,
+        "speaker": 2,
+        "start": 0.54,
+        "end": 0.54
+    },
+    {
+        "token": " get",
+        "id": 45,
+        "speaker": 2,
+        "start": 0.54,
+        "end": 0.54
+    },
+    {
+        "token": " old",
+        "id": 46,
+        "speaker": 2,
+        "start": 0.54,
+        "end": 0.54
+    },
+    {
+        "token": ".",
+        "id": 47,
+        "speaker": 2,
+        "start": 0.54,
+        "end": 0.54
+    },
+    {
+        "token": " My",
+        "id": 48,
+        "speaker": 0,
+        "start": 0.54,
+        "end": 0.54
+    },
+    {
+        "token": " Facebook",
+        "id": 49,
+        "speaker": 0,
+        "start": 0.54,
+        "end": 0.55
+    },
+    {
+        "token": " page",
+        "id": 50,
+        "speaker": 0,
+        "start": 0.55,
+        "end": 0.56
+    },
+    {
+        "token": " is",
+        "id": 51,
+        "speaker": 0,
+        "start": 0.56,
+        "end": 0.57
+    },
+    {
+        "token": " getting",
+        "id": 52,
+        "speaker": 0,
+        "start": 0.57,
+        "end": 0.58
+    },
+    {
+        "token": " filled",
+        "id": 53,
+        "speaker": 0,
+        "start": 0.58,
+        "end": 0.59
+    },
+    {
+        "token": " up",
+        "id": 54,
+        "speaker": 0,
+        "start": 0.59,
+        "end": 0.59
+    },
+    {
+        "token": " with",
+        "id": 55,
+        "speaker": 0,
+        "start": 0.59,
+        "end": 0.60
+    },
+    {
+        "token": " hair",
+        "id": 56,
+        "speaker": 0,
+        "start": 0.60,
+        "end": 1.00
+    },
+    {
+        "token": " restoration",
+        "id": 57,
+        "speaker": 0,
+        "start": 1.00,
+        "end": 1.00
+    },
+    {
+        "token": ".",
+        "id": 58,
+        "speaker": 0,
+        "start": 1.00,
+        "end": 1.00
+    },
+    {
+        "token": " Um",
+        "id": 59,
+        "speaker": 0,
+        "start": 1.01,
+        "end": 1.01
+    },
+    {
+        "token": ",",
+        "id": 60,
+        "speaker": 0,
+        "start": 1.01,
+        "end": 1.02
+    },
+    {
+        "token": " ads",
+        "id": 61,
+        "speaker": 0,
+        "start": 1.02,
+        "end": 1.02
+    },
+    {
+        "token": " now",
+        "id": 62,
+        "speaker": 0,
+        "start": 1.03,
+        "end": 1.03
+    },
+    {
+        "token": ".",
+        "id": 63,
+        "speaker": 0,
+        "start": 1.03,
+        "end": 1.03
+    },
+    {
+        "token": " Yeah",
+        "id": 64,
+        "speaker": 1,
+        "start": 1.04,
+        "end": 1.04
+    },
+    {
+        "token": ".",
+        "id": 65,
+        "speaker": 1,
+        "start": 1.04,
+        "end": 1.04
+    },
+    {
+        "token": " I",
+        "id": 66,
+        "speaker": 1,
+        "start": 1.05,
+        "end": 1.05
+    },
+    {
+        "token": "'m",
+        "id": 67,
+        "speaker": 1,
+        "start": 1.05,
+        "end": 1.05
+    },
+    {
+        "token": " not",
+        "id": 68,
+        "speaker": 1,
+        "start": 1.05,
+        "end": 1.06
+    },
+    {
+        "token": " gonna",
+        "id": 69,
+        "speaker": 1,
+        "start": 1.06,
+        "end": 1.06
+    },
+    {
+        "token": " put",
+        "id": 70,
+        "speaker": 1,
+        "start": 1.06,
+        "end": 1.07
+    },
+    {
+        "token": " lot",
+        "id": 71,
+        "speaker": 1,
+        "start": 1.07,
+        "end": 1.08
+    },
+    {
+        "token": "ion",
+        "id": 72,
+        "speaker": 1,
+        "start": 1.07,
+        "end": 1.08
+    },
+    {
+        "token": " in",
+        "id": 73,
+        "speaker": 1,
+        "start": 1.08,
+        "end": 1.08
+    },
+    {
+        "token": " my",
+        "id": 74,
+        "speaker": 1,
+        "start": 1.08,
+        "end": 1.09
+    },
+    {
+        "token": " head",
+        "id": 75,
+        "speaker": 1,
+        "start": 1.09,
+        "end": 1.09
+    },
+    {
+        "token": ".",
+        "id": 76,
+        "speaker": 1,
+        "start": 1.09,
+        "end": 1.09
+    },
+    {
+        "token": " Or",
+        "id": 77,
+        "speaker": 1,
+        "start": 1.09,
+        "end": 1.09
+    },
+    {
+        "token": " maybe",
+        "id": 78,
+        "speaker": 1,
+        "start": 1.09,
+        "end": 1.10
+    },
+    {
+        "token": " you",
+        "id": 79,
+        "speaker": 1,
+        "start": 1.10,
+        "end": 1.10
+    },
+    {
+        "token": " should",
+        "id": 80,
+        "speaker": 1,
+        "start": 1.10,
+        "end": 1.10
+    },
+    {
+        "token": ",",
+        "id": 81,
+        "speaker": 1,
+        "start": 1.10,
+        "end": 1.10
+    },
+    {
+        "token": " I",
+        "id": 82,
+        "speaker": 1,
+        "start": 1.10,
+        "end": 1.11
+    },
+    {
+        "token": " don",
+        "id": 83,
+        "speaker": 1,
+        "start": 1.11,
+        "end": 1.11
+    },
+    {
+        "token": "'t",
+        "id": 84,
+        "speaker": 1,
+        "start": 1.11,
+        "end": 1.11
+    },
+    {
+        "token": " know",
+        "id": 85,
+        "speaker": 1,
+        "start": 1.11,
+        "end": 1.11
+    },
+    {
+        "token": ".",
+        "id": 86,
+        "speaker": 1,
+        "start": 1.11,
+        "end": 1.11
+    },
+    {
+        "token": " I",
+        "id": 87,
+        "speaker": 1,
+        "start": 1.11,
+        "end": 1.11
+    },
+    {
+        "token": " gotta",
+        "id": 88,
+        "speaker": 1,
+        "start": 1.11,
+        "end": 1.11
+    },
+    {
+        "token": " look",
+        "id": 89,
+        "speaker": 1,
+        "start": 1.11,
+        "end": 1.12
+    },
+    {
+        "token": " it",
+        "id": 90,
+        "speaker": 1,
+        "start": 1.12,
+        "end": 1.12
+    },
+    {
+        "token": " up",
+        "id": 91,
+        "speaker": 1,
+        "start": 1.12,
+        "end": 1.12
+    },
+    {
+        "token": ".",
+        "id": 92,
+        "speaker": 1,
+        "start": 1.12,
+        "end": 1.12
+    },
+    {
+        "token": " I",
+        "id": 93,
+        "speaker": 1,
+        "start": 1.13,
+        "end": 1.13
+    },
+    {
+        "token": " either",
+        "id": 94,
+        "speaker": 1,
+        "start": 1.13,
+        "end": 1.14
+    },
+    {
+        "token": " gotta",
+        "id": 95,
+        "speaker": 1,
+        "start": 1.14,
+        "end": 1.14
+    },
+    {
+        "token": " just",
+        "id": 96,
+        "speaker": 1,
+        "start": 1.14,
+        "end": 1.15
+    },
+    {
+        "token": " shave",
+        "id": 97,
+        "speaker": 1,
+        "start": 1.15,
+        "end": 1.15
+    },
+    {
+        "token": " it",
+        "id": 98,
+        "speaker": 1,
+        "start": 1.15,
+        "end": 1.16
+    },
+    {
+        "token": " off",
+        "id": 99,
+        "speaker": 1,
+        "start": 1.16,
+        "end": 1.16
+    },
+    {
+        "token": " and",
+        "id": 100,
+        "speaker": 1,
+        "start": 1.16,
+        "end": 1.16
+    },
+    {
+        "token": " then",
+        "id": 101,
+        "speaker": 1,
+        "start": 1.16,
+        "end": 1.17
+    },
+    {
+        "token": ",",
+        "id": 102,
+        "speaker": 1,
+        "start": 1.17,
+        "end": 1.17
+    },
+    {
+        "token": " you",
+        "id": 103,
+        "speaker": 1,
+        "start": 1.17,
+        "end": 1.17
+    },
+    {
+        "token": " know",
+        "id": 104,
+        "speaker": 1,
+        "start": 1.17,
+        "end": 1.17
+    },
+    {
+        "token": ",",
+        "id": 105,
+        "speaker": 1,
+        "start": 1.17,
+        "end": 1.17
+    },
+    {
+        "token": " throw",
+        "id": 106,
+        "speaker": 1,
+        "start": 1.17,
+        "end": 1.18
+    },
+    {
+        "token": " some",
+        "id": 107,
+        "speaker": 1,
+        "start": 1.18,
+        "end": 1.18
+    },
+    {
+        "token": "...",
+        "id": 108,
+        "speaker": 1,
+        "start": 1.18,
+        "end": 1.18
+    },
+    {
+        "token": " I",
+        "id": 109,
+        "speaker": 0,
+        "start": 1.18,
+        "end": 1.18
+    },
+    {
+        "token": " don",
+        "id": 110,
+        "speaker": 0,
+        "start": 1.18,
+        "end": 1.18
+    },
+    {
+        "token": "'t",
+        "id": 111,
+        "speaker": 0,
+        "start": 1.18,
+        "end": 1.19
+    },
+    {
+        "token": " know",
+        "id": 112,
+        "speaker": 0,
+        "start": 1.19,
+        "end": 1.19
+    },
+    {
+        "token": ".",
+        "id": 113,
+        "speaker": 0,
+        "start": 1.19,
+        "end": 1.19
+    },
+    {
+        "token": " Sun",
+        "id": 114,
+        "speaker": 1,
+        "start": 1.19,
+        "end": 1.19
+    },
+    {
+        "token": "screen",
+        "id": 115,
+        "speaker": 1,
+        "start": 1.19,
+        "end": 1.20
+    },
+    {
+        "token": " or",
+        "id": 116,
+        "speaker": 1,
+        "start": 1.20,
+        "end": 1.20
+    },
+    {
+        "token": "...",
+        "id": 117,
+        "speaker": 1,
+        "start": 1.20,
+        "end": 1.20
+    },
+    {
+        "token": " There",
+        "id": 118,
+        "speaker": 0,
+        "start": 1.21,
+        "end": 1.21
+    },
+    {
+        "token": " are",
+        "id": 119,
+        "speaker": 0,
+        "start": 1.21,
+        "end": 1.21
+    },
+    {
+        "token": " all",
+        "id": 120,
+        "speaker": 0,
+        "start": 1.21,
+        "end": 1.21
+    },
+    {
+        "token": " kinds",
+        "id": 121,
+        "speaker": 0,
+        "start": 1.21,
+        "end": 1.21
+    },
+    {
+        "token": " of",
+        "id": 122,
+        "speaker": 0,
+        "start": 1.21,
+        "end": 1.21
+    },
+    {
+        "token": " them",
+        "id": 123,
+        "speaker": 0,
+        "start": 1.21,
+        "end": 1.21
+    },
+    {
+        "token": " out",
+        "id": 124,
+        "speaker": 0,
+        "start": 1.22,
+        "end": 1.22
+    },
+    {
+        "token": " there",
+        "id": 125,
+        "speaker": 0,
+        "start": 1.22,
+        "end": 1.22
+    },
+    {
+        "token": ".",
+        "id": 126,
+        "speaker": 0,
+        "start": 1.22,
+        "end": 1.22
+    },
+    {
+        "token": " They",
+        "id": 127,
+        "speaker": 0,
+        "start": 1.22,
+        "end": 1.22
+    },
+    {
+        "token": " all",
+        "id": 128,
+        "speaker": 0,
+        "start": 1.22,
+        "end": 1.23
+    },
+    {
+        "token": " claim",
+        "id": 129,
+        "speaker": 0,
+        "start": 1.23,
+        "end": 1.23
+    },
+    {
+        "token": " to",
+        "id": 130,
+        "speaker": 0,
+        "start": 1.23,
+        "end": 1.23
+    },
+    {
+        "token": " be",
+        "id": 131,
+        "speaker": 0,
+        "start": 1.23,
+        "end": 1.23
+    },
+    {
+        "token": " wonder",
+        "id": 132,
+        "speaker": 0,
+        "start": 1.23,
+        "end": 1.24
+    },
+    {
+        "token": " drugs",
+        "id": 133,
+        "speaker": 0,
+        "start": 1.24,
+        "end": 1.24
+    },
+    {
+        "token": ".",
+        "id": 134,
+        "speaker": 0,
+        "start": 1.24,
+        "end": 1.24
+    },
+    {
+        "token": " Yeah",
+        "id": 135,
+        "speaker": 1,
+        "start": 1.24,
+        "end": 1.24
+    },
+    {
+        "token": ".",
+        "id": 136,
+        "speaker": 1,
+        "start": 1.24,
+        "end": 1.24
+    },
+    {
+        "token": "B",
+        "id": 137,
+        "speaker": 0,
+        "start": 1.25,
+        "end": 1.25
+    },
+    {
+        "token": "iot",
+        "id": 138,
+        "speaker": 0,
+        "start": 1.25,
+        "end": 1.25
+    },
+    {
+        "token": "in",
+        "id": 139,
+        "speaker": 0,
+        "start": 1.25,
+        "end": 1.25
+    },
+    {
+        "token": ".",
+        "id": 140,
+        "speaker": 0,
+        "start": 1.26,
+        "end": 1.26
+    },
+    {
+        "token": " All",
+        "id": 141,
+        "speaker": 0,
+        "start": 1.27,
+        "end": 1.27
+    },
+    {
+        "token": " these",
+        "id": 142,
+        "speaker": 0,
+        "start": 1.27,
+        "end": 1.28
+    },
+    {
+        "token": " different",
+        "id": 143,
+        "speaker": 0,
+        "start": 1.28,
+        "end": 1.29
+    },
+    {
+        "token": " health",
+        "id": 144,
+        "speaker": 0,
+        "start": 1.29,
+        "end": 1.30
+    },
+    {
+        "token": " food",
+        "id": 145,
+        "speaker": 0,
+        "start": 1.30,
+        "end": 1.30
+    },
+    {
+        "token": " type",
+        "id": 146,
+        "speaker": 0,
+        "start": 1.30,
+        "end": 1.31
+    },
+    {
+        "token": " things",
+        "id": 147,
+        "speaker": 0,
+        "start": 1.31,
+        "end": 1.31
+    },
+    {
+        "token": " they",
+        "id": 148,
+        "speaker": 0,
+        "start": 1.31,
+        "end": 1.32
+    },
+    {
+        "token": " throw",
+        "id": 149,
+        "speaker": 0,
+        "start": 1.32,
+        "end": 1.32
+    },
+    {
+        "token": " in",
+        "id": 150,
+        "speaker": 0,
+        "start": 1.32,
+        "end": 1.32
+    },
+    {
+        "token": " there",
+        "id": 151,
+        "speaker": 0,
+        "start": 1.32,
+        "end": 1.33
+    },
+    {
+        "token": "...",
+        "id": 152,
+        "speaker": 0,
+        "start": 1.33,
+        "end": 1.33
+    },
+    {
+        "token": "S",
+        "id": 153,
+        "speaker": 0,
+        "start": 1.33,
+        "end": 1.33
+    },
+    {
+        "token": "part",
+        "id": 154,
+        "speaker": 0,
+        "start": 1.33,
+        "end": 1.34
+    },
+    {
+        "token": "an",
+        "id": 155,
+        "speaker": 0,
+        "start": 1.34,
+        "end": 1.34
+    },
+    {
+        "token": "'s",
+        "id": 156,
+        "speaker": 0,
+        "start": 1.34,
+        "end": 1.34
+    },
+    {
+        "token": " the",
+        "id": 157,
+        "speaker": 0,
+        "start": 1.34,
+        "end": 1.35
+    },
+    {
+        "token": " one",
+        "id": 158,
+        "speaker": 0,
+        "start": 1.35,
+        "end": 1.36
+    },
+    {
+        "token": " that",
+        "id": 159,
+        "speaker": 0,
+        "start": 1.36,
+        "end": 1.36
+    },
+    {
+        "token": " keeps",
+        "id": 160,
+        "speaker": 0,
+        "start": 1.36,
+        "end": 1.37
+    },
+    {
+        "token": " bombing",
+        "id": 161,
+        "speaker": 0,
+        "start": 1.37,
+        "end": 1.38
+    },
+    {
+        "token": " me",
+        "id": 162,
+        "speaker": 0,
+        "start": 1.38,
+        "end": 1.39
+    },
+    {
+        "token": ".",
+        "id": 163,
+        "speaker": 0,
+        "start": 1.39,
+        "end": 1.39
+    },
+    {
+        "token": "S",
+        "id": 164,
+        "speaker": 0,
+        "start": 1.39,
+        "end": 1.39
+    },
+    {
+        "token": "part",
+        "id": 165,
+        "speaker": 0,
+        "start": 1.39,
+        "end": 1.40
+    },
+    {
+        "token": "an",
+        "id": 166,
+        "speaker": 0,
+        "start": 1.40,
+        "end": 1.40
+    },
+    {
+        "token": " hair",
+        "id": 167,
+        "speaker": 0,
+        "start": 1.40,
+        "end": 1.41
+    },
+    {
+        "token": " restoration",
+        "id": 168,
+        "speaker": 0,
+        "start": 1.41,
+        "end": 1.42
+    },
+    {
+        "token": " for",
+        "id": 169,
+        "speaker": 0,
+        "start": 1.42,
+        "end": 1.42
+    },
+    {
+        "token": " men",
+        "id": 170,
+        "speaker": 0,
+        "start": 1.42,
+        "end": 1.43
+    },
+    {
+        "token": ".",
+        "id": 171,
+        "speaker": 0,
+        "start": 1.43,
+        "end": 1.43
+    },
+    {
+        "token": "It",
+        "id": 172,
+        "speaker": 0,
+        "start": 1.43,
+        "end": 1.43
+    },
+    {
+        "token": "'s",
+        "id": 173,
+        "speaker": 0,
+        "start": 1.43,
+        "end": 1.43
+    },
+    {
+        "token": " supposed",
+        "id": 174,
+        "speaker": 0,
+        "start": 1.43,
+        "end": 1.44
+    },
+    {
+        "token": " to",
+        "id": 175,
+        "speaker": 0,
+        "start": 1.44,
+        "end": 1.44
+    },
+    {
+        "token": " be",
+        "id": 176,
+        "speaker": 0,
+        "start": 1.44,
+        "end": 1.45
+    },
+    {
+        "token": " the",
+        "id": 177,
+        "speaker": 0,
+        "start": 1.45,
+        "end": 1.45
+    },
+    {
+        "token": " end",
+        "id": 178,
+        "speaker": 0,
+        "start": 1.45,
+        "end": 1.45
+    },
+    {
+        "token": "-",
+        "id": 179,
+        "speaker": 0,
+        "start": 1.45,
+        "end": 1.46
+    },
+    {
+        "token": "all",
+        "id": 180,
+        "speaker": 0,
+        "start": 1.46,
+        "end": 1.46
+    },
+    {
+        "token": " be",
+        "id": 181,
+        "speaker": 0,
+        "start": 1.46,
+        "end": 1.46
+    },
+    {
+        "token": "-",
+        "id": 182,
+        "speaker": 0,
+        "start": 1.46,
+        "end": 1.47
+    },
+    {
+        "token": "all",
+        "id": 183,
+        "speaker": 0,
+        "start": 1.47,
+        "end": 1.47
+    },
+    {
+        "token": " of",
+        "id": 184,
+        "speaker": 0,
+        "start": 1.47,
+        "end": 1.47
+    },
+    {
+        "token": " hair",
+        "id": 185,
+        "speaker": 0,
+        "start": 1.47,
+        "end": 1.47
+    },
+    {
+        "token": " restoration",
+        "id": 186,
+        "speaker": 0,
+        "start": 1.47,
+        "end": 1.48
+    },
+    {
+        "token": ".",
+        "id": 187,
+        "speaker": 0,
+        "start": 1.48,
+        "end": 1.48
+    },
+    {
+        "token": "I",
+        "id": 188,
+        "speaker": 1,
+        "start": 1.48,
+        "end": 1.48
+    },
+    {
+        "token": " keep",
+        "id": 189,
+        "speaker": 1,
+        "start": 1.48,
+        "end": 1.49
+    },
+    {
+        "token": " getting",
+        "id": 190,
+        "speaker": 1,
+        "start": 1.49,
+        "end": 1.49
+    },
+    {
+        "token": " Spartan",
+        "id": 191,
+        "speaker": 1,
+        "start": 1.49,
+        "end": 1.50
+    },
+    {
+        "token": " ads",
+        "id": 192,
+        "speaker": 1,
+        "start": 1.50,
+        "end": 1.51
+    },
+    {
+        "token": " for",
+        "id": 193,
+        "speaker": 1,
+        "start": 1.51,
+        "end": 1.51
+    },
+    {
+        "token": " racing",
+        "id": 194,
+        "speaker": 1,
+        "start": 1.51,
+        "end": 1.52
+    },
+    {
+        "token": ".",
+        "id": 195,
+        "speaker": 1,
+        "start": 1.52,
+        "end": 1.52
+    },
+    {
+        "token": "Oh",
+        "id": 196,
+        "speaker": 0,
+        "start": 1.53,
+        "end": 1.53
+    },
+    {
+        "token": " really",
+        "id": 197,
+        "speaker": 0,
+        "start": 1.54,
+        "end": 1.54
+    },
+    {
+        "token": "?",
+        "id": 198,
+        "speaker": 0,
+        "start": 1.54,
+        "end": 1.54
+    },
+    {
+        "token": "I",
+        "id": 199,
+        "speaker": 0,
+        "start": 1.54,
+        "end": 1.54
+    },
+    {
+        "token": " wonder",
+        "id": 200,
+        "speaker": 0,
+        "start": 1.54,
+        "end": 1.55
+    },
+    {
+        "token": " if",
+        "id": 201,
+        "speaker": 0,
+        "start": 1.55,
+        "end": 1.55
+    },
+    {
+        "token": " it",
+        "id": 202,
+        "speaker": 0,
+        "start": 1.55,
+        "end": 1.55
+    },
+    {
+        "token": "'s",
+        "id": 203,
+        "speaker": 0,
+        "start": 1.55,
+        "end": 1.56
+    },
+    {
+        "token": " a",
+        "id": 204,
+        "speaker": 0,
+        "start": 1.56,
+        "end": 1.56
+    },
+    {
+        "token": " different",
+        "id": 205,
+        "speaker": 0,
+        "start": 1.56,
+        "end": 1.56
+    },
+    {
+        "token": " thing",
+        "id": 206,
+        "speaker": 0,
+        "start": 1.56,
+        "end": 1.56
+    },
+    {
+        "token": " though",
+        "id": 207,
+        "speaker": 0,
+        "start": 1.56,
+        "end": 1.57
+    },
+    {
+        "token": ".",
+        "id": 208,
+        "speaker": 0,
+        "start": 1.57,
+        "end": 1.57
+    },
+    {
+        "token": "They",
+        "id": 209,
+        "speaker": 2,
+        "start": 1.59,
+        "end": 1.59
+    },
+    {
+        "token": " have",
+        "id": 210,
+        "speaker": 2,
+        "start": 1.59,
+        "end": 1.60
+    },
+    {
+        "token": " Spartan",
+        "id": 211,
+        "speaker": 2,
+        "start": 1.60,
+        "end": 1.60
+    },
+    {
+        "token": " exercise",
+        "id": 212,
+        "speaker": 2,
+        "start": 1.60,
+        "end": 1.61
+    },
+    {
+        "token": " equipment",
+        "id": 213,
+        "speaker": 2,
+        "start": 1.61,
+        "end": 1.62
+    },
+    {
+        "token": " and",
+        "id": 214,
+        "speaker": 2,
+        "start": 1.62,
+        "end": 1.62
+    },
+    {
+        "token": " stuff",
+        "id": 215,
+        "speaker": 2,
+        "start": 1.62,
+        "end": 1.62
+    },
+    {
+        "token": ",",
+        "id": 216,
+        "speaker": 2,
+        "start": 1.62,
+        "end": 1.63
+    },
+    {
+        "token": " but",
+        "id": 217,
+        "speaker": 2,
+        "start": 1.63,
+        "end": 1.63
+    },
+    {
+        "token": " I",
+        "id": 218,
+        "speaker": 2,
+        "start": 1.63,
+        "end": 2.00
+    },
+    {
+        "token": " don",
+        "id": 219,
+        "speaker": 2,
+        "start": 2.00,
+        "end": 2.00
+    },
+    {
+        "token": "'t",
+        "id": 220,
+        "speaker": 2,
+        "start": 2.00,
+        "end": 2.01
+    },
+    {
+        "token": " know",
+        "id": 221,
+        "speaker": 2,
+        "start": 2.01,
+        "end": 2.01
+    },
+    {
+        "token": " if",
+        "id": 222,
+        "speaker": 2,
+        "start": 2.01,
+        "end": 2.01
+    },
+    {
+        "token": " they",
+        "id": 223,
+        "speaker": 2,
+        "start": 2.01,
+        "end": 2.02
+    },
+    {
+        "token": " do",
+        "id": 224,
+        "speaker": 2,
+        "start": 2.02,
+        "end": 2.02
+    },
+    {
+        "token": " the",
+        "id": 225,
+        "speaker": 2,
+        "start": 2.02,
+        "end": 2.02
+    },
+    {
+        "token": " shampoo",
+        "id": 226,
+        "speaker": 2,
+        "start": 2.02,
+        "end": 2.03
+    },
+    {
+        "token": ".",
+        "id": 227,
+        "speaker": 2,
+        "start": 2.03,
+        "end": 2.03
+    },
+    {
+        "token": " It",
+        "id": 228,
+        "speaker": 2,
+        "start": 2.03,
+        "end": 2.03
+    },
+    {
+        "token": "'s",
+        "id": 229,
+        "speaker": 2,
+        "start": 2.03,
+        "end": 2.04
+    },
+    {
+        "token": " probably",
+        "id": 230,
+        "speaker": 2,
+        "start": 2.04,
+        "end": 2.04
+    },
+    {
+        "token": " somebody",
+        "id": 231,
+        "speaker": 2,
+        "start": 2.04,
+        "end": 2.04
+    },
+    {
+        "token": " different",
+        "id": 232,
+        "speaker": 2,
+        "start": 2.04,
+        "end": 2.05
+    },
+    {
+        "token": ".",
+        "id": 233,
+        "speaker": 2,
+        "start": 2.05,
+        "end": 2.05
+    },
+    {
+        "token": "Yeah",
+        "id": 234,
+        "speaker": 1,
+        "start": 2.05,
+        "end": 2.06
+    },
+    {
+        "token": ".",
+        "id": 235,
+        "speaker": 1,
+        "start": 2.06,
+        "end": 2.06
+    },
+    {
+        "token": "Yeah",
+        "id": 236,
+        "speaker": 0,
+        "start": 2.07,
+        "end": 2.07
+    },
+    {
+        "token": ",",
+        "id": 237,
+        "speaker": 0,
+        "start": 2.07,
+        "end": 2.07
+    },
+    {
+        "token": " probably",
+        "id": 238,
+        "speaker": 0,
+        "start": 2.08,
+        "end": 2.08
+    },
+    {
+        "token": ".",
+        "id": 239,
+        "speaker": 0,
+        "start": 2.08,
+        "end": 2.08
+    },
+    {
+        "token": "I",
+        "id": 240,
+        "speaker": 2,
+        "start": 2.09,
+        "end": 2.09
+    },
+    {
+        "token": " also",
+        "id": 241,
+        "speaker": 2,
+        "start": 2.09,
+        "end": 2.10
+    },
+    {
+        "token": " get",
+        "id": 242,
+        "speaker": 2,
+        "start": 2.10,
+        "end": 2.10
+    },
+    {
+        "token": " ads",
+        "id": 243,
+        "speaker": 2,
+        "start": 2.10,
+        "end": 2.11
+    },
+    {
+        "token": " for",
+        "id": 244,
+        "speaker": 2,
+        "start": 2.11,
+        "end": 2.11
+    },
+    {
+        "token": " the",
+        "id": 245,
+        "speaker": 2,
+        "start": 2.11,
+        "end": 2.12
+    },
+    {
+        "token": " Spartan",
+        "id": 246,
+        "speaker": 2,
+        "start": 2.12,
+        "end": 2.13
+    },
+    {
+        "token": " races",
+        "id": 247,
+        "speaker": 2,
+        "start": 2.13,
+        "end": 2.13
+    },
+    {
+        "token": ",",
+        "id": 248,
+        "speaker": 2,
+        "start": 2.13,
+        "end": 2.14
+    },
+    {
+        "token": " weird",
+        "id": 249,
+        "speaker": 2,
+        "start": 2.14,
+        "end": 2.14
+    },
+    {
+        "token": "ly",
+        "id": 250,
+        "speaker": 2,
+        "start": 2.14,
+        "end": 2.14
+    },
+    {
+        "token": " enough",
+        "id": 251,
+        "speaker": 2,
+        "start": 2.14,
+        "end": 2.15
+    },
+    {
+        "token": ".",
+        "id": 252,
+        "speaker": 2,
+        "start": 2.15,
+        "end": 2.15
+    },
+    {
+        "token": "So",
+        "id": 253,
+        "speaker": 1,
+        "start": 2.19,
+        "end": 2.19
+    },
+    {
+        "token": " you",
+        "id": 254,
+        "speaker": 1,
+        "start": 2.19,
+        "end": 2.19
+    },
+    {
+        "token": " know",
+        "id": 255,
+        "speaker": 1,
+        "start": 2.20,
+        "end": 2.20
+    },
+    {
+        "token": "Some",
+        "id": 256,
+        "speaker": 1,
+        "start": 2.22,
+        "end": 2.22
+    },
+    {
+        "token": " of",
+        "id": 257,
+        "speaker": 1,
+        "start": 2.22,
+        "end": 2.23
+    },
+    {
+        "token": " that",
+        "id": 258,
+        "speaker": 1,
+        "start": 2.23,
+        "end": 2.23
+    },
+    {
+        "token": "'s",
+        "id": 259,
+        "speaker": 1,
+        "start": 2.23,
+        "end": 2.24
+    },
+    {
+        "token": " from",
+        "id": 260,
+        "speaker": 1,
+        "start": 2.24,
+        "end": 2.24
+    },
+    {
+        "token": " soft",
+        "id": 261,
+        "speaker": 1,
+        "start": 2.24,
+        "end": 2.24
+    },
+    {
+        "token": "ball",
+        "id": 262,
+        "speaker": 1,
+        "start": 2.24,
+        "end": 2.25
+    },
+    {
+        "token": ",",
+        "id": 263,
+        "speaker": 1,
+        "start": 2.25,
+        "end": 2.25
+    },
+    {
+        "token": " too",
+        "id": 264,
+        "speaker": 1,
+        "start": 2.25,
+        "end": 2.26
+    },
+    {
+        "token": ",",
+        "id": 265,
+        "speaker": 1,
+        "start": 2.26,
+        "end": 2.26
+    },
+    {
+        "token": " apparently",
+        "id": 266,
+        "speaker": 1,
+        "start": 2.26,
+        "end": 2.27
+    },
+    {
+        "token": ".",
+        "id": 267,
+        "speaker": 1,
+        "start": 2.27,
+        "end": 2.27
+    },
+    {
+        "token": "So",
+        "id": 268,
+        "speaker": 1,
+        "start": 2.28,
+        "end": 2.28
+    },
+    {
+        "token": " she",
+        "id": 269,
+        "speaker": 1,
+        "start": 2.28,
+        "end": 2.29
+    },
+    {
+        "token": " made",
+        "id": 270,
+        "speaker": 1,
+        "start": 2.29,
+        "end": 2.29
+    },
+    {
+        "token": " the",
+        "id": 271,
+        "speaker": 1,
+        "start": 2.29,
+        "end": 2.30
+    },
+    {
+        "token": " all",
+        "id": 272,
+        "speaker": 1,
+        "start": 2.30,
+        "end": 2.30
+    },
+    {
+        "token": "-",
+        "id": 273,
+        "speaker": 1,
+        "start": 2.30,
+        "end": 2.30
+    },
+    {
+        "token": "star",
+        "id": 274,
+        "speaker": 1,
+        "start": 2.30,
+        "end": 2.31
+    },
+    {
+        "token": " team",
+        "id": 275,
+        "speaker": 1,
+        "start": 2.31,
+        "end": 2.31
+    },
+    {
+        "token": ",",
+        "id": 276,
+        "speaker": 1,
+        "start": 2.31,
+        "end": 2.31
+    },
+    {
+        "token": " so",
+        "id": 277,
+        "speaker": 1,
+        "start": 2.31,
+        "end": 2.32
+    },
+    {
+        "token": " my",
+        "id": 278,
+        "speaker": 1,
+        "start": 2.32,
+        "end": 2.32
+    },
+    {
+        "token": " soft",
+        "id": 279,
+        "speaker": 1,
+        "start": 2.32,
+        "end": 2.32
+    },
+    {
+        "token": "ball",
+        "id": 280,
+        "speaker": 1,
+        "start": 2.32,
+        "end": 2.33
+    },
+    {
+        "token": " season",
+        "id": 281,
+        "speaker": 1,
+        "start": 2.33,
+        "end": 2.33
+    },
+    {
+        "token": " has",
+        "id": 282,
+        "speaker": 1,
+        "start": 2.33,
+        "end": 2.33
+    },
+    {
+        "token": " not",
+        "id": 283,
+        "speaker": 1,
+        "start": 2.33,
+        "end": 2.34
+    },
+    {
+        "token": " ended",
+        "id": 284,
+        "speaker": 1,
+        "start": 2.34,
+        "end": 2.34
+    },
+    {
+        "token": ".",
+        "id": 285,
+        "speaker": 1,
+        "start": 2.34,
+        "end": 2.34
+    },
+    {
+        "token": " It",
+        "id": 286,
+        "speaker": 1,
+        "start": 2.34,
+        "end": 2.34
+    },
+    {
+        "token": " was",
+        "id": 287,
+        "speaker": 1,
+        "start": 2.34,
+        "end": 2.35
+    },
+    {
+        "token": " supposed",
+        "id": 288,
+        "speaker": 1,
+        "start": 2.35,
+        "end": 2.35
+    },
+    {
+        "token": " to",
+        "id": 289,
+        "speaker": 1,
+        "start": 2.35,
+        "end": 2.35
+    },
+    {
+        "token": " be",
+        "id": 290,
+        "speaker": 1,
+        "start": 2.35,
+        "end": 2.36
+    },
+    {
+        "token": " over",
+        "id": 291,
+        "speaker": 1,
+        "start": 2.36,
+        "end": 2.36
+    },
+    {
+        "token": " a",
+        "id": 292,
+        "speaker": 1,
+        "start": 2.36,
+        "end": 2.36
+    },
+    {
+        "token": " month",
+        "id": 293,
+        "speaker": 1,
+        "start": 2.36,
+        "end": 2.36
+    },
+    {
+        "token": " ago",
+        "id": 294,
+        "speaker": 1,
+        "start": 2.36,
+        "end": 2.36
+    },
+    {
+        "token": ".",
+        "id": 295,
+        "speaker": 1,
+        "start": 2.36,
+        "end": 2.36
+    },
+    {
+        "token": "All",
+        "id": 296,
+        "speaker": 2,
+        "start": 2.38,
+        "end": 2.38
+    },
+    {
+        "token": "-",
+        "id": 297,
+        "speaker": 2,
+        "start": 2.38,
+        "end": 2.38
+    },
+    {
+        "token": "star",
+        "id": 298,
+        "speaker": 2,
+        "start": 2.38,
+        "end": 2.39
+    },
+    {
+        "token": " team",
+        "id": 299,
+        "speaker": 2,
+        "start": 2.39,
+        "end": 2.39
+    },
+    {
+        "token": " as",
+        "id": 300,
+        "speaker": 2,
+        "start": 2.39,
+        "end": 2.39
+    },
+    {
+        "token": " what",
+        "id": 301,
+        "speaker": 2,
+        "start": 2.39,
+        "end": 2.40
+    },
+    {
+        "token": "?",
+        "id": 302,
+        "speaker": 2,
+        "start": 2.40,
+        "end": 2.40
+    },
+    {
+        "token": "First",
+        "id": 303,
+        "speaker": 2,
+        "start": 2.41,
+        "end": 2.41
+    },
+    {
+        "token": "?",
+        "id": 304,
+        "speaker": 2,
+        "start": 2.41,
+        "end": 2.41
+    },
+    {
+        "token": "Second",
+        "id": 305,
+        "speaker": 2,
+        "start": 2.42,
+        "end": 2.42
+    },
+    {
+        "token": "?",
+        "id": 306,
+        "speaker": 2,
+        "start": 2.42,
+        "end": 2.42
+    },
+    {
+        "token": "First",
+        "id": 307,
+        "speaker": 2,
+        "start": 2.42,
+        "end": 2.42
+    },
+    {
+        "token": "?",
+        "id": 308,
+        "speaker": 2,
+        "start": 2.42,
+        "end": 2.42
+    },
+    {
+        "token": "Third",
+        "id": 309,
+        "speaker": 2,
+        "start": 2.43,
+        "end": 2.43
+    },
+    {
+        "token": "?",
+        "id": 310,
+        "speaker": 2,
+        "start": 2.43,
+        "end": 2.43
+    },
+    {
+        "token": "Fifth",
+        "id": 311,
+        "speaker": 2,
+        "start": 2.43,
+        "end": 2.43
+    },
+    {
+        "token": "?",
+        "id": 312,
+        "speaker": 2,
+        "start": 2.43,
+        "end": 2.43
+    },
+    {
+        "token": "This",
+        "id": 313,
+        "speaker": 1,
+        "start": 2.44,
+        "end": 2.44
+    },
+    {
+        "token": " is",
+        "id": 314,
+        "speaker": 1,
+        "start": 2.44,
+        "end": 2.45
+    },
+    {
+        "token": " her",
+        "id": 315,
+        "speaker": 1,
+        "start": 2.45,
+        "end": 2.45
+    },
+    {
+        "token": " first",
+        "id": 316,
+        "speaker": 1,
+        "start": 2.45,
+        "end": 2.46
+    },
+    {
+        "token": " one",
+        "id": 317,
+        "speaker": 1,
+        "start": 2.46,
+        "end": 2.46
+    },
+    {
+        "token": " just",
+        "id": 318,
+        "speaker": 1,
+        "start": 2.46,
+        "end": 2.47
+    },
+    {
+        "token": " because",
+        "id": 319,
+        "speaker": 1,
+        "start": 2.47,
+        "end": 2.47
+    },
+    {
+        "token": " we",
+        "id": 320,
+        "speaker": 1,
+        "start": 2.47,
+        "end": 2.48
+    },
+    {
+        "token": " never",
+        "id": 321,
+        "speaker": 1,
+        "start": 2.48,
+        "end": 2.48
+    },
+    {
+        "token": " do",
+        "id": 322,
+        "speaker": 1,
+        "start": 2.48,
+        "end": 2.49
+    },
+    {
+        "token": " it",
+        "id": 323,
+        "speaker": 1,
+        "start": 2.49,
+        "end": 2.49
+    },
+    {
+        "token": ".",
+        "id": 324,
+        "speaker": 1,
+        "start": 2.49,
+        "end": 2.49
+    },
+    {
+        "token": "No",
+        "id": 325,
+        "speaker": 2,
+        "start": 2.48,
+        "end": 2.48
+    },
+    {
+        "token": ",",
+        "id": 326,
+        "speaker": 2,
+        "start": 2.48,
+        "end": 2.48
+    },
+    {
+        "token": " I",
+        "id": 327,
+        "speaker": 2,
+        "start": 2.48,
+        "end": 2.49
+    },
+    {
+        "token": " meant",
+        "id": 328,
+        "speaker": 2,
+        "start": 2.49,
+        "end": 2.49
+    },
+    {
+        "token": " what",
+        "id": 329,
+        "speaker": 2,
+        "start": 2.49,
+        "end": 2.49
+    },
+    {
+        "token": " grade",
+        "id": 330,
+        "speaker": 2,
+        "start": 2.49,
+        "end": 2.50
+    },
+    {
+        "token": ".",
+        "id": 331,
+        "speaker": 2,
+        "start": 2.50,
+        "end": 2.50
+    },
+    {
+        "token": "How",
+        "id": 332,
+        "speaker": 1,
+        "start": 2.50,
+        "end": 2.50
+    },
+    {
+        "token": " old",
+        "id": 333,
+        "speaker": 1,
+        "start": 2.50,
+        "end": 2.50
+    },
+    {
+        "token": "?",
+        "id": 334,
+        "speaker": 1,
+        "start": 2.51,
+        "end": 2.51
+    },
+    {
+        "token": "She",
+        "id": 335,
+        "speaker": 1,
+        "start": 2.52,
+        "end": 2.52
+    },
+    {
+        "token": "'ll",
+        "id": 336,
+        "speaker": 1,
+        "start": 2.52,
+        "end": 2.52
+    },
+    {
+        "token": " be",
+        "id": 337,
+        "speaker": 1,
+        "start": 2.52,
+        "end": 2.52
+    },
+    {
+        "token": " going",
+        "id": 338,
+        "speaker": 1,
+        "start": 2.52,
+        "end": 2.53
+    },
+    {
+        "token": " into",
+        "id": 339,
+        "speaker": 1,
+        "start": 2.53,
+        "end": 2.53
+    },
+    {
+        "token": " fourth",
+        "id": 340,
+        "speaker": 1,
+        "start": 2.53,
+        "end": 2.53
+    },
+    {
+        "token": ".",
+        "id": 341,
+        "speaker": 1,
+        "start": 2.53,
+        "end": 2.53
+    },
+    {
+        "token": "Yeah",
+        "id": 342,
+        "speaker": 2,
+        "start": 2.53,
+        "end": 2.53
+    },
+    {
+        "token": ",",
+        "id": 343,
+        "speaker": 2,
+        "start": 2.53,
+        "end": 2.54
+    },
+    {
+        "token": " that",
+        "id": 344,
+        "speaker": 2,
+        "start": 2.54,
+        "end": 2.54
+    },
+    {
+        "token": "'s",
+        "id": 345,
+        "speaker": 2,
+        "start": 2.54,
+        "end": 2.54
+    },
+    {
+        "token": " exactly",
+        "id": 346,
+        "speaker": 2,
+        "start": 2.54,
+        "end": 2.54
+    },
+    {
+        "token": " what",
+        "id": 347,
+        "speaker": 2,
+        "start": 2.54,
+        "end": 2.55
+    },
+    {
+        "token": " I",
+        "id": 348,
+        "speaker": 2,
+        "start": 2.55,
+        "end": 2.55
+    },
+    {
+        "token": " said",
+        "id": 349,
+        "speaker": 2,
+        "start": 2.55,
+        "end": 2.55
+    },
+    {
+        "token": ".",
+        "id": 350,
+        "speaker": 2,
+        "start": 2.55,
+        "end": 2.55
+    },
+    {
+        "token": "The",
+        "id": 351,
+        "speaker": 2,
+        "start": 2.56,
+        "end": 2.56
+    },
+    {
+        "token": " only",
+        "id": 352,
+        "speaker": 2,
+        "start": 2.56,
+        "end": 2.56
+    },
+    {
+        "token": " number",
+        "id": 353,
+        "speaker": 2,
+        "start": 2.56,
+        "end": 2.57
+    },
+    {
+        "token": " I",
+        "id": 354,
+        "speaker": 2,
+        "start": 2.57,
+        "end": 2.57
+    },
+    {
+        "token": " did",
+        "id": 355,
+        "speaker": 2,
+        "start": 2.57,
+        "end": 2.57
+    },
+    {
+        "token": " not",
+        "id": 356,
+        "speaker": 2,
+        "start": 2.57,
+        "end": 2.57
+    },
+    {
+        "token": " say",
+        "id": 357,
+        "speaker": 2,
+        "start": 2.57,
+        "end": 2.58
+    },
+    {
+        "token": ",",
+        "id": 358,
+        "speaker": 2,
+        "start": 2.58,
+        "end": 2.58
+    },
+    {
+        "token": " actually",
+        "id": 359,
+        "speaker": 2,
+        "start": 2.58,
+        "end": 2.58
+    },
+    {
+        "token": ".",
+        "id": 360,
+        "speaker": 2,
+        "start": 2.58,
+        "end": 2.58
+    },
+    {
+        "token": "Yeah",
+        "id": 361,
+        "speaker": 1,
+        "start": 3.01,
+        "end": 3.01
+    },
+    {
+        "token": ",",
+        "id": 362,
+        "speaker": 1,
+        "start": 3.01,
+        "end": 3.01
+    },
+    {
+        "token": " and",
+        "id": 363,
+        "speaker": 1,
+        "start": 3.01,
+        "end": 3.02
+    },
+    {
+        "token": " we",
+        "id": 364,
+        "speaker": 1,
+        "start": 3.02,
+        "end": 3.02
+    },
+    {
+        "token": "'re",
+        "id": 365,
+        "speaker": 1,
+        "start": 3.02,
+        "end": 3.02
+    },
+    {
+        "token": " going",
+        "id": 366,
+        "speaker": 1,
+        "start": 3.02,
+        "end": 3.02
+    },
+    {
+        "token": ",",
+        "id": 367,
+        "speaker": 1,
+        "start": 3.02,
+        "end": 3.03
+    },
+    {
+        "token": " so",
+        "id": 368,
+        "speaker": 1,
+        "start": 3.03,
+        "end": 3.03
+    },
+    {
+        "token": " I",
+        "id": 369,
+        "speaker": 1,
+        "start": 3.03,
+        "end": 3.03
+    },
+    {
+        "token": " won",
+        "id": 370,
+        "speaker": 1,
+        "start": 3.03,
+        "end": 3.03
+    },
+    {
+        "token": "'t",
+        "id": 371,
+        "speaker": 1,
+        "start": 3.03,
+        "end": 3.03
+    },
+    {
+        "token": " be",
+        "id": 372,
+        "speaker": 1,
+        "start": 3.03,
+        "end": 3.04
+    },
+    {
+        "token": " here",
+        "id": 373,
+        "speaker": 1,
+        "start": 3.04,
+        "end": 3.04
+    },
+    {
+        "token": " Friday",
+        "id": 374,
+        "speaker": 1,
+        "start": 3.04,
+        "end": 3.04
+    },
+    {
+        "token": ".",
+        "id": 375,
+        "speaker": 1,
+        "start": 3.04,
+        "end": 3.04
+    },
+    {
+        "token": "We",
+        "id": 376,
+        "speaker": 1,
+        "start": 3.04,
+        "end": 3.04
+    },
+    {
+        "token": "'ve",
+        "id": 377,
+        "speaker": 1,
+        "start": 3.04,
+        "end": 3.05
+    },
+    {
+        "token": " got",
+        "id": 378,
+        "speaker": 1,
+        "start": 3.05,
+        "end": 3.05
+    },
+    {
+        "token": " a",
+        "id": 379,
+        "speaker": 1,
+        "start": 3.05,
+        "end": 3.05
+    },
+    {
+        "token": " soft",
+        "id": 380,
+        "speaker": 1,
+        "start": 3.05,
+        "end": 3.05
+    },
+    {
+        "token": "ball",
+        "id": 381,
+        "speaker": 1,
+        "start": 3.05,
+        "end": 3.06
+    },
+    {
+        "token": " tournament",
+        "id": 382,
+        "speaker": 1,
+        "start": 3.06,
+        "end": 3.06
+    },
+    {
+        "token": " in",
+        "id": 383,
+        "speaker": 1,
+        "start": 3.06,
+        "end": 3.06
+    },
+    {
+        "token": " Paris",
+        "id": 384,
+        "speaker": 1,
+        "start": 3.06,
+        "end": 3.07
+    },
+    {
+        "token": ".",
+        "id": 385,
+        "speaker": 1,
+        "start": 3.07,
+        "end": 3.07
+    },
+    {
+        "token": "Tenn",
+        "id": 386,
+        "speaker": 1,
+        "start": 3.07,
+        "end": 3.07
+    },
+    {
+        "token": "essee",
+        "id": 387,
+        "speaker": 1,
+        "start": 3.07,
+        "end": 3.07
+    },
+    {
+        "token": ".",
+        "id": 388,
+        "speaker": 1,
+        "start": 3.07,
+        "end": 3.07
+    },
+    {
+        "token": "Paris",
+        "id": 389,
+        "speaker": 0,
+        "start": 3.08,
+        "end": 3.08
+    },
+    {
+        "token": ",",
+        "id": 390,
+        "speaker": 0,
+        "start": 3.08,
+        "end": 3.08
+    },
+    {
+        "token": " Tennessee",
+        "id": 391,
+        "speaker": 0,
+        "start": 3.09,
+        "end": 3.09
+    },
+    {
+        "token": ".",
+        "id": 392,
+        "speaker": 0,
+        "start": 3.09,
+        "end": 3.09
+    },
+    {
+        "token": "Yeah",
+        "id": 393,
+        "speaker": 1,
+        "start": 3.10,
+        "end": 3.10
+    },
+    {
+        "token": ".",
+        "id": 394,
+        "speaker": 1,
+        "start": 3.10,
+        "end": 3.10
+    },
+    {
+        "token": "I",
+        "id": 395,
+        "speaker": 1,
+        "start": 3.14,
+        "end": 3.14
+    },
+    {
+        "token": " will",
+        "id": 396,
+        "speaker": 1,
+        "start": 3.14,
+        "end": 3.14
+    },
+    {
+        "token": " not",
+        "id": 397,
+        "speaker": 1,
+        "start": 3.14,
+        "end": 3.15
+    },
+    {
+        "token": " be",
+        "id": 398,
+        "speaker": 1,
+        "start": 3.15,
+        "end": 3.15
+    },
+    {
+        "token": " doing",
+        "id": 399,
+        "speaker": 1,
+        "start": 3.15,
+        "end": 3.15
+    },
+    {
+        "token": " the",
+        "id": 400,
+        "speaker": 1,
+        "start": 3.15,
+        "end": 3.16
+    },
+    {
+        "token": " Br",
+        "id": 401,
+        "speaker": 1,
+        "start": 3.16,
+        "end": 3.16
+    },
+    {
+        "token": "anson",
+        "id": 402,
+        "speaker": 1,
+        "start": 3.16,
+        "end": 3.16
+    },
+    {
+        "token": " trip",
+        "id": 403,
+        "speaker": 1,
+        "start": 3.16,
+        "end": 3.17
+    },
+    {
+        "token": " either",
+        "id": 404,
+        "speaker": 1,
+        "start": 3.17,
+        "end": 3.17
+    },
+    {
+        "token": ",",
+        "id": 405,
+        "speaker": 1,
+        "start": 3.17,
+        "end": 3.17
+    },
+    {
+        "token": " so",
+        "id": 406,
+        "speaker": 1,
+        "start": 3.17,
+        "end": 3.17
+    },
+    {
+        "token": " I",
+        "id": 407,
+        "speaker": 1,
+        "start": 3.17,
+        "end": 3.18
+    },
+    {
+        "token": "'ll",
+        "id": 408,
+        "speaker": 1,
+        "start": 3.18,
+        "end": 3.18
+    },
+    {
+        "token": " be",
+        "id": 409,
+        "speaker": 1,
+        "start": 3.18,
+        "end": 3.18
+    },
+    {
+        "token": " here",
+        "id": 410,
+        "speaker": 1,
+        "start": 3.18,
+        "end": 3.18
+    },
+    {
+        "token": ".",
+        "id": 411,
+        "speaker": 1,
+        "start": 3.18,
+        "end": 3.18
+    },
+    {
+        "token": "It",
+        "id": 412,
+        "speaker": 0,
+        "start": 3.21,
+        "end": 3.21
+    },
+    {
+        "token": "'s",
+        "id": 413,
+        "speaker": 0,
+        "start": 3.21,
+        "end": 3.21
+    },
+    {
+        "token": " like",
+        "id": 414,
+        "speaker": 0,
+        "start": 3.21,
+        "end": 3.22
+    },
+    {
+        "token": " Paris",
+        "id": 415,
+        "speaker": 0,
+        "start": 3.22,
+        "end": 3.22
+    },
+    {
+        "token": ",",
+        "id": 416,
+        "speaker": 0,
+        "start": 3.22,
+        "end": 3.23
+    },
+    {
+        "token": " Texas",
+        "id": 417,
+        "speaker": 0,
+        "start": 3.23,
+        "end": 3.23
+    },
+    {
+        "token": ",",
+        "id": 418,
+        "speaker": 0,
+        "start": 3.23,
+        "end": 3.23
+    },
+    {
+        "token": " Paris",
+        "id": 419,
+        "speaker": 0,
+        "start": 3.23,
+        "end": 3.24
+    },
+    {
+        "token": ",",
+        "id": 420,
+        "speaker": 0,
+        "start": 3.24,
+        "end": 3.24
+    },
+    {
+        "token": " Tennessee",
+        "id": 421,
+        "speaker": 0,
+        "start": 3.24,
+        "end": 3.25
+    },
+    {
+        "token": ",",
+        "id": 422,
+        "speaker": 0,
+        "start": 3.25,
+        "end": 3.25
+    },
+    {
+        "token": " Paris",
+        "id": 423,
+        "speaker": 0,
+        "start": 3.25,
+        "end": 3.26
+    },
+    {
+        "token": ",",
+        "id": 424,
+        "speaker": 0,
+        "start": 3.26,
+        "end": 3.26
+    },
+    {
+        "token": " everywhere",
+        "id": 425,
+        "speaker": 0,
+        "start": 3.26,
+        "end": 3.27
+    },
+    {
+        "token": ".",
+        "id": 426,
+        "speaker": 0,
+        "start": 3.27,
+        "end": 3.27
+    },
+    {
+        "token": "Um",
+        "id": 427,
+        "speaker": 1,
+        "start": 3.30,
+        "end": 3.31
+    },
+    {
+        "token": "...",
+        "id": 428,
+        "speaker": 1,
+        "start": 3.31,
+        "end": 3.31
+    },
+    {
+        "token": "E",
+        "id": 429,
+        "speaker": 1,
+        "start": 3.34,
+        "end": 3.34
+    },
+    {
+        "token": "than",
+        "id": 430,
+        "speaker": 1,
+        "start": 3.34,
+        "end": 3.34
+    },
+    {
+        "token": "'s",
+        "id": 431,
+        "speaker": 1,
+        "start": 3.34,
+        "end": 3.35
+    },
+    {
+        "token": " out",
+        "id": 432,
+        "speaker": 1,
+        "start": 3.35,
+        "end": 3.35
+    },
+    {
+        "token": " all",
+        "id": 433,
+        "speaker": 1,
+        "start": 3.35,
+        "end": 3.35
+    },
+    {
+        "token": " week",
+        "id": 434,
+        "speaker": 1,
+        "start": 3.35,
+        "end": 3.36
+    },
+    {
+        "token": ".",
+        "id": 435,
+        "speaker": 1,
+        "start": 3.36,
+        "end": 3.36
+    },
+    {
+        "token": "Con",
+        "id": 436,
+        "speaker": 1,
+        "start": 3.37,
+        "end": 3.37
+    },
+    {
+        "token": "rad",
+        "id": 436,
+        "speaker": 1,
+        "start": 3.37,
+        "end": 3.37
+    },
+    {
+        "token": " is",
+        "id": 437,
+        "speaker": 1,
+        "start": 3.37,
+        "end": 3.38
+    },
+    {
+        "token": " here",
+        "id": 438,
+        "speaker": 1,
+        "start": 3.38,
+        "end": 3.38
+    },
+    {
+        "token": ",",
+        "id": 439,
+        "speaker": 1,
+        "start": 3.38,
+        "end": 3.38
+    },
+    {
+        "token": " but",
+        "id": 440,
+        "speaker": 1,
+        "start": 3.38,
+        "end": 3.39
+    },
+    {
+        "token": " at",
+        "id": 441,
+        "speaker": 1,
+        "start": 3.39,
+        "end": 3.39
+    },
+    {
+        "token": " home",
+        "id": 442,
+        "speaker": 1,
+        "start": 3.39,
+        "end": 3.40
+    },
+    {
+        "token": ".",
+        "id": 443,
+        "speaker": 1,
+        "start": 3.40,
+        "end": 3.40
+    },
+    {
+        "token": "Um",
+        "id": 444,
+        "speaker": 1,
+        "start": 3.40,
+        "end": 3.40
+    },
+    {
+        "token": ",",
+        "id": 445,
+        "speaker": 1,
+        "start": 3.40,
+        "end": 3.40
+    },
+    {
+        "token": " Andrew",
+        "id": 446,
+        "speaker": 1,
+        "start": 3.40,
+        "end": 3.41
+    },
+    {
+        "token": " is",
+        "id": 447,
+        "speaker": 1,
+        "start": 3.41,
+        "end": 3.42
+    },
+    {
+        "token": " the",
+        "id": 448,
+        "speaker": 1,
+        "start": 3.42,
+        "end": 3.43
+    },
+    {
+        "token": " same",
+        "id": 449,
+        "speaker": 1,
+        "start": 3.43,
+        "end": 3.44
+    },
+    {
+        "token": ".",
+        "id": 450,
+        "speaker": 1,
+        "start": 3.44,
+        "end": 3.44
+    },
+    {
+        "token": "Jacob",
+        "id": 451,
+        "speaker": 1,
+        "start": 3.44,
+        "end": 3.44
+    },
+    {
+        "token": ",",
+        "id": 452,
+        "speaker": 1,
+        "start": 3.44,
+        "end": 3.44
+    },
+    {
+        "token": " same",
+        "id": 453,
+        "speaker": 1,
+        "start": 3.50,
+        "end": 3.50
+    },
+    {
+        "token": ".",
+        "id": 454,
+        "speaker": 1,
+        "start": 3.50,
+        "end": 3.50
+    },
+    {
+        "token": "Um",
+        "id": 455,
+        "speaker": 1,
+        "start": 3.51,
+        "end": 3.51
+    },
+    {
+        "token": ",",
+        "id": 456,
+        "speaker": 1,
+        "start": 3.51,
+        "end": 3.51
+    },
+    {
+        "token": " I",
+        "id": 457,
+        "speaker": 1,
+        "start": 3.51,
+        "end": 3.52
+    },
+    {
+        "token": " know",
+        "id": 458,
+        "speaker": 1,
+        "start": 3.52,
+        "end": 3.52
+    },
+    {
+        "token": " Ethan",
+        "id": 459,
+        "speaker": 1,
+        "start": 3.52,
+        "end": 3.53
+    },
+    {
+        "token": "'s",
+        "id": 460,
+        "speaker": 1,
+        "start": 3.53,
+        "end": 3.53
+    },
+    {
+        "token": " got",
+        "id": 461,
+        "speaker": 1,
+        "start": 3.53,
+        "end": 3.54
+    },
+    {
+        "token": " a",
+        "id": 462,
+        "speaker": 1,
+        "start": 3.54,
+        "end": 3.54
+    },
+    {
+        "token": " release",
+        "id": 463,
+        "speaker": 1,
+        "start": 3.54,
+        "end": 3.54
+    },
+    {
+        "token": " for",
+        "id": 464,
+        "speaker": 1,
+        "start": 3.54,
+        "end": 3.55
+    },
+    {
+        "token": "...",
+        "id": 465,
+        "speaker": 1,
+        "start": 3.55,
+        "end": 3.55
+    },
+    {
+        "token": "The",
+        "id": 466,
+        "speaker": 1,
+        "start": 3.56,
+        "end": 3.56
+    },
+    {
+        "token": ",",
+        "id": 467,
+        "speaker": 1,
+        "start": 3.56,
+        "end": 3.56
+    },
+    {
+        "token": " um",
+        "id": 468,
+        "speaker": 1,
+        "start": 3.56,
+        "end": 3.57
+    },
+    {
+        "token": ",",
+        "id": 469,
+        "speaker": 1,
+        "start": 3.57,
+        "end": 3.57
+    },
+    {
+        "token": " Lincoln",
+        "id": 470,
+        "speaker": 1,
+        "start": 3.57,
+        "end": 3.99
+    },
+    {
+        "token": " file",
+        "id": 471,
+        "speaker": 1,
+        "start": 3.99,
+        "end": 4.00
+    },
+    {
+        "token": ".",
+        "id": 472,
+        "speaker": 1,
+        "start": 4.00,
+        "end": 4.00
+    },
+    {
+        "token": "And",
+        "id": 473,
+        "speaker": 1,
+        "start": 4.00,
+        "end": 4.00
+    },
+    {
+        "token": " we",
+        "id": 474,
+        "speaker": 1,
+        "start": 4.00,
+        "end": 4.01
+    },
+    {
+        "token": "'re",
+        "id": 475,
+        "speaker": 1,
+        "start": 4.01,
+        "end": 4.01
+    },
+    {
+        "token": " going",
+        "id": 476,
+        "speaker": 1,
+        "start": 4.01,
+        "end": 4.01
+    },
+    {
+        "token": " to",
+        "id": 477,
+        "speaker": 1,
+        "start": 4.01,
+        "end": 4.02
+    },
+    {
+        "token": " try",
+        "id": 478,
+        "speaker": 1,
+        "start": 4.02,
+        "end": 4.02
+    },
+    {
+        "token": " and",
+        "id": 479,
+        "speaker": 1,
+        "start": 4.02,
+        "end": 4.02
+    },
+    {
+        "token": " push",
+        "id": 480,
+        "speaker": 1,
+        "start": 4.02,
+        "end": 4.03
+    },
+    {
+        "token": " up",
+        "id": 481,
+        "speaker": 1,
+        "start": 4.03,
+        "end": 4.03
+    },
+    {
+        "token": " another",
+        "id": 482,
+        "speaker": 1,
+        "start": 4.03,
+        "end": 4.03
+    },
+    {
+        "token": " test",
+        "id": 483,
+        "speaker": 1,
+        "start": 4.03,
+        "end": 4.03
+    },
+    {
+        "token": " file",
+        "id": 484,
+        "speaker": 1,
+        "start": 4.03,
+        "end": 4.04
+    },
+    {
+        "token": " forward",
+        "id": 485,
+        "speaker": 1,
+        "start": 4.04,
+        "end": 4.04
+    },
+    {
+        "token": ".",
+        "id": 486,
+        "speaker": 1,
+        "start": 4.04,
+        "end": 4.04
+    },
+    {
+        "token": "Con",
+        "id": 487,
+        "speaker": 1,
+        "start": 4.05,
+        "end": 4.05
+    },
+    {
+        "token": "rad",
+        "id": 488,
+        "speaker": 1,
+        "start": 4.05,
+        "end": 4.05
+    },
+    {
+        "token": ",",
+        "id": 489,
+        "speaker": 1,
+        "start": 4.05,
+        "end": 4.05
+    },
+    {
+        "token": " we",
+        "id": 490,
+        "speaker": 1,
+        "start": 4.05,
+        "end": 4.06
+    },
+    {
+        "token": " did",
+        "id": 491,
+        "speaker": 1,
+        "start": 4.06,
+        "end": 4.06
+    },
+    {
+        "token": " several",
+        "id": 492,
+        "speaker": 1,
+        "start": 4.06,
+        "end": 4.07
+    },
+    {
+        "token": " things",
+        "id": 493,
+        "speaker": 1,
+        "start": 4.07,
+        "end": 4.08
+    },
+    {
+        "token": " while",
+        "id": 494,
+        "speaker": 1,
+        "start": 4.08,
+        "end": 4.08
+    },
+    {
+        "token": " you",
+        "id": 495,
+        "speaker": 1,
+        "start": 4.08,
+        "end": 4.09
+    },
+    {
+        "token": " were",
+        "id": 496,
+        "speaker": 1,
+        "start": 4.09,
+        "end": 4.09
+    },
+    {
+        "token": " gone",
+        "id": 497,
+        "speaker": 1,
+        "start": 4.09,
+        "end": 4.10
+    },
+    {
+        "token": ".",
+        "id": 498,
+        "speaker": 1,
+        "start": 4.10,
+        "end": 4.10
+    },
+    {
+        "token": "I",
+        "id": 499,
+        "speaker": 3,
+        "start": 4.11,
+        "end": 4.11
+    },
+    {
+        "token": " was",
+        "id": 500,
+        "speaker": 3,
+        "start": 4.11,
+        "end": 4.11
+    },
+    {
+        "token": " trying",
+        "id": 501,
+        "speaker": 3,
+        "start": 4.11,
+        "end": 4.12
+    },
+    {
+        "token": " to",
+        "id": 502,
+        "speaker": 3,
+        "start": 4.12,
+        "end": 4.12
+    },
+    {
+        "token": " get",
+        "id": 503,
+        "speaker": 3,
+        "start": 4.12,
+        "end": 4.13
+    },
+    {
+        "token": " caught",
+        "id": 504,
+        "speaker": 3,
+        "start": 4.13,
+        "end": 4.13
+    },
+    {
+        "token": " up",
+        "id": 505,
+        "speaker": 3,
+        "start": 4.13,
+        "end": 4.13
+    },
+    {
+        "token": " on",
+        "id": 506,
+        "speaker": 3,
+        "start": 4.13,
+        "end": 4.14
+    },
+    {
+        "token": " that",
+        "id": 507,
+        "speaker": 3,
+        "start": 4.14,
+        "end": 4.14
+    },
+    {
+        "token": ".",
+        "id": 508,
+        "speaker": 3,
+        "start": 4.14,
+        "end": 4.14
+    },
+    {
+        "token": "Sounds",
+        "id": 509,
+        "speaker": 3,
+        "start": 4.14,
+        "end": 4.15
+    },
+    {
+        "token": " like",
+        "id": 510,
+        "speaker": 3,
+        "start": 4.15,
+        "end": 4.15
+    },
+    {
+        "token": " we",
+        "id": 511,
+        "speaker": 3,
+        "start": 4.15,
+        "end": 4.16
+    },
+    {
+        "token": "'ll",
+        "id": 512,
+        "speaker": 3,
+        "start": 4.16,
+        "end": 4.16
+    },
+    {
+        "token": " have",
+        "id": 513,
+        "speaker": 3,
+        "start": 4.16,
+        "end": 4.17
+    },
+    {
+        "token": " the",
+        "id": 514,
+        "speaker": 3,
+        "start": 4.17,
+        "end": 4.17
+    },
+    {
+        "token": " small",
+        "id": 515,
+        "speaker": 3,
+        "start": 4.17,
+        "end": 4.18
+    },
+    {
+        "token": " cabinet",
+        "id": 516,
+        "speaker": 3,
+        "start": 4.18,
+        "end": 4.18
+    },
+    {
+        "token": " order",
+        "id": 517,
+        "speaker": 3,
+        "start": 4.18,
+        "end": 4.19
+    },
+    {
+        "token": " released",
+        "id": 518,
+        "speaker": 3,
+        "start": 4.19,
+        "end": 4.19
+    },
+    {
+        "token": " here",
+        "id": 519,
+        "speaker": 3,
+        "start": 4.19,
+        "end": 4.20
+    },
+    {
+        "token": " shortly",
+        "id": 520,
+        "speaker": 3,
+        "start": 4.20,
+        "end": 4.20
+    },
+    {
+        "token": ".",
+        "id": 521,
+        "speaker": 3,
+        "start": 4.20,
+        "end": 4.20
+    },
+    {
+        "token": "Yeah",
+        "id": 522,
+        "speaker": 1,
+        "start": 4.20,
+        "end": 4.20
+    },
+    {
+        "token": ".",
+        "id": 523,
+        "speaker": 1,
+        "start": 4.20,
+        "end": 4.20
+    },
+    {
+        "token": "Yeah",
+        "id": 524,
+        "speaker": 1,
+        "start": 4.22,
+        "end": 4.23
+    },
+    {
+        "token": ",",
+        "id": 525,
+        "speaker": 1,
+        "start": 4.23,
+        "end": 4.23
+    },
+    {
+        "token": " they",
+        "id": 526,
+        "speaker": 1,
+        "start": 4.23,
+        "end": 4.23
+    },
+    {
+        "token": " sent",
+        "id": 527,
+        "speaker": 1,
+        "start": 4.23,
+        "end": 4.24
+    },
+    {
+        "token": " in",
+        "id": 528,
+        "speaker": 1,
+        "start": 4.24,
+        "end": 4.24
+    },
+    {
+        "token": " another",
+        "id": 529,
+        "speaker": 1,
+        "start": 4.24,
+        "end": 4.25
+    },
+    {
+        "token": " small",
+        "id": 530,
+        "speaker": 1,
+        "start": 4.25,
+        "end": 4.25
+    },
+    {
+        "token": " report",
+        "id": 531,
+        "speaker": 1,
+        "start": 4.25,
+        "end": 4.26
+    },
+    {
+        "token": " request",
+        "id": 532,
+        "speaker": 1,
+        "start": 4.26,
+        "end": 4.27
+    },
+    {
+        "token": " I",
+        "id": 533,
+        "speaker": 1,
+        "start": 4.27,
+        "end": 4.27
+    },
+    {
+        "token": " guess",
+        "id": 534,
+        "speaker": 1,
+        "start": 4.27,
+        "end": 4.27
+    },
+    {
+        "token": " this",
+        "id": 535,
+        "speaker": 1,
+        "start": 4.27,
+        "end": 4.28
+    },
+    {
+        "token": " morning",
+        "id": 536,
+        "speaker": 1,
+        "start": 4.28,
+        "end": 4.28
+    },
+    {
+        "token": ".",
+        "id": 537,
+        "speaker": 1,
+        "start": 4.28,
+        "end": 4.28
+    },
+    {
+        "token": "But",
+        "id": 538,
+        "speaker": 1,
+        "start": 4.29,
+        "end": 4.29
+    },
+    {
+        "token": " I",
+        "id": 539,
+        "speaker": 1,
+        "start": 4.29,
+        "end": 4.30
+    },
+    {
+        "token": " guess",
+        "id": 540,
+        "speaker": 1,
+        "start": 4.30,
+        "end": 4.31
+    },
+    {
+        "token": " the",
+        "id": 541,
+        "speaker": 1,
+        "start": 4.31,
+        "end": 4.32
+    },
+    {
+        "token": " main",
+        "id": 542,
+        "speaker": 1,
+        "start": 4.32,
+        "end": 4.33
+    },
+    {
+        "token": " thing",
+        "id": 543,
+        "speaker": 1,
+        "start": 4.33,
+        "end": 4.34
+    },
+    {
+        "token": "...",
+        "id": 544,
+        "speaker": 1,
+        "start": 4.34,
+        "end": 4.34
+    },
+    {
+        "token": "was",
+        "id": 545,
+        "speaker": 1,
+        "start": 4.34,
+        "end": 4.35
+    },
+    {
+        "token": " we",
+        "id": 546,
+        "speaker": 1,
+        "start": 4.35,
+        "end": 4.35
+    },
+    {
+        "token": " had",
+        "id": 547,
+        "speaker": 1,
+        "start": 4.35,
+        "end": 4.36
+    },
+    {
+        "token": " some",
+        "id": 548,
+        "speaker": 1,
+        "start": 4.36,
+        "end": 4.37
+    },
+    {
+        "token": " more",
+        "id": 549,
+        "speaker": 1,
+        "start": 4.37,
+        "end": 4.38
+    },
+    {
+        "token": " fields",
+        "id": 550,
+        "speaker": 1,
+        "start": 4.38,
+        "end": 4.39
+    },
+    {
+        "token": " in",
+        "id": 551,
+        "speaker": 1,
+        "start": 4.39,
+        "end": 4.39
+    },
+    {
+        "token": " customer",
+        "id": 552,
+        "speaker": 1,
+        "start": 4.39,
+        "end": 4.39
+    },
+    {
+        "token": " service",
+        "id": 553,
+        "speaker": 1,
+        "start": 4.39,
+        "end": 4.40
+    },
+    {
+        "token": ".",
+        "id": 554,
+        "speaker": 1,
+        "start": 4.40,
+        "end": 4.40
+    },
+    {
+        "token": "just",
+        "id": 555,
+        "speaker": 1,
+        "start": 4.41,
+        "end": 4.41
+    },
+    {
+        "token": " for",
+        "id": 556,
+        "speaker": 1,
+        "start": 4.41,
+        "end": 4.42
+    },
+    {
+        "token": " stuff",
+        "id": 557,
+        "speaker": 1,
+        "start": 4.42,
+        "end": 4.42
+    },
+    {
+        "token": " or",
+        "id": 558,
+        "speaker": 1,
+        "start": 4.42,
+        "end": 4.43
+    },
+    {
+        "token": " header",
+        "id": 559,
+        "speaker": 1,
+        "start": 4.43,
+        "end": 4.43
+    },
+    {
+        "token": " options",
+        "id": 560,
+        "speaker": 1,
+        "start": 4.43,
+        "end": 4.44
+    },
+    {
+        "token": " that",
+        "id": 561,
+        "speaker": 1,
+        "start": 4.44,
+        "end": 4.44
+    },
+    {
+        "token": " Eclipse",
+        "id": 562,
+        "speaker": 1,
+        "start": 4.44,
+        "end": 4.45
+    },
+    {
+        "token": " didn",
+        "id": 563,
+        "speaker": 1,
+        "start": 4.45,
+        "end": 4.45
+    },
+    {
+        "token": "'t",
+        "id": 564,
+        "speaker": 1,
+        "start": 4.45,
+        "end": 4.45
+    },
+    {
+        "token": " have",
+        "id": 565,
+        "speaker": 1,
+        "start": 4.45,
+        "end": 4.46
+    },
+    {
+        "token": " anywhere",
+        "id": 566,
+        "speaker": 1,
+        "start": 4.46,
+        "end": 4.46
+    },
+    {
+        "token": " that",
+        "id": 567,
+        "speaker": 1,
+        "start": 4.46,
+        "end": 4.46
+    },
+    {
+        "token": " they",
+        "id": 568,
+        "speaker": 1,
+        "start": 4.46,
+        "end": 4.47
+    },
+    {
+        "token": " could",
+        "id": 569,
+        "speaker": 1,
+        "start": 4.47,
+        "end": 4.47
+    },
+    {
+        "token": " look",
+        "id": 570,
+        "speaker": 1,
+        "start": 4.47,
+        "end": 4.47
+    },
+    {
+        "token": " at",
+        "id": 571,
+        "speaker": 1,
+        "start": 4.47,
+        "end": 4.47
+    },
+    {
+        "token": ".",
+        "id": 572,
+        "speaker": 1,
+        "start": 4.47,
+        "end": 4.47
+    },
+    {
+        "token": "and",
+        "id": 573,
+        "speaker": 1,
+        "start": 4.47,
+        "end": 4.48
+    },
+    {
+        "token": " they",
+        "id": 574,
+        "speaker": 1,
+        "start": 4.48,
+        "end": 4.48
+    },
+    {
+        "token": " were",
+        "id": 575,
+        "speaker": 1,
+        "start": 4.48,
+        "end": 4.49
+    },
+    {
+        "token": " getting",
+        "id": 576,
+        "speaker": 1,
+        "start": 4.49,
+        "end": 4.49
+    },
+    {
+        "token": " them",
+        "id": 577,
+        "speaker": 1,
+        "start": 4.49,
+        "end": 4.50
+    },
+    {
+        "token": " cut",
+        "id": 578,
+        "speaker": 1,
+        "start": 4.50,
+        "end": 4.50
+    },
+    {
+        "token": " off",
+        "id": 579,
+        "speaker": 1,
+        "start": 4.50,
+        "end": 4.50
+    },
+    {
+        "token": " from",
+        "id": 580,
+        "speaker": 1,
+        "start": 4.50,
+        "end": 4.50
+    },
+    {   
+        "token": "in",
+        "id": 581,
+        "speaker": 1,
+        "start": 4.51,
+        "end": 4.51
+    },
+    {
+        "token": " that",
+        "id": 582,
+        "speaker": 1,
+        "start": 4.51,
+        "end": 4.52
+    },
+    {
+        "token": " special",
+        "id": 583,
+        "speaker": 1,
+        "start": 4.52,
+        "end": 4.52
+    },
+    {
+        "token": " instructions",
+        "id": 584,
+        "speaker": 1,
+        "start": 4.52,
+        "end": 4.53
+    },
+    {
+        "token": " field",
+        "id": 585,
+        "speaker": 1,
+        "start": 4.53,
+        "end": 4.53
+    },
+    {
+        "token": ".",
+        "id": 586,
+        "speaker": 1,
+        "start": 4.53,
+        "end": 4.53
+    },
+    {
+        "token": "So",
+        "id": 587,
+        "speaker": 1,
+        "start": 4.55,
+        "end": 4.56
+    },
+    {
+        "token": " they",
+        "id": 588,
+        "speaker": 1,
+        "start": 4.56,
+        "end": 4.56
+    },
+    {
+        "token": " added",
+        "id": 589,
+        "speaker": 1,
+        "start": 4.56,
+        "end": 4.57
+    },
+    {
+        "token": " like",
+        "id": 590,
+        "speaker": 1,
+        "start": 4.57,
+        "end": 4.57
+    },
+    {
+        "token": " six",
+        "id": 591,
+        "speaker": 1,
+        "start": 4.57,
+        "end": 4.58
+    },
+    {
+        "token": " fields",
+        "id": 592,
+        "speaker": 1,
+        "start": 4.58,
+        "end": 4.58
+    },
+    {
+        "token": ",",
+        "id": 593,
+        "speaker": 1,
+        "start": 4.58,
+        "end": 4.58
+    },
+    {
+        "token": " I",
+        "id": 594,
+        "speaker": 1,
+        "start": 4.58,
+        "end": 4.59
+    },
+    {
+        "token": " think",
+        "id": 595,
+        "speaker": 1,
+        "start": 4.59,
+        "end": 4.59
+    },
+    {
+        "token": ",",
+        "id": 596,
+        "speaker": 1,
+        "start": 4.59,
+        "end": 4.59
+    },
+    {
+        "token": " in",
+        "id": 597,
+        "speaker": 1,
+        "start": 4.59,
+        "end": 4.59
+    },
+    {
+        "token": " customer",
+        "id": 598,
+        "speaker": 1,
+        "start": 4.59,
+        "end": 4.59
+    },
+    {
+        "token": " service",
+        "id": 599,
+        "speaker": 1,
+        "start": 4.59,
+        "end": 4.59
+    },
+    {
+        "token": ".",
+        "id": 600,
+        "speaker": 1,
+        "start": 4.59,
+        "end": 4.59
+    },
+    {
+        "token": "That",
+        "id": 601,
+        "speaker": 1,
+        "start": 5.00,
+        "end": 5.00
+    },
+    {
+        "token": " hit",
+        "id": 602,
+        "speaker": 1,
+        "start": 5.00,
+        "end": 5.00
+    },
+    {
+        "token": " the",
+        "id": 603,
+        "speaker": 1,
+        "start": 5.00,
+        "end": 5.00
+    },
+    {
+        "token": " trash",
+        "id": 604,
+        "speaker": 1,
+        "start": 5.00,
+        "end": 5.01
+    },
+    {
+        "token": " can",
+        "id": 605,
+        "speaker": 1,
+        "start": 5.01,
+        "end": 5.01
+    },
+    {
+        "token": ".",
+        "id": 606,
+        "speaker": 1,
+        "start": 5.01,
+        "end": 5.01
+    },
+    {
+        "token": "That",
+        "id": 607,
+        "speaker": 1,
+        "start": 5.02,
+        "end": 5.02
+    },
+    {
+        "token": "'s",
+        "id": 608,
+        "speaker": 1,
+        "start": 5.02,
+        "end": 5.02
+    },
+    {
+        "token": " what",
+        "id": 609,
+        "speaker": 1,
+        "start": 5.02,
+        "end": 5.03
+    },
+    {
+        "token": " I",
+        "id": 610,
+        "speaker": 1,
+        "start": 5.03,
+        "end": 5.03
+    },
+    {
+        "token": " was",
+        "id": 611,
+        "speaker": 1,
+        "start": 5.03,
+        "end": 5.03
+    },
+    {
+        "token": " trying",
+        "id": 612,
+        "speaker": 1,
+        "start": 5.03,
+        "end": 5.04
+    },
+    {
+        "token": " to",
+        "id": 613,
+        "speaker": 1,
+        "start": 5.04,
+        "end": 5.04
+    },
+    {
+        "token": " figure",
+        "id": 614,
+        "speaker": 1,
+        "start": 5.04,
+        "end": 5.04
+    },
+    {
+        "token": " out",
+        "id": 615,
+        "speaker": 1,
+        "start": 5.04,
+        "end": 5.04
+    },
+    {
+        "token": ".",
+        "id": 616,
+        "speaker": 1,
+        "start": 5.04,
+        "end": 5.04
+    },
+    {
+        "token": "Yeah",
+        "id": 617,
+        "speaker": 0,
+        "start": 5.04,
+        "end": 5.05
+    },
+    {
+        "token": ",",
+        "id": 618,
+        "speaker": 0,
+        "start": 5.05,
+        "end": 5.05
+    },
+    {
+        "token": " the",
+        "id": 619,
+        "speaker": 0,
+        "start": 5.05,
+        "end": 5.05
+    },
+    {
+        "token": " dripping",
+        "id": 620,
+        "speaker": 0,
+        "start": 5.05,
+        "end": 5.05
+    },
+    {
+        "token": ".",
+        "id": 621,
+        "speaker": 0,
+        "start": 5.05,
+        "end": 5.05
+    },
+    {
+        "token": "I",
+        "id": 622,
+        "speaker": 0,
+        "start": 5.07,
+        "end": 5.07
+    },
+    {
+        "token": " believe",
+        "id": 623,
+        "speaker": 0,
+        "start": 5.07,
+        "end": 5.08
+    },
+    {
+        "token": " the",
+        "id": 624,
+        "speaker": 0,
+        "start": 5.08,
+        "end": 5.08
+    },
+    {
+        "token": " dripping",
+        "id": 625,
+        "speaker": 0,
+        "start": 5.08,
+        "end": 5.08
+    },
+    {
+        "token": " is",
+        "id": 626,
+        "speaker": 0,
+        "start": 5.08,
+        "end": 5.09
+    },
+    {
+        "token": " hitting",
+        "id": 627,
+        "speaker": 0,
+        "start": 5.09,
+        "end": 5.09
+    },
+    {
+        "token": " the",
+        "id": 628,
+        "speaker": 0,
+        "start": 5.09,
+        "end": 5.09
+    },
+    {
+        "token": " trash",
+        "id": 629,
+        "speaker": 0,
+        "start": 5.09,
+        "end": 5.09
+    },
+    {
+        "token": " can",
+        "id": 630,
+        "speaker": 0,
+        "start": 5.09,
+        "end": 5.09
+    },
+    {
+        "token": ".",
+        "id": 631,
+        "speaker": 0,
+        "start": 5.09,
+        "end": 5.09
+    },
+    {
+        "token": "I",
+        "id": 632,
+        "speaker": 0,
+        "start": 5.10,
+        "end": 5.10
+    },
+    {
+        "token": " don",
+        "id": 633,
+        "speaker": 0,
+        "start": 5.10,
+        "end": 5.10
+    },
+    {
+        "token": "'t",
+        "id": 634,
+        "speaker": 0,
+        "start": 5.10,
+        "end": 5.10
+    },
+    {
+        "token": " know",
+        "id": 635,
+        "speaker": 0,
+        "start": 5.10,
+        "end": 5.11
+    },
+    {
+        "token": " if",
+        "id": 636,
+        "speaker": 0,
+        "start": 5.11,
+        "end": 5.11
+    },
+    {
+        "token": " it",
+        "id": 637,
+        "speaker": 0,
+        "start": 5.11,
+        "end": 5.11
+    },
+    {
+        "token": "'s",
+        "id": 638,
+        "speaker": 0,
+        "start": 5.11,
+        "end": 5.11
+    },
+    {
+        "token": " going",
+        "id": 639,
+        "speaker": 0,
+        "start": 5.11,
+        "end": 5.12
+    },
+    {
+        "token": " in",
+        "id": 640,
+        "speaker": 0,
+        "start": 5.12,
+        "end": 5.12
+    },
+    {
+        "token": " the",
+        "id": 641,
+        "speaker": 0,
+        "start": 5.12,
+        "end": 5.12
+    },
+    {
+        "token": " trash",
+        "id": 642,
+        "speaker": 0,
+        "start": 5.12,
+        "end": 5.12
+    },
+    {
+        "token": " can",
+        "id": 643,
+        "speaker": 0,
+        "start": 5.12,
+        "end": 5.12
+    },
+    {
+        "token": ".",
+        "id": 644,
+        "speaker": 0,
+        "start": 5.12,
+        "end": 5.12
+    },
+    {
+        "token": "He",
+        "id": 645,
+        "speaker": 0,
+        "start": 5.13,
+        "end": 5.13
+    },
+    {
+        "token": "h",
+        "id": 646,
+        "speaker": 0,
+        "start": 5.13,
+        "end": 5.13
+    },
+    {
+        "token": " he",
+        "id": 647,
+        "speaker": 0,
+        "start": 5.13,
+        "end": 5.13
+    },
+    {
+        "token": "h",
+        "id": 648,
+        "speaker": 0,
+        "start": 5.13,
+        "end": 5.14
+    },
+    {
+        "token": ".",
+        "id": 649,
+        "speaker": 0,
+        "start": 5.14,
+        "end": 5.14
+    },
+    {
+        "token": "So",
+        "id": 650,
+        "speaker": 1,
+        "start": 5.20,
+        "end": 5.20
+    },
+    {
+        "token": ".",
+        "id": 651,
+        "speaker": 1,
+        "start": 5.20,
+        "end": 5.20
+    },
+    {
+        "token": "Just",
+        "id": 652,
+        "speaker": 0,
+        "start": 5.28,
+        "end": 5.29
+    },
+    {
+        "token": " wait",
+        "id": 653,
+        "speaker": 0,
+        "start": 5.29,
+        "end": 5.29
+    },
+    {
+        "token": " until",
+        "id": 654,
+        "speaker": 0,
+        "start": 5.29,
+        "end": 5.30
+    },
+    {
+        "token": " the",
+        "id": 655,
+        "speaker": 0,
+        "start": 5.30,
+        "end": 5.30
+    },
+    {
+        "token": " people",
+        "id": 656,
+        "speaker": 0,
+        "start": 5.30,
+        "end": 5.31
+    },
+    {
+        "token": " on",
+        "id": 657,
+        "speaker": 0,
+        "start": 5.31,
+        "end": 5.31
+    },
+    {
+        "token": " the",
+        "id": 658,
+        "speaker": 0,
+        "start": 5.31,
+        "end": 5.31
+    },
+    {
+        "token": " third",
+        "id": 659,
+        "speaker": 0,
+        "start": 5.31,
+        "end": 5.32
+    },
+    {
+        "token": " floor",
+        "id": 660,
+        "speaker": 0,
+        "start": 5.32,
+        "end": 5.32
+    },
+    {
+        "token": " start",
+        "id": 661,
+        "speaker": 0,
+        "start": 5.32,
+        "end": 5.33
+    },
+    {
+        "token": " complaining",
+        "id": 662,
+        "speaker": 0,
+        "start": 5.33,
+        "end": 5.33
+    },
+    {
+        "token": " about",
+        "id": 663,
+        "speaker": 0,
+        "start": 5.33,
+        "end": 5.34
+    },
+    {
+        "token": " their",
+        "id": 664,
+        "speaker": 0,
+        "start": 5.34,
+        "end": 5.34
+    },
+    {
+        "token": " ceiling",
+        "id": 665,
+        "speaker": 0,
+        "start": 5.34,
+        "end": 5.34
+    },
+    {
+        "token": " tiles",
+        "id": 666,
+        "speaker": 0,
+        "start": 5.34,
+        "end": 5.34
+    },
+    {
+        "token": " going",
+        "id": 667,
+        "speaker": 0,
+        "start": 5.34,
+        "end": 5.34
+    },
+    {
+        "token": " in",
+        "id": 668,
+        "speaker": 0,
+        "start": 5.34,
+        "end": 5.34
+    },
+    {
+        "token": ".",
+        "id": 669,
+        "speaker": 0,
+        "start": 5.34,
+        "end": 5.34
+    },
+    {
+        "token": "It",
+        "id": 670,
+        "speaker": 4,
+        "start": 5.34,
+        "end": 5.35
+    },
+    {
+        "token": " sounded",
+        "id": 671,
+        "speaker": 4,
+        "start": 5.35,
+        "end": 5.36
+    },
+    {
+        "token": " like",
+        "id": 672,
+        "speaker": 4,
+        "start": 5.36,
+        "end": 5.36
+    },
+    {
+        "token": " it",
+        "id": 673,
+        "speaker": 4,
+        "start": 5.36,
+        "end": 5.37
+    },
+    {
+        "token": " was",
+        "id": 674,
+        "speaker": 4,
+        "start": 5.37,
+        "end": 5.37
+    },
+    {
+        "token": " hitting",
+        "id": 675,
+        "speaker": 4,
+        "start": 5.37,
+        "end": 5.38
+    },
+    {
+        "token": " something",
+        "id": 676,
+        "speaker": 4,
+        "start": 5.38,
+        "end": 5.38
+    },
+    {
+        "token": " flat",
+        "id": 677,
+        "speaker": 4,
+        "start": 5.38,
+        "end": 5.39
+    },
+    {
+        "token": ".",
+        "id": 678,
+        "speaker": 4,
+        "start": 5.39,
+        "end": 5.39
+    },
+    {
+        "token": "Uh",
+        "id": 679,
+        "speaker": 1,
+        "start": 5.41,
+        "end": 5.42
+    },
+    {
+        "token": ",",
+        "id": 680,
+        "speaker": 1,
+        "start": 5.42,
+        "end": 5.42
+    },
+    {
+        "token": " so",
+        "id": 681,
+        "speaker": 1,
+        "start": 5.42,
+        "end": 5.44
+    },
+    {
+        "token": "...",
+        "id": 682,
+        "speaker": 1,
+        "start": 5.44,
+        "end": 5.44
+    },
+    {
+        "token": "Yeah",
+        "id": 683,
+        "speaker": 1,
+        "start": 5.46,
+        "end": 5.47
+    },
+    {
+        "token": ",",
+        "id": 684,
+        "speaker": 1,
+        "start": 5.47,
+        "end": 5.47
+    },
+    {
+        "token": " they",
+        "id": 685,
+        "speaker": 1,
+        "start": 5.47,
+        "end": 5.48
+    },
+    {
+        "token": " were",
+        "id": 686,
+        "speaker": 1,
+        "start": 5.48,
+        "end": 5.48
+    },
+    {
+        "token": " able",
+        "id": 687,
+        "speaker": 1,
+        "start": 5.48,
+        "end": 5.49
+    },
+    {
+        "token": " to",
+        "id": 688,
+        "speaker": 1,
+        "start": 5.49,
+        "end": 5.49
+    },
+    {
+        "token": " put",
+        "id": 689,
+        "speaker": 1,
+        "start": 5.49,
+        "end": 5.50
+    },
+    {
+        "token": " the",
+        "id": 690,
+        "speaker": 1,
+        "start": 5.50,
+        "end": 5.50
+    },
+    {
+        "token": " fields",
+        "id": 691,
+        "speaker": 1,
+        "start": 5.50,
+        "end": 5.51
+    },
+    {
+        "token": " in",
+        "id": 692,
+        "speaker": 1,
+        "start": 5.51,
+        "end": 5.51
+    },
+    {
+        "token": " the",
+        "id": 693,
+        "speaker": 1,
+        "start": 5.51,
+        "end": 5.51
+    },
+    {
+        "token": " main",
+        "id": 694,
+        "speaker": 1,
+        "start": 5.51,
+        "end": 5.51
+    },
+    {
+        "token": " form",
+        "id": 695,
+        "speaker": 1,
+        "start": 5.51,
+        "end": 5.51
+    },
+    {
+        "token": "I",
+        "id": 696,
+        "speaker": 1,
+        "start": 5.51,
+        "end": 5.52
+    },
+    {
+        "token": " guess",
+        "id": 697,
+        "speaker": 1,
+        "start": 5.52,
+        "end": 5.52
+    },
+    {
+        "token": " in",
+        "id": 698,
+        "speaker": 1,
+        "start": 5.52,
+        "end": 5.53
+    },
+    {
+        "token": " customer",
+        "id": 699,
+        "speaker": 1,
+        "start": 5.53,
+        "end": 5.53
+    },
+    {
+        "token": " service",
+        "id": 700,
+        "speaker": 1,
+        "start": 5.53,
+        "end": 5.54
+    },
+    {
+        "token": ",",
+        "id": 701,
+        "speaker": 1,
+        "start": 5.54,
+        "end": 5.54
+    },
+    {
+        "token": " but",
+        "id": 702,
+        "speaker": 1,
+        "start": 5.54,
+        "end": 5.54
+    },
+    {
+        "token": " they",
+        "id": 703,
+        "speaker": 1,
+        "start": 5.54,
+        "end": 5.55
+    },
+    {
+        "token": "'re",
+        "id": 704,
+        "speaker": 1,
+        "start": 5.55,
+        "end": 5.55
+    },
+    {
+        "token": ",",
+        "id": 705,
+        "speaker": 1,
+        "start": 5.55,
+        "end": 5.55
+    },
+    {
+        "token": " I",
+        "id": 706,
+        "speaker": 1,
+        "start": 5.55,
+        "end": 5.56
+    },
+    {
+        "token": " guess",
+        "id": 707,
+        "speaker": 1,
+        "start": 5.56,
+        "end": 5.56
+    },
+    {
+        "token": " wanted",
+        "id": 708,
+        "speaker": 1,
+        "start": 5.56,
+        "end": 5.57
+    },
+    {
+        "token": " to",
+        "id": 709,
+        "speaker": 1,
+        "start": 5.57,
+        "end": 5.57
+    },
+    {
+        "token": " add",
+        "id": 710,
+        "speaker": 1,
+        "start": 5.57,
+        "end": 5.57
+    },
+    {
+        "token": " those",
+        "id": 711,
+        "speaker": 1,
+        "start": 5.57,
+        "end": 5.57
+    },
+    {
+        "token": " to",
+        "id": 712,
+        "speaker": 1,
+        "start": 5.57,
+        "end": 5.57
+    },
+    {
+        "token": " the",
+        "id": 713,
+        "speaker": 1,
+        "start": 5.57,
+        "end": 5.58
+    },
+    {
+        "token": " reports",
+        "id": 714,
+        "speaker": 1,
+        "start": 5.58,
+        "end": 5.58
+    },
+    {
+        "token": " also",
+        "id": 715,
+        "speaker": 1,
+        "start": 5.58,
+        "end": 5.57
+    },
+    {
+        "token": ".",
+        "id": 716,
+        "speaker": 1,
+        "start": 5.57,
+        "end": 5.57
+    }
+]
